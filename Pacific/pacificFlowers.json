@@ -1,0 +1,218 @@
+[
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Bluebell",
+    "description": ["For giving up constraints", "opening the channels of communication"],
+    "indications": ["Shyness", "Fear", "Panic Attacks", "Tongue-tied", "Uncomfortable", "Fatigue", "Autism", "Speech disorders"],
+    "effects": ["Openness", "Communication", "Self-expression"],
+    "keywords": ["Expression"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Blue Camas",
+    "description": ["For acceptance and objectivity", "balances the intuitive and the rational", "unifies the right and left brain"],
+    "indications": ["Learning disabilities", "Dyslexia", "Fear"],
+    "effects": ["Balance between intuitive and rational", "Balance between right and left brain", "Inner knowing", "Perspective", "Intuition"],
+    "keywords": ["Integration"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Blue Lupin",
+    "description": ["For clear and precise thinking"],
+    "indications": ["Anger", "Depression", "Distraction", "Confusion", "Headaches"],
+    "effects": ["Concentration", "Clarity", "Attention"],
+    "keywords": ["Focus"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Easter Lily",
+    "description": ["Encourages free expression of self", "eliminates social masks"],
+    "indications": ["Concentration", "Clarity", "Attention"],
+    "effects": ["Honesty", "Integrity", "Purity", "Truth", "Self-expression"],
+    "keywords": ["Authenticity"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Fireweed",
+    "description": ["Realization of the abundance of love both within and without"],
+    "indications": ["Shock", "Coldness", "Unlovable", "Separation", "Fear", "Emotional Wounds"],
+    "effects": ["Love", "Loving", "Loveable", "Compassion", "Abundance"],
+    "keywords": ["Service"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Goatsbeard",
+    "description": ["For the power to visualize oneself in a state of deep relaxation"],
+    "indications": ["Tension", "Tightness", "Stress", "Weak Immune System"],
+    "effects": ["Relaxation", "Visualization", "Meditation", "Imagination"],
+    "keywords": ["Rejuvenation"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Harvest Lily",
+    "description": ["Supportive to group energy", "supports the ability to see another's point of view"],
+    "indications": ["Social interaction", "Ego"],
+    "effects": ["Cooperation", "Community", "Allowing", "Acceptance", "Beauty"],
+    "keywords": ["Resolution"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Hooker's Onion",
+    "description": ["Supportive to group energy", "supports the ability to see another's point of view"],
+    "indications": ["Overwhelmed", "Blocked", "Stuck", "Frustrated", "Dense", "Heavy", "Depression-post partum"],
+    "effects": ["Birth", "Re-birth", "Humour", "Light", "Playful", "Curiosity", "Creativity", "Spontaneity", "Light", "Freedom"],
+    "keywords": ["Inspiration"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Orange Honeysuckle",
+    "description": ["Evokes peaceful creativity"],
+    "indications": ["Anger", "Frustration", "Lost"],
+    "effects": ["Identity", "Inner direction", "Wisdom", "Creative expression"],
+    "keywords": ["Creativity"]  
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Plantain",
+    "description": ["Releases mental blocks and draws off negativity"],
+    "indications": ["Resentment", "Toxicity", "Mental stickiness", "Bitterness"],
+    "effects": ["Purification", "Cleansing"],
+    "keywords": ["Cleansing"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Salal",
+    "description": ["For realizing our power to forgive ourselves and others"],
+    "indications": ["Grudges", "Resentment", "Self-righteousness", "Grievances", "Judgement"],
+    "effects": ["Freedom", "Independence", "Compassion"],
+    "keywords": ["Forgiving"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Snowberry",
+    "description": ["For accepting life as it is, in the moment"],
+    "indications": ["Resistance", "SAD-Seasonal Affective Disorder", "Chronic Fatigue Syndrome"],
+    "effects": ["Present moment", "Being here now", "Enthusiasm"],
+    "keywords": ["Acceptance"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Arbutus",
+    "description": ["spiritual tonic: enhances qualities of depth and integrity"],
+    "indications": ["Abandonment", "Homesickness", "Sadness", "Grief", "Longing", "Anxiety-Spiritual", "Parent and child"],
+    "effects": ["Animus", "At home", "Wisdom-spiritual", "Source", "Bonding with father"],
+    "keywords": ["Integrity"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Candystick",
+    "description": ["physical tonic: releases pelvic tension and promotes pelvic alignment"],
+    "indications": ["Survival", "Trauma", "Pelvic", "Girdle", "Lumbar spine", "Sacrum", "Abortion", "Miscarriage", "Anger"],
+    "effects": ["Free Will", "Soul Purpose", "Self-expression", "Acceptance", "Allowing"],
+    "keywords": ["Purpose"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Chickweed",
+    "description": ["for acknowledging and experiencing timelessness", "being fully present and able to respond"],
+    "indications": ["Overweight", "Alcoholic", "Bitterness", "Resentment", "Stuck", "Unavailable"],
+    "effects": ["Responsible", "Available", "Weight regulation"],
+    "keywords": ["Present"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Death Camas",
+    "description": ["spiritual rebirth: for awareness of the spiritual connection with all of life"],
+    "indications": ["Change", "Change-sudden", "Transitions", "Worry"],
+    "effects": ["Transformation", "Purification", "Courage", "New beginnings"],
+    "keywords": ["Rebirth"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Grass Widow",
+    "description": ["for releasing old beliefs and limiting patterns"],
+    "indications": ["Fear-of being judged", "Limited thinking", "Mass consciousness", "Hypersensitivity", "Food intolerances"],
+    "effects": ["Self-determined", "Willpower", "Wisdom", "Letting go"],
+    "keywords": ["Freedom"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Nootka Rose",
+    "description": ["for expressing love of life, laughter, and joy"],
+    "indications": ["Trauma", "Spiritual Crisis", "Weariness", "Abuse", "Abandonment"],
+    "effects": ["Joy", "Enthusiasm", "Consciousness"],
+    "keywords": ["Love"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Ox-Eye Daisy",
+    "description": ["total perspective", "for being centred"],
+    "indications": ["Overfocused", "Fear", "Limited", "Intense"],
+    "effects": ["Visionary", "Big picture sensing"],
+    "keywords": ["Perspective"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Pipsissewa",
+    "description": ["decision maker: clears ambivalence"],
+    "indications": ["Indecisive", "Wishy-washy", "Obsessions", "Worry", "Calcifications", "Frustration"],
+    "effects": ["decision maker: clears ambivalence"],
+    "keywords": ["Choices"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Poison Hemlock",
+    "description": ["for letting go: for moving through transition periods without getting stuck"],
+    "indications": ["Fear-Phobias", "Fear-Excitement", "Weight regulation", "Paralysis", "Rigidity", "Terror"],
+    "effects": ["Letting go", "Faith", "Transitions"],
+    "keywords": ["Releasing"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Salmonberry",
+    "description": ["physical tonic: spinal alignment and structural balancing"],
+    "indications": ["Physical expression", "Spinal alignment"],
+    "effects": ["Coherence", "Congruence"],
+    "keywords": ["Alignment"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Twin Flower",
+    "description": ["non-judgement"],
+    "indications": ["Judgement", "Criticism", "Resistance", "Rigidity", "Regret"],
+    "effects": ["Allowing", "Humility", "Optimism", "Inner Peace"],
+    "keywords": ["Compassion"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Native Wild Flowers",
+    "name": "Vanilla Leaf",
+    "description": ["affirmation and acceptance of one's self"],
+    "indications": ["Self-loathing", "Self-deprecation", "Hate", "Skin problems", "Worthlessness"],
+    "effects": ["Acceptance", "Self-worth", "Joy", "Love"],
+    "keywords": ["Self-esteem"]
+  }
+]
