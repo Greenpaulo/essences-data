@@ -1,0 +1,110 @@
+[
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Camellia",
+    "description": ["A catalyst to opening to new attitudes which reflect one's true inner nature"],
+    "indications": ["Guilt", "Shame", "Closed", "Stubborn", "Rigid"],
+    "effects": ["Trust", "Vision", "Grace", "Self-expression", "Self-Realization"],
+    "keywords": ["Opening"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Purple Crocus",
+    "description": ["For resolving tension generated from grief and loss"],
+    "indications": ["Grief", "Heartache", "Death", "Sad", "Sorrow", "Tension", "Resistance"],
+    "effects": ["Allowing", "Accepting", "Emptiness"],
+    "keywords": ["Grief"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Forsythia",
+    "description": ["Provides motivation for the transformation of old patterns"],
+    "indications": ["Addictions", "Alcoholism", "Habits", "Hate", "Obsessions", "Self-loathing", "Darkness", "Abuse"],
+    "effects": ["Transformation", "Transitions", "Willpower", "Commitment"],
+    "keywords": ["Motivation", "Addictions"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Grape Hyacinth",
+    "description": ["For times of external shock, despair, stress"],
+    "indications": ["Shock", "Trauma", "Despair", "Depression", "Overwhelm", "Stress", "SAD-Seasonal Affective Disorder"],
+    "effects": ["Calm", "Balanced", "Integration"],
+    "keywords": ["Balance"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Lily of the Valley",
+    "description": ["Allows for freedom of choice by discovering the simplest mode of behaviour"],
+    "indications": ["Over-sophistication", "Over-control", "Rigidity"],
+    "effects": ["Gentleness", "Freedom", "Clarity", "Trust", "Visionary", "Love-unconditional", "Wisdom", "Choice"],
+    "keywords": ["Innocence"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Purple Magnolia",
+    "description": ["Promotes intimacy and non-separateness", "enhances all the senses"],
+    "indications": ["Frigid", "Cold", "Withdrawing from life"],
+    "effects": ["Intimacy", "Embodiment", "Appreciation", "Sexuality", "Tantra"],
+    "keywords": ["Sensuality"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Narcissus",
+    "description": ["For identification and resolution of conflicts by going to the centre of the problem/fear"],
+    "indications": ["Anxiety", "Fear", "Worry", "Obsessions"],
+    "effects": ["Calming", "Grounding", "Protection", "Safety"],
+    "keywords": ["Nurturing", "Anxiety", "Fear", "Worry"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Periwinkle",
+    "description": ["Encourages the 'ability to respond' to depression and thereby dispel it"],
+    "indications": ["Apathy", "Depression", "Memory loss", "Confusion", "SAD-Seasonal Affective Disorder", "Hypertension"],
+    "effects": ["Memory", "Dreams", "Wisdom"],
+    "keywords": ["Remembering", "Depression"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Polyanthus",
+    "description": ["Dissolves blocks to abundance consciousness; transforms attitudes of scarcity into ones of worthiness and willingness to receive"],
+    "indications": ["Unworthiness", "Fear-Scarcity", "Disconnected"],
+    "effects": ["Abundance", "Gratitude", "Opening", "Receptive", "Connected"],
+    "keywords": ["Self-worth"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Snowdrop",
+    "description": ["For letting go, having fun, lightening up"],
+    "indications": ["Hypertension", "Fear-phobias", "Fear-paralyzing", "Fear-death/life", "Restriction"],
+    "effects": ["Curiosity", "Letting go", "Enthusiasm", "Hope"],
+    "keywords": ["Delight"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Viburnum",
+    "description": ["Strengthens our connection with the subconscious and our psychic abilities"],
+    "indications": ["Self-doubt", "Insecurity"],
+    "effects": ["Insight", "Awareness", "Inner Knowing", "Trust"],
+    "keywords": ["Intuition"]
+  },
+  {
+    "company": "Pacific",
+    "group": "Spring Flowers",
+    "name": "Windflower",
+    "description": ["Spiritual tonic: provides grounding and inner security"],
+    "indications": ["Scattered", "Ungrounded", "Spaced Out", "Shy"],
+    "effects": ["Grounded", "Secure", "Connected"],
+    "keywords": ["Spirit", "Grounding"]
+  }
+]

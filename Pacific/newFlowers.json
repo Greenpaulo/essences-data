@@ -1,0 +1,110 @@
+[
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Alum Root",
+    "description": ["The power of the small", "manifestation of 'god-ness'", "ability to move in a pattern without having to do it 'your' way", "willingness to choose 'to be'."],
+    "indications": ["Conflict", "Power Struggles"],
+    "effects": ["Acceptance", "Grace", "Willingness", "Lighthearted"],
+    "keywords": ["Trust"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Douglas Aster",
+    "description": ["Endless expansion while maintaining centre", "savouring life experience", "living fully and consciously", "promotes courage and adaptability"],
+    "indications": ["Ego", "Clinging", "Attachment"],
+    "effects": ["Expansion", "Generosity", "Adaptability", "Love"],
+    "keywords": ["Radiance"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Fairy Bell",
+    "description": ["Lighthearted release from murky thoughts", "expands willingness to follow one's guidance", "eases depression"],
+    "indications": ["Darkness", "Depressed", "Despair", "Resistance", "Ambiguity"],
+    "effects": ["Lightness of Being", "Wisdom", "Willingness"],
+    "keywords": ["Vulnerability"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Fuchsia",
+    "description": ["Re-creation", "letting go of dysfunctional patterns", "being the change we wish to see in the world"],
+    "indications": ["Busy", "Procrastination", "Sloth", "Torpor", "Dysfunctional"],
+    "effects": ["Self-actualization", "Letting go", "change", "Balance"],
+    "keywords": ["Re-creation"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Indian Pipe",
+    "description": ["Reconciliation with others and making peace with self", "reverence for all of life"],
+    "indications": ["Conflict", "Judgemental", "Separate", "Critical", "Ethnocentric", "Illusion"],
+    "effects": ["Reconciliation", "Self-worth", "Beauty", "Tolerance"],
+    "keywords": ["Reverence"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Pearly Everlasting",
+    "description": ["Commitment and lasting devotion", "opening to the mysteries of life", "transformation through service"],
+    "indications": ["Anger", "Separation"],
+    "effects": ["Love", "Commitment", "Transformation", "Mystery", "Service"],
+    "keywords": ["Devotion"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Poplar",
+    "description": ["For contacting Spirit", "for ability to transmit healing energies", "to improve choice-making", "attunes to the gentleness of nature"],
+    "indications": ["Disconnected", "Isolated"],
+    "effects": ["Gentle", "Guidance", "Innocence", "Connected-Nature", "Healin"],
+    "keywords": ["Simplicity"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Red Huckleberry",
+    "description": ["To experience the power of introspection", "allowing ourselves to be nourished by taking time to digest", "storehouse of Cellular intelligence, discretion, and spiritual wisdom", "regeneration"],
+    "indications": ["Busy", "SAD-Seasonal Affective Disorder", "Digestion", "Weak Immune system"],
+    "effects": ["Being", "Consciousness", "Wisdom"],
+    "keywords": ["Introspection"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Silver Birch",
+    "description": ["Enhances ability to receive and to conceive", "softens the need to control", "dispels suffering & develops humility"],
+    "indications": ["Fertility", "Controlling", "Stubborn", "Rigid", "Controlling"],
+    "effects": ["Yielding", "Flexible", "Creative", "Yin"],
+    "keywords": ["Conception"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Wallflower",
+    "description": ["For hopelessness, endurance, preparedness", "attuning to our own inner rhythms"],
+    "indications": ["Hopelessness", "Autism", "Shyness"],
+    "effects": ["Self-expression", "Appreciation", "Attuning"],
+    "keywords": ["Communication"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Weigela",
+    "description": ["Helps to integrate experiences on the physical and emotional planes"],
+    "indications": ["Disassociation", "Speechless"],
+    "effects": ["Integration", "Alignment", "Visionary", "Trust", "Wisdom", "Personal power"],
+    "keywords": ["Teaching"]
+  },
+  {
+    "company": "Pacific",
+    "group": "New Flowers",
+    "name": "Yellow Pond-Lily",
+    "description": ["Floating free of emotions and attachments", "feeling strong and secure in my path", "blesses relationships"],
+    "indications": ["Attachment", "doubt"],
+    "effects": ["Inner strength", "Inner security", "Grace"],
+    "keywords": ["Letting go"]
+  }
+]
