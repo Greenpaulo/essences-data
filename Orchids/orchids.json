@@ -568,7 +568,7 @@
     "description": ["The plant from which this essence was made very clearly indicates its gift of stamina in that the blooms come in succession on each 'spike', and each given spike of the plant can be in bloom for a year or more. Provides vitality under circumstances of long-standing tiredness and exhaustion. This essence can give an energy boost to see one through these difficult periods."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Vitality", "Exhaustion", "Stamina"],
+    "keywords": ["Exhaustion", "Stamina"],
     "stock": true
   },
   {
@@ -579,7 +579,7 @@
     "description": ["A powerful essence to help in the darkest of times, or to help heal from the darkest experiences of the soul. When one experiences inner or outer devastation, deep imprints are left at profound levels of the psyche. Night Soul is a commanding spirit, healing these deep wounds to help make one whole again. Remember that you are the captain of your soul, no matter the challenges which experience in this world may bring."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Devastation"],
+    "keywords": ["Devastation", "Emergency"],
     "stock": true
   },
   {
@@ -601,7 +601,7 @@
     "description": ["This essence is good for people who are travelling to places where personal safety is challenged. Useful in times of major change (such as moving house or career changes) to provide continuity and protection. It helps one to re-connect with inner strength. This orchid bears a resemblance to the protective 'wrathful deities' of Tibetan Buddhism with the sense that a spiritual presence says 'I go before you'. Can aid in discovering that actual protection comes from realising the true nature of Being, which we find deep within."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Safety", "Protection", "Change", "Strength"],
+    "keywords": ["Safety", "Protection", "Change"],
     "stock": true
   },
   {
@@ -623,7 +623,7 @@
     "description": ["Useful for the stress of feeling there is not enough time. Like the slow, clear, well-spaced tones of a sitar, this essence conveys the understanding that there is 'enough time to do anything'. Epitomises the Kaffa type of the Indian Ayurvedic system, which is slow and unhurried, never compelled to rush. Brings white light to the upper heart chakra, the brow and sacral chakras and into the blood."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Slowing Down", "Stress"],
+    "keywords": ["Stress"],
     "stock": true
   },
   {
@@ -634,18 +634,18 @@
     "description": ["Purity of Soul acts like a gentle yet profoundly purifying rain for the soul, an ablution to cleanse us of the negative accumulated baggage of the ego. Helps clear negative ancestral patterns held subconsciously in the psyche. This essence is lovely, calming, gently grounding and quietening; it brings an attentive yet deep stillness of mind. Good to take before meditation, or prayer, or before any sacred ceremony; it would be especially appropriate to take before the wedding ceremony.", "The essence has a gentle dreamlike quality, yet also a firmness of purpose. One feels a call for atonement, and an awakening of a lost understanding of spiritual realms which have been forgotten."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Purity", "Purification", "Stillness"],
+    "keywords": ["Purity", "Purification", "Ancestral Healing", "Meditation"],
     "stock": false
   },
   {
     "company": "Living Tree Orchid Essences",
     "group": "Single Essences",
-    "name": "Pushing Back the Night ",
+    "name": "Pushing Back The Night ",
     "latin": "Bulb. Elizabeth Ann 'Buckleberry",
     "description": ["Produces a state of mind where vision and light become inseparable. Helps elevate our thoughts to the point where we can see the Sacred in life. An essence to help heal the destiny of humanity. Not only does it aid our own personal growth, but also invites the Light of the Future to Take Back the Night. Blockages in the bahui centre, the Chinese Crown Chakra point, (on the top of the head) are pushed out of the aurice field; and in doing so, this enables us to extend an awareness vertically into a temple within a celestial domain. In this way the microcosm affects the macrocosm. In this time when many negative karmas are being released upon the world, this essence is especially important for helping people not be distracted from a spiritual purpose and light."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Seeing", "Evolution", "Spiritual", "Meditation"],
+    "keywords": ["Evolution", "Spiritual", "Meditation"],
     "stock": true
   },
   {
@@ -656,7 +656,7 @@
     "description": ["Redemption Dream helps the psyche to address deep layers of guilt or shame, through bringing a shift to our dreams, enabling the mind to either consciously or unconsciously to resolve these issues. Guilt and shame are likely to cause a kind of compression (or suppression) of the heart chakra, particularly by means of blocking the higher heart chakra's ability to cleanse and heal the heart chakra. Through this blocking of the heart's energy, we lose the ability to love unconditionally, and thereby also lose inner peace. In this way one can see how guilt or shame can be major hindrances of our spiritual path. Redemption Dream helps us to remove these hindrances of the heart, specifically through vivifying and re-integrating our dreams at night, to allow ancient and deeply held issues to be aired as it were in the Theatre of the Psyche. In general, most people will benefit from taking Redemption Dream in the days before taking Necklace of Beauty; or at the very least, the exquisite energy of the latter will be more readily accessed and fully felt if Redemption Dream has been worked with first."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Guilt", "Shame", "Heart", "Peace"],
+    "keywords": ["Guilt", "Shame", "Heart", "Love", "Peace", "Evolution"],
     "stock": true
   },
   {
@@ -678,7 +678,7 @@
     "description": ["A very gentle, quiet essence, yet profound in its ability to reach many levels at once. Clears ancient negative energetic patterns at the cellular level via the 1st, 8th, 10th and 12th chakras, renewing one's inherent health. The root chakra governs cellular patterning and when combined with the higher chakra action of the 10th chakra (the Source of White Light) and the 12th chakra (the wholeness of the universe), it makes this essence a strong candidate for healing at that level. Very helpful when added to skin creams."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Renewal"],
+    "keywords": ["Renewal", "Ancestral Healing"],
     "stock": true
   },
   {
@@ -706,12 +706,23 @@
   {
     "company": "Living Tree Orchid Essences",
     "group": "Single Essences",
-    "name": "Sacral Release",
-    "latin": "Dendrobium hybrid",
-    "description": ["Sacral Releases provides vital energy to help with the release process and breaks a vicious cycle of low energy and low achievement. It helps to ground and release tensions stemming from subconscious patterns held in the 2nd chakra. They drop down to the earth. The energy in this essence affirms you are safe, strong and healthy."],
+    "name": "Rising Flame",
+    "latin": "",
+    "description": ["For heat related issues in general. The main feature in this one, is the heat associated with the 2nd and 3rd chakras extending to the heart chakra. It may bring a settling of the heart area and an intense need to be loved and have the companionship of love. Increased libido too.", "A very powerful essence that gives clarity to the base and 2nd chakras, rising through the 4th to the 27th chakra, and is a follow on to Spiral of light."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Release", "Energy"],
+    "keywords": ["Sensuality/Sexuality"],
+    "stock": false
+  },
+  {
+    "company": "Living Tree Orchid Essences",
+    "group": "Single Essences",
+    "name": "Sacral Release",
+    "latin": "Dendrobium hybrid",
+    "description": ["Sacral Releases provides vital energy to help with the release process and breaks a vicious cycle of low energy and low achievement. It helps to ground and release tensions stemming from subconscious patterns held in the 2nd chakra. They drop down to the earth. The energy in this essence   affirms you are safe, strong and healthy."],
+    "indications": [""],
+    "effects": [""],
+    "keywords": ["Release", "Dead Pelvis Syndrome"],
     "stock": true
   },
   {
