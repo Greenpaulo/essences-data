@@ -153,6 +153,12 @@
     }]
   },
   {
+    "title": "Astrology",
+    "references": [{
+      "helps when there are unfortunate and powerful astrological influences affecting our sense of wellbeing": ["Just Center"]
+    }]
+  },
+  {
     "title": "Attachment",
     "references": [{
       "for attachment to distraction": ["Bunchberry"],
@@ -345,7 +351,9 @@
       "the etheric body": ["Carnelian", "Fluorite", "Fluorite Combo", "Purification", "Sweetgrass"],
       "toxic energy from the mind, emotions, and physical body": ["Black Tourmaline", "Greenland Icecap", "Northern Coral Root", "Portage Glacier", "Purification", "Smoky Quartz", "Tourmalated Quartz"],
       "cleansing of one's old emotional pain that can appear as physical distress or energetic blocks": ["Being in Grace"],
-      "interal cleansing of the body, helps to clear up our etheric body's 'residuals' - little packets of leftovers": ["Internal Cleansing"]
+      "interal cleansing of the body, helps to clear up our etheric body's 'residuals' - little packets of leftovers": ["Internal Cleansing"],
+      "clears energies within a person which need clearing out, for example if there has been any history of drug abuse": ["Clearing and Releasing"],
+      "helps to cleanse the etheric body of low-level entities which may have attached themselves to one": ["Defend Protect & Purify"]
     }]
   },
   {
@@ -467,7 +475,8 @@
       "gives courage and purpose to the journey of the soul": ["Fire of Life"],
       "to look at the shadows and fears which inhibit one’s progress on one’s spiritual journey": ["Guardian of the Inner Journey"],
       "healing & opening the heart chakra so that its native strength and courage are restored": ["Higher Courage"],
-      "a major essence for healing deep levels of the 3rd chakra; Brings strength of courage": ["Voice of Courage"]
+      "a major essence for healing deep levels of the 3rd chakra; Brings strength of courage": ["Voice of Courage"],
+      "helps us to find the courage to bring into being our soul's deepest potential": ["Fruits of Courage"]
     }]
   },
   {
@@ -536,7 +545,8 @@
       "helps us exchange toxic energy held in the chakras for restorative energy": ["Portage Glacier", "Silver"],
       "release of toxic energy from the environment": ["Black Tourmaline", "Portage Glacier", "Purification"],
       "release of toxic energy from the mind, emotions, and physical body": ["Black Tourmaline", "Northern Coral Root", "Purification", "Silver", "Smoky Quartz"],
-      "detoxifies and clears up our etheric body's 'residuals' - little packets of leftovers": ["Internal Cleansing"]
+      "detoxifies and clears up our etheric body's 'residuals' - little packets of leftovers": ["Internal Cleansing"],
+      "support and protection for the healthy energetic matrix of the body at the cellular level": ["Energy Protection Matrix"]
     }]
   },
   {
@@ -581,7 +591,8 @@
       "maintaining mental balance during and after an emergency": ["Bunchberry", "Citrine"],
       "regaining emotional balance after an emergency": ["River Beauty", "White Fireweed"],
       "a powerful essence to help in the darkest of times": ["Night Soul"],
-      "recommended for emergencies, when one is truely threatened": ["Unicorn"]
+      "recommended for emergencies, when one is truely threatened": ["Unicorn"],
+      "for critical instances when extra energy is urgently required": ["Double Espresso"]
     }]
   },
   {
@@ -645,7 +656,8 @@
       "from overwork": ["Fire Opal", "Green Jasper", "Moschatel", "Opal"],
       "from trying to balance one extreme with another": ["Labrador Tea", "Purple Poppy"],
       "resulting from blockages in the subtle bodies": ["Carnelian", "Fluorite"],
-      "provides vitality under circumstances of long-standing tiredness and exhaustion": ["New Vitality"]
+      "provides vitality under circumstances of long-standing tiredness and exhaustion": ["New Vitality"],
+      "Working primarily on the mental body centres, this combination is excellent for distress and fatigue": ["Active Serenity"]
     }]
   },
   {
@@ -768,7 +780,8 @@
     "title": "Grief",
     "references": [{
       "helps one contact, open to and release grief carried in the physical body": ["Chrysocolla", "Cotton Grass", "Diopside", "Ladies' Mantle", "Reindeer Moss"],
-      "supports, balances, and nurtures the emotional process during the grieving process": ["River Beauty", "Tidal Forces", "White Fireweed", "Angelic Canopy"]
+      "supports, balances, and nurtures the emotional process during the grieving process": ["River Beauty", "Tidal Forces", "White Fireweed", "Angelic Canopy"],
+      "will remind you that you are carrying that pain and grief. Why hold on to it?": ["Healing the Hidden (Heyoka)"]
     }]
   },
   {
@@ -784,7 +797,8 @@
       "reconnecting to the Earth after a shock or trauma": ["Fireweed", "Green Jasper", "Ruby"],
       "reconnecting to the physical body after a traumatic experience": ["Club Moss", "Cotton Grass", "Fireweed", "Raspberry Rutile", "Rhodolite Garnet"],
       "strengthens grounding on all levels": ["Black Tourmaline/Master Quartz", "Club Moss", "Gigha Quartz", "Malachite", "Red Quartz"],
-      "strengthens the connection between the 1st chakra and the Earth": ["Black Tourmaline", "Club Moss", "Crowberry", "Fireweed Combo", "Gigha Quartz", "Ruby"]
+      "strengthens the connection between the 1st chakra and the Earth": ["Black Tourmaline", "Club Moss", "Crowberry", "Fireweed Combo", "Gigha Quartz", "Ruby"],
+      "soothing, relaxing and grounding; clears unwanted imprints from the 1st and 2nd chakras": ["Coming Home"]
     }]
   },
   {
@@ -800,6 +814,12 @@
     "title": "Guilt",
     "references": [{
       "helps the psyche to address deep layers of guilt or shame": ["Redemption Dream"]
+    }]
+  },
+  {
+    "title": "Happiness",
+    "references": [{
+      "brings a sense of happiness and gentle yet strong vitality.": ["Happy Relief"]
     }]
   },
   {
@@ -848,7 +868,8 @@
     "references": [{
         "strengthening one's energetic connection with": ["Brazilian Amethyst", "Jacob's Ladder", "Moldavite", "Scepter Amethyst", "White Violet"],
         "trusting in the wisdom of the higher self": ["Diamond", "Gold", "Hairy Butterwort", "Round-Leaved Sundew", "Scepter Amethyst", "Sitka Spruce Pollen"],
-        "a sense of the Higher Self calling one's soul to remember its deepest and highest potential": ["Celestial Siren"]
+        "a sense of the Higher Self calling one's soul to remember its deepest and highest potential": ["Celestial Siren"],
+        "balances chakras and so allows for a better connection to the higher self and the higher chakras": ["Clarity of Connection"]
     }]
   },
   {
@@ -1016,7 +1037,8 @@
   {
     "title": "Karma",
     "references": [{
-      "releases karmic patterns which are held in the eighth chakra": ["Releasing Karmic Patterns"]
+      "releases karmic patterns which are held in the eighth chakra": ["Releasing Karmic Patterns"],
+      "Releases imprints of past energetic disturbances held in the soul, which inhibit the forward progression of one's journey": ["Karmic Calm"]
     }]
   },
   {
@@ -1146,8 +1168,8 @@
       "cleansing a physical and vibrational space for meditation or ritual": ["Grass of Parnassus", "Purification", "Sweetgrass"],
       "getting in touch with life purpose when faced with dif­fi­cult decisions": ["Paper Birch", "Shooting Star"],
       "quieting the mind and preparing for meditation": ["Aquamarine", "Cassandra", "Horsetail", "Polar Ice"],
-      "Potentially a powerful experience of the 3rd eye, so can be useful for vision quests": ["Direct Vision"],
-      "invite deep inner stillness": ["Celestial Siren"],
+      "potentially a powerful experience of the 3rd eye": ["Direct Vision", "Violacea Veritas", "Defender of the Light"],
+      "invite deep inner stillness, experience the divine": ["Celestial Siren", "Celestial Defender"],
       "a complete experience of the entire crown chakra": ["Crown of Consciousness"],
       "provides a pathway to enter into the profound silence of universal being": ["Behold the Silence"],
       "a deeply serious essence, take it to enhance one’s meditation practice": ["Guardian of the Inner Journey"],
@@ -1156,7 +1178,10 @@
       "brings serenity and silence which activates the chakras in the head, and then directly awakens the transcendental 11th chakra": ["Secret Wisdom"],
       "go inside to rediscover the Divine": ["Serene Overview"],
       "creates a stillness within one, and a profound inner peace": ["Spiral of Light"],
-      "in meditation this essence is able to reach deeply into the portal of the heart chakra": ["Wisdom of Compassion"]
+      "in meditation this essence is able to reach deeply into the portal of the heart chakra": ["Wisdom of Compassion"],
+      "helping a person to be centered for meditation": ["Clarity of Connection "],
+      "protects one's core while engaged in the transcendental meditation": ["Defender from the Dark"],
+      "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"]
     }]
   },
   {
@@ -1323,6 +1348,7 @@
       "receiving what we need to live our lives to their full potential": ["Blueberry Pollen", "Bog Blueberry"],
       "calling one's soul to remember its deepest and highest potential": ["Celestial Siren"],
       "bringing in our highest light, found in the top branches of our soul, so that we may fully incarnate our highest potential": ["Fruits of Love"],
+      "helps us to find the courage to bring into being our soul's deepest potential": ["Fruits of Courage"],
       "rewires the brain for the person to be able to fulfil their higher potential": ["Violacea Veritas"]
     }]
   },
@@ -1357,7 +1383,8 @@
       "developing inner silence through living in the present": ["Behold the Silence"],
       "for those who are reluctant to full incarnate into the 'here and now'": ["Being in Time"],
       "for people who are reluctant to incarnate": ["Hara to Heart"],
-      "helps you to be awake and in the present moment with a sense of cheer and lightness": ["Winged Messenger"]
+      "helps you to be awake and in the present moment with a sense of cheer and lightness": ["Winged Messenger"],
+      "helps one to be present within one's surroundings": ["Being Present"]
     }]
   },
   {
@@ -1373,13 +1400,16 @@
       "helps sensitive people create functional energy boundaries": ["White Violet"],
       "protection from other's emotional energies": ["Hematite", "Red Quartz"],
       "through a projection of harmlessness": ["Larimar"],
-      "provides both clearing of and protection from high levels of dark energies": ["Defender of the Dark"],
+      "provides both clearing of and protection from high levels of dark energies": ["Defender from the Dark"],
       "provides protection to help one to remain concealed from those who may threaten, bringing a sense of both invisibility and invincibility": ["Knight's Cloak"],
       "discovering that actual protection comes from realising the true nature of Being, which we find deep within": ["Protective Presence"],
       "brings a sense of strength and constructive moving forward, even in the face of encroaching shadows": ["Rising Against the Dark"],
       "Very effective at removing psychic ‘hooks’ from people attempting to manipulate you energetically": ["Silver Ghost"],
       "energetic spam filter, creates a self-protective space around one, through which the choice of energetic entries is under direct control": ["Sorcerer's Apprentice"],
-      "for protective action; meet that outer threat not with aggression but with the clarity of a positive outcome": ["Unicorn"]
+      "for protective action; meet that outer threat not with aggression but with the clarity of a positive outcome": ["Unicorn"],
+      "protects one's core while engaged in the transcendental journey": ["Defender from the Dark", "Celestial Defender"],
+      "When one is faced by external negative entities, this is a very powerful combination to provide protective armouring for our spirit": ["Defend and Protect"],
+      "support and protection for the healthy energetic matrix of the body at the cellular level": ["Energy Protection Matrix"]
     }]
   },
   {
@@ -1502,7 +1532,9 @@
       "the energy surrounding unresolved conflicts": ["Blue Elf Viola"],
       "the need to mentally control the events of our lives": ["Jacob's Ladder"],
       "through self-acceptance": ["Rose/Smoky Quartz"],
-      "toxic patterns in an environment where there has been addiction, depression or abuse": ["Purification"]
+      "toxic patterns in an environment where there has been addiction, depression or abuse": ["Purification"],
+      "through letting go": ["Healing the Hidden (Heyoka)"],
+      "imprints of past energetic disturbances held in the soul": ["Karmic Calm"]
     }]
   },
   {
@@ -1560,7 +1592,8 @@
       "of equilibrium to the body after injury, shock, and trauma": ["Cotton Grass", "Fireweed", "Soul Support"],
       "of one's interest in life": ["Prickly Wild Rose", "Tundra Rose"],
       "a restorative essence - helps restore to both the heart and mind with innocence": ["Pure Innocence"],
-      "a return to the original energetic imprint of our DNA. Many magnetic and other electronic forces disturb this etheric fabric": ["Walking to the Earth's Rhythm"]
+      "a return to the original energetic imprint of our DNA. Many magnetic and other electronic forces disturb this etheric fabric": ["Walking to the Earth's Rhythm"],
+      "support and protection for the healthy energetic matrix of the body at the cellular level": ["Energy Protection Matrix"]
     }]
   },
   {
@@ -1618,11 +1651,12 @@
     }]
   },
   {
-    "title": "Self-Esteem",
+    "title": "Self-Esteem/Self-Worth",
     "references": [{
       "from a clear sense of one's identity": ["Cloudberry", "Gold", "Tiger's Eye", "Topaz"],
       "from knowing one's abilities": ["Tamarack"],
-      "from solidifying one's value system": ["Pyrite"]
+      "from solidifying one's value system": ["Pyrite"],
+      "brings awareness to our inner sense of self-worth": ["Just Center"]
     }]
   },
   {
@@ -1652,7 +1686,7 @@
       "enhances the sexual centre's sensitivity": ["Core Release"],
       "helping to both clarify (and invigorate) the sexual impulses, bringing about the healthy expression of one's sexual energies": ["Love's Secret"],
       "a settling of the heart area and an intense need to be loved and have the companionship of love. Increased libido too": ["Rising Flame"],
-      "'re-lights' the sexual centres to be aware of the deeper nature of ones sexuality": ["Source of Life"]
+      "'re-lights' the sexual centres to be aware of the deeper nature of ones sexuality": ["Source of Life", "Defender of the Source"]
     }]
   },
   {
@@ -1686,7 +1720,15 @@
       "recovering from a shock to the physical body": ["Cotton Grass", "Fireweed"],
       "releasing shock from the etheric body": ["Comfrey", "Fireweed", "Fluorite", "Raspberry Rutile", "Rhodolite Garnet", "Sweetgrass"],
       "releasing shock that has been stored in the cellular structure of the body": ["Ladies' Tresses", "Tundra Twayblade", "White Fireweed"],
-      "treating shock on all levels": ["Soul Support"]
+      "treating shock on all levels": ["Soul Support"],
+      "in very stressful circumstances we are likely to lose our connection with higher aspects of our soul or psyche; this combination relieves the shock": ["Immediate Relief"]
+    }]
+  },
+  {
+    "title": "Sleep",
+    "references": [{
+      "healing emotional shock": ["River Beauty"],
+      "helps one to achieve a deeper and more relaxed sleep": ["Gentle Sleep"]
     }]
   },
   {
@@ -1695,7 +1737,8 @@
       "clearing and releasing": ["Black Tourmaline", "Grass of Parnassus", "Northern Coral Root", "Portage Glacier", "Purification", "Sticky Geranium", "Sweetgrass", "Tourmalated Quartz", "Typhoon", "Angelic Canopy"],
       "invocation": ["Calling All Angels", "Chalice Well", "Chiming Bells", "Guardian", "Kunzite", "Lighten Up"],
       "maintaining energy flow in a space": ["Lady's Slipper", "Lighten Up", "Orange Calcite", "Tidal Forces"],
-      "preservation": ["Covellite", "Guardian", "Hematite", "Peridot"]
+      "preservation": ["Covellite", "Guardian", "Hematite", "Peridot"],
+      "extra-strength space-clearing": ["Clearing and Releasing"]
     }]
   },
   {
@@ -1714,7 +1757,8 @@
       "connecting us with the light of the cosmos, of far distant galaxies": ["Spiral of Light"],
       "It enables us to know that at a higher spiritual level we are all a part of the greater universal consciousness of all beings": ["True Connections"],
       "brings the foundation of the energy body into alignment with one’s deeper spiritual aspirations": ["Vital Clarity"],
-      "furthers the soul’s journey into Divine Light": ["Vital Light"]
+      "furthers the soul’s journey into Divine Light": ["Vital Light"],
+      "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"]
     }]
   },
   {
@@ -1749,7 +1793,11 @@
       "leave your troubles behind, effortlessly and smoothly swirling away": ["Laughing Butterflies"],
       "useful for the stress of feeling there is not enough time": ["Purity of Heart"],
       "a gentle, comforting, lasting embrace": ["Unconditional Snuggles"],
-      "nurturing and de-stressing": ["White Beauty"]
+      "nurturing and de-stressing": ["White Beauty"],
+      "Working primarily on the mental body centres, this combination is excellent for distress and fatigue": ["Active Serenity"],
+      "soothing, relaxing and grounding": ["Coming Home"],
+      "this combination is excellent for unwinding at the end of the day": ["Gentle Geisha"],
+      "clearing mental/emotional tension and distress": ["Happy Relief"]
     }]
   },
   {
@@ -1757,6 +1805,14 @@
     "references": [{
       "brings a sense of strength and constructive moving forward. The way forward becomes clearer": ["Rising Against the Dark"],
       "an antidote to being stuck in a rut": ["Serendipity"]
+    }]
+  },
+  {
+    "title": "Study",
+    "references": [{
+      "formulated specifically to help students of all ages to assimilate what they are studying": ["Knowing"],
+      "freeing mental energies for more focused attention. A useful aid for studying": ["Crown of Serenity"],
+      "when children are studying, this essence will help to maintain focus": ["Settling With A Smile"]
     }]
   },
   {
@@ -1776,7 +1832,8 @@
       "for those who are pioneering new inner and outer realms": ["Aventurine, Vesuvianite, Yellow Dryas"],
       "from all kingdoms and dimensions": ["Chalice Well"],
       "from the Angelic kingdom": ["Angelica, Chiming Bells, Kunzite"],
-      "unconditional acceptance of support in all situations": ["Spiraea"]
+      "unconditional acceptance of support in all situations": ["Spiraea"],
+      "gives spiritual support at a deep level of the psyche": ["Immediate Relief"]
     }]
   },
   {
@@ -1817,7 +1874,8 @@
     "references": [{
       "moving through a transition without creating crisis or illness": ["Hairy Butterwort"],
       "patience during transition": ["Polar Ice", "Rock Spring"],
-      "peace and contentment during times of transition": ["Cow Parsnip"]
+      "peace and contentment during times of transition": ["Cow Parsnip"],
+      "an excellent essence to use in times of major life transitions": ["Active Serenity"]
     }]
   },
   {
@@ -1840,7 +1898,8 @@
       "for all aspects of travel": ["Travel Ease"],
       "helps one adapt to new surroundings more quickly": ["Brazilian Quartz", "Cow Parsnip", "Green Jasper", "Grove Sandwort"],
       "helps one travel through time zones more easily": ["Black Tourmaline", "Chrysocolla", "Being in Time"],
-      "helps us let go of stress and tension from traveling": ["Dandelion", "Labrador Tea"]
+      "helps us let go of stress and tension from traveling": ["Dandelion", "Labrador Tea"],
+      "very good to use after a long journey, to assist all the parts of one's body and mind to 'arrive": ["Being Present"]
     }]
   },
   {
@@ -1873,7 +1932,8 @@
       "clarity of vision from a clear heart": ["Green Fairy Orchid", "Sphagnum Moss"],
       "clarity of vision from inner knowing": ["Bladderwort", "Lapland Rosebay"],
       "clearing inner vision so that one is aware of one's soul family": ["Single Delight", "Yellow Dryas"],
-      "seeing through the illusion of separation": ["Green Tourmaline"]
+      "seeing through the illusion of separation": ["Green Tourmaline"],
+      "a pronounced awakening of the 3rd eye / brow chakra, and a strong sense of alertness": ["Violacea Veritas", "Defender of the Light"]
     }]
   },
   {
