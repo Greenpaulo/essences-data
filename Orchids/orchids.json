@@ -981,9 +981,9 @@
   {
     "company": "Living Tree Orchid Essences",
     "group": "Single Essences",
-    "name": "Unicorn (Invincible Focus)",
+    "name": "Unicorn",
     "latin": "Gongora dresslerri (Central America)",
-    "description": ["Keywords: Protective Action, Unquestioning Confidence.", "Take a focused, committed and unfailing action. Meet that outer threat not with aggression but with the clarity of a positive outcome. Highly recommended for emergencies, jaor crisises or when one is truely threatened. This essence helps us to avoid distraction and giving our power away to a source of trouble or potential harm. Clears the energetic pathways of the head and into the brain by opening the Da-zhui point on the 7th cervical vertebra."],
+    "description": ["Keywords: Protective Action, Unquestioning Confidence, Invinsible Focus.", "Take a focused, committed and unfailing action. Meet that outer threat not with aggression but with the clarity of a positive outcome. Highly recommended for emergencies, jaor crisises or when one is truely threatened. This essence helps us to avoid distraction and giving our power away to a source of trouble or potential harm. Clears the energetic pathways of the head and into the brain by opening the Da-zhui point on the 7th cervical vertebra."],
     "indications": [""],
     "effects": [""],
     "keywords": ["Protection", "Emergency", "Confidence"],
@@ -997,7 +997,7 @@
     "description": ["For loving and nurturing oneself, as well as opening our hearts with affection to those around us. Good for anyone who has every felt emotionally bereft, or who has difficulty valuing and caring for themselves. To hold affection in our hearts, for both self and others. This very first of the LTOE range remains a favourite."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Self-Love", "Love", "Heart"],
+    "keywords": ["Love"],
     "stock": true
   },
   {
@@ -1030,7 +1030,7 @@
     "description": ["Vital Core is strongly energizing of the Root and 2nd chakras, as well as the gall bladder meridian. While having some activity on the Crown, Throat and Heart chakras, its action is primarily in the two lower chakras whereby it provides a strong 'get up & go' effect. The effect on the 2nd chakra is intriguing: though energizing, it is not a sexual energizing. It helps to release stored / blocked energies, including stored negative energies, and thereby helps to resolve shadow aspects of the Sacral chakra. In this way, it seeks to restore the natural sacredness of the 2nd chakra.", "Vital Core works at levels beyond that of Sacral Release; it can be a good idea to work with the latter first, and then to follow up with some days of Vital Core. In some respects Vital Core can be seen and used as a potent yang counterpoint to the yin qualities of Celestial Siren, which was made the same week in November 2009.", "Phragmipedium besseae is a species of slipper orchid which was discovered in Peru in 1981. In our process of making this essence, the orchid requested to have the process take place largely in the evening and into the dark of the night. A full moon on that clear night shone through the partially-curtained window, its beam upon the orchid and the bowl of water. This not only brought out the yang qualities of the orchid, but also enabled it to better access the shadow aspects of our lower chakras. (This also accounts for Vital Core having some very different qualities to the essence Radiant Strength of the Dancing Light Orchid Essences of the USA, which was made with the same species of slipper orchid.)"],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Energizing", "Sacral"],
+    "keywords": ["Sacral", "Dead Pelvis Syndrome"],
     "stock": true
   },
   {
@@ -1041,8 +1041,8 @@
     "description": ["The culminating essence of the trio which includes Vital Core & Vital Clarity. With the 2 orchids acting on the lower body chakras, and the Kuan Yin Fluorite acting from the Heart chakra and above, a mystic chariot for the soul is invoked, the Merkabah. Vital Light is positive, refreshing, uplifting and energising."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Energizing"],
-    "stock": true
+    "keywords": ["Spiritual"],
+    "stock": false
   },
   {
     "company": "Living Tree Orchid Essences",
@@ -1074,7 +1074,7 @@
     "description": ["Envelopes one's aura with unconditional love, akin to that of a mother for a newborn child. Nurturing and de-stressing. Refreshing and midly relaxing. Can be used as a post-trauma spray for both people and animals."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Stress"],
+    "keywords": ["Stress", "Love"],
     "stock": true
   },
   {
@@ -1085,7 +1085,7 @@
     "description": ["An ancient Chinese gong sounds its tone, awakening one to the inner calling, to the fire of the soul's mission and destiny. The weaving of the tapestry of our myriad lives is completed in the utter gracefulness of the dance of the soul which knows its wholeness. Meditate on the peace of this essence to discover the fecundity of the sacred and the flowing purpose of our lives."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Life Purpose", "Peace"],
+    "keywords": ["Life Purpose"],
     "stock": true
   },
   {
@@ -1096,7 +1096,7 @@
     "description": ["A very good essence to help you manifest your goals, and which brings joy to the heart yet is also grounding. Helps you to be awake and in the present moment with a sense of cheer and lightness. This essence wants you to straighten the spine, and not slouch, thus enabling the heart to be both strong and open. Feel the delight and excitement that you felt as a child once more, despite the trials and troubles the years may have brought your way. Having faced the challenges life brings, let us not be weighed down by their memory. Slip on these fairy-shoes, and step out with assurance into a brand new day, on to a path which is either new or at least renewed.", "To some degree this essence presents a type of ‘litmus test’, relating to our inner journey and its expression in life. If we are on our deeper spiritual path, and living in accordance with that, one will feel joy when taking this essence. If there is any lack of harmony between the path and its outer manifestation, then the emotional response will be subdued, as the orchid helps one to realign within.", "Bulbophyllum frostii is a specie found at about 1400 meters in evergreen forests in Vietnam, and was first described in 1926. It grows in the warm section of our greenhouse."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Manifestation", "Presences", "Joy"],
+    "keywords": ["Manifesting", "Presence", "Joy"],
     "stock": false
   },
   {
@@ -1118,7 +1118,7 @@
     "description": ["There are two forms of this essence, one with and the other without essence of 24 karat Gold. This form is more appropriate for helping remedial circumstances, for example if someone tends towards selfdestructive cycles. They need compassion for themselves first, and the gold helps ensure that this groundwork of the heart's understanding is taken on board. Follow up after a few weeks with the non-gold form of Wisdom of Compassion.", "For therapists, it can be useful to know that Wisdom of Compassion (without the gold essence added) acts primarily on the Heart chakra, Inner Chamber of the Heart Chakra, and the Crown Chakra.", "Wisdom of Compassion with Gold acts primarily on the Heart Chakra, the Ajana Centre between the eyebrows, and the Dreamtime Point at the back of the head."],
     "indications": [""],
     "effects": [""],
-    "keywords": ["Compassion", "Self-Love", "Meditation"],
+    "keywords": ["Compassion", "Self-Love"],
     "stock": true
   }
 ]
