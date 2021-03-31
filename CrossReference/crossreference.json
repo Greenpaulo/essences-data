@@ -27,7 +27,8 @@
       "recovering from experiences of emotional abuse": ["River Beauty", "Sweetgale"],
       "releasing the cellular impact of abuse": ["Black Tourmaline", "Tundra Twayblade", "White Fireweed"],
       "finding compassion even after abuse": ["Andean Fire"],
-      "help with certain sexual abuse issues by re-establishing the natural innocence of the root chakra": ["Joyous Purification"]
+      "help with certain sexual abuse issues by re-establishing the natural innocence of the root chakra": ["Joyous Purification"],
+      "very beneficial in helping those who have had experiences of abuse or prejudice from others": ["Boab"]
     }],
     "related": []
   },
@@ -42,7 +43,8 @@
       "of the oneness of all creation": ["Green Fairy Orchid"],
       "of the totality of oneself, without conditions": ["Alpine Azalea"],
       "of what is in the present moment": ["Jadeite Jade", "Tidal Forces"],
-      "turning self-judgment into acceptance": ["Pearl", "Sphagnum Moss"]
+      "turning self-judgment into acceptance": ["Pearl", "Sphagnum Moss"],
+      "of differences in life": ["Bauhinia"]
     }],
     "related": []
   },
@@ -121,7 +123,8 @@
       "opening to the positive support of our ancestors": ["Golden Corydalis", "Yellow Dryas"],
       "help clear negative ancestral patterns held subconsciously in the psyche and chakras": ["Purity of Soul"],
       "clears ancient negative energetic patterns at the cellular level": ["Renewing Life"],
-      "helps to clear 'tribal' blocks and ancestral patterns in the first and second chakras": ["Spirit of Life"]
+      "helps to clear 'tribal' blocks and ancestral patterns in the first and second chakras": ["Spirit of Life"],
+      "clears negative emotional and mental family patterns that are passed on from generation to generation": ["Boab"]
     }],
     "related": []
   },
@@ -133,7 +136,7 @@
       "resolving old anger": ["Mountain Wormwood"],
       "understanding and releasing anger through the heart": ["Blue Elf Viola"]
     }],
-    "related": []
+    "related": ["Frustation"]
   },
   {
     "title": "Angelic",
@@ -162,15 +165,16 @@
       "from being overwhelmed": ["Paper Birch", "Purple Poppy", "Red Elder", "Stinging Nettle"],
       "soothes anxiety as we confront change": ["Redoubt Volcano"]
     }],
-    "related": []
+    "related": ["Stress"]
   },
   {
     "title": "Apathy/Apathetic",
     "references": [{
       "closed down, disinterested in life": ["Prickly Wild Rose"],
-      "lack of inspiration or motivation": ["Tundra Rose"]
+      "lack of inspiration or motivation": ["Tundra Rose"],
+      "addresses temporary loss of drive and enthusiasm due to burn out, disappointment or frustration": ["Banksia Robur"]
     }],
-    "related": []
+    "related": ["Disheartened"]
   },
   {
     "title": "Astrology",
@@ -247,7 +251,7 @@
       "in communication": ["Azurite", "Twinflower", "Yellow Violet"],
       "in the expression of the masculine, in men and women": ["Sunflower"],
       "maintaining balance during times of rapid transformation": ["Fireweed Combo", "Purple Poppy", "Round-Leaf Orchid"],
-      "of logic and intuition": ["White Spruce"],
+      "of logic and intuition": ["White Spruce", "Bluebell"],
       "of masculine and feminine expressions of power": ["Blue Poppy", "Sitka Spruce", "Pollen", "Star Gentian"]
     }],
     "related": []
@@ -316,6 +320,13 @@
     "related": []
   },
   {
+    "title": "Care Givers",
+    "references": [{
+      "gives care givers a renewed enthusiasm and joy in their life for what they do": ["Alpine Mint Bush"]
+    }],
+    "related": []
+  },
+  {
     "title": "Centering",
     "references": [{
       "awareness of how everything is connected to our center": ["Chocolate Lily", "Jadeite Jade"],
@@ -336,7 +347,8 @@
       "strengthens and stabilizes the body so it is better able to cope with change": ["Cow Parsnip", "Fireweed Combo"],
       "support for deep inner change": ["Greenland Icecap", "Spiraea", "Tidal Forces"],
       "support for moving through change without creating crisis": ["Hairy Butterwort"],
-      "Useful in times of major change to provide continuity and protection": ["Protective Presence"]
+      "Useful in times of major change to provide continuity and protection": ["Protective Presence"],
+      "helps people move through major life changes and the overwhelm that often goes with those changes": ["Bottlebrush"]
     }],
     "related": []
   },
@@ -347,7 +359,8 @@
       "release of pelvic tension during childbirth": ["Balsam Poplar"],
       "release of trauma from the birth experience, regardless of one's present age": ["Ladies' Tresses", "Northern Lady's Slipper"],
       "support for mother and child during and immediately after the birth": ["Grove Sandwort", "Peridot", "Pregnancy Support", "Spiraea"],
-      "support for moving from one stage of delivery to the next": ["Hairy Butterwort", "Sticky Geranium"]
+      "support for moving from one stage of delivery to the next": ["Hairy Butterwort", "Sticky Geranium"],
+      "mother child bonding": ["Bottlebrush"]
     }],
     "related": []
   },
@@ -381,7 +394,7 @@
       "of vision": ["Rainbow Hematite"],
       "translating clarity of perception into appropriate action": ["Alder"],
       "bringing mental and emotional clarity from being connected to one’s higher self": ["Clarity of Spirit"],
-      ""
+      "for resolving obsessions - thoughts, events, things or ideas which are stuck. It leads to clarity and focus": ["Boronia"]
     }],
     "related": []
   },
@@ -545,7 +558,8 @@
       "opening new levels of creative expression": ["Go-Create", "Northern Lights", "Sticky Geranium", "Yellow Paintbrush"],
       "owning one's diverse talents and traits": ["Golden Corydalis"],
       "recharging one's creative energy": ["Bog", "Carnelian", "Fire Opal", "Liard Hot Springs", "Opal", "Orange Calcite", "Spectrolite", "Stone Circle"],
-      "sharing one's creativity freely with others": ["Wild Iris", "Wild Sweet Pea"]
+      "sharing one's creativity freely with others": ["Wild Iris", "Wild Sweet Pea"],
+      "enhances focus for creative visualisation": ["Boronia"]
     }],
     "related": []
   },
@@ -601,6 +615,13 @@
       "for those feeling separate and alone in times of darkness": ["Lighten Up", "Single Delight"],
       "for those who feel lost or out of touch with their own inner dynamics": ["Chiming Bells"],
       "from lack of light": ["Orange Calcite", "Solstice Sun"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Discernment",
+    "references": [{
+      "for reaching one’s own spiritual truth by cutting through any confusion or misinformation, ie. helping one discern the level of truth in ‘channelled messages’": ["Angelsword"]
     }],
     "related": []
   },
@@ -743,9 +764,7 @@
       "from trying to balance one extreme with another": ["Labrador Tea", "Purple Poppy"],
       "resulting from blockages in the subtle bodies": ["Carnelian", "Fluorite"],
       "provides vitality under circumstances of long-standing tiredness and exhaustion": ["New Vitality"],
-      "Working primarily on the mental body centres, this combination is excellent for distress and fatigue": ["Active Serenity"],
-      "especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope": ["Light Relief"],
-      "helpful when the cause of fatigue is due to emotional blocks": ["Revitalise"]
+      "especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope": ["Light Relief"]
     }],
     "related": []
   },
@@ -760,8 +779,11 @@
   {
     "title": "Fatigue",
     "references": [{
+      "addresses temporary loss of drive and enthusiasm due to burn out, disappointment or frustration": ["Banksia Robur"],
+      "Working primarily on the mental body centres, this combination is excellent for distress and fatigue": ["Active Serenity"],
+      "helpful when the cause of fatigue is due to emotional blocks": ["Revitalise"]
     }],
-    "related": ["Exhaustion", "Energizing"]
+    "related": ["Exhaustion", "Energising"]
   },
   {
     "title": "Fear",
@@ -775,7 +797,8 @@
       "relating to the world with fearlessness": ["Monkshood"],
       "release of fear through trust": ["Bog Rosemary"],
       "releasing fear from the heart": ["Enchanter's Nightshade", "False Hellebore", "Forget-Me-Not", "Foxglove"],
-      "invites you to face your deepest fears": ["Shadow Facing"]
+      "invites you to face your deepest fears": ["Shadow Facing"],
+      "of lack": ["Bluebell"]
     }],
     "related": []
   },
@@ -848,7 +871,8 @@
     "title": "Frustration",
     "references": [{
       "creative": ["Wild Iris", "Yellow Paintbrush"],
-      "emotional": ["Blue Elf Viola", "Sweetgale"]
+      "emotional": ["Blue Elf Viola", "Sweetgale"],
+      "addresses temporary loss of drive and enthusiasm due to burn out, disappointment or frustration": ["Banksia Robur"]
     }],
     "related": ["Anger"]
   },
@@ -880,6 +904,13 @@
       "acceptance of support in a spirit of gratitude": ["Spiraea"],
       "encouraging abundance through a conscious attitude of gratitude": ["Blueberry Pollen", "Bog Blueberry"],
       "living life with gratitude": ["Turquoise"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Greed",
+    "references": [{
+      "greed from fear of lack": ["Bluebell"]
     }],
     "related": []
   },
@@ -974,7 +1005,8 @@
       "to help become more aware of what is deeply valued within the heart": ["Messenger of the Heart"],
       "release guilt and shame, unblocking the higher heart chakra's ability to cleanse and heal the heart chakra": ["Redemption Dream"],
       "helps expand the consciousness of the heart chakra to a state of unconditional love": ["Spirit of the Higher Heart"],
-      "Helps to clear the shadow and also strengthen the “thymic heart” centre": ["Thymic Heart"]
+      "Helps to clear the shadow and also strengthen the “thymic heart” centre": ["Thymic Heart"],
+      "helps to open the heart. It is for those who feel cut off from their feelings": ["Bluebell"]
     }],
     "related": []
   },
@@ -984,9 +1016,10 @@
         "strengthening one's energetic connection with": ["Brazilian Amethyst", "Jacob's Ladder", "Moldavite", "Scepter Amethyst", "White Violet"],
         "trusting in the wisdom of the higher self": ["Diamond", "Gold", "Hairy Butterwort", "Round-Leaved Sundew", "Scepter Amethyst", "Sitka Spruce Pollen"],
         "a sense of the Higher Self calling one's soul to remember its deepest and highest potential": ["Celestial Siren"],
-        "balances chakras and so allows for a better connection to the higher self and the higher chakras": ["Clarity of Connection"]
+        "balances chakras and so allows for a better connection to the higher self and the higher chakras": ["Clarity of Connection"],
+        "protects from outside influences and entities so one can receive clear information from one’s Higher Self without interference": ["Angelsword"]
     }],
-    "related": []
+    "related": ["Attunment"]
   },
   {
     "title": "Homeless",
@@ -1010,7 +1043,8 @@
       "helps us replace hopelessness with openness, courage, and a renewed interest in life": ["Prickly Wild Rose", "Tundra Rose"],
       "reminds us that we are loved and supported by the angels and all life on this planet": ["Calling All Angels", "Chalice Well"],
       "restores a belief in miracles": ["Augustine Volcano", "Rock Spring"],
-      "brings nuturing to those in despair": ["Angelic Canopy"]
+      "brings nuturing to those in despair": ["Angelic Canopy"],
+      "addresses temporary loss of drive and enthusiasm due to burn out, disappointment or frustration": ["Banksia Robur"]
     }],
     "related": []
   },
@@ -1030,7 +1064,8 @@
     "title": "Impatience",
     "references": [{
       "calms mental impatience and preoccupation": ["Aquamarine"],
-      "with change and wanting to rush into things": ["Polar Ice"]
+      "with change and wanting to rush into things": ["Polar Ice"],
+      "for people who are impatient or always 'on the go'": ["Black-eyed Susan"]
     }],
     "related": []
   },
@@ -1119,7 +1154,8 @@
       "balancing the intuitive with the rational": ["Lamb's Quarters"],
       "opening one's intuition to the plant kingdom": ["Comandra", "Moschatel"],
       "trusting one's intuition": ["Bog Rosemary"],
-      "heightening one's intuition": ["Core Release"]
+      "heightening one's intuition": ["Core Release"],
+      "improves one's access to intuition - it helps a person to trust their own 'gut' feelings": ["Bush Fuchsia"]
     }],
     "related": []
   },
@@ -1333,7 +1369,8 @@
       "helping a person to be centered for meditation": ["Clarity of Connection "],
       "protects one's core while engaged in the transcendental meditation": ["Defender from the Dark"],
       "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"],
-      "to energise the whole chakra system and so facilitate deeper meditations": ["Meditation"]
+      "to energise the whole chakra system and so facilitate deeper meditations": ["Meditation"],
+      "releases any energies that entered while the aura was open": ["Angelsword"]
     }],
     "related": []
   },
@@ -1407,6 +1444,13 @@
     "related": []
   },
   {
+    "title": "Obsessive",
+    "references": [{
+      "for resolving obsessions - thoughts, events, things or ideas which are stuck": ["Boronia"]
+    }],
+    "related": ["Stuck"]
+  },
+  {
     "title": "Opening",
     "references": [{
       "opening and maintaining a spiritual focus in life": ["Icelandic Poppy"],
@@ -1419,6 +1463,13 @@
       "to higher sources of inspiration": ["Tundra Rose"],
       "to share more of what one has to offer": ["Apophyllite", "Wild Sweet Pea"],
       "to the active, masculine flow of energy": ["Solstice Sun", "Sunflower"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Open Mindedness",
+    "references": [{
+      "for embracing new concepts and ideas": ["Bauhinia"]
     }],
     "related": []
   },
@@ -1455,7 +1506,17 @@
     "references": [{
       "by energies from others or from the environment": ["Black Tourmaline", "Covellite", "Guardian", "Hematite", "Yarrow"],
       "by the amount of energy or information one is receiving": ["Lapis Lazuli", "Rutilated Quartz", "Stinging Nettle", "Twinflower"],
-      "by the pace and intensity of change": ["Fireweed", "Golden Corydalis", "Greenland Icecap", "Labrador Tea", "Tidal Forces"]
+      "by the pace and intensity of change": ["Fireweed", "Golden Corydalis", "Greenland Icecap", "Labrador Tea", "Tidal Forces"],
+      "helps people move through major life changes and the overwhelm that often goes with those changes": ["Bottlebrush"]
+    }],
+    "related": ["Exhaustion", "Stress"]
+  },
+  {
+    "title": "Overwork",
+    "references": [{
+      "for people who are impatient or always 'on the go'": ["Black-eyed Susan"],
+      "exhaustion from overwork": ["Fire Opal", "Green Jasper", "Moschatel", "Opal"],
+      "especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope": ["Light Relief"]
     }],
     "related": ["Exhaustion", "Stress"]
   },
@@ -1480,7 +1541,8 @@
       "prepares one to experience true peace": ["Inner Peace"],
       "brings an exquisite, beautiful and loving energy, enabling one to feel uplifted, loved and at peace": ["Necklace of Beauty"],
       "releases guilt and shame, enabling us to feel inner peace": ["Redemption Dream"],
-      "creates a stillness within one, and a profound inner peace": ["Spiral of Light"]
+      "creates a stillness within one, and a profound inner peace": ["Spiral of Light"],
+      "enables these people to slow down, to reach that still centre within and find calmness and inner guidance": ["Black-eyed Susan"]
     }],
     "related": []
   },
@@ -1551,9 +1613,10 @@
   {
     "title": "Pregnancy",
     "references": [{
-      "an essence of conception, and of nurturing the state of pregnancy, as well as overlighting the birth process": ["Fruits of Love"]
+      "an essence of conception, and of nurturing the state of pregnancy, as well as overlighting the birth process": ["Fruits of Love"],
+      "excellent for pregnant women and new mothers": ["Bottlebrush"]
     }],
-    "related": []
+    "related": ["Childbirth"]
   },
   {
     "title": "Pre-Menstrual",
@@ -1601,7 +1664,8 @@
       "support and protection for the healthy energetic matrix of the body at the cellular level": ["Energy Protection Matrix"],
       "this essence combination provides us with protection against both inner and outer shadow elements": ["Shadow Defense"],
       "a major essence for protection against dark energies. It is formulated to enable the aura to become reflective like a mirror": ["Shield of Light"],
-      "provides powerful protection at multiple levels, to help us bring that light we carry within safely through with strength and certainty": ["Soul Shield+"]
+      "provides powerful protection at multiple levels, to help us bring that light we carry within safely through with strength and certainty": ["Soul Shield+"],
+      "releases any energies that entered while the aura was open": ["Angelsword"]
     }],
     "related": ["Safety", "Security"]
   },
@@ -1610,7 +1674,8 @@
     "references": [{
       "for fears of": ["White Violet", "Yellow Violet"],
       "helps one prepare for": ["Beyond Words"],
-      "promotes clear communication": ["Fairy Slipper", "Tundra Rose", "Twinflower", "Yellow Violet"]
+      "promotes clear communication": ["Fairy Slipper", "Tundra Rose", "Twinflower", "Yellow Violet"],
+      "give people courage and clarity in public speaking as well as the ability to speak out about their own convictions.": ["Bush Fuchsia"]
     }],
     "related": ["Confidence", "Courage", "Communication"]
   },
@@ -1891,7 +1956,8 @@
     "title": "Self-Love",
     "references": [{
       "for helping remedial circumstances, for example if someone tends towards selfdestructive cycles. They need compassion for themselves first": ["Wisdom of Compassion with Gold"],
-      "to help the inner child to know that he or she is loved and worthy of love": ["Love Beyond Love"]
+      "to help the inner child to know that he or she is loved and worthy of love": ["Love Beyond Love"],
+      "for feelings of shame, self disgust and self-loathing": ["Billy Goat Plum"]
     }],
     "related": ["Self-Esteem/Self-Worth", "Self-Appreciation"]
   },
@@ -1918,7 +1984,8 @@
       "helping to both clarify (and invigorate) the sexual impulses, bringing about the healthy expression of one's sexual energies": ["Love's Secret"],
       "a settling of the heart area and an intense need to be loved and have the companionship of love. Increased libido too": ["Rising Flame"],
       "'re-lights' the sexual centres to be aware of the deeper nature of ones sexuality": ["Source of Life", "Defender of the Source"],
-      "sexuality moves away from 'performance' to intimacy and deep communion": ["Sacral Regulator"]
+      "sexuality moves away from 'performance' to intimacy and deep communion": ["Sacral Regulator"],
+      "for those people who feel revolted and dirty about sex and feel unclean afterwards": ["Billy Goat Plum"]
     }],
     "related": []
   },
@@ -1998,7 +2065,8 @@
       "furthers the soul’s journey into Divine Light": ["Vital Light"],
       "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"],
       "enables the heart to access and be informed by transcendent aspects of the soul": ["Light of the Soul"],
-      "heightens and deepens the soul's understanding of its journey in this physical body": ["Shiva's Crown"]
+      "heightens and deepens the soul's understanding of its journey in this physical body": ["Shiva's Crown"],
+      "for reaching one’s own spiritual truth by cutting through any confusion or misinformation": ["Angelsword"]
     }],
     "related": ["Evolution"]
   },
@@ -2006,9 +2074,10 @@
     "title": "Stamina",
     "references": [{
       "give an energy boost to see one through these difficult periods": ["New Vitality"],
-      "maintains undeterred optimism accompanied by remarkable stamina": ["Positive Outcome"]
+      "maintains undeterred optimism accompanied by remarkable stamina": ["Positive Outcome"],
+      "helpful when one is flagging, giving stamina for focused work": ["Vital Lift"]
     }],
-    "related": []
+    "related": ["Exhaustion", "Energising"]
   },
   {
     "title": "Strengthening",
@@ -2034,14 +2103,13 @@
       "stress from a preoccupation with mental activities": ["Aquamarine, Blue Topaz, Jacob's Ladder, Wild Rhubarb", "Boundless Peace", "Clear Mind"],
       "distance from the stress of a busy day when you arrive home and remember to enjoy a little, more and more": ["Carnival"],
       "leave your troubles behind, effortlessly and smoothly swirling away": ["Laughing Butterflies"],
-      "useful for the stress of feeling there is not enough time": ["Purity of Heart"],
+      "useful for the stress of feeling there is not enough time": ["Purity of Heart", "Black-eyed Susan"],
       "a gentle, comforting, lasting embrace": ["Unconditional Snuggles"],
       "nurturing and de-stressing": ["White Beauty"],
       "Working primarily on the mental body centres, this combination is excellent for distress and fatigue": ["Active Serenity"],
       "soothing, relaxing and grounding": ["Coming Home"],
       "this combination is excellent for unwinding at the end of the day": ["Gentle Geisha"],
       "clearing mental/emotional tension and distress": ["Happy Relief"],
-      "especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope": ["Light Relief"],
       "works on the energy gates and meridian points which are relating to the fight vs. flight reflex": ["Sympathetic"],
       "helps the under-activity of the 2nd and 3rd chakras and helps regulate the over-activity of the adrenal glands": ["Sympathetic (P)"]
     }],
@@ -2051,7 +2119,8 @@
     "title": "Stuck",
     "references": [{
       "brings a sense of strength and constructive moving forward. The way forward becomes clearer": ["Rising Against the Dark"],
-      "an antidote to being stuck in a rut": ["Serendipity"]
+      "an antidote to being stuck in a rut": ["Serendipity"],
+      "for resolving obsessions - thoughts, events, things or ideas which are stuck": ["Boronia"]
     }],
     "related": []
   },
