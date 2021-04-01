@@ -106,7 +106,7 @@
     "description": "This Essence helps people move through major life changes and the overwhelm that often goes with those changes, especially retirement, menopause, adolescence or death, etc. Excellent for pregnant women and new mothers.",
     "indications": ["Overwhelmed by major life changes - old age, adolescence, parenthood, pregnancy"],
     "effects": ["Serenity and calm", "Ability to cope and move on", "Mother child bonding"],
-    "keywords": ["Change", "Pregnancy", "Childbirth", "Overwhelmed"],
+    "keywords": ["Change", "Pregnancy", "Childbirth", "Overwhelmed", "Nuturing"],
     "stock": true
   },
   {
@@ -125,8 +125,8 @@
     "name": "Bush Gardenia",
     "description": ["For renewing passion and interest in relationships. It helps draw together those who are moving away from one another, busy in their own world (career, life, etc.). It is as if this Essence helps to turn the individual's head to reconnect to see what their partner is doing and feeling and to discover what is needed to bring them back together.", "It is not only for male/female relationships but also for family relationships. This flower has similar flowers and scent to that of the suburban garden shrub but is a 40 ft. tree, growing in the tropical north, similar in shape to a Eucalypt."],
     "indications": ["Stale relationships", "Self aware", "Unaware"],
-    "effects": ["Passion", "Renews interest in partner", "Improves communication"]
-    "keywords": [""],
+    "effects": ["Passion", "Renews interest in partner", "Improves communication"],
+    "keywords": ["Relationships", ""],
     "stock": true
   },
   {
@@ -135,8 +135,8 @@
     "name": "Bush Iris",
     "description": ["This was one of the first Essences to be prepared. It is an Essence to open people up to their spirituality and to access the doorway to their higher perceptions. It allows the trinity to flow into a person and is an excellent remedy to give someone who has just started meditation or 'conscious' spiritual growth. In the negative mode there will be materialism and/or atheism."],
     "indications": ["Materialism", "Atheism", "Physical excess", "Avarice"],
-    "effects": ["Awakening of spirituality", "Acceptance of death as a transition state", "Clearing blocks in the base chakra and trust centre"]
-    "keywords": [""],
+    "effects": ["Awakening of spirituality", "Acceptance of death as a transition state", "Clearing blocks in the base chakra and trust centre"],
+    "keywords": ["Spiritual", "Meditation"],
     "stock": true
   },
   {
@@ -145,8 +145,8 @@
     "name": "Christmas Bell",
     "description": ["Christmas Bell is an erect perennial herb which is frequently found in the Hawkesbury Sandstone country of NSW in the low open heaths or swamps.", "It grows up to 60cm high with a crowd of yellow tipped, red fused, tubed flowers at the top. Christmas Bell’s flowering time is from late December — hence its name — up until February. Christmas is the time of year associated with the joy of giving and receiving, not only of love, but also from the realm of the material too. This remedy assists one with mastery of the physical plane and with stewardship of one’s possessions. It also helps one to manifest their desired outcomes and is extremely beneficial for anyone experiencing a sense of lack.", "Christmas Bell, operating at a deep spiritual level, helps one to also realise that the most important things in life are not of the physical and not to be distracted by having their time and energy consumed in the pursuit of these worldly things. We are spiritual beings and by mastering the physical we can more readily focus on and achieve our life purpose and create loving relationships."],
     "indications": ["Lack of abundance", "Sense of lack", "Poor stewardship of one's possessions"],
-    "effects": ["Helps one to manifest their desired outcome", "Assists one with mastery of the physical plane"]
-    "keywords": [""],
+    "effects": ["Helps one to manifest their desired outcome", "Assists one with mastery of the physical plane"],
+    "keywords": ["Abundance"],
     "stock": true
   },
   {
@@ -155,8 +155,8 @@
     "name": "Crowea",
     "description": ["Crowea is for people who are feeling 'not quite right' with themselves and are just a little out of balance. It is great for worry and distress. It is for those who always have something to worry about without having specific fears. It is also an excellent Essence for people not sure of what it is they are feeling. This purple flower has five petals with a prominent raised centre. Five in numerology relates to the emotional centre and the integration of emotions."],
     "indications": ["Continual worrying", "A sense of being 'not quite right'"],
-    "effects": ["Peace and calm", "Balances and centres the individual", "Clarity of one's feelings"]
-    "keywords": [""],
+    "effects": ["Peace and calm", "Balances and centres the individual", "Clarity of one's feelings"],
+    "keywords": ["Worry"],
     "stock": true
   },
   {
@@ -165,28 +165,28 @@
     "name": "Dagger Hakea",
     "description": ["For people who feel resentment and bitterness and hold grudges against those with whom they have been very close e.g. family members and old lovers. This resentment is often not openly displayed. The plant gets its name from the needle-like barb that grows on its leaves."],
     "indications": ["Resentment", "Bitterness towards close family, friends, lovers"],
-    "effects": ["Forgiveness", "Open expression of feelings"]
-    "keywords": [""],
+    "effects": ["Forgiveness", "Open expression of feelings"],
+    "keywords": ["Forgiveness", "Resentment"],
     "stock": true
   },
   {
     "company": "ABFE",
     "group": "Bush Flowers",
     "name": "Dog Rose",
-    "description": ["The striking feature of Dog Rose is that the flowers hang down and appear to have dropped and rounded shoulders, like a defeated person. Dog Rose is the Essence for an increase in the flow of the vital force, quality of life, courage and self esteem. It is also for shy, insecure, timid, nervous people."],
-    "indications": ["Shy", "Insecure"],
-    "effects": ["Confidence", "Belief in self", "Courage", "Ability to embrace life more fully"]
-    "keywords": [""],
+    "description": ["The striking feature of Dog Rose is that the flowers hang down and appear to have dropped and rounded shoulders, like a defeated person. Dog Rose is the Essence for treating fears, niggling little fears, not terror. Overcoming fear allows for an increase in the flow of the vital force, quality of life, courage and self esteem. It is also the Essence for treating fears, niggling little fears, not terror. It is also for shy, insecure, timid, nervous people."],
+    "indications": ["Fearful", "Shy", "Insecure", "Apprehensive with other people", "Niggling fears"],
+    "effects": ["Confidence", "Belief in self", "Courage", "Ability to embrace life more fully"],
+    "keywords": ["Insecure", "Confidence", "Courage", "Self-Esteem/Self-Worth", "Fear"],
     "stock": true
   },
   {
     "company": "ABFE",
     "group": "Bush Flowers",
     "name": "Dog Rose of the Wild Forces",
-    "description": ["Found only in Victoria, this Essence was made up from a plant quivering and leaning over the surging white water just below Mackenzie Falls, in Gariwerd, (previously known as The Grampians). This plant is commonly found growing close to the water. It is taken when a person requires grounding. On a higher level it helps to teach the necessity of gaining control over the emotions so that emotional intensity will not distort one's natural energies."],
+    "description": ["Found only in Victoria, this Essence was made up from a plant quivering and leaning over the surging white water just below Mackenzie Falls, in Gariwerd, (previously known as The Grampians). This plant is commonly found growing close to the water and, like Dog Rose, it deals with fear. It is taken when a person has a fear of losing control, when the emotions they are feeling within themselves or immediately around them are just so intense there is a sense of losing control. On a higher level it helps to teach the necessity of gaining control over the emotions so that emotional intensity will not distort one's natural energies."],
     "indications": ["Fear of losing control", "Hysteria", "Pain with no apparent cause"],
-    "effects": ["Calm and centred", "Emotional balance"]
-    "keywords": [""],
+    "effects": ["Calm and centred", "Emotional balance"],
+    "keywords": ["Fear", "Pain"],
     "stock": true
   },
   {
@@ -195,18 +195,18 @@
     "name": "Five Corners",
     "description": ["Five Corners Essence resolves low self-esteem, lack of confidence and diminished self-love. This tall, proud shrub gets its name from its fruit which has five corners – and this corresponds with the anatomical position of a body with arms and legs spread, and the fifth point being the head. This Essence allows the life force to flow through to these five centres. When this happens a person feels good and strong in themselves, and they feel their own love and beauty. In the negative mode, the person will appear crushed and 'held in'."],
     "indications": ["Low self esteem", "Dislike of self", "Crushed, held-in personality", "Clothing drab and colourless"],
-    "effects": ["Love and acceptance of self", "Celebration of own beauty", "Joyousness"]
-    "keywords": [""],
+    "effects": ["Love and acceptance of self", "Celebration of own beauty", "Joyousness"],
+    "keywords": ["Self-Esteem/Self-Worth", "Confidence", "Self-Love"],
     "stock": true
   },
   {
     "company": "ABFE",
     "group": "Bush Flowers",
     "name": "Flannel Flower",
-    "description": ["Flannel Flower almost begs to be touched and felt, since the petals of this flower resemble the sensuous texture of flannel. This Essence is for people who are uncomfortable with emotional intimacy as well as physical contact and touching.","They often have difficulty in maintaining their personal boundaries. It helps one to totally trust and express verbally their innermost feelings. It brings to both males and females a desire to and enjoyment in, expressing themselves physically. It is excellent for males allowing for a gentleness, softness and sensitivity in touching."],
+    "description": ["Flannel Flower almost begs to be touched and felt, since the petals of this flower resemble the sensuous texture of flannel. This Essence is for people who are uncomfortable with emotional intimacy as well as physical contact and touching.", "They often have difficulty in maintaining their personal boundaries. It helps one to totally trust and express verbally their innermost feelings. It brings to both males and females a desire to and enjoyment in, expressing themselves physically. It is excellent for males allowing for a gentleness, softness and sensitivity in touching."],
     "indications": ["Dislike of being touched", "Lack of sensitivity in males", "Uncomfortable with intimacy"],
-    "effects": ["Gentleness and sensitivity in touching", "Trust", "Openness", "Expression of feelings", "Joy in physical activity"]
-    "keywords": [""],
+    "effects": ["Gentleness and sensitivity in touching", "Trust", "Openness", "Expression of feelings", "Joy in physical activity"],
+    "keywords": ["Touch", "Boundaries", "Sensuality/Sexuality"],
     "stock": true
   },
   {
@@ -215,8 +215,8 @@
     "name": "Freshwater Mangrove",
     "description": ["This flowering tree grows beside fresh water creeks, billabongs and swamps in the Northern Territory. The healing quality of the Essence is to release and heal mental prejudice, allowing the heart to open without prejudgement. The prejudice of Slender Rice Flower stems from direct personal experience whereas Freshwater Mangrove is for those who mentally reject or have already made up their mind about something without it ever being experienced.", "Often the seeds of this prejudice have been sown for a long time. In many cases it is generational, as in the case of countries where religious prejudice is passed on and accepted by the young without question. Many prejudices are built because of cultural or societal belief that something cannot be done. This Essence has the potential to allow us to fully experience and be open on both a mental and heart level to new perceptual shifts and all the changes occurring at this time."],
     "indications": ["Heart closed due to expectations or prejudices which have been taught, not personally experienced"],
-    "effects": ["Openness to new experiences, people and perceptual shifts", "Healthy questioning of traditional standards and beliefs"]
-    "keywords": [""],
+    "effects": ["Openness to new experiences, people and perceptual shifts", "Healthy questioning of traditional standards and beliefs"],
+    "keywords": ["Heart", "Judgement", "Perception"],
     "stock": true
   },
   {
@@ -225,8 +225,8 @@
     "name": "Fringed Violet",
     "description": ["Fringed Violet is for treating damage to the aura where there has been shock, grief or distress. This remedy maintains psychic protection and is excellent for people who are drained by others or those who unconsciously absorb the physical and emotional imbalances of others."],
     "indications": ["Damage to aura", "Lack of psychic protection"],
-    "effects": ["Heals damage to aura", "Psychic protection"]
-    "keywords": [""],
+    "effects": ["Heals damage to aura", "Psychic protection"],
+    "keywords": ["Aura", "Protection", "Shock", "Grief"],
     "stock": true
   },
   {
@@ -235,18 +235,18 @@
     "name": "Green Spider Orchid",
     "description": ["This remedy was also made up in Gariwerd (The Grampians) Victoria and is very much aligned with higher learnings, philosophies and deeper insight. This Essence can assist in working with telepathy, to attune a person to be more receptive to not only other people but also other species and kingdoms. It is for people who are teaching spiritual matters and understandings, helping them to impart that knowledge.", "It helps us to know when to share about our spiritual experiences, ideas before they are manifested and incomplete projects and when to remain silent to let the energy build. Green Spider Orchid can release nightmares, terror and phobias stemming from past lives."],
     "indications": ["Nightmares and phobias from past life experience", "Intense negative reactions to the sight of blood"],
-    "effects": ["Telepathic communication", "Ability to withhold information until timing is appropriate", "Attunement"]
-    "keywords": [""],
+    "effects": ["Telepathic communication", "Ability to withhold information until timing is appropriate", "Attunement"],
+    "keywords": ["Telepathy", "Communication", "Teaching", "Fear", "Nightmares"],
     "stock": true
   },
   {
     "company": "ABFE",
     "group": "Bush Flowers",
     "name": "Grey Spider Flower",
-    "description": ["This is an Essence to deal with or psychic attack. The Essence will restore faith and trust. Interestingly enough every time I picked this flower to make the Essence I came across a spider. There is a theory that spiders are an archetypal image for attack."],
-    "indications": ["Supernatural and psychic attack"],
-    "effects": ["Faith", "Calm", "Courage"]
-    "keywords": [""],
+    "description": ["This is an Essence to deal with extreme terror, especially terror experienced in life-threatening situations or psychic attack. The Essence will restore faith and trust. Interestingly enough every time I picked this flower to make the Essence I came across a spider. There is a theory that spiders are an archetypal image for primordial fear."],
+    "indications": ["Terror", "Fear of supernatural and psychic attack"],
+    "effects": ["Faith", "Calm", "Courage"],
+    "keywords": ["Fear"],
     "stock": true
   },
   {
@@ -255,8 +255,8 @@
     "name": "Gymea Lily",
     "description": ["Also known as the Giant Lily, this extraordinary plant bears large red flowers on a huge terminal head atop a stem of up to four metres high. Being so high the flowers are not seen clearly from the ground. This remedy is for excessive pride and arrogance and helps bring about humility. The Essence is for reaching up to the energy of arrogance and transforming it to achieve great heights. It gives strength to those who are ahead of their peers and helps them to stay at the top.", "Gymea Lily is also very beneficial for people whose personalities are very intense or extrovert, or those who are dominating, demanding and very charismatic who usually get their way. It is also for people who like to be seen and noticed and who seek glamour and status."],
     "indications": ["Arrogant", "Attention seeking", "Craving status and glamour", "Dominating and over-riding personality"],
-    "effects": ["Humility", "Allowing other to express themselves and contribute", "Awareness, appreciation and taking notice of others"]
-    "keywords": [""],
+    "effects": ["Humility", "Allowing other to express themselves and contribute", "Awareness, appreciation and taking notice of others"],
+    "keywords": ["Arrogance", "Attention Seeking"],
     "stock": true
   },
   {
@@ -265,8 +265,8 @@
     "name": "Hibbertia",
     "description": ["For people who are strict and regimented or even fanatical with themselves or for whose who use their knowledge to gain an upper hand. They constantly devour information and philosophies purely to make themselves better people but often without truly integrating it. In the positive mode these people will be accepting of themselves and their own innate knowledge and experiences, without wanting to be superior to others."],
     "indications": ["fanatical about self improvement", "Driven to acquire knowledge", "Excessive self discipline", "Superiority"],
-    "effects": ["Content with own knowledge", "Acceptance", "Ownership and utilisation of own knowledge"]
-    "keywords": [""],
+    "effects": ["Content with own knowledge", "Acceptance", "Ownership and utilisation of own knowledge"],
+    "keywords": ["Superiority", "Acceptance"],
     "stock": true
   },
   {
@@ -275,8 +275,8 @@
     "name": "Illawarra Flame Tree",
     "description": ["An Essence for those who suffer from a great sense of rejection, or who feel 'left out'. This rejection is deeply felt and is very agonising for the person. The Essence is also for self rejection, or for a person entering a new experience, e.g. parenthood. This Essence will help a person take that first step. It is also beneficial for those whose numbers in numerology are 11, 22 or 33 - people who have usually chosen to do very important work this life."],
     "indications": ["Overwhelming sense of rejection"],
-    "effects": ["Confidence", "Commitment", "Self reliance", "Self approval"]
-    "keywords": [""],
+    "effects": ["Confidence", "Commitment", "Self reliance", "Self approval"],
+    "keywords": ["Rejection"],
     "stock": true
   },
   {
@@ -285,8 +285,8 @@
     "name": "Isopogon",
     "description": ["Isopogon is for people who live very much in their heads. They are dominated by their intellect and there is often a separation between their heart and head. This Essence, like Tall Yellow Top, connects one’s emotions (heart) with their thoughts (head). It especially benefits those people who control through stubbornness. It also enables the retrieval of long-forgotten skills and information.", "The small spiral arrangement of this plant's yellow flowers fade and leave a small, grey, round nut which will stay on the plant for many years. In spiritual symbolism the colour yellow represents wisdom and knowledge."],
     "indications": ["Inability to learn from past experience", "Stubborn", "Controlling personality"],
-    "effects": ["Ability to learn from past experience", "Retrieval of forgotten skills", "Relating without manipulating or controlling", "Ability to remember the past"]
-    "keywords": [""],
+    "effects": ["Ability to learn from past experience", "Retrieval of forgotten skills", "Relating without manipulating or controlling", "Ability to remember the past"],
+    "keywords": ["Stubborn", "Experience"],
     "stock": true
   },
   {
@@ -295,8 +295,8 @@
     "name": "Jacaranda",
     "description": ["Jacaranda Essence is for people who dither, never completing things because they are constantly changing what they are doing. There is a fine distinction between Sundew and Jacaranda: Sundew deals with dreamers (the 'space cadet'), whilst Jacaranda is for those who dither, are 'all over the place' and are always changing their mind."],
     "indications": ["Scattered", "Changeable", "Dithering", "Rushing"],
-    "effects": ["Decisiveness", "Quick thinking", "Centred"]
-    "keywords": [""],
+    "effects": ["Decisiveness", "Quick thinking", "Centred"],
+    "keywords": ["Dithering", "Decisiveness"],
     "stock": true
   },
   {

@@ -14,7 +14,8 @@
       "releasing mental blocks to the experience of abundance on all levels": ["Blueberry Pollen"],
       "unconditional acceptance of abundance": ["Bog Blueberry"],
       "one remembers how to 'make things happen', and one is energized to do so with immediate effect": ["Positive Outcome"],
-      "provides the energy and momentum to shift into a new state of mind, wherein one has the get up and go to accomplish that which is needed": ["Revelation"]
+      "provides the energy and momentum to shift into a new state of mind, wherein one has the get up and go to accomplish that which is needed": ["Revelation"],
+      "helps one to manifest their desired outcomes and is extremely beneficial for anyone experiencing a sense of lack": ["Christmas Bell"]
     }],
     "related": []
   },
@@ -44,7 +45,8 @@
       "of the totality of oneself, without conditions": ["Alpine Azalea"],
       "of what is in the present moment": ["Jadeite Jade", "Tidal Forces"],
       "turning self-judgment into acceptance": ["Pearl", "Sphagnum Moss"],
-      "of differences in life": ["Bauhinia"]
+      "of differences in life": ["Bauhinia"],
+      "of oneself and your own innate knowledge and experiences, without wanting to be superior to others": ["Hibbertia"]
     }],
     "related": []
   },
@@ -54,7 +56,7 @@
       "immediate healing from": ["Comfrey", "Self-Heal", "Soul Support"],
       "understanding why they happen": ["Cotton Grass", "Nootka Lupine"]
     }],
-    "related": []
+    "related": ["Shock"]
   },
   {
     "title": "Addictions",
@@ -177,6 +179,13 @@
     "related": ["Disheartened"]
   },
   {
+    "title": "Arrogance",
+    "references": [{
+      "for excessive pride and arrogance and helps bring about humility": ["Gymea Lily"]
+    }],
+    "related": []
+  },
+  {
     "title": "Astrology",
     "references": [{
       "helps when there are unfortunate and powerful astrological influences affecting our sense of wellbeing": ["Just Center"],
@@ -199,6 +208,13 @@
     "related": []
   },
   {
+    "title": "Attention Seeking",
+    "references": [{
+      "for people who like to be seen and noticed and who seek glamour and status": ["Gymea Lily"]
+    }],
+    "related": []
+  },
+  {
     "title": "Attunement",
     "references": [{
       "focusing and refining our attunement to the heart of the Earth": ["Green Bog Orchid"],
@@ -209,6 +225,13 @@
       "to the sounds and energies present in nature": ["Cassandra"],
       "to the wisdom of the higher self": ["Blue Green Tourmaline", "Brazilian Amethyst", "White Spruce"],
       "to very subtle levels of physical manifestation": ["Northern Twayblade"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Aura",
+    "references": [{
+      "for treating damage to the aura where there has been shock, grief or distress": ["Fringed Violet"]       
     }],
     "related": []
   },
@@ -315,7 +338,8 @@
       "creating functional boundaries through Divine trust and a strong connection with one's higher self": ["Monkshood", "White Violet"],
       "giving strength and definition to the energy field": ["Covellite", "Devil's Club", "Guardian", "Stone Circle", "Yarrow"],
       "maintaining strong boundaries when confined in small spaces, such as on an airplane": ["Pasque Flower", "Travel Ease", "White Violet"],
-      "strengthening the boundary between the emotional and mental bodies": ["Bunchberry", "Hematite", "Tiger's Eye"]
+      "strengthening the boundary between the emotional and mental bodies": ["Bunchberry", "Hematite", "Tiger's Eye"],
+      "difficulty in maintaining their personal boundaries": ["Flannel Flower"]
     }],
     "related": []
   },
@@ -442,7 +466,7 @@
   {
     "title": "Communication",
     "references": [{
-      "between different levels of consciousness": ["Horsetail"],
+      "between different levels of consciousness": ["Horsetail", "Green Spider Orchid"],
       "between mother and child": ["Grove Sandwort"],
       "between people and the Earth": ["Brazilian Quartz", "Cassandra", "Green Garnet", "Northern Coral Root", "Pineapple Weed"],
       "between the heart and the mind": ["Wild Rhubarb"],
@@ -463,7 +487,7 @@
       "it awakens one to the responsibility of sound and speech and assists in being true to oneself": ["Songline"],
       "helps us to connection to the 'spiritual internet' of humanity, that area wherein we are all able to connect with one another at whatever distance we may be": ["True Connections"]
     }],
-    "related": []
+    "related": ["Telepathy"]
   },
   {
     "title": "Compassion",
@@ -502,7 +526,9 @@
       "in one's interactions with others": ["Starflower", "Wild Sweet Pea"],
       "in one's power to create one's life": ["Vesuvianite"],
       "serves to strengthen one's belief in one's own inner and outer spiritual resources, and one's ability to move forward with projects and goals": ["Clearing the Way / Self Belief"],
-      "Unquestioning confidence; Take a focused, committed and unfailing action": ["Unicorn"]
+      "Unquestioning confidence; Take a focused, committed and unfailing action": ["Unicorn"],
+      "for an increase in the flow of the vital force, quality of life, courage and self esteem": ["Dog Rose"],
+      "resolves low self-esteem, lack of confidence and diminished self-love": ["Five Corners"]
     }],
     "related": []
   },
@@ -546,7 +572,8 @@
       "healing & opening the heart chakra so that its native strength and courage are restored": ["Higher Courage"],
       "a major essence for healing deep levels of the 3rd chakra; Brings strength of courage": ["Voice of Courage"],
       "helps us to find the courage to bring into being our soul's deepest potential": ["Fruits of Courage"],
-      "brings courage, and helps to restore confidence and optimism even when surrounded by great challenges": ["Shield of Light"]
+      "brings courage, and helps to restore confidence and optimism even when surrounded by great challenges": ["Shield of Light"],
+      "for an increase in the flow of the vital force, quality of life, courage and self esteem": ["Dog Rose"]
     }],
     "related": []
   },
@@ -602,6 +629,13 @@
     "related": []
   },
   {
+    "title": "Decisiveness",
+    "references": [{
+      "for those who dither, are 'all over the place' and are always changing their mind": ["Jacaranda"]
+    }],
+    "related": ["Dithering"]
+  },
+  {
     "title": "Dental Care",
     "references": [{
       "releasing emotional energy stored in the teeth": ["White Fireweed"],
@@ -624,6 +658,13 @@
       "for reaching one’s own spiritual truth by cutting through any confusion or misinformation, ie. helping one discern the level of truth in ‘channelled messages’": ["Angelsword"]
     }],
     "related": []
+  },
+  {
+    "title": "Dithering",
+    "references": [{
+      "for those who dither, are 'all over the place' and are always changing their mind": ["Jacaranda"]
+    }],
+    "related": ["Decisiveness"]
   },
   {
     "title": "Detoxification",
@@ -769,6 +810,13 @@
     "related": []
   },
   {
+    "title": "Experience",
+    "references": [{
+      "Inability to learn from past experience": ["Isopogon"]
+    }],
+    "related": []
+  },
+  {
     "title": "Father",
     "references": [{
       "forgiveness around father issues": ["Mountain Wormwood"],
@@ -798,7 +846,11 @@
       "release of fear through trust": ["Bog Rosemary"],
       "releasing fear from the heart": ["Enchanter's Nightshade", "False Hellebore", "Forget-Me-Not", "Foxglove"],
       "invites you to face your deepest fears": ["Shadow Facing"],
-      "of lack": ["Bluebell"]
+      "of lack": ["Bluebell"],
+      "niggling fears": ["Dog Rose"],
+      "for a fear of losing control": ["Dog Rose of the Wild Forces"],
+      "release nightmares, terror and phobias stemming from past lives": ["Green Spider Orchid"],
+      "dealing with extreme terror, especially terror experienced in life-threatening situations or psychic attack": ["Grey Spider Flower"]
     }],
     "related": []
   },
@@ -854,9 +906,10 @@
     "references": [{
       "of old wounds in relationships": ["Alpine Arnica", "Bleeding Heart", "Mountain Wormwood"],
       "through a clean and appropriate expression of anger": ["Blue Elf Viola"],
-      "through acceptance of self": ["Alpine Azalea"]
+      "through acceptance of self": ["Alpine Azalea"],
+      "for people who feel resentment and bitterness and hold grudges against those with whom they have been very close": ["Dagger Hakea"]
     }],
-    "related": []
+    "related": ["Resentment"]
   },
   {
     "title": "Freedom",
@@ -920,7 +973,8 @@
       "helps one contact, open to and release grief carried in the physical body": ["Chrysocolla", "Cotton Grass", "Diopside", "Ladies' Mantle", "Reindeer Moss"],
       "supports, balances, and nurtures the emotional process during the grieving process": ["River Beauty", "Tidal Forces", "White Fireweed", "Angelic Canopy"],
       "will remind you that you are carrying that pain and grief. Why hold on to it?": ["Healing the Hidden (Heyoka)"],
-      "helps one to retrieve that central sense of inner well-being and wholeness once again, after grieving": ["Self Renewal"]
+      "helps one to retrieve that central sense of inner well-being and wholeness once again, after grieving": ["Self Renewal"],
+      "for treating damage to the aura where there has been shock, grief or distress": ["Fringed Violet"]       
     }],
     "related": []
   },
@@ -1006,7 +1060,8 @@
       "release guilt and shame, unblocking the higher heart chakra's ability to cleanse and heal the heart chakra": ["Redemption Dream"],
       "helps expand the consciousness of the heart chakra to a state of unconditional love": ["Spirit of the Higher Heart"],
       "Helps to clear the shadow and also strengthen the “thymic heart” centre": ["Thymic Heart"],
-      "helps to open the heart. It is for those who feel cut off from their feelings": ["Bluebell"]
+      "helps to open the heart. It is for those who feel cut off from their feelings": ["Bluebell"],
+      "release and heal mental prejudice, allowing the heart to open without prejudgement": ["Freshwater Mangrove"]
     }],
     "related": []
   },
@@ -1103,6 +1158,13 @@
       "embodies a profound consciousness of primordial innocence": ["Pure Innocence"]
     }],
     "related": []
+  },
+  {
+    "title": "Insecure",
+    "references": [{
+      "helps shy, insecure, timid, nervous people": ["Dog Rose"]
+    }],
+    "related": ["Security", "Confidence"]
   },
   {
     "title": "Inspiration",
@@ -1370,7 +1432,8 @@
       "protects one's core while engaged in the transcendental meditation": ["Defender from the Dark"],
       "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"],
       "to energise the whole chakra system and so facilitate deeper meditations": ["Meditation"],
-      "releases any energies that entered while the aura was open": ["Angelsword"]
+      "releases any energies that entered while the aura was open": ["Angelsword"],
+      "an excellent remedy to give someone who has just started meditation": ["Bush Iris"]
     }],
     "related": []
   },
@@ -1434,14 +1497,21 @@
     "related": []
   },
   {
+    "title": "Nightmares",
+    "references": [{
+      "can release nightmares, terror and phobias stemming from past lives": ["Green Spider Orchid"]
+    }],
+    "related": ["Fear"]
+  },
+  {
     "title": "Nurturing",
     "references": [{
       "helps the inner child receive nurturing from the Divine Mother and the Earth": ["Emerald", "Northern Lady's Slipper", "Rose Quartz"],
       "helps us learn how to receive nurturing without struggle": ["Larimar"],
       "learning to nurture and be nurtured unconditionally": ["Spiraea"],
-      "supports the practice of nurturing between mother and child": ["Grove Sandwort", "Pregnancy Support"]
+      "supports the practice of nurturing between mother and child": ["Grove Sandwort", "Pregnancy Support", "Bottlebrush"]
     }],
-    "related": []
+    "related": ["Inner Child"]
   },
   {
     "title": "Obsessive",
@@ -1481,7 +1551,7 @@
       "maintains undeterred optimism accompanied by remarkable stamina": ["Positive Outcome"],
       "brings to the heart feelings of joy and eternal optimism": ["Wisdom of Compassion"]
     }],
-    "related": []
+    "related": ["Joy"]
   },
   {
     "title": "Oversensitive",
@@ -1492,14 +1562,14 @@
       "helps highly sensitive people stay connected to their bodies and the Earth": ["Starflower", "Stinging Nettle"],
       "oversensitive to physical contact": ["Covellite", "Pasque Flower"]
     }],
-    "related": []
+    "related": ["Protection", "Safety", "Security"]
   },
   {
     "title": "Overserious",
     "references": [{
       "for anyone who is prone to take themselves too seriously": ["Laughing Butterflies", "Mercutio"]
     }],
-    "related": []
+    "related": ["Playful"]
   },
   {
     "title": "Overwhelmed",
@@ -1519,6 +1589,13 @@
       "especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope": ["Light Relief"]
     }],
     "related": ["Exhaustion", "Stress"]
+  },
+  {
+    "title": "Pain",
+    "references": [{
+      "with no apparent cause": ["Dog Rose of the Wild Forces"]
+    }],
+    "related": []
   },
   {
     "title": "Patience",
@@ -1557,7 +1634,8 @@
       "enabling the truth of any given situation to reveal itself effortlessly": ["Furnace of Life"],
       "stand back from drama, get the overview, like the director of a play and watch the interplay between actors and dialogue": ["Mercutio"],
       "offers perception based on compassion and wisdom": ["Secret Wisdom"],
-      "clears one's inner vision causing a change in perception, a deeper reality, and enhances clairaudience": ["Shadow Warrior"]
+      "clears one's inner vision causing a change in perception, a deeper reality, and enhances clairaudience": ["Shadow Warrior"],
+      "allow us to fully experience and be open on both a mental and heart level to new perceptual shifts and all the changes occurring at this time": ["Freshwater Mangrove"]
     }],
     "related": ["Perspective"]
   },
@@ -1619,6 +1697,13 @@
     "related": ["Childbirth"]
   },
   {
+    "title": "Prejudice",
+    "references": [{
+      "release and heal mental prejudice, allowing the heart to open without prejudgement": ["Freshwater Mangrove"]
+    }],
+    "related": ["Childbirth"]
+  },
+  {
     "title": "Pre-Menstrual",
     "references": [{
       "calms overly reactive emotional states": ["Moonstone", "Tidal Forces"],
@@ -1665,7 +1750,8 @@
       "this essence combination provides us with protection against both inner and outer shadow elements": ["Shadow Defense"],
       "a major essence for protection against dark energies. It is formulated to enable the aura to become reflective like a mirror": ["Shield of Light"],
       "provides powerful protection at multiple levels, to help us bring that light we carry within safely through with strength and certainty": ["Soul Shield+"],
-      "releases any energies that entered while the aura was open": ["Angelsword"]
+      "releases any energies that entered while the aura was open": ["Angelsword"],
+      "maintains psychic protection and is excellent for people who are drained by others or those who unconsciously absorb the physical and emotional imbalances of others": ["Fringed Violet"]
     }],
     "related": ["Safety", "Security"]
   },
@@ -1751,6 +1837,13 @@
     "related": ["Renewal"]
   },
   {
+    "title": "Rejection",
+    "references": [{
+      "for those who suffer from a great sense of rejection, or who feel 'left out'": ["Illawara Flame Tree"]
+    }],
+    "related": []
+  },
+  {
     "title": "Rejuvenation",
     "references": [{
       "of spent emotional and mental forces": ["Lighten Up", "Opal"],
@@ -1767,7 +1860,8 @@
       "encourages mutual awareness and healing of relationships": ["Full Moon Reflection"],
       "opening emotional interactions in": ["Sweetgale"],
       "release of unforgiven areas in": ["Mountain Wormwood"],
-      "seeing relationships from a spiritual perspective": ["Pale Corydalis"]
+      "seeing relationships from a spiritual perspective": ["Pale Corydalis"],
+      "for renewed passion and interest in relationships": ["Bush Gardenia"]
     }],
     "related": []
   },
@@ -1833,9 +1927,10 @@
     "title": "Resentment",
     "references": [{
       "helps one understand the source of": ["Blue Elf Viola"],
-      "stimulates the release of": ["Mountain Wormwood"]
+      "stimulates the release of": ["Mountain Wormwood"],
+      "for people who feel resentment and bitterness and hold grudges against those with whom they have been very close": ["Dagger Hakea"]
     }],
-    "related": []
+    "related": ["Forgiveness"]
   },
   {
     "title": "Resilience",
@@ -1948,7 +2043,9 @@
       "from knowing one's abilities": ["Tamarack"],
       "from solidifying one's value system": ["Pyrite"],
       "brings awareness to our inner sense of self-worth": ["Just Center"],
-      "to help the inner child to know that he or she is loved and worthy of love": ["Love Beyond Love"]
+      "to help the inner child to know that he or she is loved and worthy of love": ["Love Beyond Love"],
+      "for an increase in the flow of the vital force, quality of life, courage and self esteem": ["Dog Rose"],
+      "resolves low self-esteem, lack of confidence and diminished self-love": ["Five Corners"]
     }],
     "related": ["Self-Love", "Self-Appreciation"]
   },
@@ -1957,7 +2054,8 @@
     "references": [{
       "for helping remedial circumstances, for example if someone tends towards selfdestructive cycles. They need compassion for themselves first": ["Wisdom of Compassion with Gold"],
       "to help the inner child to know that he or she is loved and worthy of love": ["Love Beyond Love"],
-      "for feelings of shame, self disgust and self-loathing": ["Billy Goat Plum"]
+      "for feelings of shame, self disgust and self-loathing": ["Billy Goat Plum"],
+      "resolves low self-esteem, lack of confidence and diminished self-love": ["Five Corners"]
     }],
     "related": ["Self-Esteem/Self-Worth", "Self-Appreciation"]
   },
@@ -1985,7 +2083,8 @@
       "a settling of the heart area and an intense need to be loved and have the companionship of love. Increased libido too": ["Rising Flame"],
       "'re-lights' the sexual centres to be aware of the deeper nature of ones sexuality": ["Source of Life", "Defender of the Source"],
       "sexuality moves away from 'performance' to intimacy and deep communion": ["Sacral Regulator"],
-      "for those people who feel revolted and dirty about sex and feel unclean afterwards": ["Billy Goat Plum"]
+      "for those people who feel revolted and dirty about sex and feel unclean afterwards": ["Billy Goat Plum"],
+      "uncomfortable with intimacy": ["Flannel Flower"]
     }],
     "related": []
   },
@@ -2024,7 +2123,8 @@
       "releasing shock from the etheric body": ["Comfrey", "Fireweed", "Fluorite", "Raspberry Rutile", "Rhodolite Garnet", "Sweetgrass"],
       "releasing shock that has been stored in the cellular structure of the body": ["Ladies' Tresses", "Tundra Twayblade", "White Fireweed"],
       "treating shock on all levels": ["Soul Support"],
-      "in very stressful circumstances we are likely to lose our connection with higher aspects of our soul or psyche; this combination relieves the shock": ["Immediate Relief"]
+      "in very stressful circumstances we are likely to lose our connection with higher aspects of our soul or psyche; this combination relieves the shock": ["Immediate Relief"],
+      "for treating damage to the aura where there has been shock, grief or distress": ["Fringed Violet"]
     }],
     "related": []
   },
@@ -2066,7 +2166,8 @@
       "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"],
       "enables the heart to access and be informed by transcendent aspects of the soul": ["Light of the Soul"],
       "heightens and deepens the soul's understanding of its journey in this physical body": ["Shiva's Crown"],
-      "for reaching one’s own spiritual truth by cutting through any confusion or misinformation": ["Angelsword"]
+      "for reaching one’s own spiritual truth by cutting through any confusion or misinformation": ["Angelsword"],
+      "to open people up to their spirituality and to access the doorway to their higher perceptions": ["Bush Iris"]
     }],
     "related": ["Evolution"]
   },
@@ -2116,6 +2217,13 @@
     "related": []
   },
   {
+    "title": "Stubborn",
+    "references": [{
+      "benefits those people who control through stubbornness": ["Isopogon"]
+    }],
+    "related": []
+  },
+  {
     "title": "Stuck",
     "references": [{
       "brings a sense of strength and constructive moving forward. The way forward becomes clearer": ["Rising Against the Dark"],
@@ -2141,6 +2249,13 @@
       "opening old wounds to the healing power of love": ["Tundra Twayblade"],
       "physical relief from suf­fering": ["Cinnabar, Cotton Grass, Northern Lady's Slipper, Pearl"],
       "suf­fering from loss": ["Ladies' Mantle, Reindeer Moss, River Beauty"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Superiority",
+    "references": [{
+      "for people who are strict and regimented or even fanatical with themselves or for whose who use their knowledge to gain an upper hand": ["Hibbertia"]
     }],
     "related": []
   },
@@ -2178,6 +2293,27 @@
       "of the movement of energy between the etheric and physical bodies": ["Fluorite Combo"]
     }],
     "related": []
+  },
+  {
+    "title": "Teaching",
+    "references": [{
+      "for people who are teaching spiritual matters and understandings, helping them to impart that knowledge": ["Green Spider Orchid"]
+    }],
+    "related": ["Communication"]
+  },
+  {
+    "title": "Telepathy",
+    "references": [{
+      "assists in working with telepathy, to attune a person to be more receptive to not only other people but also other species and kingdoms": ["Green Spider Orchid"]
+    }],
+    "related": ["Spiritual", "Communication"]
+  },
+  {
+    "title": "Touch",
+    "references": [{
+      "for people who are uncomfortable with emotional intimacy as well as physical contact and touching": ["Flannel Flower"]
+    }],
+    "related": ["Boundaries"]
   },
   {
     "title": "Transformation",
@@ -2310,6 +2446,13 @@
     "title": "Womb",
     "references": [{
       "helps remove imprints which we gained in the womb, which hinder our health and well-being, and our spiritual journey": ["Moon Child"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Worry",
+    "references": [{
+      "great for worry and distress": ["Crowea"]
     }],
     "related": []
   }
