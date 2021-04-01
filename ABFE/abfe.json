@@ -106,7 +106,7 @@
     "description": "This Essence helps people move through major life changes and the overwhelm that often goes with those changes, especially retirement, menopause, adolescence or death, etc. Excellent for pregnant women and new mothers.",
     "indications": ["Overwhelmed by major life changes - old age, adolescence, parenthood, pregnancy"],
     "effects": ["Serenity and calm", "Ability to cope and move on", "Mother child bonding"],
-    "keywords": ["Change", "Pregnancy", "Childbirth", "Overwhelmed", "Nuturing"],
+    "keywords": ["Change", "Pregnancy", "Childbirth", "Overwhelmed", "Nuturing", "Transition"],
     "stock": true
   },
   {
@@ -305,8 +305,8 @@
     "name": "Kangaroo Paw",
     "description": ["This Essence is for people who are 'green' and socially inept. They do not know how to properly interact with other people. They can be very insensitive because they are so focused on themselves that they miss the cues and needs of other people around them. They can be very self centred."],
     "indications": ["Gauche", "Unaware", "Insensitive", "Inept", "Clumsy"],
-    "effects": ["Kindness", "Sensitivity", "Savoire faire", "Enjoyment of people", "Relaxed"]
-    "keywords": [""],
+    "effects": ["Kindness", "Sensitivity", "Savoire faire", "Enjoyment of people", "Relaxed"],
+    "keywords": ["Insensitive", "Self-Centered"],
     "stock": true
   },
   {
@@ -315,8 +315,8 @@
     "name": "Kapok Bush",
     "description": ["Mount Barnett, an Aboriginal Cattle Station on the rugged Gibb River Road in the Kimberleys, was where I made this Essence.", "It is for people who have a tendency to give up very easily, who are easily discouraged. It can also give people an overview of a plan or situation and then allow them to work it through sequentially and be able to bring it to fruition. It could even be for someone with a piece of technology or machinery, to assist them to understand how it works."],
     "indications": ["Apathy", "Resignation", "Discouraged", "Half-hearted"],
-    "effects": ["Willingness", "Application", "'Give it a go'", "Persistance", "Perception"]
-    "keywords": [""],
+    "effects": ["Willingness", "Application", "'Give it a go'", "Persistance", "Perception"],
+    "keywords": ["Apathy/Apathetic", "Disheartened"],
     "stock": true
   },
   {
@@ -325,8 +325,8 @@
     "name": "Little Flannel Flower",
     "description": ["This Essence deals with the child aspect in us all. It addresses the expression of playfulness, being carefree and spontaneous joy. It is for people who regard life as a very sombre and serious experience. It is also for children who tend to grow up much too quickly, who take on the troubles of the world and get old before their time. It helps children get in contact with their spirit guides. Its delicate, tiny, white flowers cover the bush with a blanket of colour and white light, yet it is easily overlooked due to its size."],
     "indications": ["Denial of the 'child' within", "Seriousness in children", "Grimness in adults"],
-    "effects": ["Carefree", "Playfullness", "Joyful"]
-    "keywords": [""],
+    "effects": ["Carefree", "Playfullness", "Joyful"],
+    "keywords": ["Playful", "Inner Child", "Joy"],
     "stock": true
   },
   {
@@ -335,8 +335,8 @@
     "name": "Macrocarpa",
     "description": ["Macrocarpa is a Eucalypt that grows in the wheat belt area of South West Western Australia, the stands of which are becoming increasingly rare and very few survive today. This tree has the largest flower of any Eucalypt. Both the tree and the flower have a tremendous power about them and this comes out in its properties. This Essence brings about renewed enthusiasm, endurance and inner strength."],
     "indications": ["Drained", "Jaded", "Worn out"],
-    "effects": ["Enthusiasm", "Inner strength", "Endurance"]
-    "keywords": [""],
+    "effects": ["Enthusiasm", "Inner strength", "Endurance"],
+    "keywords": ["Exhaustion", "Stamina", "Strengthening", "Fatigue"],
     "stock": true
   },
   {
@@ -345,8 +345,8 @@
     "name": "Mint Bush",
     "description": ["This Essence like many others, was made in the Valley of the Winds in the Olgas (or Katajuta) in central Australia. Mint Bush helps one to cope with the dross being burnt off before emerging at a new spiritual level. Just prior to any such initiation there are usually spiritual trials and tribulations that one goes through when one feels they are being tested, often to their limit. At this time there is usually a great deal of confusion and one can have a sense that everything is too difficult and too much to deal with and resolve. These feelings can also arise during intense changes in your life - divorce, bankruptcy, severe illness or accidents, changing religious beliefs or affiliations."],
     "indications": ["Perturbation", "Confusion", "Spiritual emergence", "Initial turmoil and void of spiritual initiation"],
-    "effects": ["Smooth spiritual initiation", "Clarity", "Calmness", "Ability to cope"]
-    "keywords": [""],
+    "effects": ["Smooth spiritual initiation", "Clarity", "Calmness", "Ability to cope"],
+    "keywords": ["Spiritual", "Evolution"],
     "stock": true
   },
   {
@@ -355,8 +355,8 @@
     "name": "Monga Waratah",
     "description": ["Monga Waratah (also known as Braidwood Waratah), a shrub up to 4 metres, has a very small distribution around the moist forested areas and creeks of the Mongarlowe River near Braidwood in New South Wales. Its flower is the same red colour as the more common Waratah (Telopea speciosissima) although it only seems to have the base of the Waratah’s flower, as if the top cone or diamond has been removed. The Monga Waratah has the appearance of an open hand reaching out, as if wanting or needing more of something. This is a key note in its Doctrine of Signatures.", "Like its close relative Waratah and other Essences in the proteaceae family, Monga Waratah has a very powerful energy. This Essence can help a person find their inner strength which enables them to reach out.", "It addresses the negative conditions of disempowerment; of being overly needy; of feeling not strong enough; of feeling unable to do things alone; of always needing the strength and support of others; feeling choked or stifled in situations or relationships and feeling not able or strong enough to leave. This Essence is very much addressing co-dependency as well as strengthening one’s will. Consequently, it can be thought of when working with addictions. Monga Waratah gives you the belief and sense that you can break any dependency upon a behaviour, substance or person. This remedy helps one to reclaim their spirit."],
     "indications": ["Neediness", "Co-dependency", "Inability to do things alone", "Disempowerment", "Addictive personality"],
-    "effects": ["Strengthening of one's will", "Reclaiming of one's spirit", "Belief that one can break the dependency of any behaviour, substance or person", "Self empowerment"]
-    "keywords": [""],
+    "effects": ["Strengthening of one's will", "Reclaiming of one's spirit", "Belief that one can break the dependency of any behaviour, substance or person", "Self empowerment"],
+    "keywords": ["Addictions", "Neediness", "Empowered/Empowerment"],
     "stock": true
   },
   {
@@ -365,8 +365,8 @@
     "name": "Mountain Devil",
     "description": ["This Essence helps one deal with feelings of hatred, anger, jealousy and the major blocks to expressing love. It is for people who tend to be suspicious of others. Mountain Devil helps to develop unconditional love and acceptance. It helps one express anger in a healthy way and so develop sound boundaries. This may open the way to forgiveness."],
     "indications": ["Hatred", "Anger", "Holding of grudges", "Suspiciousness"],
-    "effects": ["Unconditional love", "Happiness", "Healthy boundaries", "Forgiveness"]
-    "keywords": [""],
+    "effects": ["Unconditional love", "Happiness", "Healthy boundaries", "Forgiveness"],
+    "keywords": ["Anger", "Forgiveness", "Jealousy"],
     "stock": true
   },
   {
@@ -375,8 +375,8 @@
     "name": "Mulla Mulla",
     "description": ["Mulla Mulla is for the personal recovery from the shattering experience of burns from heat or fire. This Essence reduces the negative effects of fire and the sun's rays. It is for those with a fear of fire or flames (often from a past life). If this fear is unconscious it will often manifest in a lack of vitality, as if they wish to fade away. If a person presents with this picture they can, with appropriate counselling, reveal this fear of fire or hot objects. This Essence was made up in Palm Valley, one of the hottest parts of the country and where some of the oldest plants in Australia are found."],
     "indications": ["Fear of flames and hot objects", "Distress associated with exposure to heat and sun"],
-    "effects": ["Reduces the effects of fire and the sun", "Feeling comfortable with fire and heat"]
-    "keywords": [""],
+    "effects": ["Reduces the effects of fire and the sun", "Feeling comfortable with fire and heat"],
+    "keywords": ["Burns/Fire/Heat", "Fear"],
     "stock": true
   },
   {
@@ -385,8 +385,8 @@
     "name": "Old Man Banksia",
     "description": ["For people who are weary, frustrated and disheartened by setbacks. This Essence helps to bring a spark into those people's lives who are heavy and slow moving. They tend to be reliable, dependable people who steadily plod on, often hiding their weariness while battling on with unceasing effort. The Old Man Banksia is a gnarled and twisted tree and it seems to be a storehouse of old wisdom. It is one of the first plants discovered by Joseph Banks."],
     "indications": ["Weary", "Phlegmatic personalities", "Disheartened", "Frustrated"],
-    "effects": ["Enjoyment of life", "Renews enthusiasm", "Interest in life"]
-    "keywords": [""],
+    "effects": ["Enjoyment of life", "Renews enthusiasm", "Interest in life"],
+    "keywords": ["Exhaustion", "Fatigue", "Frustration", "Disheartened"],
     "stock": true
   },
   {
@@ -395,8 +395,8 @@
     "name": "Paw Paw",
     "description": ["For the assimilation and integration of new ideas and information, especially where there is a tendency to feel overwhelmed by the quality and quantity of that information. A feature of this plant is its very narrow stem which, at the top, branches into a mass of foliage to bear large and ponderous fruits. This Essence should be used when one is unable to solve a problem. It will activate the Higher Self, where we have the answer to all our problems. It will ease the burden of problems as it activates the intuitive processes to provide solutions."],
     "indications": ["Overwhelm", "Unable to resolve problems", "Burdened by decision"],
-    "effects": ["Improved access to Higher Self for problem solving", "Assimilation of new ideas", "Calmness", "Clarity"]
-    "keywords": [""],
+    "effects": ["Improved access to Higher Self for problem solving", "Assimilation of new ideas", "Calmness", "Clarity"],
+    "keywords": ["Higher Self", "Overwhelmed"],
     "stock": true
   },
   {
