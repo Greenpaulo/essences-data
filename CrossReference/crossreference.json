@@ -504,6 +504,13 @@
     "related": ["Telepathy"]
   },
   {
+    "title": "Community",
+    "references": [{
+      "encourages a sense of living in harmonious community": ["Chimpanzee"]
+    }],
+    "related": []
+  },
+  {
     "title": "Compassion",
     "references": [{
       "developing compassion for oneself and others through self-acceptance": ["Alpine Azalea"],
@@ -515,7 +522,8 @@
       "finding compassion even after abuse": ["Andean Fire"],
       "offers the perception of 'self as other and others as self'": ["Secret Wisdom"],
       "compassion for all beings": ["Wisdom of Compassion"],
-      "compassion for one's self": ["Wisdom of Compassion with Gold"]
+      "compassion for one's self": ["Wisdom of Compassion with Gold"],
+      "enhances feelings of compassion for one's own pain and that of others": ["Dolphin"]
     }],
     "related": []
   },
@@ -548,7 +556,9 @@
       "serves to strengthen one's belief in one's own inner and outer spiritual resources, and one's ability to move forward with projects and goals": ["Clearing the Way / Self Belief"],
       "Unquestioning confidence; Take a focused, committed and unfailing action": ["Unicorn"],
       "for an increase in the flow of the vital force, quality of life, courage and self esteem": ["Dog Rose"],
-      "resolves low self-esteem, lack of confidence and diminished self-love": ["Five Corners"]
+      "resolves low self-esteem, lack of confidence and diminished self-love": ["Five Corners"],
+      "provides confidence for facing and healing unresolved issues": ["Bat"],
+      "nurtures strength, a feeling of invincibility, and supreme confidence in one's abilities": ["Bumblebee"]
     }],
     "related": []
   },
@@ -607,7 +617,8 @@
       "recharging one's creative energy": ["Bog", "Carnelian", "Fire Opal", "Liard Hot Springs", "Opal", "Orange Calcite", "Spectrolite", "Stone Circle"],
       "sharing one's creativity freely with others": ["Wild Iris", "Wild Sweet Pea"],
       "enhances focus for creative visualisation": ["Boronia"],
-      "allow creativity to flow and move through creative blocks and discouragements": ["Turkey Bush"]
+      "allow creativity to flow and move through creative blocks and discouragements": ["Turkey Bush"],
+      "supports the acceptance of structure as a necessary part of the creative process": ["Beaver"]
     }],
     "related": []
   },
@@ -725,12 +736,26 @@
       "to one's own heart": ["Bleeding Heart", "Green Bog Orchid"],
       "to one's path of service": ["Sapphire", "Sapphire/Ruby", "Star Gentian", "Star Sapphire"]
     }],
+    "related": ["Commitment"]
+  },
+  {
+    "title": "Dreaming",
+    "references": [{
+      "enhances dream recall": ["Dolphin"]
+    }],
     "related": []
   },
   {
     "title": "Earth Healing",
     "references": [{
       "helps to rebuild the etheric web in areas disturbed or devastated by natural or human causes": ["Chiming Bells", "Comfrey", "Cotton Grass", "Fireweed", "River Beauty", "White Fireweed"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Efficiency",
+    "references": [{
+      "for accomplishing tasks with great speed, efficiency, and focus": ["Cheetah"]
     }],
     "related": []
   },
@@ -943,7 +968,8 @@
       "maintaining focus on one's healing process when many issues are coming up for consideration": ["Fluorite Combo"],
       "freeing mental energies for more focused attention. A useful aid for studying": ["Crown of Serenity"],
       "when children are studying, this essence will help to maintain focus": ["Settling With A Smile"],
-      "keeping focused in the present and reduces procrastination": ["Sundew"]
+      "keeping focused in the present and reduces procrastination": ["Sundew"],
+      "for accomplishing tasks with great speed, efficiency, and focus": ["Cheetah"]
     }],
     "related": ["Study"]
   },
@@ -996,7 +1022,8 @@
       "expressing one's uniqueness with grace and poise": ["Lace Flower"],
       "moving through difcult transitions with grace": ["Aventurine", "Hairy Butterwort", "Lilac"],
       "moving with physical grace": ["Pineapple Weed"],
-      "opening to the grace of the wild feminine": ["Green Jasper"]
+      "opening to the grace of the wild feminine": ["Green Jasper"],
+      "encourages feelings of lightness, grace and a gentle fluidity in giving and receiving": ["Butterfly"]
     }],
     "related": []
   },
@@ -1006,7 +1033,8 @@
       "acceptance of support in a spirit of gratitude": ["Spiraea"],
       "encouraging abundance through a conscious attitude of gratitude": ["Blueberry Pollen", "Bog Blueberry"],
       "living life with gratitude": ["Turquoise"],
-      "allows one to be in a state of gratitude for all aspects of their life": ["Pink Flannel Flower"]
+      "allows one to be in a state of gratitude for all aspects of their life": ["Pink Flannel Flower"],
+      "enhances feelings of gratitude for the gift of all life": ["Buffalo"]
     }],
     "related": []
   },
@@ -1046,7 +1074,9 @@
       "strengthens the connection between the 1st chakra and the Earth": ["Black Tourmaline", "Club Moss", "Crowberry", "Fireweed Combo", "Gigha Quartz", "Ruby"],
       "soothing, relaxing and grounding; clears unwanted imprints from the 1st and 2nd chakras": ["Coming Home"],
       "for spirituality and connection to God in a grounded and centred way": ["Red Lily"],
-      "feeling scattered, not whole, vague and split": ["Sundew"]
+      "feeling scattered, not whole, vague and split": ["Sundew"],
+      "for connecting deeply with the power and rhythms of the Earth; for cultivating groundednes": ["Bear"],
+      "for slowing down and getting in touch with the resonance and rhythms of the Earth": ["Buffalo"]
     }],
     "related": []
   },
@@ -1087,7 +1117,8 @@
       "between the physical, emotional, mental, and spiritual levels of being": ["Malachite"],
       "harmonizing the auric field and the physical body with the Earth's natural vibration": ["Brazilian Quartz", "Smoky Quartz, Travel Ease"],
       "walking in harmony with the rhythm of the Earth herself. Learn how to walk, and where to walk by 'listening with the feet'": ["Walking to the Earth's Rhythm"],
-      "harmonises the vibration of any yeast, mould or parasite to one's own vibration": ["Green Essence"]
+      "harmonises the vibration of any yeast, mould or parasite to one's own vibration": ["Green Essence"],
+      "nurtures a harmonious balance of vulnerability and strength within the self": ["Butterfly"]
     }],
     "related": []
   },
@@ -1157,6 +1188,13 @@
       "restores a belief in miracles": ["Augustine Volcano", "Rock Spring"],
       "brings nuturing to those in despair": ["Angelic Canopy"],
       "addresses temporary loss of drive and enthusiasm due to burn out, disappointment or frustration": ["Banksia Robur"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Humility",
+    "references": [{
+      "for cultivating surrender, humility, and trust in gentle ways": ["Deer"]
     }],
     "related": []
   },
@@ -1297,7 +1335,8 @@
       "opening one's intuition to the plant kingdom": ["Comandra", "Moschatel"],
       "trusting one's intuition": ["Bog Rosemary"],
       "heightening one's intuition": ["Core Release"],
-      "improves one's access to intuition - it helps a person to trust their own 'gut' feelings": ["Bush Fuchsia"]
+      "improves one's access to intuition - it helps a person to trust their own 'gut' feelings": ["Bush Fuchsia"],
+      "supports developing and claiming one's intuitive ability": ["Crow"]
     }],
     "related": []
   },
@@ -1337,7 +1376,9 @@
       "brings to the heart feelings of joy and eternal optimism": ["Wisdom of Compassion"],
       "we can remember the value of fun, and the enjoyment of the senses": ["Party Time!"],
       "addresses the expression of playfulness, being carefree and spontaneous joy": ["Little Flannel Flower"],
-      "bringing joy through gratitude": ["Pink Flannel Flower"]
+      "bringing joy through gratitude": ["Pink Flannel Flower"],
+      "helps one to connect with the simplicity and joy of being alive": ["Chimpanzee"],
+      "enhances feelings of joy, laughter and delight": ["Dolphin"]
     }],
     "related": []
   },
@@ -1390,6 +1431,14 @@
     "related": []
   },
   {
+    "title": "Letting Go",
+    "references": [{
+      "for letting go, moving forward and trusting in the wind's ability to carry one": ["Butterfly"],
+      "for cultivating surrender, humility, and trust in gentle ways": ["Deer"]
+    }],
+    "related": []
+  },
+  {
     "title": "Life Purpose",
     "references": [{
       "creating energy boundaries that are in alignment with one's life purpose": ["One-Sided Wintergreen"],
@@ -1407,7 +1456,8 @@
       "brings clarity of the soul’s purpose, beyond the actions dependent on the ego": ["Revelation"],
       "heightens and deepens the soul's understanding of its journey in this physical body": ["Shiva's Crown"],
       "awareness of the soul's true purpose without the clutter of the baggage which we invariably carry.": ["Vital Defense"],
-      "brings about an awareness of one's life direction": ["Silver Princess"]
+      "brings about an awareness of one's life direction": ["Silver Princess"],
+      "provides support for creating the design of one's life": ["Beaver"]
     }],
     "related": []
   },
@@ -1468,7 +1518,7 @@
     "title": "Love",
     "references": [{
       "being motivated by a love of life": ["Tundra Rose"],
-      "bringing unconditional love through the heart": ["Alpine Azalea", "Harebell", "Spirit of the Higher Heart", "Unconditional Love"],
+      "bringing unconditional love through the heart": ["Alpine Azalea", "Harebell", "Spirit of the Higher Heart", "Unconditional Love", "Dolphin"],
       "harmonizes the giving and receiving qualities of love": ["Watermelon Tourmaline"],
       "opening the heart to allow a greater experience of love in the body": ["Chrysocolla", "Emerald", "Montana Rhodochrosite", "Tundra Twayblade"],
       "opening the heart to an awareness and experience of angelic love": ["Angelica", "Calling All Angels", "Kunzite"],
@@ -1709,7 +1759,8 @@
     "references": [{
       "for people who are impatient or always 'on the go'": ["Black-eyed Susan"],
       "exhaustion from overwork": ["Fire Opal", "Green Jasper", "Moschatel", "Opal"],
-      "especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope": ["Light Relief"]
+      "especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope": ["Light Relief"],
+      "Provides support to the nervous system in those living a fast-paced lifestyle": ["Cheetah"]
     }],
     "related": ["Exhaustion", "Stress"]
   },
@@ -1742,7 +1793,10 @@
       "brings an exquisite, beautiful and loving energy, enabling one to feel uplifted, loved and at peace": ["Necklace of Beauty"],
       "releases guilt and shame, enabling us to feel inner peace": ["Redemption Dream"],
       "creates a stillness within one, and a profound inner peace": ["Spiral of Light"],
-      "enables these people to slow down, to reach that still centre within and find calmness and inner guidance": ["Black-eyed Susan"]
+      "enables these people to slow down, to reach that still centre within and find calmness and inner guidance": ["Black-eyed Susan"],
+      "encourages experiences of deep inner quiet, calm and contemplation": ["Buffalo"],
+      "encourages gentleness and peace": ["Deer"],
+      "nurturing feelings of peace, calm, and stillness at the heart of one's life": ["Dove"]
     }],
     "related": []
   },
@@ -1776,12 +1830,21 @@
     "related": ["Perception"]
   },
   {
+    "title": "Planning",
+    "references": [{
+      "facilitates clear thinking, planning, creating and problem solving. Especially supportive in the beginning of new projects and endeavors": ["Beaver"]
+    }],
+    "related": []
+  },
+  {
     "title": "Playful",
     "references": [{
       "this essence is very playful, very forgiving, a large belly laugh from the happy Buddha": ["Laughing Butterflies"],
       "allows us to release the clown in us": ["Soul Dancer"],
       "we can remember the value of fun, and the enjoyment of the senses": ["Party Time!"],
-      "addresses the expression of playfulness, being carefree and spontaneous joy": ["Little Flannel Flower"]
+      "addresses the expression of playfulness, being carefree and spontaneous joy": ["Little Flannel Flower"],
+      "nurtures playfulness, curiosity, and self-expression": ["Chimpanzee"],
+      "the great teacher of the power of play and unconditional love": ["Dolphin"]
     }],
     "related": ["Joy"]
   },
@@ -1808,9 +1871,11 @@
       "harmonizing our personal power with the power of nature": ["Gigha Quartz", "Soapberry"],
       "reclaiming one's power as a man": ["Fairy Slipper", "Solar Eclipse", "Sunflower"],
       "reclaiming one's power as a woman": ["Ladies' Mantle"],
-      "tapping into inner truth and joy as a source of personal power": ["Goatsbeard, Gold"]
+      "tapping into inner truth and joy as a source of personal power": ["Goatsbeard, Gold"],
+      "helps one tap the power of one's unconscious": ["Bear"],
+      "for claiming one's power as a strong and fully capable person": ["Bumblebee"]
     }],
-    "related": ["Courage", "Confidence"]
+    "related": ["Courage", "Confidence", "Empowered/Empowerment"]
   },
   {
     "title": "Pregnancy",
@@ -1846,7 +1911,9 @@
       "for those who are reluctant to full incarnate into the 'here and now'": ["Being in Time"],
       "for people who are reluctant to incarnate": ["Hara to Heart"],
       "helps you to be awake and in the present moment with a sense of cheer and lightness": ["Winged Messenger"],
-      "helps one to be present within one's surroundings": ["Being Present"]
+      "helps one to be present within one's surroundings": ["Being Present"],
+      "deepens awareness of the present moment": ["Deer"],
+      "quiets the thinking mind and allows one to experience the glory of God in the present moment": ["Dove"]
     }],
     "related": []
   },
@@ -1880,6 +1947,13 @@
       "maintains psychic protection and is excellent for people who are drained by others or those who unconsciously absorb the physical and emotional imbalances of others": ["Fringed Violet"]
     }],
     "related": ["Safety", "Security"]
+  },
+  {
+    "title": "Psychic Development",
+    "references": [{
+      "enhances dream recall, psychic development, and telepathic communication between people and animals": ["Dolphin"]
+    }],
+    "related": ["Spiritual", "Telepathy"]
   },
   {
     "title": "Public Speaking",
@@ -2157,7 +2231,9 @@
       "without distortion": ["Lapland Rosebay"],
       "potentially a powerful experience of the 3rd eye": ["Direct Vision"],
       "helps us 'see beyond the veil'": ["Light of My Eye"],
-      "aligning and identifying with beauty": ["Rising to the Call of Beauty"]
+      "aligning and identifying with beauty": ["Rising to the Call of Beauty"],
+      "assists one to see deeply into the nature of reality": ["Crow"],
+      "for seeing with great clarity what is going on around and within oneself": ["Deer"]
     }],
     "related": []
   },
@@ -2241,7 +2317,8 @@
     "references": [{
       "takes one on a further, and vital step from Shadow Warrior: that of becoming more familiar with and even accepting of one's shadow side": ["Shadow Descent"],
       "helps to bring the shadow aspect of the psyche back into a certain balance within the overall psychological framework": ["Shadow Warrior"],
-      "this essence combination provides us with protection against both inner and outer shadow elements": ["Shadow Defense"]
+      "this essence combination provides us with protection against both inner and outer shadow elements": ["Shadow Defense"],
+      "supports one in seeing and navigating through one's personal darkness": ["Bat"]
     }],
     "related": []
   },
@@ -2250,7 +2327,8 @@
     "references": [{
       "potentially a powerful experience of the 3rd eye, so can be useful for vision quest": ["Direct Vision"],"good for meditation, vision quests, as a preparation for various rituals, and for becoming aware of the sacredness of Nature": ["Behold the Silence"],
       "shamanic mystery is encountered with this orchid": ["Shadow Facing"],
-      "We can with confidence call upon and/or discover our Power Animals when using this essence": ["Totem"]
+      "We can with confidence call upon and/or discover our Power Animals when using this essence": ["Totem"],
+      "a shamanic teacher; provides support for exploring and enhancing one's shamanic power": ["Crow"]
     }],
     "related": []
   },
@@ -2286,7 +2364,8 @@
   {
     "title": "Socialising",
     "references": [{
-      "for people who are not at ease being with others": ["Tall Mulla Mulla"]
+      "for people who are not at ease being with others": ["Tall Mulla Mulla"],
+      "nurtures connections with others and provides support for those who feel socially inhibited or self-conscious": ["Chimpanzee"]
     }],
     "related": []
   },
@@ -2325,7 +2404,9 @@
       "for reaching one’s own spiritual truth by cutting through any confusion or misinformation": ["Angelsword"],
       "to open people up to their spirituality and to access the doorway to their higher perceptions": ["Bush Iris"],
       "helps one to cope with the dross being burnt off before emerging at a new spiritual level": ["Mint Bush"],
-      "for spirituality and connection to God in a grounded and centred way": ["Red Lily"]
+      "for spirituality and connection to God in a grounded and centred way": ["Red Lily"],
+      "nurtures a sense of sacredness and knowing that we are all part of a sacred web": ["Buffalo"],
+      "supports those who have lost their way and who wish to find their spiritual center": ["Canada Goose"]
     }],
     "related": ["Evolution", "Unity"]
   },
@@ -2366,7 +2447,9 @@
       "the flow of masculine energy in the body": ["Sitka Spruce Pollen, Sunflower"],
       "the heart chakra": ["Chrysocolla, Chrysoprase, Emerald, Kunzite, Montana Rhodochrosite, Rhodochrosite, Rose Quartz"],
       "it provides endurance and 'upward' strength, strenghtening the aura": ["Liberation / Deception"],
-      "brings about renewed enthusiasm, endurance and inner strength": ["Macrocarpa"]
+      "brings about renewed enthusiasm, endurance and inner strength": ["Macrocarpa"],
+      "for cultivating strength, groundedness, and power": ["Bear"],
+      "nurtures strength, a feeling of invincibility, and supreme confidence in one's abilities": ["Bumblebee"]
     }],
     "related": []
   },
@@ -2404,7 +2487,8 @@
       "an antidote to being stuck in a rut": ["Serendipity"],
       "for resolving obsessions - thoughts, events, things or ideas which are stuck": ["Boronia"],
       "for people who feel stuck. For those who know what they want to achieve but do not know how to go about it": ["Red Grevillea"],
-      "For people who have had a difficult time in the past and who are stuck there": ["Sunshine Wattle"]
+      "for people who have had a difficult time in the past and who are stuck there": ["Sunshine Wattle"],
+      "provides a 'jump-start' to those who feel stuck or blocked": ["Cheetah"]
     }],
     "related": []
   },
@@ -2489,7 +2573,7 @@
     "references": [{
       "assists in working with telepathy, to attune a person to be more receptive to not only other people but also other species and kingdoms": ["Green Spider Orchid"]
     }],
-    "related": ["Spiritual", "Communication"]
+    "related": ["Spiritual", "Communication", "Psychic Development"]
   },
   {
     "title": "Touch",
@@ -2508,7 +2592,9 @@
       "support for the physical body during a transformation of any kind": ["Fireweed"],
       "support on all levels during transformation": ["Soul Support"],
       "to help pace a transformative experience": ["Dwarf Fireweed"],
-      "when one feels stuck in the middle of a transformative process": ["Fireweed Combo", "Sticky Geranium"]
+      "when one feels stuck in the middle of a transformative process": ["Fireweed Combo", "Sticky Geranium"],
+      "a catalyst for transformation, supports one in times of emotional and spiritual transition": ["Butterfly"],
+      "deepens the power of healing and transformation with breath, water, love, joy and meditation": ["Dolphin"]
     }],
     "related": []
   },
@@ -2519,7 +2605,8 @@
       "patience during transition": ["Polar Ice", "Rock Spring"],
       "peace and contentment during times of transition": ["Cow Parsnip"],
       "an excellent essence to use in times of major life transitions": ["Active Serenity"],
-      "helps people move through major life changes": ["Bottlebrush"]
+      "helps people move through major life changes": ["Bottlebrush"],
+      "supports one in times of emotional and spiritual transition": ["Butterfly"]
     }],
     "related": []
   },
@@ -2557,7 +2644,8 @@
       "in oneself": ["Prickly Wild Rose"],
       "in the unknown and the unknowable": ["Rock Spring", "Round-Leaved Sundew", "Star Sapphire"],
       "lacking trust in the spiritual world": ["Jacob's Ladder"],
-      "for those who put out prickles to keep people away": ["Pink Mulla Mulla"]
+      "for those who put out prickles to keep people away": ["Pink Mulla Mulla"],
+      "for letting go, moving forward and trusting in the wind's ability to carry one": ["Butterfly"]
     }],
     "related": []
   },

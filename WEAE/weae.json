@@ -4,314 +4,404 @@
     "name": "Bat",
     "description": ["Supports one in seeing and navigating through one's personal darkness. Provides confidence for facing and healing unresolved issues. For honoring and experiencing the Divine in the form of the shadow. Supports one in knowing who and where one is. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Shadow", "Confidence"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Bear",
     "description": ["For connecting deeply with the power and rhythms of the Earth. Supports one in incubating ideas, plans, and dreams and bringing them to fruition. Helps one tap the power of one's unconscious. Supports one in attuning to one's own natural cycle of hibernation and emergence. For cultivating strength, groundedness, and power."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Grounding", "Power", "Strengthening"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Beaver",
-    "description": ["As the master architect and builder, provides support for creating the design of one's life. Facilitates clear thinking, planning, creating and problem solving. Especially supportive in the beginning of new projects and endeavors. Supports the acceptance of structure as a necessary part of the creative process. ."],
+    "description": ["As the master architect and builder, provides support for creating the design of one's life. Facilitates clear thinking, planning, creating and problem solving. Especially supportive in the beginning of new projects and endeavors. Supports the acceptance of structure as a necessary part of the creative process."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Creativity", "Planning"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Buffalo",
     "description": ["For slowing down and getting in touch with the resonance and rhythms of the Earth. Nurtures a sense of sacredness and knowing that we are all part of a sacred web. As a teacher of stillness, buffalo encourages experiences of deep inner quiet, calm and contemplation. Enhances feelings of gratitude for the gift of all life. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Grounding", "Spiritual", "Peace", "Gratitude"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Bumblebee",
     "description": ["For claiming one's power as a strong and fully capable person. Nurtures strength, a feeling of invincibility, and supreme confidence in one's abilities. Supports one to achieve what otherwise might seem impossible."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Confidence", "Power", "Strengthening"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Butterfly",
     "description": ["As a catalyst for transformation, supports one in times of emotional and spiritual transition. For letting go, moving forward and trusting in the wind's ability to carry one. Encourages feelings of lightness, grace and a gentle fluidity in giving and receiving. Nurtures a harmonious balance of vulnerability and strength within the self."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Transformation", "Transition", "Letting Go", "Trust", "Grace", "Harmony"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Canada Goose",
     "description": ["Helps one connect with life as part of a sacred circle. Supports one in knowing where one is going, of feeling always at Home. For becoming aware of the Great Cycle within and around us of birth, death, and renewal. Supports those who have lost their way and who wish to find their spiritual center. Supports one in knowing when to lead, and when to seek guidance and follow. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Spiritual"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Cheetah",
     "description": ["For accomplishing tasks with great speed, efficiency, and focus. Provides a 'jump-start' to those who feel stuck or blocked. Provides support to the nervous system in those living a fast-paced lifestyle. Helps one to get moving when a decision has been made. For those who wish to become efficient in their use of time and resources."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Stuck", "Efficiency", "Focus", "Overwork"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Chimpanzee",
     "description": ["Helps one to connect with the simplicity and joy of being alive. Nurtures connections with others and provides support for those who feel socially inhibited or self-conscious. Helps one to fully accept oneself in all one's humanness. Nurtures playfulness, curiosity, and self-expression. Encourages a sense of living in harmonious community."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Joy", "Socialising", "Playful", "Community"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Crow",
     "description": ["As a shamanic teacher, provides support for exploring and enhancing one's shamanic power. Assists one to see deeply into the nature of reality. Supports developing and claiming one's intuitive ability. Facilitates discovering the lessons of paradox in one's life. For moving between the realms, for piercing through Illusion. 'Open your eyes, open your ears, all is not as it appears.'"],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Shamanism"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Deer",
     "description": ["For moving deliberately and with great awareness and calm. Encourages gentleness and peace. Enhances one's ability to change directions quickly, without losing one's center. Deepens awareness of the present moment. For seeing with great clarity what is going on around and within oneself. For cultivating surrender, humility, and trust in gentle ways."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Peace", "Presence", "Seeing", "Humility", "Letting Go"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Dolphin",
     "description": ["As the great teacher of the power of play and unconditional love, enhances feelings of joy, laughter and delight, as well as compassion for one's own pain and that of others. Deepens the power of healing and transformation with breath, water, love, joy and meditation. Enhances dream recall, psychic development, and telepathic communication between people and animals."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Playful", "Joy", "Love", "Compassion", "Transformation", "Dreaming", "Telepathy"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Dove",
     "description": ["For nurturing feelings of peace, calm, and stillness at the heart of one's life. Quiets the thinking mind and allows one to experience the glory of God in the present moment. Nurtures a sense of the Divine Feminine and heavenly blessing, and allows one to honor and appreciate the beauty of simplicity. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": ["Peace", "Presence"],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Dragonfly",
     "description": ["As the master of illusion, supports one in traveling between the dimensions, helping one to open to spiritual energies. For relaxing and experiencing dreamy, spacious, light energy. Supports one in calming down and resting comfortably after busy periods. Facilitates letting go and spiritual expansion. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Eagle",
     "description": ["For soaring above earthly matters to gain perspective and clarity. Assists in transcending the mundane and perceiving the deepest truth at the heart of a situation. Enhances spiritual and creative vision. Facilitates opening to the divine for creative inspiration. For soaring with Great Spirit, for connecting with Higher Self and divine Guidance."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Elephant",
     "description": ["For establishing deep grounding and spiritual expansion. Enhances telepathic communication over distances, and supports one in listening to others and to oneself. For remembering what is important. For honoring one's intuitive feminine nature and for experiencing Mother Earth in her vastness. Encourages inclusive leadership that is concerned with the welfare of all."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Fox",
     "description": ["Supports one in developing independence of thought and confidence in one's decisions. Nurtures one's ability to find clever solutions when facing difficult situations. For breaking out of societal conditioning and finding one's own way. Assists one in seeing a situation unfold, and facilitates one in making wise decisions. Provides support for claiming one's authority."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Frog",
     "description": ["Facilitates experiencing the everyday world as miraculous. Helps one to become aware of and to trust in life as a miraculous, transformative process. Provides strength and certainty for those undergoing deep emotional and spiritual changes. For developing comfort with change and transformation as the constant of life."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Gazelle",
     "description": ["Provides support for facing one's vulnerability and for learning the strength of healthy vulnerability. For feeling safe in the world. Supports one in becoming keenly aware of what is going on in one's surroundings, and helps one to develop a highly tuned sense of alertness and awareness. For moving through the world in a gentle yet confident way."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Giraffe",
     "description": ["For developing the ability to see the terrain of one's life from an expanded, clear, and grounded perspective. Enhances spiritual expansion and vision while at the same time supporting one to experience this from a well grounded center. Encourages looking out for the welfare of others and sticking one's neck out for the benefit of others."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Hippopotamus",
     "description": ["Provides deep grounding and powerful support for facing unresolved emotional issues. Helps those who need to learn to understand and be with their feelings. Encourages an integrated experience of the physical and emotional realms of life. For developing a spirituality that is deeply rooted in living in the physical world."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Hummingbird",
     "description": ["Nurtures feelings of joy, delight, and celebration at the gift of being alive. For 'lightening up'. Assists with gentle purification and cleanses away recent emotional residues. Helpful in times of physical transition (travel, changing home/work, etc). Brings courage when facing emotional challenges and provides uplifting support for facing past, unresolved issues."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Jaguar",
     "description": ["Nurtures a profound connection with the shamanic power and Spirit of the rainforest. For experiencing deep groundedness and oneness with the natural world. For cultivating a deep sense of Spiritual Unity at the heart of one's life. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Lion",
     "description": ["For claiming one's deepest personal authority and spiritual power. Nurtures a sense of well being and strength, and supports one in connecting with the inner archetypes of King/Queen. Helps one to develop courage and to face fears. Nurtures and enhances self-confidence. Encourages leadership, achievement, and success"],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Mountain Lion",
     "description": ["Encourages purposeful action. Provides powerful support for manifesting one's dreams and visions. Supports one in staying true to oneself despite distractions and upheavals. Encourages the ability to walk one's talk. Assists one in moving through fears and encourages development of self-confidence. Balances qualities of strength and gentleness within the self."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Otter",
     "description": ["Helps one access one's playful child-self. Keeps one light and playful, even while facing serious matters. Encourages expression of humor and laughter. Nurtures a sense of not taking life too seriously. Encourages one to experience life as a joyful, fun game. For increasing a sense of freedom, lightness, and delight at being alive."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Owl",
     "description": ["For accessing and acting upon one's highest wisdom. For seeing clearly through one's darkness. Helps one to directly face things that need attention. Enhances intuition and the ability to 'see' things that are not normally seen. Encourages clarity of mind, seeing the truth at the heart of situations, and speaking with a compassionate voice from one's highest place.ss, and delight at being alive."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Peacock",
     "description": ["Nurtures a sense of fullness, completion, and wholeness within the self. For claiming one's authenticity and authority. Calls forth one's most integrated self. Enhances confidence and supports self-esteem. For calling forth spiritual abundance, and for expressing one's beauty in the world. Facilitates experiences of the archetypal energies of the King & Queen. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Polar Bear",
     "description": ["Supports one in moving forward in a deeply grounded way. Nurtures an integration of rootedness and action. For deepening one's experience of groundedness and power on the spiritual search and path. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Rabbit",
     "description": ["For support in creating abundance at all levels of one's life. Encourages and enhances one's innate creativity. Nurture's confidence in one's ability to create the life of one's dreams. Provides support when dealing with lots of changes or activities during busy periods. Nurtures creativity and manifestation in all aspects of one's life."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Raccoon",
     "description": ["Supports one in uncovering and accepting hidden aspects of the self. For unmasking the Truth. For moving with gentleness and ease between life's many roles (ie: mother, wife, employee, sister, daughter, etc). For enjoying the many aspects of the Self, and finding delight in the transition from one to the other. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Robin",
     "description": ["For nurturing and mothering oneself. Helps build a healthy adult ego. Supports one's ability to be a loving parent; for living in family harmony, and for experiencing love in the form of service. For grounding that which is new in one's life. Helps create harmony out of chaos, and supports one in recovering from emotional trauma. A harbinger of spring, hope and happiness within the self."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Salamander",
     "description": ["For connecting with the mysteries of the Earth. Helps one to feel grounded and to find Power through one's connection with the mysteries of transformation and regeneration. For discovering the secrets of the underworld. For deepening into the present and tapping the shamanic power that is available at the heart of the present moment. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Salmon",
     "description": ["For cultivating an awareness of life as a journey Home to the Divine. Helps one to find spiritual meaning and purpose in one's life. Supports discovering and deepening the experience of one's spiritual path. For moving forward with perseverance toward one's destiny, while trusting in the unknown. For surrendering to the spiritual mystery of life. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Seal",
     "description": ["As the great teacher of ease and effortlessness, supports one in learning to put forth effort and then allowing things to unfold naturally. For learning to flow through life with grace and ease. Provides support for those who are trying too hard. For ease in one's body and nurturing a positive body image. For learning the art of simply Being. Nurtures feelings of sweetness and innocence and supports one to release worries and enjoy life. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Snake",
     "description": ["As a shamanic teacher, facilitates initiation into the deepest, transpersonal realms of the psyche. Provides powerful support for transformation at the deepest levels. Helps one deepen and integrate one's experience of archetypal energies including Death and Rebirth. For awakening to the deepest mysteries of Creation."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Spider",
     "description": ["As the 'Weaver of the Web,' facilitates inner connection and integration. Facilitates accessing one's deepest inner wisdom, and nurtures a sense of Wholeness. As the vehicle of interconnectedness, supports one in tieing together that which has felt separate within oneself. Nurtures a sense of belonging, connection, and integration at all levels of one's being."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Squirrel",
     "description": ["Supports one in finding a dynamic integration of work and play. Raises awareness of one's spirited inner child -- allowing busy people to experience their work as play. To turn any task into a delightful game. Enhances one's ability to gather and store resources. Helps one to plan and save for the future. "],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Swan",
     "description": ["For expanding one's capacity to acknowledge and accept one's own goodness and beauty. Nurtures a sense of Grace and facilitates seeing everything as a mirror of the Divine. Enhances self-esteem. Helps one to see the goodness in others. Encourages one to experience life as a precious and sacred gift. Nurtures a sense of 'Walking in Beauty.'"],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Tiger",
     "description": ["For quieting the mind and coming into the pure, raw awareness and power of the present moment. Supports one in becoming strong and focused. Nurtures a sense of spiritual strength and mastery. For cultivating an unwavering mind and for acting with power and clarity from one's highest place. Inspires right action when faced with opposing or difficult choices."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Turtle",
     "description": ["For experiencing deep grounding and Oneness with the Earth. Provides emotional and psychic protection, and helps one to feel safe when dealing with intense situations and environments. Facilitates focusing on the present moment and taking care of matters at hand. Helps one to slow down and appreciate the present. Provides support for solitary pursuits."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Whale",
     "description": [" An advanced remedy for connecting with higher planes of consciousness beyond the earth-realm. For spiritual expansion at the deepest levels. Calms and clears the mind, and allows one to connect with higher Intelligence. For exploring the 'big picture' of reality as seen from the higher realms -- at the levels of interspecies and intergallactic knowledge and communication. For connecting with 'the knowledge of the ages.'"],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Wild Horse",
     "description": ["As a tonic of the heart, nurtures a sense of loving openness, belonging, and connection with others. Supports one in developing a deepened sense of self, nurturing strength, stamina and power in the depth of one's heart. Gently opens the Heart chakra. Provides support for those who are lonely, depressed, and have 'lost heart.'"],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Wolf",
     "description": ["Facilitates grounding and nurtures a sense of divine Presence. For accessing one's ability to know the truth. Assists in defining relationships and setting healthy boundaries with others. Encourages kinship and a sense of community. Encourages right action. For cultivating a joyful spirit, strength of character, integrity, and honoring lifetime commitments."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   },
   {
     "company": "WEAE",
     "name": "Zebra",
     "description": ["For experiencing a profound integration of the opposites within oneself. Provides support for moving beyond black-and-white thinking, and for letting go of projections. For seeing the real truth behind what might at first seem masked or hidden. Supports one in maintaining one's individuality in group settings. Nurtures a sense of community, togetherness, and cooperation."],
     "indications": [""],
-    "effects": [""]
+    "effects": [""],
+    "keywords": [""],
+    "stock": true
   }
 ]
