@@ -170,7 +170,7 @@
       "from being overwhelmed": ["Paper Birch", "Purple Poppy", "Red Elder", "Stinging Nettle"],
       "soothes anxiety as we confront change": ["Redoubt Volcano"]
     }],
-    "related": ["Stress"]
+    "related": ["Stress", "Fear", "Nervous System"]
   },
   {
     "title": "Apathy/Apathetic",
@@ -350,7 +350,8 @@
   {
     "title": "Burns/Fire/Heat",
     "references": [{
-      "reduces the negative effects of fire and the sun's rays": ["Mulla Mulla"]
+      "reduces the negative effects of fire and the sun's rays": ["Mulla Mulla"],
+      "for heat related issues, including sunburn or burns": ["Rising Flame"]
     }],
     "related": []
   },
@@ -788,6 +789,7 @@
       "for critical instances when extra energy is urgently required": ["Double Espresso"],
       "helps to address the anxiety and fear that people are left with after such a massive traumatic event": ["Andean Fire"],
       "helpful in emergencies and moments of high stress. Addressing shock at a deep level of the psyche, it also gives spiritual support": ["Immediate Relief"],
+      "our most advanced formula for psychic protection, and yet it is also uplifting. May also be used as an emergency essence": ["Shield of Light"],
       "for the person who is going through the 'black night of the soul'. It gives them the strength and courage to cope and will bring their survival skills to the fore": ["Waratah"]
     }],
     "related": ["Shock"]
@@ -860,7 +862,8 @@
       "great potential for enhancing the human soul's journey into light": ["Spirit of Life"],
       "helps one to cope with the dross being burnt off before emerging at a new spiritual level": ["Mint Bush"],
       "the healing quality that Sydney Rose offers us (Unity), is the key to this new phase of unfolding growth and consciousness": ["Sydney Rose"],
-      "helps you move forward in a new era. It works on the 1st and 2nd chakras, removing old and unnecessary things.": ["New Beginnings"]
+      "helps you move forward in a new era. It works on the 1st and 2nd chakras, removing old and unnecessary things.": ["New Beginnings"],
+      "provides support to live with a higher consciousness even in the difficult situations we face, as we continue our journey towards heaven on earth": ["Stairway to Heaven"]
     }],
     "related": ["Spiritual"]
   },
@@ -924,7 +927,8 @@
       "for a fear of losing control": ["Dog Rose of the Wild Forces"],
       "release nightmares, terror and phobias stemming from past lives": ["Green Spider Orchid"],
       "dealing with extreme terror, especially terror experienced in life-threatening situations or psychic attack": ["Grey Spider Flower"],
-      "of fire or flames (often from a past life)": ["Mulla Mulla"]
+      "of fire or flames (often from a past life)": ["Mulla Mulla"],
+      "make its easier for you to spend your daily life away from the negative emotions of your subconscious mind such as anxiety and fear": ["Being Within"]
     }],
     "related": []
   },
@@ -972,7 +976,7 @@
       "maintaining focus on one's healing process when many issues are coming up for consideration": ["Fluorite Combo"],
       "freeing mental energies for more focused attention. A useful aid for studying": ["Crown of Serenity"],
       "when children are studying, this essence will help to maintain focus": ["Settling With A Smile"],
-      "bring strength and almost fierce focus to the solar plexus and heart chakras": ["Eye of the Tiger"]
+      "bring strength and almost fierce focus to the solar plexus and heart chakras": ["Eye of the Tiger"],
       "keeping focused in the present and reduces procrastination": ["Sundew"],
       "for accomplishing tasks with great speed, efficiency, and focus": ["Cheetah"]
     }],
@@ -1153,6 +1157,7 @@
       "release guilt and shame, unblocking the higher heart chakra's ability to cleanse and heal the heart chakra": ["Redemption Dream"],
       "helps expand the consciousness of the heart chakra to a state of unconditional love": ["Spirit of the Higher Heart"],
       "Helps to clear the shadow and also strengthen the “thymic heart” centre": ["Thymic Heart"],
+      "compensates for irregularities in the heart rhythm": ["Heart Time"],
       "helps to open the heart. It is for those who feel cut off from their feelings": ["Bluebell"],
       "release and heal mental prejudice, allowing the heart to open without prejudgement": ["Freshwater Mangrove"]
     }],
@@ -1596,6 +1601,7 @@
       "protects one's core while engaged in the transcendental meditation": ["Defender from the Dark"],
       "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"],
       "to energise the whole chakra system and so facilitate deeper meditations": ["Meditation"],
+      "a deeply vertical uplifting energy into stillness, awareness and inner focus; great for meditation": ["Stairway to Heaven"],
       "releases any energies that entered while the aura was open": ["Angelsword"],
       "an excellent remedy to give someone who has just started meditation": ["Bush Iris"]
     }],
@@ -1656,6 +1662,21 @@
       "releasing fears of the power of nature": ["Soapberry"]
     }],
     "related": ["Gardening"]
+  },
+  {
+    "title": "Neediness",
+    "references": [{
+      "addresses the negative conditions of disempowerment; of being overly needy; of feeling not strong enough; of feeling unable to do things alone; of always needing the strength and support of others": ["Monga Waratah"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Nervous System",
+    "references": [{
+      "used to support the sympathetic part of the nervous system": ["Sympathetic"],
+      "used to support the parasympathetic part of the nervous system": ["Sympathetic (P)"]
+    }],
+    "related": []
   },
   {
     "title": "Neediness",
@@ -2275,6 +2296,7 @@
       "from solidifying one's value system": ["Pyrite"],
       "brings awareness to our inner sense of self-worth": ["Just Center"],
       "to help the inner child to know that he or she is loved and worthy of love": ["Love Beyond Love"],
+      "purifies the 3rd chakra by bringing into consciousness and deleting limiting or destructive self images that are related to the ego": ["Highest Reflection"],
       "for an increase in the flow of the vital force, quality of life, courage and self esteem": ["Dog Rose"],
       "resolves low self-esteem, lack of confidence and diminished self-love": ["Five Corners"],
       "can restore self esteem that has been damaged by past actions you may have felt guilty about": ["Sturt Desert Rose"]

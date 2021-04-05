@@ -266,12 +266,23 @@
   {
     "company": "Living Tree Orchid Essences",
     "group": "Single Orchid Essences",
+    "name": "Dragon Mask",
+    "latin": "Psychopsis Kalihi",
+    "description": ["This orchid puts forth a meter-long bloom spike, and this long spike is one of the key characteristics of the orchid energetically speaking. The base of the plant roots the essence in the 1st and 3rd chakras. Different people will sense this in differing ways, but the essence then acts on the throat and crown chakras, before also then acting on several above the body: the 9th, 14th, 19th, 21st & 27th chakras. Grounding, self-connection and self-expression are addressed from below. A chronic blockage of self-expression can manifest itself in chronic coughing or constant throat clearing and coughing, where Dragon Mask can have a dissolving and liberating effect. Please note: the more chronic the blockage, the longer it takes to resolve it", "The name of the essence was in some ways obvious, as the bloom presents an image not unlike the masks of dragons as drawn and sculpted in the Far East especially. And one of the early provers did connect in her meditation with a white dragon, which in turn connected with the planets and the cosmos. (Those images are very much associated with action at the higher chakra level.) There is a shift in perspective with Dragon Mask, as it enables an understanding from a higher level of the psyche and soul. And that perspective brings with it a sense both of freedom, and a quiet joy.", "Adrian subsequently found in his work that Dragon Mask pairs well with our new Orchid Metal Element, and these are best used sequentially, with Dragon Mask taken first, with the Orchid Metal Element taken 15 or 20 minutes later. Between them they are enabling a restructuring in the higher chakras, and at the same time the Orchid Metal Element also then helps to 'ground' the effect, so that one is not left too focused in that higher meditational space that Dragon Mask can introduce."],
+    "indications": [],
+    "effects": [],
+    "keywords": [],
+    "stock": false
+  },
+  {
+    "company": "Living Tree Orchid Essences",
+    "group": "Single Orchid Essences",
     "name": "Eye of the Tiger",
     "latin": "Scaphosepalum anchoriferum",
     "description": ["Strongly energising and yang, this essence is likely to be experienced in one of two ways. It will either bring strength and almost fierce focus to the solar plexus and heart chakras, as well as the ajana centre; or will be experienced as bringing joy and optimism. In either case it brings a strength of heart and a renewal of purpose to one’s day.", "Eye of the Tiger motivates one to confront hidden issues of the central body chakras, as well as confronting the same challenges externally. Its action then moves into the higher chakra domain."],
     "indications": [],
     "effects": [],
-    "keywords": ["Motivation", "Optimism"],
+    "keywords": ["Motivation", "Optimism", "Focus", "Strengthing"],
     "stock": false
   },
   {
@@ -580,7 +591,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Evolution", "Letting Go"],
-    "stock": true
+    "stock": false
   },
   {
     "company": "Living Tree Orchid Essences",
@@ -730,10 +741,10 @@
     "group": "Single Orchid Essences",
     "name": "Rising Flame",
     "latin": "",
-    "description": ["For heat related issues in general. The main feature in this one, is the heat associated with the 2nd and 3rd chakras extending to the heart chakra. It may bring a settling of the heart area and an intense need to be loved and have the companionship of love. Increased libido too.", "A very powerful essence that gives clarity to the base and 2nd chakras, rising through the 4th to the 27th chakra, and is a follow on to Spiral of light."],
+    "description": ["For heat related issues in general. This can be the result of excessive heat in the form of sunburn, burns heat accumulated internally. Another level can build up 'sexual heat' through one blocking the libido. Rising Flame mainly affects the sacral, solar plexus and heart chakra, whereby accumulated heat in the lower abdomen can dissolve, spreading upwards and to the heart area where it is cleared and calmed.", "The essence brings warmth into the heart, opens the feeling for joy and contentment, Ultimately, Rising Flame helps convert excessive heat into comfortable warmth, in which we can feel comfortable and secure. It may bring a settling of the heart area and an intense need to be loved and have the companionship of love. The orchid energy may also have an effect of stimulating or increasing the libido.", "A very powerful essence that gives clarity to the base and 2nd chakras, rising through the 4th to the 27th chakra, and is a follow on to Spiral of light."],
     "indications": [],
     "effects": [],
-    "keywords": ["Sensuality/Sexuality"],
+    "keywords": ["Sensuality/Sexuality", "Burns/Fire/Heat"],
     "stock": false
   },
   {
@@ -937,6 +948,17 @@
   {
     "company": "Living Tree Orchid Essences",
     "group": "Single Orchid Essences",
+    "name": "Stairway To Heaven",
+    "latin": "",
+    "description": [ "A deeply vertical uplifting energy into stillness, awareness and inner focus. An invitation to let the sun (heart) inside you. Expands the solar plexus, chest and head as if the 'lid' were being removed.", "It acts like nourishment for the soul when we feel stuffed with material consumption to inundation. It provides clarity and a cleaner connection with the higher realms.", "With this essence there seems to be some kind of realignment of our inner perception to adjust our focus and listen more deeply. The ears act like a radar: they are part of the ability to listen and to be aware of everything that is happening near and far.", "Stairway to Heaven deepens the feeling for the changing world inside and outside and can help to re-calibrate and align ourselves on certain levels.", "This essence adds orchids to Clarifying the Shadow and further enhances its action on the 29th chakra. Provides support to live with a higher consciousness even in the difficult situations we face, as we continue our journey towards heaven on earth. It is the perfect essence for us living in this era (2020-21). Please use it next to Clarifying The Shadow. Great for meditation"],
+    "indications": [],
+    "effects": [],
+    "keywords": ["Evolution", "Meditation"],
+    "stock": false
+  },
+  {
+    "company": "Living Tree Orchid Essences",
+    "group": "Single Orchid Essences",
     "name": "Thoracic Alignment",
     "latin": "Nanodes medusae",
     "description": ["This essence was made with the same orchid that produced Core of Being, but when the plant was not in bloom. Its action relates more to the alignment of the physical body, the spine and the thoracic cage of the torso. This aligning of the body provides a framework for more grounded energy flow within, and allows more space around the heart. Very helpful for bodywork, see also Shiva's Trident and Sacral Release.", "Thoracic Alignment is now included in the kit of 64 essences."],
@@ -1118,7 +1140,7 @@
     "description": ["A very good essence to help you manifest your goals, and which brings joy to the heart yet is also grounding. Helps you to be awake and in the present moment with a sense of cheer and lightness. This essence wants you to straighten the spine, and not slouch, thus enabling the heart to be both strong and open. Feel the delight and excitement that you felt as a child once more, despite the trials and troubles the years may have brought your way. Having faced the challenges life brings, let us not be weighed down by their memory. Slip on these fairy-shoes, and step out with assurance into a brand new day, on to a path which is either new or at least renewed.", "To some degree this essence presents a type of ‘litmus test’, relating to our inner journey and its expression in life. If we are on our deeper spiritual path, and living in accordance with that, one will feel joy when taking this essence. If there is any lack of harmony between the path and its outer manifestation, then the emotional response will be subdued, as the orchid helps one to realign within.", "Bulbophyllum frostii is a specie found at about 1400 meters in evergreen forests in Vietnam, and was first described in 1926. It grows in the warm section of our greenhouse."],
     "indications": [],
     "effects": [],
-    "keywords": ["Manifesting", "Presence", "Joy"],
+    "keywords": ["Manifesting", "Presence", "Joy", "Renewal"],
     "stock": false
   },
   {

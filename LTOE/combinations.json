@@ -26,11 +26,11 @@
     "group": "Orchid Combinations",
     "name": "Being Within",
     "latin": "",
-    "description": ["Incarnating brings us into contradictions and seeming paradox, as there are the two poles of our nature: the spirit, and the body. At intervals in our lives, this tension can translate into myriad challenges. This combination works at a very high level to help resolve these contradictions and tensions,leading to deeper self-awareness. It will make it easier for you to spend your daily life away from the negative emotions of your subconscious mind such as anxiety and fear. The crown chakra is opened, and the 2nd and Heart chakras are reminded of their connection with our higher spiritual nature. However, the most important action of this essence is in the higher chakras. The clear indication is that this essence should only be taken once a day for 5 days, and then once a week for 6 weeks", "Contains: Clearing The Way, Crown of Serenity, Furnice of Life, Purity of Soul, Amethyst, Ruby"],
+    "description": ["Incarnating brings us into contradictions and seeming paradox, as there are the two poles of our nature: the spirit, and the body. At intervals in our lives, this tension can translate into myriad challenges. This combination works at a very high level to help resolve these contradictions and tensions,leading to deeper self-awareness. It will make it easier for you to spend your daily life away from the negative emotions of your subconscious mind such as anxiety and fear. The crown chakra is opened, and the 2nd and Heart chakras are reminded of their connection with our higher spiritual nature. However, the most important action of this essence is in the higher chakras. The clear indication is that this essence should only be taken once a day for 5 days, and then once a week for 6 weeks", "This combination, like many of the other orchid essences is especially suited for mediation. The fullest effect can be achieved if we allow ourselves to sit still with closed eyes for at least 10 minutes (if necessary with the bottle in hand in front of the chest). This enables the orchids to develop their energies more expansively in our energy field and to convey their message more fully.", "In deeply submerged meditation, the crown chakra and the energy centers above it may open in such a way that our “light nature” manifests and we immerse ourselves in the state of oneness.","Contains: Clearing The Way, Crown of Serenity, Furnace of Life, Purity of Soul, Amethyst and Ruby"],
     "indications": [],
     "effects": [],
-    "keywords": [],
-    "stock": true
+    "keywords": ["Evolution", "Fear"],
+    "stock": false
   },
   {
     "company": "Living Tree Orchid Essences",
@@ -136,7 +136,7 @@
     "group": "Orchid Combinations",
     "name": "Energy Matrix Protection",
     "latin": "",
-    "description": ["This combination has been created in response to the very worrying situation in Japan, brought about by the earthquake and tsunami of March 2011. Radiologists tell us that it is unlikely any flower essence can actually physically cleanse the body of nuclear isotopes, once they are ingested. However, we believe that flower essences may be capable of shielding the body internally, at the etheric level, from many of the harmful effects of radiation. Our aim in researching this combination was to create a support and protection for the healthy energetic matrix of the body at the cellular level. Very useful in relation to all the electromagnetic pollution we are surrounded by these days.", "Contains: Light of My Eye; Core Release; Moon Child; Wisdom of Compassion and Narnia Sphagnum Moss."],
+    "description": ["This combination has been created in response to the very worrying situation in Japan, brought about by the earthquake and tsunami of March 2011. Radiologists tell us that it is unlikely any flower essence can actually physically cleanse the body of nuclear isotopes, once they are ingested. However, we believe that flower essences may be capable of shielding the body internally, at the etheric level, from many of the harmful effects of radiation.", "Our aim in researching this combination was to create a support and protection for the healthy energetic matrix of the body at the cellular level. Energy Matrix Protection helps our cells to remember their own healthy blueprint through Narnia Sphagnum Moss, whose energetic signature is vibrant, healthy cell growth.", "Very useful in relation to all the electromagnetic pollution we are surrounded by these days.", "Note: In 2020, Spiral of Light & Shungite were added to the combination to resolve health impairments that can arise from the constant bombardment of microwaves and electromagnetic fields from new communication technologies. This particularly affects electro-sensitive, sensitive and very empathic people who have great empathy and a deep, subtle perception potential.", "In addition, 1 percent sea salt is added to the essence, which slightly increases the effect, but the taste may take some getting used to.", "For sleep problems which may be due to EMF, it is also recommended to take Shungite, as a single essence before bedtime.", "Contains: Light of My Eye, Core Release, Moon Child, Wisdom of Compassion, Narnia Sphagnum Moss, Spiral of Light and Shungite."],
     "indications": [],
     "effects": [],
     "keywords": ["Detoxification", "Protection", "Restoration"],
@@ -200,12 +200,23 @@
   {
     "company": "Living Tree Orchid Essences",
     "group": "Orchid Combinations",
-    "name": "Highest Reflection",
+    "name": "Heart Time",
     "latin": "",
-    "description": ["This combination was created in order to address a malaise developing amongst young people who spend too much time in front of screens. Purifies the 3rd chakra related to the ego and goes up to the 25th chakra, which is the highest point that reflects the self.", "Helps people who cannot leave their smartphones and tablets and live only with the information in them. However, for the rest of us there is a very clear action from this trio combination, which is a powerful sense of connecting more clearly with one’s higher chakras. If you take the drops (undiluted please) under the tongue, and sit quietly with it for 10 minutes, you should experience this quite clearly.", "Contains: Spiral of Light, Dragon Mask, Rising Flame"],
+    "description": ["The combination has a very specific function: people with energetic disturbances in their heart rhythm. The effect of Heart Time is aimed at starting to compensate for irregularities in the heart rhythm on an energetic level, mainly due to fast heartbeat or a racing heart", "Contains: Compassionate Heart, Healing the Higher Heart, Heaven's Gate and 24kt gold."],
     "indications": [],
     "effects": [],
-    "keywords": ["Spiritual", "Meditation"],
+    "keywords": ["Heart"],
+    "stock": false
+  },
+  {
+    "company": "Living Tree Orchid Essences",
+    "group": "Orchid Combinations",
+    "name": "Highest Reflection",
+    "latin": "",
+    "description": ["Highest Reflection is a combination of three orchid essences and two gemstone energies with a strong upward energy. Purifies the 3rd chakra by bringing into consciousness and deleting limiting or destructive self images that are related to the ego and then the energy goes up through the higher chakras to the 25th chakra, which is the highest point that reflects the self.", "Highest reflection helps to dissolve what the rigidity formed from a limiting self-image (mental and emotional) which has made us become frozen and inflexible. With the grounding and protective energy of black tourmaline, Highest reflection is very useful to neutralize your own negative thoughts and inner conflicts and to convert them into positive, usable energy.", "This combination was created in order to address a malaise developing amongst young people who spend too much time in front of screens. Helps people who cannot leave their smartphones and tablets and live only with the information in them. However, for the rest of us there is a very clear action from this trio combination, which is a powerful sense of connecting more clearly with one’s higher chakras.  If you take the drops (undiluted please) under the tongue, and sit quietly with it for 10 minutes, you should experience this quite clearly.", "Contains: Spiral of Light, Dragon Mask, Rising Flame, Ruby and Black Tourmaline"],
+    "indications": [],
+    "effects": [],
+    "keywords": ["Spiritual", "Meditation", "Self-Esteem/Self-Worth"],
     "stock": false
   },
   {
@@ -235,7 +246,7 @@
     "group": "Orchid Combinations",
     "name": "Karmic Calm",
     "latin": "",
-    "description": ["Releases imprints of past energetic disturbances held in the soul, which inhibit the forward progression of one's journey. Often one may not be consciously aware of these imprints which can influence physical and emotional symptoms. These often are not addressed by normally appropriate therapies, due to the depth at which they are held in the psyche.", "If one feels there maybe karmic 'skeletons' rattling around in the closet of the psyche, giving rise to emotional challenges, then Karmic Calm is likely to be helpful.", "Contains: Celebration, Pushing Back The Night, Secret Wisdom, True Connections"],
+    "description": ["Releases imprints of past energetic disturbances held in the soul, which inhibit the forward progression of one's journey. Often one may not be consciously aware of these imprints which can influence physical and emotional symptoms. These often are not addressed by normally appropriate therapies, due to the depth at which they are held in the psyche.", "Karmic Calm does all that Releasing Karmic Patterns does, and more. Sometimes there are circumstances in one's life that seem to be anchored at some other level that one cannot see. It is fully possible there is a karmic element, i.e., a pattern of energy left over from a past life or lives. This combination is able to reach those levels, because the orchids act on the chakras that exist above our bodies. These energy centres are where we resonate with deeper and deeper aspects of Being. And they are the native domain of orchids.", "If one feels there maybe karmic 'skeletons' rattling around in the closet of the psyche, giving rise to emotional challenges, then Karmic Calm is likely to be helpful.",  "Contains: Celebration, Pushing Back The Night, Secret Wisdom, True Connections"],
     "indications": [],
     "effects": [],
     "keywords": ["Karma", "Releasing"],
@@ -279,7 +290,7 @@
     "group": "Orchid Combinations",
     "name": "Light Relief",
     "latin": "",
-    "description": ["Light Relief is especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope. You have probably been in this situation for a while and keep trying to get on top of it all. You have long passed the point where you should have stepped back from it all and allowed yourself to rest and replenish. Light Relief “pulls the plug” on the drive we use to override our exhaustion. So one then goes pretty much straight away into the fatigue level as it really is, and the best thing at that point is a nap.", "By way of contrast, Double Espresso is a combination specifically aimed at doing the opposite, helping one to push on and override fatigue briefly.", "In simple terms, Immediate Relief is for acute stress (emergency situations etc.), whereas Light Relief is especially for those suffering from long term stress."],
+    "description": ["Light Relief is especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope. You have probably been in this situation for a while and keep trying to get on top of it all. You have long passed the point where you should have stepped back from it all and allowed yourself to rest and replenish. Light Relief “pulls the plug” on the drive we use to override our exhaustion. So one then goes pretty much straight away into the fatigue level as it really is, and the best thing at that point is a nap.", "By way of contrast, Double Espresso is a combination specifically aimed at doing the opposite, helping one to push on and override fatigue briefly.", "If sleep is disturbed by chronic overwork and fatigue, Light Relief , taken at night, helps to improve sleep and find regeneration.", "In simple terms, Immediate Relief is for acute stress (emergency situations etc.), whereas Light Relief is especially for those suffering from long term stress.", "Contains: Dragon Mask, Spiral of Light, Thymic Heart, Rising Against the Dark, Rising Flame, Amethyst, Gold, Ruby, Black Tourmaline & Obsidian."],
     "indications": [],
     "effects": [],
     "keywords": ["Overwork", "Stress"],
@@ -411,10 +422,10 @@
     "group": "Orchid Combinations",
     "name": "Shield of Light",
     "latin": "",
-    "description": ["Shield of Light is a major essence for protection against dark energies. It is formulated to enable the aura to become reflective like a mirror, so that such energies do not penetrate the aura, and are instead transmuted, and reflected away and up to highest Source. It also brings courage, and helps to restore confidence and optimism even when surrounded by great challenges.", "This is the most complex combination we have ever created, and has 12 components. It contains the essences of Skutterudite; Kuan Yin Fluorite; Emerald; and essences of the following orchids: Phragmipedium schlimii, Phragmipedium Desormes, Phragmipedium China Dragon; Pleurothallis truncata, Pleurothallis phalangifera; Scaphosepalum bicristatum; Bulbophyllum frostii, Bulbophyllum pecten-veneris; and Cycnodes Wine Delight.", "Another way of describing the contents: this is a combination of the following essences: Light of the Soul; Orchid Metal Element; Defender from the Dark; Silver Ghost; Wingéd Messenger; Dragon Fire. (Light of the Soul is itself a combination which consists of the essences Unconditional Love; Celestial Triangle; Seeds from Time; and Kuan Yin Fluorite.) This combination was created by our colleague Dr. Adrian Brito-Babapulle, in response to a question put to us by our Distributor in Indonesia."],
+    "description": ["Shield of Light is a major essence for protection against dark energies. It is formulated to enable the aura to become reflective like a mirror, so that such energies do not penetrate the aura, and are instead transmuted, and reflected away and up to highest Source. It also brings courage, and helps to restore confidence and optimism even when surrounded by great challenges.", "Shield of Light was formulated by our colleague Dr. Adrian Brito-Babapulle, in response to a query from our Distributor in Indonesia, Rini Soe. Attacks involving dark magic are commonplace in that culture, she reported to us, and Rini wanted to know how to protect oneself against such attacks with our orchid essences. Adrian reflected on the topic for 3 days, and in his astonishing way, came up with this complex combination. It is our most advanced formula for psychic protection, and yet it is also uplifting. May also be used as an emergency essence", "This is the most complex combination we have ever created, and has 12 components. It contains the essences of Skutterudite; Kuan Yin Fluorite; Emerald; and the following orchid essence: Light of the Soul; Orchid Metal Element; Defender from the Dark; Silver Ghost; Wingéd Messenger; Dragon Fire. (Light of the Soul is itself a combination which consists of the essences Unconditional Love; Celestial Triangle; Seeds from Time; and Kuan Yin Fluorite.)"],
     "indications": [],
     "effects": [],
-    "keywords": ["Protection", "Courage"],
+    "keywords": ["Protection", "Courage", "Emergency"],
     "stock": false
   },
   {
@@ -486,23 +497,12 @@
   {
     "company": "Living Tree Orchid Essences",
     "group": "Orchid Combinations",
-    "name": "Stairway To Heaven",
-    "latin": "",
-    "description": ["This essence adds orchids to Clarifying the Shadow and further enhances its action on the 29th chakra. Provides support to live with a higher consciousness even in the difficult situations we face, as we continue our journey towards heaven on earth. It is the perfect essence for us living in this era (2020-21). Please use it next to Clarifying The Shadow. Great for meditation"],
-    "indications": [],
-    "effects": [],
-    "keywords": [],
-    "stock": false
-  },
-  {
-    "company": "Living Tree Orchid Essences",
-    "group": "Orchid Combinations",
     "name": "Sympathetic",
     "latin": "",
-    "description": ["Has a direct application on the energy gates and meridian points which are related to the stress patterns of the body, relating to the fight vs. flight reflex. Helps to regulate the distribution of the energy controlled by the adrenal glands; also alleviates symptoms caused by unbalanced emotion.", "Contains: Angelic Canopy, Just Me, Heaven's Gate, Night Soul and 24kt Gold"],
+    "description": ["Sympathetic is a combination used to support the sympathetic part of the nervous system. Has a direct application on the energy gates and meridian points which are related to the stress patterns of the body, relating to the fight vs. flight reflex. Helps to regulate the distribution of the energy controlled by the adrenal glands; also alleviates symptoms caused by unbalanced emotion.", "It is one part of a duo of essences, the other being Sympathetic (p). One possible application is to alternate them as a tandem with Sympathetic (P) for the parasympathetic part of the nervous system.", "Ingestion frequency: one dose a day, alternating between Sympathetic and Sympathetic (P) - repeating this cycle 21 times. In other words, these two combinations are best taken alternately over a 42-day period; the respective drop count can be tested individually.", "Contains: Angelic Canopy, Just Me, Heaven's Gate, Night Soul and 24kt Gold"],
     "indications": [],
     "effects": [],
-    "keywords": ["Stress"],
+    "keywords": ["Stress", "Nervous System"],
     "stock": false
   },
   {
@@ -510,10 +510,10 @@
     "group": "Orchid Combinations",
     "name": "Sympathetic (P)",
     "latin": "",
-    "description": ["Helps the under-activity of the 2nd and 3rd chakras and helps regulate the over-activity of the adrenal glands. Also helps when the sense of self-identity is weak. The essence is active on the 1st, 4th, 5th and 7th chakras and calms overactive adrenal glands. Both this essence and Sympathetic can be applied topically on the points shown on the “correction” cards.", "Contains: Heaven's Gate, Hive of Heaven, Purity of Soul, Winged Messenger, 24kt Gold and Achord tonal essence"],
+    "description": ["Sympathetic (P) is a combination used to support the parasympathetic part of the nervous system. Helps the under-activity of the 2nd and 3rd chakras and helps regulate the over-activity of the adrenal glands. Also helps when the sense of self-identity is weak. The essence is active on the 1st, 4th, 5th and 7th chakras and calms overactive adrenal glands. Both this essence and Sympathetic can be applied topically on the points shown on the “correction” cards. One possible application is to alternate them as a tandem with Sympathetic for the sympathetic part of the nervous system (see description for Sympathetic.", "Contains: Heaven's Gate, Hive of Heaven, Purity of Soul, Winged Messenger, 24kt Gold and Achord tonal essence"],
     "indications": [],
     "effects": [],
-    "keywords": ["Stress"],
+    "keywords": ["Stress", "Nervous System"],
     "stock": false
   },
   {
