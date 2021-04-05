@@ -3,15 +3,15 @@
     "company": "Alaskan",
     "name": "Animal Care",
     "description": ["Contains the essences of: Alpine Azalea, Black Tourmaline, Chiming Bells, Cotton Grass, Horsetail, Jadeite Jade, Lady's Slipper.", "Animal Care is a special blend of Alaskan flower and gem essences created specifically to assist in animal rescue work, although it can be given to any animal in need. It will be most valuable when integrated into the initial care provided any animal who arrives at a shelter, treatments center, veterinarian clinic or sanctuary. This formula is also a must when adopting a rescue animal."],
-    "indications": [""],
-    "effects": [""],
+    "indications": [],
+    "effects": [],
     "keywords": [""]
   },
   {
     "company": "Alaskan",
     "name": "Beyond Words",
     "description": ["Contains the essences of: Azurite, Devil’s Club, Lamb’s Quarters, Lapis Lazuli, Sweetgale, Twinflower, Yellow Violet.", "Beyond Words is a formula that enhances your ability to express yourself, both verbally and non-verbally. It assists in the exchange and flow of information and ideas from one person to another with the intention of shared understanding. It is especially helpful during crucial communication. Whether the goal is heart to heart sharing, inspired public speaking or writing, this formula will improve your ability to think and articulate from both the mind and heart."],
-    "indications": [""],
+    "indications": [],
     "effects": ["Communicate about your feelings and emotions without defensiveness",
     "Clarify and organize your thoughts so they may be put into words that accurately convey your meaning",
     "Amplify your ability to hear information from physical and non-physical sources, and clear confusion between what you hear and what you know",
@@ -25,7 +25,7 @@
     "company": "Alaskan",
     "name": "Calling All Angels",
     "description": ["It combines the healing quality of the following four essences: Angelica: connect to the protective energies of the angelic kingdom, Chalice Well: feeling peace from an awareness of Divine Support from all kingdoms, Chiming Bells: feeling pure joy and optimism, Kunzite: experience the spiritual love of the angelic kingdom in the heart", "Calling All Angels is a combination formula that helps you contact the love, guidance and protection of the angelic realm. It brings a very soft, loving and serene energy into your heart, physical body and environment."],
-    "indications": [""],
+    "indications": [],
     "effects": ["Strengthen the knowledge that you are guided, supported, and protected by the angels",
     "Bring more joy and peace in to your life",
     "Make a stronger connection with the divine feminine",
@@ -46,14 +46,14 @@
     "Children or adults who have been diagnosed with learning disabilities",
     "Increasing the capacity to integrate intuitive thought processes into practical action and implementation",
     "Increasing the retention of information from reading and listening to lectures"],
-    "effects": [""],
+    "effects": [],
     "keywords": [""]
   },
   {
     "company": "Alaskan",
     "name": "Fireweed Combo",
     "description": ["Essences in this formula: Fireweed – recovery from shock, increases grounding, removes unwanted energy patterns from the body, and initiates renewal and revitalization. White Fireweed – calms the emotional body after shocking experiences and clears emotionally painful experiences from cellular memory. River Beauty – aids in emotional recovery and helps us start over after devastating experiences    Dwarf Fireweed – helps us experience transformation with gentleness, grace, and ease", "Fireweed Combo supports the processes of transformation, transition and change. It can be used to prepare for a transformational experience of any kind, but it is especially useful when you are in the middle of an intense healing crisis and need extra support to get through it. Use it to access the support you need to face your fears, let go of your resistance and open to the process as it moves forward, through each stage, to its completion."],
-    "indications": [""],
+    "indications": [],
     "effects": ["Strengthen your grounding connection to the Earth so your energy system will be more stable and better able to cope with change",
     "Shift the whole transformative process to a deeper level by releasing layers of deep pain and emotional trauma that are being held at the cellular level of the body",
     "Stay engaged with the transformative process until you have resolved all of the issues that are connected to it",
@@ -73,7 +73,7 @@
     
     "Go-Create is our abundance formula. It will help you co-create what you want, need, and desire in your life with less resistance and more ease, efficiency and effectiveness. This formula will help you clear limiting beliefs that you are holding from past experiences, enhance your ability to feel worthy to receive your heart's desires, and find the trust, faith and gratitude that will empower you to hold a vibration that is in alignment with what you truly desire to create in your life."
   ],
-    "indications": [""],
+    "indications": [],
     "effects": ["Heal ancestral patterns that are blocking your ability to receive",
     "Open your awareness to the unlimited generosity of the Universe",
     "Focus your intention and attention on what you want to manifest, rather than on what you perceive to be missing",
@@ -95,47 +95,47 @@
     "Are doing healing work that requires you to be in the working, living, or personal energy space of your clients",
     "Have just moved into a new home or neighborhood and are having difficulty grounding into your new situation",
     "Feel tired or run down and need to rest and nurture yourself, but can't seem to create the space to do it"],
-    "effects": [""],
+    "effects": [],
     "keywords": [""]
   },
   {
     "company": "Alaskan",
     "name": "Lighten Up",
     "description": [""],
-    "indications": [""],
-    "effects": [""],
+    "indications": [],
+    "effects": [],
     "keywords": [""]
   },
   {
     "company": "Alaskan",
     "name": "Pregnancy Support",
     "description": [""],
-    "indications": [""],
-    "effects": [""],
+    "indications": [],
+    "effects": [],
     "keywords": [""]
   },
   {
     "company": "Alaskan",
     "name": "Purification",
     "description": [""],
-    "indications": [""],
-    "effects": [""],
+    "indications": [],
+    "effects": [],
     "keywords": [""]
   },
   {
     "company": "Alaskan",
     "name": "Soul Support",
     "description": [""],
-    "indications": [""],
-    "effects": [""],
+    "indications": [],
+    "effects": [],
     "keywords": [""]
   },
   {
     "company": "Alaskan",
     "name": "Travel Ease",
     "description": [""],
-    "indications": [""],
-    "effects": [""],
+    "indications": [],
+    "effects": [],
     "keywords": [""]
   }
 ]

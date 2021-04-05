@@ -725,9 +725,10 @@
   {
     "title": "Devastation",
     "references": [{
-      "help heal from the darkest experiences of the soul": ["Night Soul"]
+      "help heal from the darkest experiences of the soul": ["Night Soul"],
+      "help address the anxiety and fear that people are left with after such massive traumatic event, helps one to recover courage and purpose.": ["Andean Fire"]
     }],
-    "related": []
+    "related": ["Emergency", "Shock"]
   },
   {
     "title": "Devotion",
@@ -785,9 +786,11 @@
       "a powerful essence to help in the darkest of times": ["Night Soul"],
       "recommended for emergencies, when one is truely threatened": ["Unicorn"],
       "for critical instances when extra energy is urgently required": ["Double Espresso"],
+      "helps to address the anxiety and fear that people are left with after such a massive traumatic event": ["Andean Fire"],
+      "helpful in emergencies and moments of high stress. Addressing shock at a deep level of the psyche, it also gives spiritual support": ["Immediate Relief"],
       "for the person who is going through the 'black night of the soul'. It gives them the strength and courage to cope and will bring their survival skills to the fore": ["Waratah"]
     }],
-    "related": []
+    "related": ["Shock"]
   },
   {
     "title": "Empowered/Empowerment",
@@ -856,7 +859,8 @@
       "releases guilt and shame, which can be major hindrances of our spiritual path": ["Redemption Dream"],
       "great potential for enhancing the human soul's journey into light": ["Spirit of Life"],
       "helps one to cope with the dross being burnt off before emerging at a new spiritual level": ["Mint Bush"],
-      "the healing quality that Sydney Rose offers us (Unity), is the key to this new phase of unfolding growth and consciousness": ["Sydney Rose"]
+      "the healing quality that Sydney Rose offers us (Unity), is the key to this new phase of unfolding growth and consciousness": ["Sydney Rose"],
+      "helps you move forward in a new era. It works on the 1st and 2nd chakras, removing old and unnecessary things.": ["New Beginnings"]
     }],
     "related": ["Spiritual"]
   },
@@ -968,6 +972,7 @@
       "maintaining focus on one's healing process when many issues are coming up for consideration": ["Fluorite Combo"],
       "freeing mental energies for more focused attention. A useful aid for studying": ["Crown of Serenity"],
       "when children are studying, this essence will help to maintain focus": ["Settling With A Smile"],
+      "bring strength and almost fierce focus to the solar plexus and heart chakras": ["Eye of the Tiger"]
       "keeping focused in the present and reduces procrastination": ["Sundew"],
       "for accomplishing tasks with great speed, efficiency, and focus": ["Cheetah"]
     }],
@@ -1073,6 +1078,7 @@
       "strengthens grounding on all levels": ["Black Tourmaline/Master Quartz", "Club Moss", "Gigha Quartz", "Malachite", "Red Quartz"],
       "strengthens the connection between the 1st chakra and the Earth": ["Black Tourmaline", "Club Moss", "Crowberry", "Fireweed Combo", "Gigha Quartz", "Ruby"],
       "soothing, relaxing and grounding; clears unwanted imprints from the 1st and 2nd chakras": ["Coming Home"],
+      "very strongly grounding, helping the 1st and 2nd chakras to connect deeply to the earth": ["Defender from the Dark"],
       "for spirituality and connection to God in a grounded and centred way": ["Red Lily"],
       "feeling scattered, not whole, vague and split": ["Sundew"],
       "for connecting deeply with the power and rhythms of the Earth; for cultivating groundednes": ["Bear"],
@@ -1155,12 +1161,12 @@
   {
     "title": "Higher Self",
     "references": [{
-        "strengthening one's energetic connection with": ["Brazilian Amethyst", "Jacob's Ladder", "Moldavite", "Scepter Amethyst", "White Violet"],
-        "trusting in the wisdom of the higher self": ["Diamond", "Gold", "Hairy Butterwort", "Round-Leaved Sundew", "Scepter Amethyst", "Sitka Spruce Pollen"],
-        "a sense of the Higher Self calling one's soul to remember its deepest and highest potential": ["Celestial Siren"],
-        "balances chakras and so allows for a better connection to the higher self and the higher chakras": ["Clarity of Connection"],
-        "protects from outside influences and entities so one can receive clear information from one’s Higher Self without interference": ["Angelsword"],
-        "activates the Higher Self for problem solving": ["Paw Paw"]
+      "strengthening one's energetic connection with": ["Brazilian Amethyst", "Jacob's Ladder", "Moldavite", "Scepter Amethyst", "White Violet"],
+      "trusting in the wisdom of the higher self": ["Diamond", "Gold", "Hairy Butterwort", "Round-Leaved Sundew", "Scepter Amethyst", "Sitka Spruce Pollen"],
+      "a sense of the Higher Self calling one's soul to remember its deepest and highest potential": ["Celestial Siren", "Celestial"],
+      "balances chakras and so allows for a better connection to the higher self and the higher chakras": ["Clarity of Connection"],
+      "protects from outside influences and entities so one can receive clear information from one’s Higher Self without interference": ["Angelsword"],
+      "activates the Higher Self for problem solving": ["Paw Paw"]
     }],
     "related": ["Attunment"]
   },
@@ -1434,9 +1440,10 @@
     "title": "Letting Go",
     "references": [{
       "for letting go, moving forward and trusting in the wind's ability to carry one": ["Butterfly"],
-      "for cultivating surrender, humility, and trust in gentle ways": ["Deer"]
+      "for cultivating surrender, humility, and trust in gentle ways": ["Deer"],
+      "letting go of old unnecessary things": ["Pure Innocence", "New Beginnings"]
     }],
-    "related": []
+    "related": ["Releasing", "Release"]
   },
   {
     "title": "Life Purpose",
@@ -1446,6 +1453,7 @@
       "joining with others to promote a shared higher purpose": ["Northern Green Orchid"],
       "reconnecting with life purpose after a shock or trauma": ["Ladies' Tresses", "Northern Lady's Slipper"],
       "strengthening one's ability to act in alignment with life purpose": ["Diamond", "Sapphire", "Sapphire/Ruby", "Star Sapphire"],
+      "deep within the heart chakra we anchor our sense of soul purpose. Without that connection within, we cannot move forward or live a fulfilling life. Helps strengthen or to heal that connection within": ["Andean Fire"],
       "gives courage and purpose to the journey of the soul": ["Fire of Life"],
       "incarnate our own divine light into consciousness, and to enable us to feel our cosmic purpose": ["Furnace of Life"], 
       "helps one to be incarnate with a sense of purpose": ["Hara to Heart"],
@@ -2130,7 +2138,8 @@
   {
     "title": "Renewal",
     "references": [{
-      "clears ancient negative energetic patterns at the cellular level": ["Renewing Life"]
+      "clears ancient negative energetic patterns at the cellular level": ["Renewing Life"],
+      "slip on these fairy-shoes, and step out with assurance into a brand new day, on to a path which is either new or at least renewed": ["Winged Messenger"]
     }],
     "related": []
   },
@@ -2181,7 +2190,8 @@
       "of one's interest in life": ["Prickly Wild Rose", "Tundra Rose"],
       "a restorative essence - helps restore to both the heart and mind with innocence": ["Pure Innocence"],
       "a return to the original energetic imprint of our DNA. Many magnetic and other electronic forces disturb this etheric fabric": ["Walking to the Earth's Rhythm"],
-      "support and protection for the healthy energetic matrix of the body at the cellular level": ["Energy Protection Matrix"]
+      "support and protection for the healthy energetic matrix of the body at the cellular level": ["Energy Protection Matrix"],
+      "a very strong signature of vibrant, healthy cellular growth, and it helps our own cells to remember that healthy blueprint": ["Narnia Sphagnum Moss"]
     }],
     "related": []
   },
@@ -2447,6 +2457,7 @@
       "the flow of masculine energy in the body": ["Sitka Spruce Pollen, Sunflower"],
       "the heart chakra": ["Chrysocolla, Chrysoprase, Emerald, Kunzite, Montana Rhodochrosite, Rhodochrosite, Rose Quartz"],
       "it provides endurance and 'upward' strength, strenghtening the aura": ["Liberation / Deception"],
+      "bring strength and almost fierce focus to the solar plexus and heart chakras": ["Eye of the Tiger"],
       "brings about renewed enthusiasm, endurance and inner strength": ["Macrocarpa"],
       "for cultivating strength, groundedness, and power": ["Bear"],
       "nurtures strength, a feeling of invincibility, and supreme confidence in one's abilities": ["Bumblebee"]
