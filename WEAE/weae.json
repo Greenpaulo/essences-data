@@ -23,7 +23,7 @@
     "description": ["As the master architect and builder, provides support for creating the design of one's life. Facilitates clear thinking, planning, creating and problem solving. Especially supportive in the beginning of new projects and endeavors. Supports the acceptance of structure as a necessary part of the creative process."],
     "indications": [],
     "effects": [],
-    "keywords": ["Creativity", "Planning"],
+    "keywords": ["Creativity", "Planning", "Problem Solving"],
     "stock": true
   },
   {
@@ -122,7 +122,7 @@
     "description": ["As the master of illusion, supports one in traveling between the dimensions, helping one to open to spiritual energies. For relaxing and experiencing dreamy, spacious, light energy. Supports one in calming down and resting comfortably after busy periods. Facilitates letting go and spiritual expansion. "],
     "indications": [],
     "effects": [],
-    "keywords": ["Spiritual"],
+    "keywords": ["Spiritual", "Relaxation"],
     "stock": true
   },
   {
@@ -131,7 +131,7 @@
     "description": ["For soaring above earthly matters to gain perspective and clarity. Assists in transcending the mundane and perceiving the deepest truth at the heart of a situation. Enhances spiritual and creative vision. Facilitates opening to the divine for creative inspiration. For soaring with Great Spirit, for connecting with Higher Self and divine Guidance."],
     "indications": [],
     "effects": [],
-    "keywords": [""],
+    "keywords": ["Perspective", "Truth", "Vision", "Creativity", "Higher Self"],
     "stock": true
   },
   {
@@ -140,7 +140,7 @@
     "description": ["For establishing deep grounding and spiritual expansion. Enhances telepathic communication over distances, and supports one in listening to others and to oneself. For remembering what is important. For honoring one's intuitive feminine nature and for experiencing Mother Earth in her vastness. Encourages inclusive leadership that is concerned with the welfare of all."],
     "indications": [],
     "effects": [],
-    "keywords": [""],
+    "keywords": ["Grounding", "Telepathy", "Remembering", "Leadership"],
     "stock": true
   },
   {
@@ -149,7 +149,7 @@
     "description": ["Supports one in developing independence of thought and confidence in one's decisions. Nurtures one's ability to find clever solutions when facing difficult situations. For breaking out of societal conditioning and finding one's own way. Assists one in seeing a situation unfold, and facilitates one in making wise decisions. Provides support for claiming one's authority."],
     "indications": [],
     "effects": [],
-    "keywords": [""],
+    "keywords": ["Problem Solving", "Independence", "Authority"],
     "stock": true
   },
   {
@@ -158,7 +158,7 @@
     "description": ["Facilitates experiencing the everyday world as miraculous. Helps one to become aware of and to trust in life as a miraculous, transformative process. Provides strength and certainty for those undergoing deep emotional and spiritual changes. For developing comfort with change and transformation as the constant of life."],
     "indications": [],
     "effects": [],
-    "keywords": [""],
+    "keywords": ["Perception", "Trust", "Change"],
     "stock": true
   },
   {
@@ -167,7 +167,7 @@
     "description": ["Provides support for facing one's vulnerability and for learning the strength of healthy vulnerability. For feeling safe in the world. Supports one in becoming keenly aware of what is going on in one's surroundings, and helps one to develop a highly tuned sense of alertness and awareness. For moving through the world in a gentle yet confident way."],
     "indications": [],
     "effects": [],
-    "keywords": [""],
+    "keywords": ["Vulnerability", "Safety"],
     "stock": true
   },
   {
