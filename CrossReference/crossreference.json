@@ -515,9 +515,10 @@
       "to one's own health and healing": ["Self-Heal"],
       "brings a renewed commitment to the soul's deep purpose in this life": ["Voice of Courage"],
       "for those who do not 'follow through' on their goals and convictions": ["Peach-flowered Tea Tree"],
-      "excellent for commitment, whether in relationships, employment, the family or personal goals": ["Wedding Bush"]
+      "excellent for commitment, whether in relationships, employment, the family or personal goals": ["Wedding Bush"],
+      "helpful to those who feel unwilling and/or unable to make a deep and lasting commitment in relationship": ["Pearly Everlasting"]
     }],
-    "related": []
+    "related": ["Devotion"]
   },
   {
     "title": "Communication",
@@ -542,7 +543,8 @@
       "helps up use and choose words wisely when we speak": ["Releasing Karmic Patterns"],
       "it awakens one to the responsibility of sound and speech and assists in being true to oneself": ["Songline"],
       "helps us to connection to the 'spiritual internet' of humanity, that area wherein we are all able to connect with one another at whatever distance we may be": ["True Connections"],
-      "opening the channels of communication; for self-expression": ["Bluebell (Pacific)"]
+      "opening the channels of communication; for self-expression": ["Bluebell (Pacific)"],
+      "dispels that sense of hopelessness which is often experienced when we feel misunderstood": ["Wallflower"]
     }],
     "related": ["Telepathy"]
   },
@@ -591,6 +593,13 @@
     "related": []
   },
   {
+    "title": "Conception",
+    "references": [{
+      "enhances ability to receive and to conceive": ["Silver Birch"]
+    }],
+    "related": ["Infertility"]
+  },
+  {
     "title": "Confidence",
     "references": [{
       "from knowing one's abilities": ["Tamarack"],
@@ -610,14 +619,6 @@
     "related": []
   },
   {
-    "title": "Connection",
-    "references": [{
-      "helps us to connection to the 'spiritual internet' of humanity, that area wherein we are all able to connect with one another at whatever distance we may be": ["True Connections"],
-      "as the vehicle of interconnectedness, supports one in tieing together that which has felt separate within oneself": ["Spider"]
-    }],
-    "related": []
-  },
-  {
     "title": "Confusion",
     "references": [{
       "clears confusing dream imagery": ["Herkimer Diamond"],
@@ -628,12 +629,28 @@
     "related": []
   },
   {
+    "title": "Connection",
+    "references": [{
+      "helps us to connection to the 'spiritual internet' of humanity, that area wherein we are all able to connect with one another at whatever distance we may be": ["True Connections"],
+      "as the vehicle of interconnectedness, supports one in tieing together that which has felt separate within oneself": ["Spider"],
+      "a gentle reminder of our 'sameness' with, and connection to, Nature": ["Poplar"]
+    }],
+    "related": []
+  },
+  {
     "title": "Consciousness",
     "references": [{
       "communicating with other levels of consciousness": ["Horsetail"],
       "opening to wisdom contained in the collective consciousness of the planet": ["Black Spruce", "Turquoise", "White Spruce"],
       "bringing in 'new consciousness'": ["Celestial Triangle"],
       "a complete experience of the entire crown chakra": ["Crown of Consciousness"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Controlling",
+    "references": [{
+      "softens the need to control": ["Silver Birch"]
     }],
     "related": []
   },
@@ -682,7 +699,7 @@
     "references": [{
       "being criticized by others": ["Twinflower"],
       "overly critical of oneself": ["Bog Candle", "Diopside", "Pearl", "Twinflower"],
-      "overly critical of others": ["Sphagnum Moss", "Stinging Nettle", "Yellow Cowslip Orchid", "Twinflower"]
+      "overly critical of others": ["Sphagnum Moss", "Stinging Nettle", "Yellow Cowslip Orchid", "Twinflower", "Indian Pipe"]
     }],
     "related": []
   },
@@ -803,7 +820,8 @@
     "references": [{
       "facilitates the verbal expression of one's devotion to life": ["Tundra Rose", "Twinflower"],
       "to one's own heart": ["Bleeding Heart", "Green Bog Orchid"],
-      "to one's path of service": ["Sapphire", "Sapphire/Ruby", "Star Gentian", "Star Sapphire"]
+      "to one's path of service": ["Sapphire", "Sapphire/Ruby", "Star Gentian", "Star Sapphire"],
+      "bring the potential for lasting devotion to any relationship": ["Pearly Everlasting"]
     }],
     "related": ["Commitment"]
   },
@@ -966,7 +984,8 @@
   {
     "title": "Expansion",
     "references": [{
-      "endless expansion while maintaining centre": ["Douglas Aster"]
+      "endless expansion while maintaining centre": ["Douglas Aster"],
+      "expansion beyond self-inflicted limitations": ["Camellia"]
     }],
     "related": []
   },
@@ -1211,7 +1230,8 @@
     "title": "Guilt",
     "references": [{
       "helps the psyche to address deep layers of guilt or shame": ["Redemption Dream"],
-      "for guilt": ["Sturt Desert Rose"]
+      "for guilt": ["Sturt Desert Rose"],
+      "releases guilt and shame from earlier experiences in this life": ["Camellia"]
     }],
     "related": []
   },
@@ -1239,6 +1259,12 @@
       "helps create harmony out of chaos": ["Robin"]
     }],
     "related": []
+  },
+  {
+    "title": "Healing",
+    "references": [{
+    }],
+    "related": ["Spirtual Healing"]
   },
   {
     "title": "Heart",
@@ -1310,7 +1336,8 @@
       "brings nuturing to those in despair": ["Angelic Canopy"],
       "addresses temporary loss of drive and enthusiasm due to burn out, disappointment or frustration": ["Banksia Robur"],
       "a harbinger of spring, hope and happiness within the self": ["Robin"],
-      "assists us to find the light when the mental darkness seems overwhelming": ["Fairy-Bell"]
+      "assists us to find the light when the mental darkness seems overwhelming": ["Fairy-Bell"],
+      "dispels that sense of hopelessness which is often experienced when we feel misunderstood": ["Wallflower"]
     }],
     "related": []
   },
@@ -1370,9 +1397,10 @@
     "title": "Infertility",
     "references": [{
       "benefits women who feel distressed about infertility. It removes those personal blocks that prevent conception": ["She Oak"],
-      "helps remove karmic patterns hindering conception": ["Flannel Flower"]
+      "helps remove karmic patterns hindering conception": ["Flannel Flower"],
+      "help with conception especially if there are mental or emotional blocks standing in the way": ["Silver Birch"]
     }],
-    "related": []
+    "related": ["Conception"]
   },
   {
     "title": "Inner Child",
@@ -1441,7 +1469,8 @@
       "of the rational and the intuitive": ["Lamb's Quarters"],
       "of profound aspects of the soul which have been forgotten": ["Blue Angel"],
       "of the opposites within oneself": ["Zebra"],
-      "balances the intuitive and the rational; right brain and left brain": ["Blue Camas"]
+      "balances the intuitive and the rational; right brain and left brain": ["Blue Camas"],
+      "Helps to integrate experiences on the physical and emotional planes": ["Weigela"]
     }],
     "related": []
   },
@@ -1474,6 +1503,13 @@
       "supports developing and claiming one's intuitive ability": ["Crow"],
       "enhances intuition and the ability to 'see' things that are not normally seen": ["Owl"],
       "balances the intuitive and the rational": ["Blue Camas"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Introspection",
+    "references": [{
+      "helps us to claim the power of going within, of introspection": ["Red Huckleberry"]
     }],
     "related": []
   },
@@ -1586,7 +1622,8 @@
       "for letting go, moving forward and trusting in the wind's ability to carry one": ["Butterfly"],
       "for cultivating surrender, humility, and trust in gentle ways": ["Deer"],
       "letting go of old unnecessary things": ["Pure Innocence", "New Beginnings"],
-      "for releasing old beliefs and limiting patterns": ["Grass Widow"]
+      "for releasing old beliefs and limiting patterns": ["Grass Widow"],
+      "allows us to float free of emotional attachments with grace and ease": ["Yellow Pond-Lily"]
     }],
     "related": ["Releasing", "Release"]
   },
@@ -1805,7 +1842,8 @@
       "helps one feel at home in nature": ["Chrysoprase"],
       "learning to be nurtured and supported by nature": ["Spiraea"],
       "opening to the light and intelligence in nature": ["Green Bells of Ireland", "Green Garnet", "Green Tourmaline"],
-      "releasing fears of the power of nature": ["Soapberry"]
+      "releasing fears of the power of nature": ["Soapberry"],
+      "helps us attune to the cycles of nature e.g. more rest in winter": ["Red Huckleberry"]
     }],
     "related": ["Gardening"]
   },
@@ -1982,7 +2020,8 @@
       "encourages experiences of deep inner quiet, calm and contemplation": ["Buffalo"],
       "encourages gentleness and peace": ["Deer"],
       "nurturing feelings of peace, calm, and stillness at the heart of one's life": ["Dove"],
-      "if we are not at peace with ourselves, this essence assists in identifying the underlying belief pattern and strengthens the will to release it": ["Grass Widow"]
+      "if we are not at peace with ourselves, this essence assists in identifying the underlying belief pattern and strengthens the will to release it": ["Grass Widow"],
+      "reconciliation with others and making peace with self": ["Indian Pipe"]
     }],
     "related": []
   },
@@ -2024,7 +2063,8 @@
       "for soaring above earthly matters to gain perspective and clarity": ["Eagle"],
       "for developing the ability to see the terrain of one's life from an expanded, clear, and grounded perspective": ["Giraffe"],
       "for exploring the 'big picture' of reality as seen from the higher realms -- at the levels of interspecies and intergallactic knowledge and communication": ["Whale"],
-      "helps to see the 'big picture' and to synthesize the elements of our lives in new and creative ways": ["Ox-eye Daisy"]
+      "helps to see the 'big picture' and to synthesize the elements of our lives in new and creative ways": ["Ox-eye Daisy"],
+      "allows us to see others as our teachers and mirrors which reflect back to us our own negative, and positive, energy patterns": ["Weigela"]
     }],
     "related": ["Perception"]
   },
@@ -2267,7 +2307,8 @@
       "emotional regeneration after a traumatic event": ["River Beauty"],
       "of the etheric body": ["Comfrey", "Fireweed", "Fluorite Combo", "Opal", "Sweetgrass"],
       "physical regeneration through the healing of old wounds": ["Cotton Grass", "Fireweed", "Rhodolite Garnet"],
-      "spiritual regeneration": ["Brazilian Amethyst", "Chiming Bells", "Kunzite", "Vanadinite"]
+      "spiritual regeneration": ["Brazilian Amethyst", "Chiming Bells", "Kunzite", "Vanadinite"],
+      "reminds us of the power of nourishment and regeneration contained in hibernation": ["Red Huckleberry"]
     }],
     "related": ["Renewal"]
   },
@@ -2299,7 +2340,7 @@
       "seeing relationships from a spiritual perspective": ["Pale Corydalis"],
       "for renewed passion and interest in relationships": ["Bush Gardenia"],
       "addresses the great emotional intensity, difficulty and hardship that people can go through when a relationship is ending, close to ending or going through a very 'rocky' period": ["Red Suva Frangipani"],
-      "commitment in relationships": ["Wedding Bush"],
+      "commitment in relationships": ["Wedding Bush", "Pearly Everlasting"],
       "assists in defining relationships and setting healthy boundaries with others": ["Wolf"],
       "emotionally it allow us to embrace each relationship as a new experience without residue from previous ones": ["Fireweed (Pacific)"],
       "useful for resolving tensions in interpersonal relationships": ["Harvest Lily"],
@@ -2342,7 +2383,7 @@
       "emotional tension centered around the heart": ["Augustine Volcano", "Foxglove", "Soapberry"],
       "familial and tribal karmic patterns": ["White Lupine", "Boab"],
       "inner potential": ["Sticky Geranium"],
-      "judgment from the heart": ["Sphagnum Moss"],
+      "judgement from the heart": ["Sphagnum Moss"],
       "mental resistance to change": ["Glacier River", "Greenland Icecap", "Jacob's Ladder", "Willow"],
       "old habits that are no longer useful": ["Portage Glacier"],
       "pain held deep in the subconscious": ["Forget-Me-Not"],
@@ -2355,7 +2396,8 @@
       "through letting go": ["Healing the Hidden (Heyoka)"],
       "imprints of past energetic disturbances held in the soul": ["Karmic Calm"],
       "clears old baggage and residues held in the 2nd and 3rd chakras, bringing a lightness to the soul": ["Soul Dancer"],
-      "physically it acts on holding patterns in the body - constipation, fluid retention, overweight, and any kind of paralysis in the physical structure or the nervous system": ["Poison Hemlock"]
+      "physically it acts on holding patterns in the body - constipation, fluid retention, overweight, and any kind of paralysis in the physical structure or the nervous system": ["Poison Hemlock"],
+      "release old thought and behaviour patterns which do not serve us well": ["Camellia"]
     }],
     "related": ["Release", "Ancestral Healing"]
   },
@@ -2440,6 +2482,13 @@
     "related": []
   },
   {
+    "title": "Reverence",
+    "references": [{
+      "reverence for all of life": ["Indian Pipe"]
+    }],
+    "related": []
+  },
+  {
     "title": "Sacral",
     "references": [{
       "helps with the realignment of shadow aspects of the lower body chakras": ["Vital Clarity"],
@@ -2474,7 +2523,8 @@
   {
     "title": "Security",
     "references": [{
-      "through the establishment of functional boundaries": ["Guardian", "Pasque Flower", "Red Quartz", "Stone Circle", "White Violet", "Yarrow"]
+      "through the establishment of functional boundaries": ["Guardian", "Pasque Flower", "Red Quartz", "Stone Circle", "White Violet", "Yarrow"],
+      "a protective womb in which to make contact with the sacred self beyond the cacophony and pull of the emotional realm": ["Yellow Pond-Lily"]
     }],
     "related": ["Protection", "Safety"]
   },
@@ -2530,7 +2580,8 @@
       "can restore self esteem that has been damaged by past actions you may have felt guilty about": ["Sturt Desert Rose"],
       "enhances confidence and supports self-esteem": ["Peacock"],
       "For ease in one's body and nurturing a positive body image": ["Seal"],
-      "enhances self-esteem": ["Swan"]
+      "enhances self-esteem": ["Swan"],
+      "reconciliation with others and making peace with self": ["Indian Pipe"]
     }],
     "related": ["Self-Love", "Self-Appreciation"]
   },
@@ -2608,7 +2659,8 @@
   {
     "title": "Shame",
     "references": [{
-      "helps the psyche to address deep layers of guilt or shame": ["Redemption Dream"]
+      "helps the psyche to address deep layers of guilt or shame": ["Redemption Dream"],
+      "releases guilt and shame from earlier experiences in this life": ["Camellia"]
     }],
     "related": []
   },
@@ -2685,14 +2737,16 @@
       "helps one to find spiritual meaning and purpose in one's life": ["Salmon"],
       "an advanced remedy for connecting with higher planes of consciousness beyond the earth-realm": ["Whale"],
       "a remedy for Spirit; has direct impact on all seven major chakras, gently unfolding the full potential of each energy centre": ["Hooker's Onion"],
-      "spiritual tonic: enhances qualities of depth and integrity": ["Arbutus"]
+      "spiritual tonic: enhances qualities of depth and integrity": ["Arbutus"],
+      "for contacting Spirit": ["Poplar"]
     }],
     "related": ["Evolution", "Unity"]
   },
   {
     "title": "Spiritual Healing",
     "references": [{
-      "for those who have suffered a deep spiritual wound long ago": ["Pink Flannel Flower"]
+      "for those who have suffered a deep spiritual wound long ago": ["Pink Flannel Flower"],
+      "for ability to transmit healing energies": ["Poplar"]
     }],
     "related": ["Spiritual"]
   },
@@ -2938,7 +2992,8 @@
       "lacking trust in the spiritual world": ["Jacob's Ladder"],
       "for those who put out prickles to keep people away": ["Pink Mulla Mulla"],
       "for letting go, moving forward and trusting in the wind's ability to carry one": ["Butterfly"],
-      "helps one to become aware of and to trust in life as a miraculous, transformative process": ["Frog"]
+      "helps one to become aware of and to trust in life as a miraculous, transformative process": ["Frog"],
+      "that we are always in the right place at the right time": ["Weigela"]
     }],
     "related": []
   },
@@ -2965,6 +3020,13 @@
       "realise and know — on a deep heart level not merely an intellectual level — that there is no separation between us, that we are all one": ["Sydney Rose"],
       "for cultivating a deep sense of Spiritual Unity at the heart of one's life": ["Jaguar"],
       "helps the individual to move beyond ego boundaries and to begin to appreciate 'other' as the same Self": ["Harvest Lily"]
+    }],
+    "related": ["Spiritual"]
+  },
+  {
+    "title": "Uniqueness",
+    "references": [{
+      "we can be fully in relationship and community while maintaining and expressing our own unique qualities of being": ["Indian Pipe"]
     }],
     "related": ["Spiritual"]
   },
@@ -3029,7 +3091,8 @@
       "offers perception based on compassion and wisdom": ["Secret Wisdom"],
       "facilitates portals opening to higher levels, for accessing inner wisdom": ["Violacea Veritas"],
       "accessing and acting upon one's highest wisdom": ["Owl"],
-      "facilitates accessing one's deepest inner wisdom": ["Spider"]
+      "facilitates accessing one's deepest inner wisdom": ["Spider"],
+      "helps us to realize what we are getting out of any given experience": ["Weigela"]
     }],
     "related": []
   },

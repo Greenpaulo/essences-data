@@ -3,18 +3,26 @@
     "company": "Pacific",
     "group": "Spring Flowers",
     "name": "Camellia",
-    "description": ["A catalyst to opening to new attitudes which reflect one's true inner nature"],
+    "latin": "Camellia sasanqua",
+    "description": ["A catalyst to opening to new attitudes which reflect one's true inner nature", "Camellia is an essence of expansion beyond self-inflicted limitations. It allows us to express the unique aspect of the vital force within us and to align with our own inner power. We can release old thought and behaviour patterns which do not serve us well.", "Via the Solar Plexus chakra Camellia releases cell memory of earlier experiences in this life. As a child we may have felt shamed by our inability to do something or by doing something which we were told was bad. This guilt and shame is stored in the Solar plexus chakra where it can run interference in current life experience. Camellia helps us to respond to present experience with gracefulness. It assists the Large Intestine channel to eliminate old feelings, thoughts, and attitudes about ourselves. It accesses self-trust and creates attitudinal shifts. By dissolving our protective armour we can transform into flexibility and openness."],
     "indications": ["Guilt", "Shame", "Closed", "Stubborn", "Rigid"],
     "effects": ["Trust", "Vision", "Grace", "Self-expression", "Self-Realization"],
-    "keywords": ["Opening"]
+    "chakras": ["Solar Plexus"],
+    "meridians": ["Large Intestine"],
+    "elements": ["Metal"],
+    "keywords": ["Opening", "Releasing", "Expansion"]
   },
   {
     "company": "Pacific",
     "group": "Spring Flowers",
     "name": "Purple Crocus",
+    "latin": "",
     "description": ["For resolving tension generated from grief and loss"],
     "indications": ["Grief", "Heartache", "Death", "Sad", "Sorrow", "Tension", "Resistance"],
     "effects": ["Allowing", "Accepting", "Emptiness"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Grief"]
   },
   {
@@ -22,8 +30,12 @@
     "group": "Spring Flowers",
     "name": "Forsythia",
     "description": ["Provides motivation for the transformation of old patterns"],
+    "latin": "",
     "indications": ["Addictions", "Alcoholism", "Habits", "Hate", "Obsessions", "Self-loathing", "Darkness", "Abuse"],
     "effects": ["Transformation", "Transitions", "Willpower", "Commitment"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Motivation", "Addictions"]
   },
   {
@@ -31,8 +43,12 @@
     "group": "Spring Flowers",
     "name": "Grape Hyacinth",
     "description": ["For times of external shock, despair, stress"],
+    "latin": "",
     "indications": ["Shock", "Trauma", "Despair", "Depression", "Overwhelm", "Stress", "SAD-Seasonal Affective Disorder"],
     "effects": ["Calm", "Balanced", "Integration"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Balance"]
   },
   {
@@ -40,26 +56,38 @@
     "group": "Spring Flowers",
     "name": "Lily of the Valley",
     "description": ["Allows for freedom of choice by discovering the simplest mode of behaviour"],
+    "latin": "",
     "indications": ["Over-sophistication", "Over-control", "Rigidity"],
     "effects": ["Gentleness", "Freedom", "Clarity", "Trust", "Visionary", "Love-unconditional", "Wisdom", "Choice"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Innocence"]
   },
   {
     "company": "Pacific",
     "group": "Spring Flowers",
     "name": "Purple Magnolia",
+    "latin": "",
     "description": ["Promotes intimacy and non-separateness", "enhances all the senses"],
     "indications": ["Frigid", "Cold", "Withdrawing from life"],
     "effects": ["Intimacy", "Embodiment", "Appreciation", "Sexuality", "Tantra"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Sensuality"]
   },
   {
     "company": "Pacific",
     "group": "Spring Flowers",
     "name": "Narcissus",
+    "latin": "",
     "description": ["For identification and resolution of conflicts by going to the centre of the problem/fear"],
     "indications": ["Anxiety", "Fear", "Worry", "Obsessions"],
     "effects": ["Calming", "Grounding", "Protection", "Safety"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Nurturing", "Anxiety", "Fear", "Worry"]
   },
   {
@@ -67,44 +95,64 @@
     "group": "Spring Flowers",
     "name": "Periwinkle",
     "description": ["Encourages the 'ability to respond' to depression and thereby dispel it"],
+    "latin": "",
     "indications": ["Apathy", "Depression", "Memory loss", "Confusion", "SAD-Seasonal Affective Disorder", "Hypertension"],
     "effects": ["Memory", "Dreams", "Wisdom"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Remembering", "Depression"]
   },
   {
     "company": "Pacific",
     "group": "Spring Flowers",
     "name": "Polyanthus",
+    "latin": "",
     "description": ["Dissolves blocks to abundance consciousness; transforms attitudes of scarcity into ones of worthiness and willingness to receive"],
     "indications": ["Unworthiness", "Fear-Scarcity", "Disconnected"],
     "effects": ["Abundance", "Gratitude", "Opening", "Receptive", "Connected"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Self-worth"]
   },
   {
     "company": "Pacific",
     "group": "Spring Flowers",
     "name": "Snowdrop",
+    "latin": "",
     "description": ["For letting go, having fun, lightening up"],
     "indications": ["Hypertension", "Fear-phobias", "Fear-paralyzing", "Fear-death/life", "Restriction"],
     "effects": ["Curiosity", "Letting go", "Enthusiasm", "Hope"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Delight"]
   },
   {
     "company": "Pacific",
     "group": "Spring Flowers",
     "name": "Viburnum",
+    "latin": "",
     "description": ["Strengthens our connection with the subconscious and our psychic abilities"],
     "indications": ["Self-doubt", "Insecurity"],
     "effects": ["Insight", "Awareness", "Inner Knowing", "Trust"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Intuition"]
   },
   {
     "company": "Pacific",
     "group": "Spring Flowers",
     "name": "Windflower",
+    "latin": "",
     "description": ["Spiritual tonic: provides grounding and inner security"],
     "indications": ["Scattered", "Ungrounded", "Spaced Out", "Shy"],
     "effects": ["Grounded", "Secure", "Connected"],
+    "chakras": [],
+    "meridians": [],
+    "elements": [],
     "keywords": ["Spirit", "Grounding"]
   }
 ]
