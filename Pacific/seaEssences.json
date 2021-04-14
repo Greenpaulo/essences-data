@@ -107,14 +107,14 @@
     "company": "Pacific",
     "group": "Sea Essences",
     "name": "Sea Palm",
-    "latin": "",
-    "description": ["Meetings at the edge of breakthroughs in consciousness; balances 'hurry for nothing' attitude"],
+    "latin": "Postelsia palmaeformis",
+    "description": ["Meetings at the edge of breakthroughs in consciousness; balances 'hurry for nothing' attitude", "We can easily forget to be fully present when we get all revved up and think that we are 'running the show.' This remedy resonates for those who never take time to smell the flowers because they are so busy pushing the river.", "Sea Palm is especially suitable for those who rush about doing, always doing. Their 'busy-ness' is often a hindrance to success and to meaningful relationships. They can be paragons of efficiency, but at the expense of anything or anyone being meaningful or important to them.", "They charge on, regardless of all opposition. Heavily caught up in a pattern of control and resistance, there is tension at the physical, mental, and emotional levels. This tension can usually be released only when some external crisis brings them to a sudden halt. They are the loud complainers when ill. These patterns are often related to self-worth issues and stem from feeling unloved and unwanted as a child.", "The Sea Palm type craves nurturing and nourishment emotionally and physically, and will often suffer from digestive problems and eating disorders."],
     "indications": ["Abandoned, Needy, Busy, Eating disorders, Resistance, Parent/Child"],
     "effects": ["Grace, Integrity, Present, Self-worth"],
-    "chakras": [],
-    "meridians": [],
-    "elements": [],
-    "keywords": ["Being"]
+    "chakras": ["Heart"],
+    "meridians": ["Stomach"],
+    "elements": ["Earth"],
+    "keywords": ["Overwork", "Self-Esteem/Self-Worth"]
   },
   {
     "company": "Pacific",
@@ -140,20 +140,20 @@
     "chakras": ["Heart"],
     "meridians": ["Kidney"],
     "elements": ["Water"],
-    "keywords": ["Courage"]
+    "keywords": ["Courage", "Will", "Flexibility", "Persistence", "Balance"]
   },
   {
     "company": "Pacific",
     "group": "Sea Essences",
     "name": "Urchin",
-    "latin": "",
-    "description": ["For irascibility and coming to the point; for safety and psychic protection"],
+    "latin": "Strongylocentrotus purpuratus",
+    "description": ["For irascibility and coming to the point; for safety and psychic protection", "A powerful remedy to use when charting unknown territory, like past life regressions or exploration of energy connections with people in this life.", "Primarily a spiritual essence, it expands the mind to include access to stored memories from previous incarnations or early childhood.", "People who were abused as children often take refuge in abusive behaviour patterns towards themselves - alcoholism, eating disorders and even suicidal tendencies. Urchin can provide the safety required to explore and to dispel the energy which created these patterns. At another level it can provide safety from any psychic assault on our Being.", "Mentally it alleviates worry and obsessive thinking. Emotionally it affects compulsive behaviour and addictions.", "Urchin also helps to dispel panic attacks and other respiratory problems which are common when we do not feel safe. This is probably due to the fact that in the creative cycle of the five elements of Chinese medicine Earth/Spleen is the mother of Metal/Lungs. A severe imbalance in Spleen could easily manifest as Lung and respiratory symptoms."],
     "indications": ["Abuse, Eating disorders, Fear, Panic Attacks, Addictions"],
     "effects": ["Psychic protection, Ease"],
-    "chakras": [],
-    "meridians": [],
-    "elements": [],
-    "keywords": ["Safety"]
+    "chakras": ["Crown", "Solar Plexus"],
+    "meridians": ["Spleen"],
+    "elements": ["Earth"],
+    "keywords": ["Safety", "Protection", "Abuse", "Worry", "Obsessive", "Addictions"]
   },
   {
     "company": "Pacific",
@@ -301,14 +301,14 @@
   {
     "company": "Pacific",
     "group": "Sea Essences",
-    "name": "Whale",
-    "latin": "",
-    "description": ["Enhances ability to communicate through vibration and sound; expansion of human consciousness; ability to contact the record keepers"],
+    "name": "Whale (Pacific)",
+    "latin": "Globicephala macrocephalus",
+    "description": ["Enhances ability to communicate through vibration and sound; expansion of human consciousness; ability to contact the record keepers", "Whale essence is a remedy of choice for healers. It will enhance both auditory and kinaesthetic perception. If you want to expand your ability to sense energy and to transmit energy with your hands Whale will assist with this desire. If you want to hear more subtle sounds even in the heart of a major city use this essence either topically on your ears or take it orally.", "Taking this essence will also enhance the ability to receive and to interpret impressions of a subtler nature - knowledge and information about where we came from, what our path is, and even future potential can be revealed when we are open to the possibility. Taking Whale essence and meditating with a record keeper quartz crystal will assist us in decoding the message contained in the crystal.", "As a physical remedy it is a general tonic through its connection with Conception vessel which runs up the front midline of the body and Governing vessel which traverses the spinal cord. These two channels not only make up a primary circuit of qi in the Body/Mind but can also directly influence all the other channels."],
     "indications": ["Arrogant, Intolerant, Racist, Separate, Ethnocentric"],
     "effects": ["Expansion of Consciousness, Tolerant, Understanding, Connecting with Nature, Refined sensory perception, Clairsentience, Telepathy"],
-    "chakras": [],
-    "meridians": [],
+    "chakras": ["Third Eye", "Crown"],
+    "meridians": ["Conception Vessel", "Governing Vessel"],
     "elements": [],
-    "keywords": ["Expansion"]
+    "keywords": ["Spiritual Healing", "Consciousness", "Guidance", "Spiritual", "Communication", "Telepathy", "Psychic Development"]
   }
 ]
