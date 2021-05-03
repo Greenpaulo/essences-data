@@ -330,6 +330,8 @@
       "maintaining balance during times of rapid transformation": ["Fireweed Combo", "Purple Poppy", "Round-Leaf Orchid"],
       "of logic and intuition": ["White Spruce", "Bluebell"],
       "of masculine and feminine expressions of power": ["Blue Poppy", "Sitka Spruce", "Pollen", "Star Gentian"],
+      "of male and female energies": ["Kuan Yin Fluorite"],
+      "balancing the chakras": ["Achord"],
       "a remedy of balance": ["Fuchsia"],
       "homeostasis, i.e. balance and harmony among body, spirit, and emotion": ["Surfgrass"]
     }],
@@ -361,6 +363,7 @@
       "aligning and identifying with beauty": ["Rising to the Call of Beauty"],
       "enables one to see the joy and beauty in Life's dance": ["Soul Dancer"],
       "enables us to see the deep beauty of spirit and Being that is in each one of us, and to begin to embody that celestial grace": ["True Beauty"],
+      "allows beauty to come forth from our inner being, as we travel our inner path": ["24 Karat Gold"],
       "for expressing one's beauty in the world": ["Peacock"],
       "nurtures a sense of 'Walking in Beauty.": ["Swan"]
     }],
@@ -428,7 +431,7 @@
     "references": [{
       "can be used where the dharma or purpose of a cell has been forgotten as in cases of cancer and degenerative disease": ["Diatoms"]
     }],
-    "related": ["Regeneration"]
+    "related": ["Regeneration", "Restoration", "DNA"]
   },
   {
     "title": "Centering",
@@ -504,6 +507,7 @@
       "of dreams": ["Herkimer Diamond"],
       "of purpose": ["Diamond"],
       "of vision": ["Rainbow Hematite"],
+      "awakening, brightening, and clarifying of the mind": ["Emerald (LTOE)"],
       "translating clarity of perception into appropriate action": ["Alder"],
       "bringing mental and emotional clarity from being connected to one’s higher self": ["Clarity of Spirit"],
       "for resolving obsessions - thoughts, events, things or ideas which are stuck. It leads to clarity and focus": ["Boronia"],
@@ -528,6 +532,7 @@
       "interal cleansing of the body, helps to clear up our etheric body's 'residuals' - little packets of leftovers": ["Internal Cleansing"],
       "clears energies within a person which need clearing out, for example if there has been any history of drug abuse": ["Clearing and Releasing"],
       "helps to cleanse the etheric body of low-level entities which may have attached themselves to one": ["Defend Protect & Purify"],
+      "cleansing and revitalising": ["Kuan Yin Fluorite"],
       "dissolves the negative thought patterns which keep us stuck and which can eventually lead to emotional and physical disorders if left unchecked": ["Plantain"],
       "cleanses the mind; eliminates physical toxins which cloud the mind": ["Moon Snail"]
     }],
@@ -582,11 +587,12 @@
       "helps up use and choose words wisely when we speak": ["Releasing Karmic Patterns"],
       "it awakens one to the responsibility of sound and speech and assists in being true to oneself": ["Songline"],
       "helps us to connection to the 'spiritual internet' of humanity, that area wherein we are all able to connect with one another at whatever distance we may be": ["True Connections"],
+      "encourages us to speak our own truth and to express the energies of the lower chakras freely and naturally": ["Spectrolite/Labradorite"],
       "opening the channels of communication; for self-expression": ["Bluebell (Pacific)"],
       "dispels that sense of hopelessness which is often experienced when we feel misunderstood": ["Wallflower"],
       "enhances ability to communicate through vibration and sound": ["Whale (Pacific)"]
     }],
-    "related": ["Telepathy"]
+    "related": ["Telepathy", "Expression"]
   },
   {
     "title": "Community",
@@ -808,6 +814,7 @@
       "for those feeling separate and alone in times of darkness": ["Lighten Up", "Single Delight"],
       "for those who feel lost or out of touch with their own inner dynamics": ["Chiming Bells"],
       "from lack of light": ["Orange Calcite", "Solstice Sun"],
+      "take you feel low or despondent about life, as it will help renew the outlook of your heart": ["Rhododendron Brocade Plus"],
       "helps to see the beauty, joy and excitement in the present and optimistically anticipate the future": ["Sunshine Wattle"],
       "support for those who are lonely, depressed, and have 'lost heart.'": ["Wild Horse"],
       "effective for postpartum depression": ["Hooker's Onion"],
@@ -889,10 +896,20 @@
     "related": ["Commitment"]
   },
   {
+    "title": "DNA",
+    "references": [{
+      "helps our cells to remember their own healthy blueprint": ["Narnia Sphagnum Moss", "Energy Matrix Protection"],
+      "a return to the original energetic imprint of our DNA. Many magnetic and other electronic forces disturb this etheric fabric": ["Walking to the Earth's Rhythm"],
+      "repatterning cellular memory; can be used where the dharma or purpose of a cell has been forgotten": ["Diatoms"]
+    }],
+    "related": ["Restoration", "Cellular Memory"]
+  },
+  {
     "title": "Dreaming",
     "references": [{
       "enhances dream recall": ["Dolphin"],
-      "taken before going to sleep, it will assist in programming dreams to provide guidance for the problems of our daily lives": ["Viburnum"]
+      "taken before going to sleep, it will assist in programming dreams to provide guidance for the problems of our daily lives": ["Viburnum"],
+      "via the dream state, this essence will help one gain a perspective on the past, as an aid to seeing the way forward.": ["Phantom Quartz"]
     }],
     "related": []
   },
@@ -949,6 +966,14 @@
       "for the person who is going through the 'black night of the soul'. It gives them the strength and courage to cope and will bring their survival skills to the fore": ["Waratah"]
     }],
     "related": ["Shock"]
+  },
+  {
+    "title": "EMF",
+    "references": [{
+      "a return to the original energetic imprint of our DNA. Many magnetic and other electronic forces disturb this etheric fabric.": ["Walking to the Earth's Rhythm"],
+      "strengthens the life force and gives energetic protection against harmful electromagnetic microwave radiation": ["Energy Matrix Protection", "Shungite MT"]
+    }],
+    "related": []
   },
   {
     "title": "Emotions",
@@ -1024,10 +1049,11 @@
       "elevate our thoughts to the point where we can see the Sacred in life. An essence to help heal the destiny of humanity": ["Pushing Back The Night"],
       "releases guilt and shame, which can be major hindrances of our spiritual path": ["Redemption Dream"],
       "great potential for enhancing the human soul's journey into light": ["Spirit of Life"],
-      "helps one to cope with the dross being burnt off before emerging at a new spiritual level": ["Mint Bush"],
-      "the healing quality that Sydney Rose offers us (Unity), is the key to this new phase of unfolding growth and consciousness": ["Sydney Rose"],
+      "help dissolve deeper subtle levels of individual and collective fears in us that have surfaced worldwide due to the restrictive changes in the realities of life in 2020": ["Clarifying the Shadow MT"],
       "helps you move forward in a new era. It works on the 1st and 2nd chakras, removing old and unnecessary things.": ["New Beginnings"],
       "provides support to live with a higher consciousness even in the difficult situations we face, as we continue our journey towards heaven on earth": ["Stairway to Heaven"],
+      "helps one to cope with the dross being burnt off before emerging at a new spiritual level": ["Mint Bush"],
+      "the healing quality that Sydney Rose offers us (Unity), is the key to this new phase of unfolding growth and consciousness": ["Sydney Rose"],
       "has the potential to guide earthlings back to heaven and/or to bring heaven to earth": ["Diatoms"]
     }],
     "related": ["Spiritual"]
@@ -1068,9 +1094,10 @@
     "references": [{
       "alleviates fear, especially fear of being seen and self-expression": ["Bluebell (Pacific)"],
       "encourages free expression of self; allowing us to express ourselves openly and honestly": ["Easter Lily"],
-      "gives us the courage to express ourselves with clarity, trust, simplicity and ease": ["Lily of the Valley"]
+      "gives us the courage to express ourselves with clarity, trust, simplicity and ease": ["Lily of the Valley"],
+      "encourages us to speak our own truth and to express the energies of the lower chakras freely and naturally": ["Spectrolite/Labradorite"]
     }],
-    "related": []
+    "related": ["Communication"]
   },
   {
     "title": "Father",
@@ -1106,6 +1133,7 @@
       "release of fear through trust": ["Bog Rosemary"],
       "releasing fear from the heart": ["Enchanter's Nightshade", "False Hellebore", "Forget-Me-Not", "Foxglove"],
       "invites you to face your deepest fears": ["Shadow Facing"],
+      "helps dissolve deeper subtle levels of individual and collective fears in us that have surfaced worldwide due to the restrictive changes in the realities of life in 2020": ["Clarifying the Shadow MT"],
       "of lack": ["Bluebell"],
       "niggling fears": ["Dog Rose"],
       "for a fear of losing control": ["Dog Rose of the Wild Forces"],
@@ -1174,7 +1202,9 @@
       "keeping focused in the present and reduces procrastination": ["Sundew"],
       "for accomplishing tasks with great speed, efficiency, and focus": ["Cheetah"],
       "supports one in becoming strong and focused": ["Tiger"],
-      "for clear and precise thinking": ["Blue Lupin"]
+      "for clear and precise thinking": ["Blue Lupin"],
+      "clarifying and calming, and helps focus the mind": ["Amethyst (LTOE)"],
+      "promotes harmony and mental concentration/awareness; ideally suited for writing or learning projects that need a fairly intense mental focus.": ["Emerald (LTOE)"]
     }],
     "related": ["Study"]
   },
@@ -1219,9 +1249,17 @@
       "helps plants recover from frost or animal damage": ["Soul Support"],
       "helps transplanted seedlings establish new roots of communication with the Earth": ["Grove Sandwort", "Peridot"],
       "opens one's awareness to the plant kingdom": ["Comandra", "Green Bells of Ireland", "Green Bog Orchid"],
-      "helping to make even small gardens a place where nature spirits feel safe; and by helping us to communicate with them, to help us learn how to engender their trust": ["Narnia Sphagnum Moss"]
+      "helping to make even small gardens a place where nature spirits feel safe; and by helping us to communicate with them, to help us learn how to engender their trust. Helps one connect with the elf and gnome realm of nature spirits": ["Narnia Sphagnum Moss"],
+      "connects with the Pixie and Fairy realm": ["Bluebell (LTOE)"]
     }],
     "related": ["Nature"]
+  },
+  {
+    "title": "Goals",
+    "references": [{
+      "helps bring the energy one needs to accomplish goals, especially goals of a spiritual or caring nature. It helps with the letting go of the fear of not accomplishing your tasks and repeating old mistakes": ["Amethyst (LTOE)"]
+    }],
+    "related": ["Manifestation", "Life Purpose"]
   },
   {
     "title": "Grace",
@@ -1286,6 +1324,7 @@
       "strengthens the connection between the 1st chakra and the Earth": ["Black Tourmaline", "Club Moss", "Crowberry", "Fireweed Combo", "Gigha Quartz", "Ruby"],
       "soothing, relaxing and grounding; clears unwanted imprints from the 1st and 2nd chakras": ["Coming Home"],
       "very strongly grounding, helping the 1st and 2nd chakras to connect deeply to the earth": ["Defender from the Dark"],
+      "grounding and expanding effect, especially in the heart area": ["Ruby (LTOE)"],
       "for spirituality and connection to God in a grounded and centred way": ["Red Lily"],
       "feeling scattered, not whole, vague and split": ["Sundew"],
       "for connecting deeply with the power and rhythms of the Earth; for cultivating groundednes": ["Bear"],
@@ -1351,7 +1390,7 @@
     "title": "Healing",
     "references": [{
     }],
-    "related": ["Spirtual Healing"]
+    "related": ["Spiritual Healing"]
   },
   {
     "title": "Heart",
@@ -1379,6 +1418,8 @@
       "helps expand the consciousness of the heart chakra to a state of unconditional love": ["Spirit of the Higher Heart"],
       "Helps to clear the shadow and also strengthen the “thymic heart” centre": ["Thymic Heart"],
       "compensates for irregularities in the heart rhythm": ["Heart Time"],
+      "grounding and expanding effect, especially in the heart area and allows the heart to better feel the joy of life": ["Ruby (LTOE)"],
+      "brings a quiet joy and calm to the heart": ["Bluebell (LTOE)"],
       "helps to open the heart. It is for those who feel cut off from their feelings": ["Bluebell"],
       "release and heal mental prejudice, allowing the heart to open without prejudgement": ["Freshwater Mangrove"],
       "a tonic of the heart; gently opens the heart chakra": ["Wild Horse"],
@@ -1643,6 +1684,8 @@
       "feel the delight and excitement that you felt as a child once more, despite the trials and troubles the years may have brought your way": ["Winged Messenger"],
       "brings to the heart feelings of joy and eternal optimism": ["Wisdom of Compassion"],
       "we can remember the value of fun, and the enjoyment of the senses": ["Party Time!"],
+      "allows the heart to better feel the joy of life": ["Ruby (LTOE)"],
+      "a gentle and happy fountain of joy suddenly springing forth within one's heart": ["Rhododendron Brocade Plus"],
       "addresses the expression of playfulness, being carefree and spontaneous joy": ["Little Flannel Flower"],
       "bringing joy through gratitude": ["Pink Flannel Flower"],
       "helps one to connect with the simplicity and joy of being alive": ["Chimpanzee"],
@@ -1748,7 +1791,7 @@
       "brings about an awareness of one's life direction": ["Silver Princess"],
       "provides support for creating the design of one's life": ["Beaver"]
     }],
-    "related": []
+    "related": ["Goals"]
   },
   {
     "title": "Light",
@@ -1886,6 +1929,7 @@
       "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"],
       "to energise the whole chakra system and so facilitate deeper meditations": ["Meditation"],
       "a deeply vertical uplifting energy into stillness, awareness and inner focus; great for meditation": ["Stairway to Heaven"],
+      "very good for use in meditation and enhances our inner being": ["Phantom Quartz"],
       "releases any energies that entered while the aura was open": ["Angelsword"],
       "an excellent remedy to give someone who has just started meditation": ["Bush Iris"],
       "an excellent aid to channelling, meditating, or centering": ["Viburnum"],
@@ -1898,7 +1942,8 @@
     "references": [{
       "improving the clarity of mental processes and our retention of information": ["Memory Enhancer"],
       "provides clear memory. It is useful for past life regression work and easier dream recall": ["Periwinkle"],
-      "expands the mind to include access to stored memories from previous incarnations or early childhood": ["Urchin"]
+      "expands the mind to include access to stored memories from previous incarnations or early childhood": ["Urchin"],
+      "stimulates the intellect and memory, and develops insight and reflection": ["Emerald (LTOE)"]
     }],
     "related": []
   },
@@ -1952,7 +1997,8 @@
       "releasing fears of the power of nature": ["Soapberry"],
       "helps us attune to the cycles of nature e.g. more rest in winter": ["Red Huckleberry"],
       "can be especially helpful in beginning dialogue with plant spirits and other devic life forms": ["Viburnum", "Narnia Sphagnum Moss"],
-      "they are probably humans' first link with other dimensional consciousness from the animal kingdom": [""]
+      "connects with the Pixie and Fairy realm": ["Bluebell (LTOE)"],
+      "they are probably humans' first link with other dimensional consciousness from the animal kingdom": ["Dolphin (Pacific)"]
     }],
     "related": ["Gardening"]
   },
@@ -1969,7 +2015,8 @@
       "used to support the sympathetic part of the nervous system": ["Sympathetic"],
       "used to support the parasympathetic part of the nervous system": ["Sympathetic (P)"],
       "t a physical level this essence may be used for any dis-ease and/or dysfunction in the central nervous system": ["Sea Horse"],
-      "a remedy of choice for many CNS dis-eases": ["Coral"]
+      "a remedy of choice for many CNS dis-eases": ["Coral"],
+      "has a relaxing effect on the nervous system and has a positive effect on the ability to regenerate": ["Shungite MT"]
     }],
     "related": []
   },
@@ -2133,6 +2180,7 @@
       "brings an exquisite, beautiful and loving energy, enabling one to feel uplifted, loved and at peace": ["Necklace of Beauty"],
       "releases guilt and shame, enabling us to feel inner peace": ["Redemption Dream"],
       "creates a stillness within one, and a profound inner peace": ["Spiral of Light"],
+      "key qualities of this lovely essence are serenity, peace and tranquility": ["Rhododendron griffithianum"],
       "enables these people to slow down, to reach that still centre within and find calmness and inner guidance": ["Black-eyed Susan"],
       "encourages experiences of deep inner quiet, calm and contemplation": ["Buffalo"],
       "encourages gentleness and peace": ["Deer"],
@@ -2351,7 +2399,8 @@
     "references": [{
       "enhances dream recall, psychic development, and telepathic communication between people and animals": ["Dolphin", "Dolphin (Pacific)"],
       "strengthens our connection with the subconscious and our psychic abilities": ["Viburnum"],
-      "enhance the ability to receive and to interpret impressions of a subtler nature": ["Whale (Pacific)"]
+      "enhance the ability to receive and to interpret impressions of a subtler nature": ["Whale (Pacific)"],
+      "appears to act as a sort of portal, to open up our perceptions to another realm; connects with the Pixie and Fairy realm": ["Bluebell (LTOE)"]
     }],
     "related": ["Spiritual", "Telepathy"]
   },
@@ -2376,18 +2425,20 @@
       "an ablution to cleanse us of negative accumulated baggage of the ego": ["Purity of Soul"],
       "harmonises the vibration of any yeast, mould or parasite to one's own vibration": ["Green Essence"],
       "assists with gentle purification and cleanses away recent emotional residues": ["Hummingbird"],
-      "a remedy of purification and release": ["Sea Lettuce"]
+      "a remedy of purification and release": ["Sea Lettuce"],
+      "removes negative energies": ["Amethyst (LTOE)"]
     }],
-    "related": ["Detoxification"]
+    "related": ["Detoxification", "Purity"]
   },
   {
     "title": "Purity",
     "references": [{
       "helps to restore the purity of innocence": ["Liard Hot Springs"],
       "helps us recognize purity within ourselves": ["Cloudberry", "Polar Ice", "Starflower"],
-      "a gentle purifying rain for the soul, an ablution to cleanse us of negative accumulated baggage of the ego": ["Purity of Soul"]
+      "a gentle purifying rain for the soul, an ablution to cleanse us of negative accumulated baggage of the ego": ["Purity of Soul"],
+      "symbolises the purity of the spiritual aspect of all that is": ["24 Karat Gold"]
     }],
-    "related": []
+    "related": ["Purification"]
   },
   {
     "title": "Reassurance",
@@ -2445,7 +2496,8 @@
       "physical regeneration through the healing of old wounds": ["Cotton Grass", "Fireweed", "Rhodolite Garnet"],
       "spiritual regeneration": ["Brazilian Amethyst", "Chiming Bells", "Kunzite", "Vanadinite"],
       "reminds us of the power of nourishment and regeneration contained in hibernation": ["Red Huckleberry"],
-      "can be used where the dharma or purpose of a cell has been forgotten as in cases of cancer and degenerative disease": ["Diatoms"]
+      "can be used where the dharma or purpose of a cell has been forgotten as in cases of cancer and degenerative disease": ["Diatoms"],
+      "has a positive effect on the ability to regenerate": ["Shungite MT"]
     }],
     "related": ["Renewal"]
   },
@@ -2481,7 +2533,8 @@
       "assists in defining relationships and setting healthy boundaries with others": ["Wolf"],
       "emotionally it allow us to embrace each relationship as a new experience without residue from previous ones": ["Fireweed (Pacific)"],
       "useful for resolving tensions in interpersonal relationships": ["Harvest Lily"],
-      "resolving and dissolving the power struggles that often manifest in relationship": ["Alum Root"]
+      "resolving and dissolving the power struggles that often manifest in relationship": ["Alum Root"],
+      "helps to solve relationship problems through new joy": ["Kuan Yin Fluorite"]
     }],
     "related": []
   },
@@ -2489,7 +2542,8 @@
     "title": "Relaxation",
     "references": [{
       "for relaxing; supports one in calming down and resting comfortably after busy periods": ["Dragonfly"],
-      "for the power to visualize oneself in a state of deep relaxation": ["Goatsbeard"]
+      "for the power to visualize oneself in a state of deep relaxation": ["Goatsbeard"],
+      "take when you are stressed and tired and in need of relaxing": ["Rhododendron griffithianum"]
     }],
     "related": ["Stress", "Tension"]
   },
@@ -2703,6 +2757,7 @@
       "of one's unique contribution to the evolution of humanity": ["Lace Flower"],
       "of our creative abilities": ["Wild Iris"],
       "celebrate your unique personality without being influenced by projections and expectations of others": ["Just Me"],
+      "gives the ability to feel at home with who we are spiritually, even if we do not conform to society's expectations": ["Soul Dancer"],
       "recognising and accepting inner beauty": ["Liberation / Deception"],
       "honours one's inner beauty, and the light of one's true being": ["Necklace of Beauty"],
       "enables us to see the deep beauty of spirit and Being that is in each one of us, and to begin to embody that celestial grace": ["True Beauty"]
@@ -2837,7 +2892,8 @@
   {
     "title": "Sleep",
     "references": [{
-      "helps one to achieve a deeper and more relaxed sleep": ["Gentle Sleep", "Sleep of Peace"]
+      "helps one to achieve a deeper and more relaxed sleep": ["Gentle Sleep", "Sleep of Peace"],
+      "it can help you sleep longer or deeper": ["Shungite MT"] 
     }],
     "related": []
   },
@@ -2881,6 +2937,8 @@
       "a powerful sense of connecting more clearly with one’s higher chakras": ["Highest Reflection"],
       "enables the heart to access and be informed by transcendent aspects of the soul": ["Light of the Soul"],
       "heightens and deepens the soul's understanding of its journey in this physical body": ["Shiva's Crown"],
+      "wakes you up spiritually, but also calms the heart chakra.": ["Emerald (LTOE)"],
+      "rises up through the crown and above, creating a portal/link to the cosmos": ["Poseidon's Trumpet"],
       "for reaching one’s own spiritual truth by cutting through any confusion or misinformation": ["Angelsword"],
       "to open people up to their spirituality and to access the doorway to their higher perceptions": ["Bush Iris"],
       "helps one to cope with the dross being burnt off before emerging at a new spiritual level": ["Mint Bush"],
@@ -2903,7 +2961,8 @@
     "references": [{
       "for those who have suffered a deep spiritual wound long ago": ["Pink Flannel Flower"],
       "for ability to transmit healing energies": ["Poplar"],
-      "a remedy of choice for healers. It will enhance both auditory and kinaesthetic perception": ["Whale (Pacific)"]
+      "a remedy of choice for healers. It will enhance both auditory and kinaesthetic perception": ["Whale (Pacific)"],
+      "awakens the Healer within": ["Compassionate Heart"]
     }],
     "related": ["Spiritual"]
   },
@@ -2939,6 +2998,7 @@
       "the heart chakra": ["Chrysocolla, Chrysoprase, Emerald, Kunzite, Montana Rhodochrosite, Rhodochrosite, Rose Quartz"],
       "it provides endurance and 'upward' strength, strenghtening the aura": ["Liberation / Deception"],
       "bring strength and almost fierce focus to the solar plexus and heart chakras": ["Eye of the Tiger"],
+      "connects with your own inner strength and at the same time with a feeling of elation, particularly affecting the solar plexus chakra": ["Ruby (LTOE)"],
       "brings about renewed enthusiasm, endurance and inner strength": ["Macrocarpa"],
       "for cultivating strength, groundedness, and power": ["Bear"],
       "nurtures strength, a feeling of invincibility, and supreme confidence in one's abilities": ["Bumblebee"],
@@ -2963,6 +3023,7 @@
       "clearing mental/emotional tension and distress": ["Happy Relief"],
       "works on the energy gates and meridian points which are relating to the fight vs. flight reflex": ["Sympathetic"],
       "helps the under-activity of the 2nd and 3rd chakras and helps regulate the over-activity of the adrenal glands": ["Sympathetic (P)"],
+      "take when you are stressed and tired and in need of relaxing": ["Rhododendron griffithianum"],
       "activates the thymus gland to deal with stress effectively": ["Goatsbeard"],
       "allows for some space to re-integrate the systems before responding to the situation at hand": ["Grape Hyacinth"],
       "instead of tightening up under stress, it assists us to stay soft": ["Chiton"]
@@ -2981,6 +3042,7 @@
     "references": [{
       "brings a sense of strength and constructive moving forward. The way forward becomes clearer": ["Rising Against the Dark"],
       "an antidote to being stuck in a rut": ["Serendipity"],
+      "clarifies and stimulates the thinking process and so is helpful if we are feeling stagnant": ["Phantom Quartz"],
       "for resolving obsessions - thoughts, events, things or ideas which are stuck": ["Boronia"],
       "for people who feel stuck. For those who know what they want to achieve but do not know how to go about it": ["Red Grevillea"],
       "for people who have had a difficult time in the past and who are stuck there": ["Sunshine Wattle"],
@@ -3080,7 +3142,8 @@
   {
     "title": "Tension",
     "references": [{
-      "for gentleness which serves to break up and to dissolve blockages and tension": ["Chiton"]
+      "for gentleness which serves to break up and to dissolve blockages and tension": ["Chiton"],
+      "helpful for nervous overstimulation and tension with the inability to relax.": ["Amethyst (LTOE)"]
     }],
     "related": ["Stress"]
   },
