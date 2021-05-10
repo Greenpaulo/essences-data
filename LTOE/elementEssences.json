@@ -10,7 +10,7 @@
     "chakras": ["Crown"],
     "meridians": [],
     "elements": ["Wood"],
-    "keywords": [],
+    "keywords": ["Joy", "Stress"],
     "stock": false
   },
   {
@@ -24,7 +24,7 @@
     "chakras": ["Solar Plexus"],
     "meridians": [],
     "elements": [],
-    "keywords": ["Self-Worth..............."],
+    "keywords": ["Abundance", "Sensuality/Sexuality", "Strengthening", "Power", "Creativity"],
     "stock": false
   },
   {
@@ -38,7 +38,7 @@
     "chakras": ["Root"],
     "meridians": [],
     "elements": ["Earth"],
-    "keywords": [],
+    "keywords": ["Grounding", "Stability", "Sleep"],
     "stock": false
   },
   {
@@ -52,7 +52,7 @@
     "chakras": ["Sacral"],
     "meridians": [],
     "elements": ["Fire"],
-    "keywords": [],
+    "keywords": ["Cleansing", "Karma", "Anger", "Heat/Fire/Burns"],
     "stock": false
   },
   {
@@ -66,7 +66,7 @@
     "chakras": ["Third Eye"],
     "meridians": [],
     "elements": ["Water"],
-    "keywords": [],
+    "keywords": ["Purification", "Heat/Fire/Burns"],
     "stock": false
   },
   {
@@ -80,7 +80,7 @@
     "chakras": ["Throat"],
     "meridians": [],
     "elements": ["Wood"],
-    "keywords": [],
+    "keywords": ["Nature", "Gardening", "Perspective"],
     "stock": false
   },
   {
@@ -94,7 +94,7 @@
     "chakras": ["Heart"],
     "meridians": ["Gall Bladder"],
     "elements": ["Metal"],
-    "keywords": [],
+    "keywords": ["Bitterness", "Victim"],
     "stock": false
   }
 ]
