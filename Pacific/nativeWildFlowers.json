@@ -10,7 +10,8 @@
     "chakras": ["Throat"],
     "meridians": ["Lung", "Kidney"],
     "elements": ["Metal", "Water"],
-    "keywords": ["Expression", "Fear", "Insecure", "Commmunication"]
+    "keywords": ["Expression", "Fear", "Insecure", "Commmunication"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -23,7 +24,8 @@
     "chakras": ["Solar Plexus", "Throat"],
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
-    "keywords": ["Integration", "Intuition", "Study"]
+    "keywords": ["Integration", "Intuition", "Study"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -36,7 +38,8 @@
     "chakras": ["Root"],
     "meridians": ["Liver"],
     "elements": ["Wood"],
-    "keywords": ["Focus", "Detoxification", "Anger", "Confusion"] 
+    "keywords": ["Focus", "Detoxification", "Anger", "Confusion"] ,
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -49,7 +52,8 @@
     "chakras": ["Heart", "Third Eye", "Crown"],
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
-    "keywords": ["Authenticity", "Expression", "Pre-Menstrual"]
+    "keywords": ["Authenticity", "Expression", "Pre-Menstrual"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -62,7 +66,8 @@
     "chakras": ["Heart"],
     "meridians": ["Heart"],
     "elements": ["Fire"],
-    "keywords": ["Love", "Abundance", "Relationships", "Shock", "Recovery"]
+    "keywords": ["Love", "Abundance", "Relationships", "Shock", "Recovery"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -75,7 +80,8 @@
     "chakras": ["Third Eye"],
     "meridians": ["Small Intestine, Spleen"],
     "elements": ["Fire", "Earth"],
-    "keywords": ["Rejuvenation", "Relaxation", "Stress"]
+    "keywords": ["Rejuvenation", "Relaxation", "Stress"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -88,7 +94,8 @@
     "chakras": ["Solar Plexus", "Crown"],
     "meridians": ["Triple Warmer", "Heart Protector"],
     "elements": ["Fire"],
-    "keywords": ["Community", "Unity", "Relationships"]
+    "keywords": ["Community", "Unity", "Relationships"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -101,7 +108,8 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "meridians": ["all 12 meridians"],
     "elements": ["all 5 elements"],
-    "keywords": ["Creativity", "Depression", "Spiritual"]
+    "keywords": ["Creativity", "Depression", "Spiritual"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -114,7 +122,8 @@
     "chakras": ["Sacral", "Solar Plexus"],
     "meridians": ["Triple Warmer"],
     "elements": ["Fire"],
-    "keywords": ["Creativity", "Digestion", "Menopause", "Sensuality/Sexuality"]  
+    "keywords": ["Creativity", "Digestion", "Menopause", "Sensuality/Sexuality"]  ,
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -127,7 +136,8 @@
     "chakras": ["Sacral", "Crown"],
     "meridians": ["Liver", "Gall Bladder"],
     "elements": ["Wood"],
-    "keywords": ["Cleansing", "Stuck", "Repetitive Thoughts", "Detoxification"]
+    "keywords": ["Cleansing", "Stuck", "Repetitive Thoughts", "Detoxification"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -140,7 +150,8 @@
     "chakras": ["Heart"],
     "meridians": ["Heart", "Small Intestine"],
     "elements": ["Fire"],
-    "keywords": ["Forgiveness"]
+    "keywords": ["Forgiveness"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -153,7 +164,8 @@
     "chakras": ["Crown", "Heart"],
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
-    "keywords": ["Acceptance"]
+    "keywords": ["Acceptance"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -166,7 +178,8 @@
     "chakras": ["Crown"],
     "meridians": ["Lung", "Liver"],
     "elements": ["Metal", "Wood"],
-    "keywords": ["Abandonment", "Spiritual"]
+    "keywords": ["Abandonment", "Spiritual"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -179,7 +192,8 @@
     "chakras": ["Sacral", "Throat"],
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
-    "keywords": ["Pelvis", "Sensuality/Sexuality"]
+    "keywords": ["Pelvis", "Sensuality/Sexuality"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -192,7 +206,8 @@
     "chakras": ["Throat", "Root"],
     "meridians": ["Gall Bladder"],
     "elements": ["Wood"],
-    "keywords": ["Presence", "Stuck"]
+    "keywords": ["Presence", "Stuck"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -205,7 +220,8 @@
     "chakras": ["Sacral","Heart"],
     "meridians": ["Lung", "Kidney"],
     "elements": ["Metal", "Water"],
-    "keywords": ["Transition"]
+    "keywords": ["Transition"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -218,7 +234,8 @@
     "chakras": ["Heart"],
     "meridians": ["Stomach", "Large Intestine"],
     "elements": ["Earth", "Metal"],
-    "keywords": ["Letting Go", "Peace", "Fear"]
+    "keywords": ["Letting Go", "Peace", "Fear"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -231,7 +248,8 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Throat", "Heart", "Third Eye", "Crown"],
     "meridians": ["all 12 meridians"],
     "elements": ["all 5 elements"],
-    "keywords": ["Love", "Trauma", "Abuse", "Abandonment", "Assault", "Insecure", "Addictions"]
+    "keywords": ["Love", "Trauma", "Abuse", "Abandonment", "Assault", "Insecure", "Addictions"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -244,7 +262,8 @@
     "chakras": ["Third Eye"],
     "meridians": ["Heart Protector", "Kidney"],
     "elements": ["Fire", "Water"],
-    "keywords": ["Perspective", "Seeing"]
+    "keywords": ["Perspective", "Seeing"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -257,7 +276,8 @@
     "chakras": ["Solar Plexus", "Throat"],
     "meridians": ["Spleen", "Liver", "Kidney"],
     "elements": ["Earth", "Wood", "Water"],
-    "keywords": ["Decisiveness", "Worry"]
+    "keywords": ["Decisiveness", "Worry"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -270,7 +290,8 @@
     "chakras": ["Crown"],
     "meridians": ["Gall Bladder"],
     "elements": ["Wood"],
-    "keywords": ["Releasing", "Transition", "Repetitive Thoughts"]
+    "keywords": ["Releasing", "Transition", "Repetitive Thoughts"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -283,7 +304,8 @@
     "chakras": ["Third Eye"],
     "meridians": ["Bladder"],
     "elements": ["Water"],
-    "keywords": ["Alignment"]
+    "keywords": ["Alignment"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -296,7 +318,8 @@
     "chakras": ["Root", "Heart"],
     "meridians": ["Liver", "Gall Bladder"],
     "elements": ["Wood"],
-    "keywords": ["Judgement", "Humility", "Critical"]
+    "keywords": ["Judgement", "Humility", "Critical"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -309,6 +332,7 @@
     "chakras": ["Third Eye", "Crown"],
     "meridians": ["Lung", "Large Intestine"],
     "elements": ["Metal"],
-    "keywords": ["Self-Love"]
+    "keywords": ["Self-Love"],
+    "stock": true
   }
 ]

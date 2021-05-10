@@ -10,7 +10,8 @@
     "chakras": ["Solar Plexus"],
     "meridians": ["Large Intestine"],
     "elements": ["Metal"],
-    "keywords": ["Opening", "Releasing", "Expansion"]
+    "keywords": ["Opening", "Releasing", "Expansion"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -23,7 +24,8 @@
     "chakras": ["Throat"],
     "meridians": ["Lung"],
     "elements": ["Metal"],
-    "keywords": ["Grief"]
+    "keywords": ["Grief"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -36,7 +38,8 @@
     "chakras": ["Crown"],
     "meridians": ["Gall Bladder"],
     "elements": ["Wood"],
-    "keywords": ["Addictions", "Repetitive Thoughts"]
+    "keywords": ["Addictions", "Repetitive Thoughts"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -49,7 +52,8 @@
     "chakras": ["Third Eye"],
     "meridians": ["Stomach", "Lung"],
     "elements": ["Earth", "Metal"],
-    "keywords": ["Shock", "Trauma", "Stress", "Hope/Hopelessness", "Depression"]
+    "keywords": ["Shock", "Trauma", "Stress", "Hope/Hopelessness", "Depression"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -62,7 +66,8 @@
     "chakras": ["Throat"],
     "meridians": ["Heart"],
     "elements": ["Fire"],
-    "keywords": ["Innocence", "Love", "Expression", "Uniqueness", "Seeing", "Heart"]
+    "keywords": ["Innocence", "Love", "Expression", "Uniqueness", "Seeing", "Heart"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -75,7 +80,8 @@
     "chakras": ["Solar Plexus", "Crown"],
     "meridians": ["Heart Protector"],
     "elements": ["Fire"],
-    "keywords": ["Sensuality/Sexuality"]
+    "keywords": ["Sensuality/Sexuality"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -88,7 +94,8 @@
     "chakras": ["Root", "Sacral"],
     "meridians": ["Stomach"],
     "elements": ["Earth"],
-    "keywords": ["Grounding", "Anxiety", "Fear", "Worry", "Obsessive", "Survival"]
+    "keywords": ["Grounding", "Anxiety", "Fear", "Worry", "Obsessive", "Survival"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -101,7 +108,8 @@
     "chakras": ["Sacral", "Crown"],
     "meridians": ["Heart"],
     "elements": ["Fire"],
-    "keywords": ["Remembering", "Depression", "Anxiety"]
+    "keywords": ["Remembering", "Depression", "Anxiety"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -114,7 +122,8 @@
     "chakras": ["Root"],
     "meridians": ["Large Intestine", "Lung"],
     "elements": ["Metal"],
-    "keywords": ["Abundance", "Gratitude"]
+    "keywords": ["Abundance", "Gratitude"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -127,7 +136,8 @@
     "chakras": ["Root", "Solar Plexus", "Crown"],
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
-    "keywords": ["Overserious", "Joy", "Playful", "Letting Go", "Fear"]
+    "keywords": ["Overserious", "Joy", "Playful", "Letting Go", "Fear"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -140,7 +150,8 @@
     "chakras": ["Third Eye"],
     "meridians": ["Spleen", "Triple Warmer"],
     "elements": ["Earth", "Fire"],
-    "keywords": ["Intuition", "Psychic Development", "Nature", "Meditation", "Unity", "Dreaming"]
+    "keywords": ["Intuition", "Psychic Development", "Nature", "Meditation", "Unity", "Dreaming"],
+    "stock": true
   },
   {
     "company": "Pacific",
@@ -153,6 +164,7 @@
     "chakras": ["Throat", "Heart"],
     "meridians": ["Stomach"],
     "elements": ["Earth"],
-    "keywords": ["Spiritual", "Grounding", "Security"]
+    "keywords": ["Spiritual", "Grounding", "Security"],
+    "stock": true
   }
 ]

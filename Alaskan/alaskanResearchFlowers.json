@@ -3,369 +3,451 @@
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Alaska Violet",
+    "latin": "Viola langsdorfii",
     "description": [],
     "indications": ["lack of grounding", "overcautious", "timid", "reticent", "unable to actualize one's life purpose in a practical way on the physical plane."],
     "effects": ["supports us in finding the right energetic relationship with ourselves, others and the environment, especially in crowded situations", "helps us create a quiet place inside where the flame of love and enthusiasm for our life's work can be nourished and protected."],
-    "keywords": ["Belonging, Homeless, Joy, Protection"]
+    "keywords": ["Belonging, Homeless, Joy, Protection"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Alpine Arnica",
+    "latin": "Arnica alpina",
     "description": [],
     "indications": ["over identification with emotional traumas and wounds from the past", "pain without understanding."],
     "effects": ["illuminates the relationship between old emotional and mental imbalances and the pain we are feeling in our bodies", "helps us let go of our accumulation of past hurts without going through every detail of what happened and why", "promotes ease, deep calm and balance."],
-    "keywords": ["Alignment, Calm, Forgiveness, Realignment, Release, Relief, Suffering"]
+    "keywords": ["Alignment, Calm, Forgiveness, Realignment, Release, Relief, Suffering"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Angelica",
+    "latin": "Angelica genuflexa",
     "description": [],
     "indications": ["feeling lost or abandoned and without spiritual protection", "isolated in one's anxiety", "overburdened by life."],
     "effects": ["connects us to the protective energies of the angelic kingdom", "promotes acceptance of spiritual support in all situations", "helps us experience protection as coming from a certainty of our Divine nature."],
-    "keywords": ["Abandonment, Childbirth, Children, Death & Dying, Fear, Love, Opening, Protection, Receptivity, Support"]
+    "keywords": ["Abandonment, Childbirth, Children, Death & Dying, Fear, Love, Opening, Protection, Receptivity, Support"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Bleeding Heart",
+    "latin": "Dicentra spectibalis",
     "description": [],
     "indications": ["feeling rejected by the self", "heart closed to others", "lack of compassion for ourselves and others", "divisions in our relationships."],
     "effects": ["promotes loving kindness", "helps us resolve the polarities of love/separation and joy/suffering by opening the heart to compassion for all beings."],
-    "keywords": ["Abandonment, Alienation, Compassion, Devotion, Forgiveness, Freedom, Heart, Joy, Loss, Suffering"]
+    "keywords": ["Abandonment, Alienation, Compassion, Devotion, Forgiveness, Freedom, Heart, Joy, Loss, Suffering"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Blue Poppy",
+    "latin": "Meconopsis grandis",
     "description": [],
     "indications": ["weak or dysfunctional connection between the spiritual and sexual aspects of self", "lack of balance between the inner male and female."],
     "effects": ["helps us unify all aspects of our masculine and feminine characteristics within our physical bodies", "promotes purity of passion in service to Spirit."],
-    "keywords": ["Alignment, Balance, Balancing, Feminine, Masculine, Sensuality/Sexuality"]
+    "keywords": ["Alignment, Balance, Balancing, Feminine, Masculine, Sensuality/Sexuality"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Bog Candle",
+    "latin": "Platanthera dilatata",
     "description": [],
     "indications": ["caught up in confusion, shame, fear and guilt", "prone to destructive or degrading tendencies", "extremely low self-esteem."],
     "effects": ["support for cycles of initiation, death and rebirth", "enables us to emerge from a deep experience of transformation with a new sense of wisdom", "helps us bring discarded aspects of ourselves back to the embrace of Divine love."],
-    "keywords": ["Critical, Death & Dying, Peace, Rebirthing, Releasing, Transformation"]
+    "keywords": ["Critical, Death & Dying, Peace, Rebirthing, Releasing, Transformation"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Chocolate Lily",
+    "latin": "Fritillary camschatcensis",
     "description": [],
     "indications": ["over-reactive to situations beyond our control", "low endurance and fatigue from chronically over-extending ourselves past the point of tiredness."],
     "effects": ["reveals how everything in life is connected to our center", "opens awareness of our center's connection to the source of our vitality", "helps us open to and hold our life experiences with more spaciousness and less reactivity."],
-    "keywords": ["Awareness, Centering, Energy, Rejuvenation"]
+    "keywords": ["Awareness, Centering, Energy, Rejuvenation"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Cloudberry",
+    "latin": "Rubus chamaemorus",
     "description": [],
     "indications": ["cloudy inner vision", "looking outside of ourselves for insight and answers", "always overwhelmed with details", "obsessed with trying to figure things out."],
     "effects": ["helps us learn to change by surrendering to our inner vision", "for replacing low self-esteem with an awareness of inner value", "helps us open to the true source of our being and reflect this out into the world for others to see."],
-    "keywords": ["Empowered/Empowerment, Innocence, Purity, Self-Esteem, Vision"]
+    "keywords": ["Empowered/Empowerment, Innocence, Purity, Self-Esteem, Vision"],
+    "stock": true
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Club Moss",
+    "latin": "Lycopodium annotinum",
     "description": [],
     "indications": ["ungrounded", "resistance to being here on Earth", "little or no awareness of one's connection to the planet."],
     "effects": ["helps us make a direct, present-time connection to the Earth", "helps us go to deeper levels of relaxation, enjoyment, and manifestation", "solidifies a base of energy in the body for the further development of higher functions", "quiets the body, emotions and mind."],
-    "keywords": ["Ambivalence, Birth, Embodiment, Grounding, Manifest, Stabilize"]
+    "keywords": ["Ambivalence, Birth, Embodiment, Grounding, Manifest, Stabilize"],
+    "stock": true
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Comfrey",
+    "latin": "Symphytum officinale",
     "description": [],
     "indications": ["low body awareness", "unresolved trauma and injuries from the past", "difficulty healing old wounds", "energy loss for no apparent reason."],
     "effects": ["supports healing on all levels", "heals etheric body damage when there has been an injury in this or another lifetime", "promotes the embodiment of higher spiritual energies and the expression of our Divine potential."],
-    "keywords": ["Accidents, Completion, Earth Healing, Etheric, Massage Therapy/Body Work, Recovery, Regeneration"]
+    "keywords": ["Accidents, Completion, Earth Healing, Etheric, Massage Therapy/Body Work, Recovery, Regeneration"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Crowberry",
+    "latin": "Empetrum nigrum",
     "description": [],
     "indications": ["life filled with inner conflict and attachment to outcome", "unable to find or maintain one's center in a difficult or oppressive situation."],
     "effects": ["helps us find empowerment in the depths of struggle", "stimulates awareness of cycles of light and darkness, internally and externally", "enables us to hold these polarities with respect and gratitude, rather than with attachment or aversion."],
-    "keywords": ["Ambivalence, Balancing, Grounding, Perception"]
+    "keywords": ["Ambivalence, Balancing, Grounding, Perception"],
+    "stock": true
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Devil's Club",
+    "latin": "Echinopanax horridum",
     "description": [],
     "indications": ["poor energetic boundaries", "territorial conflicts", "feel like there is not enough room to be fully present", "defining one's personal space is a constant struggle."],
     "effects": ["clears ambivalence about being present in our physical bodies and on the Earth", "helps us experience peace from knowing we are secure and in harmony with our surroundings", "helps us express our truth firmly and clearly from the heart."],
-    "keywords": ["Ambivalence, Boundaries, Children, Clutter Clearing, Grounding, Harmony, Protection, Safety, Vulnerability"]
+    "keywords": ["Ambivalence, Boundaries, Children, Clutter Clearing, Grounding, Harmony, Protection, Safety, Vulnerability"],
+    "stock": true
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Dwarf Fireweed",
+    "latin": "Epilobium adenocaulon",
     "description": [],
     "indications": ["attachment to difficulty", "doing things the hard way", "overwhelmed during any kind of transformative healing process."],
     "effects": ["helps us open to and experience transformation with gentleness, grace and ease", "helps us fine tune how we move through a healing process so we do not create more difficulties or pain."],
-    "keywords": ["Completion, Inner Child, Recovery, Transformation"]
+    "keywords": ["Completion, Inner Child, Recovery, Transformation"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Enchanter's Nightshade",
+    "latin": "Circaea alpina",
     "description": [],
     "indications": ["fear and avoidance of the inner recesses of the psyche", "attachment to expansion", "imbalance between isolation and exposure."],
     "effects": ["balances the polarities of light and shadow, expansion and contraction", "heals imbalances that are created by too much exposure to the light", "helps one find peace, protection, safety and security through the release of fear."],
-    "keywords": ["Balancing, Fear, Light, Safety"]
+    "keywords": ["Balancing, Fear, Light, Safety"],
+    "stock": true
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Fairy Slipper",
+    "latin": "Calypso bulbosa",
     "description": [],
     "indications": ["weak vertical alignment", "not wanting to stand out and be noticed", "spiritual potential and wisdom not activated or manifested in the physical body."],
     "effects": ["support for standing in our power and beauty, and for projecting our unique individuality in a clear way", "helps us manifest our spiritual wisdom through our physical bodies", "strengthens the male principle in men and women", "promotes clear communication through alignment with Earth and spirit"],
-    "keywords": ["Abuse, Father, Fear, Feminine, Individuality, Masculine, Potential, Power, Public Speaking, Wisdom"]
+    "keywords": ["Abuse, Father, Fear, Feminine, Individuality, Masculine, Potential, Power, Public Speaking, Wisdom"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "False Hellebore",
+    "latin": "Veratrum viride",
     "description": [],
     "indications": ["insecure", "holding back", "stuck in old ways of viewing life", "in denial", "inflexibility based on a fear of moving forward."],
     "effects": ["promotes the release of false concepts and assumptions", "catalyzes movement from the old to the new", "helps us face and liberate our deepest, darkest fears."],
-    "keywords": ["Fear, Release, Transformation, Truth"]
+    "keywords": ["Fear, Release, Transformation, Truth"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Goatsbeard",
+    "latin": "Aruncus sylvester",
     "description": [],
     "indications": ["creative processes are dreamy and unfocused", "lack of joy and fun in life", "mental inflexibility", "over-intellectual", "pessimistic."],
     "effects": ["joy through optimism", "supports the manifestation of positive reality", "helps those who are highly energized mentally to ground and focus that creative energy into the physical body."],
-    "keywords": ["Anxiety, Creativity, Inspiration, Joy, Manifesting, Optimism, Power"]
+    "keywords": ["Anxiety, Creativity, Inspiration, Joy, Manifesting, Optimism, Power"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Ladies' Mantle",
+    "latin": "Alchemillia vulgaris",
     "description": [],
     "indications": ["shame and vulnerability around one's sexuality", "loss of innocence through the experience of abuse", "difficulties during puberty and menopause."],
     "effects": ["promotes the release of sadness and despair", "strengthens our relationship to the sacred feminine", "heals the feminine connection between sensuality, creativity and divinity", "helps men balance their relationship with feminine power within themselves and with others."],
-    "keywords": ["Abuse, Childbirth, Empowered/Empowerment, Feminine, Grief, Loss, Power, Pre-Menstrual, Sadness, Sensuality/Sexuality, Suffering"]
+    "keywords": ["Abuse, Childbirth, Empowered/Empowerment, Feminine, Grief, Loss, Power, Pre-Menstrual, Sadness, Sensuality/Sexuality, Suffering"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Lapland Rosebay",
+    "latin": "Rhododendron lapponicum",
     "description": [],
     "indications": ["over-dependent on others for advice", "lack of trust in one's intuition", "prone to mental confusion and circular thinking."],
     "effects": ["penetrating insight into the self and all of nature", "seeing without distortion", "brings us back to our senses when we have been looking outside of ourselves for answers", "reminds us to look to the heart for perspective and direction."],
-    "keywords": ["Awareness, Perspective, Seeing, Wisdom"]
+    "keywords": ["Awareness, Perspective, Seeing, Wisdom"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Lavender Yarrow",
+    "latin": "Achillea borealis",
     "description": [],
     "indications": ["integrity of the aura has been compromised by imbalances or damage in the higher chakras and subtle bodies."],
     "effects": ["gives strength and protection to the higher chakras", "heals the depletion that results from a chaotic influx of energy through the crown chakra", "balances the flow of spiritual energy into the heart chakra."],
-    "keywords": ["Children, Environment, Massage Therapy/Body Work, Protection, Sensitivity, Vulnerability"]
+    "keywords": ["Children, Environment, Massage Therapy/Body Work, Protection, Sensitivity, Vulnerability"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Lilac",
+    "latin": "Syringa vulgaris",
     "description": [],
     "indications": ["weak vertical alignment affecting energy inflow and circulation", "energies stuck in lower chakras", "over concern for our own stories and struggles."],
     "effects": ["aligns the chakras with each other so that they can more fully receive and embody healing energy from the Spiritual dimensions", "helps us gracefully raise the frequency of our energy fields."],
-    "keywords": ["Alignment, Grace, Spiritual, Support"]
+    "keywords": ["Alignment, Grace, Spiritual, Support"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Nootka Lupine",
+    "latin": "Lupinus nootkatensis",
     "description": [],
     "indications": ["victim consciousness", "resignation about one's place in life", "vulnerable to influences from the past", "lacking the courage and confidence to confront and resolve karmic issues."],
     "effects": ["helps us confront and address deep karmic issues that surface repeatedly for resolution", "shows where our awareness and energy need to be focused in order to transform these matters."],
-    "keywords": ["Accidents, Ancestral Healing, Karma, Transformation"]
+    "keywords": ["Accidents, Ancestral Healing, Karma, Transformation"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Northern Coral Root",
+    "latin": "Corallorhiza trifida",
     "description": [],
     "indications": [" holding on to toxic and distorted thoughts and emotions", "lack of awareness of one's energetic connection to the planet", "consumption without awareness."],
     "effects": ["helps us transmute toxic and distorted emotions, thought forms, and energies into Light", "promotes awareness and respect for our symbiotic relationship with the Earth", "teaches us how to get what we need by grounding and connecting our heart and spirit to our physical environment."],
-    "keywords": ["Addictions, Belonging, Cleansing, Clutter Clearing, Communication, Detoxification, Purification, Space Clearing"]
+    "keywords": ["Addictions, Belonging, Cleansing, Clutter Clearing, Communication, Detoxification, Purification, Space Clearing"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Northern Green Orchid",
+    "latin": "Platanthera hyperborean",
     "description": [],
     "indications": ["unresolved conflict in the heart", "expressions of power and love are not aligned", "reactive rather than proactive."],
     "effects": ["promotes a higher degree of horizontal and vertical alignment", "helps us embody our mastery and power and express it through our hearts with integrity and love", "teaches us how to join our hearts together in love and shared higher purpose."],
-    "keywords": ["Empowered/Empowerment, Heart, Life-Purpose, Power"]
+    "keywords": ["Empowered/Empowerment, Heart, Life-Purpose, Power"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Pale Corydalis",
+    "latin": "Corydalis sempervirens",
     "description": [],
     "indications": ["co-dependent", "lack of commitment or clear intention in a relationship", "holding back because of a fear of losing oneself", "unable to see the higher purpose of a relationship."],
     "effects": ["helps us develop a stronger sense of who we are in our relationships", "aligns and integrates personal and Divine will within the heart", "balances addictive and conditional patterns of loving", "helps us see our relationships as catalysts for spiritual growth."],
-    "keywords": ["Abandonment, Commitment, Relationships, Spiritual"]
+    "keywords": ["Abandonment, Commitment, Relationships, Spiritual"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Pasque Flower",
+    "latin": "Pulsatilla patens",
     "description": [],
     "indications": ["shy and aloof", "unclear boundaries", "over-sensitive to physical contact", "loses sense of self in crowded or intimate situations."],
     "effects": ["helps us create and maintain security through functional energy boundaries", "helps us feel respected, appreciated and protected, and maintain our deepest sense of personal identity in all situations."],
-    "keywords": ["Alienation, Boundaries, Individuality, Intimacy, Oversensitive, Protection, Security, Sensitivity,Sensuality/Sexuality, Vulnerability"]
+    "keywords": ["Alienation, Boundaries, Individuality, Intimacy, Oversensitive, Protection, Security, Sensitivity,Sensuality/Sexuality, Vulnerability"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Potato",
+    "latin": "Solanum tuberosum",
     "description": [],
     "indications": ["holding on", "rigidity", "lack of mobility", "hard, tough and inflexible persona", "resistance to releasing the past."],
     "effects": ["physical release", "for thawing out incomplete cycles of experience that are being held in the body", "encourages love and self-acceptance to penetrate into every cell of the body."],
-    "keywords": ["Flexibility, Massage Therapy/Body Work, Release, Resilience"]
+    "keywords": ["Flexibility, Massage Therapy/Body Work, Release, Resilience"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Purple Poppy",
+    "latin": "Papaver somniferum",
     "description": [],
     "indications": ["difficulty keeping up with the pace of change in one's life", "frenetic and frazzled", "disorientation and fatigue from too much going on", "wired and tired."],
     "effects": ["helps us maintain balance during rapid phases of evolution—when our entire vibrational makeup is undergoing transformation", "helps us experience deep levels of integration and rest while allowing the transformative process to continue."],
-    "keywords": ["Anxiety, Balance, Exhaustion, Integration, Perseverance"]
+    "keywords": ["Anxiety, Balance, Exhaustion, Integration, Perseverance"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Red Elder",
+    "latin": "Sambucus racemosa",
     "description": [],
     "indications": ["ungrounded", "disembodied", "feeling unsupported by one's physical environment", "focus in life is scattered and diffuse."],
     "effects": ["for contracting overly expanded states of being", "helps us view life from the center rather than from the periphery", "improves our grounding and physical presence by helping us release mental and emotional tension into the Earth."],
-    "keywords": ["Anxiety, Balancing, Centering, Perspective"]
+    "keywords": ["Anxiety, Balancing, Centering, Perspective"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Red-Purple Poppy",
+    "latin": "Papaver somniferum",
     "description": [],
     "indications": ["indecisive", "lethargic", "uninspired", "stagnant energy flow in the lower chakras", "feeling a lack of guidance and support from the spiritual realms."],
     "effects": ["for balancing extremes between physical and etheric frequencies of energy", "helps us focus on the survival and spiritual aspects of life in an integrated way", "supports us in making full use of our physical capacities to embody spirit."],
-    "keywords": ["Balancing, Energy, Integration, Spiritual"]
+    "keywords": ["Balancing, Energy, Integration, Spiritual"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Reindeer Moss",
+    "latin": "Cladina rangiferina",
     "description": [],
     "indications": ["feeling uprooted, disconnected or displaced", "grief, despondency, despair", "significant, sudden changes in life, such as a loss of one's home or business due to circumstances beyond one's control."],
     "effects": ["for humans and animals who have suffered a loss of connection with their ancestral home and habitats", "opens awareness of the constant and eternal nature of life."],
-    "keywords": ["Abandonment, Acceptance, Alienation, Ancestral Healing, Belonging, Earth Healing, Grief, Loss, Space Clearing, Suffering"]
+    "keywords": ["Abandonment, Acceptance, Alienation, Ancestral Healing, Belonging, Earth Healing, Grief, Loss, Space Clearing, Suffering"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Round-Leaf Orchid",
+    "latin": "Amerorchis rotundifolia",
     "description": [],
     "indications": ["reactive", "distracted and unable to stay focused on the issue or task at hand", "not tending to one's heart in troubled times."],
     "effects": ["support to live more deeply in our hearts and maintain that position in times of confusion and chaos", "promotes equanimity and balance", "helps us get to and stay with the core of an issue without being distracted by all of the energy at the periphery."],
-    "keywords": ["Agitation, Balance, Centering, Heart"]
+    "keywords": ["Agitation, Balance, Centering, Heart"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Self-Heal",
+    "latin": "Prunela vulgaris",
     "description": [],
     "indications": ["discouraged by chronic health issues", "doubting one's self-healing abilities", "resistance to receiving healing energy and support from others."],
     "effects": ["promotes self-esteem, self-acceptance, and an expansion of love and compassion for ourselves", "helps strengthen our belief in our body's inherent ability to heal itself."],
-    "keywords": ["Accidents, Belief, Commitment, Confidence, Recovery"]
+    "keywords": ["Accidents, Belief, Commitment, Confidence, Recovery"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Star Gentian",
+    "latin": "Swertia perennis",
     "description": [],
     "indications": ["insensitivity", "lack of devotion and commitment to higher ideals", "tendency to compete rather than cooperate."],
     "effects": ["supports the resolution of inner conflicts so we can better focus our energy towards goals of higher service", "helps men reclaim their spiritual self-image", "supports men in serving the Divine feminine", "helps bring about a higher degree of balance and equanimity between men and women as both are engaged in service to higher purpose."],
-    "keywords": ["Balance, Commitment, Devotion, Masculine, Service"]
+    "keywords": ["Balance, Commitment, Devotion, Masculine, Service"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Starflower",
+    "latin": "Trientalis europea",
     "description": [],
     "indications": ["neediness", "low self-worth", "no sense of belonging", "withdrawn", "weak connection to family and home."],
     "effects": ["a soothing, comforting energy of purity, refinement and innocence", "promotes individuality and free expression of self", "enables us to maintain our sense of self in crowded situations, regardless of competition for resources or lack of space."],
-    "keywords": ["Abundance, Alienation, Belonging, Childbirth, Children, Confidence, Innocence, Purity, Sharing"]
+    "keywords": ["Abundance, Alienation, Belonging, Childbirth, Children, Confidence, Innocence, Purity, Sharing"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Stinging Nettle",
+    "latin": "Stinging Nettle - Urtica gracilis",
     "description": [],
     "indications": ["defensiveness from unresolved trauma", "getting angry, upset and disconnected when there is too much to do."],
     "effects": ["helps those who are highly sensitive stay connected to the Earth and to their feelings", "heals alienation in those who have been hurt deeply and have a tendency to repel those they want to be close to", "promotes grounding and reconnection after being overwhelmed by too much input."],
-    "keywords": ["Abandonment, Alienation, Anxiety, Critical, Defensiveness, Integration, Irritation, Oversensitive,Overwhelmed, Sensitive"]
+    "keywords": ["Abandonment, Alienation, Anxiety, Critical, Defensiveness, Integration, Irritation, Oversensitive,Overwhelmed, Sensitive"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Valerian",
+    "latin": "Valeriana officinalis",
     "description": [],
     "indications": ["agitated and irritable", "difficulty relaxing the mind and body", "unfocused", "mental energy scattered and inefficient."],
     "effects": ["encourages the feeling of comfort in every day existence", "helps us slow down in order to gain perspective on our priorities", "especially when we feel pressured to do or decide", "promotes the willingness to surrender to natural urges for rest and nurturing."],
-    "keywords": ["Agitation, Anger, Anxiety, Release"]
+    "keywords": ["Agitation, Anger, Anxiety, Release"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "White Lupine",
+    "latin": "Lupinus nootkatensis",
     "description": [],
     "indications": ["caught up in ancestral patterns and unhealthy family dynamics", "invested in old family resentments and grudges."],
     "effects": ["supports the emergence of a new archetype of male spirituality", "stimulates the release of familial and tribal karmic patterns of behavior, and old treasured wounds and grievances, without reactivity or attachment."],
-    "keywords": ["Addictions, Ancestral Healing, Attachment, Releasing"]
+    "keywords": ["Addictions, Ancestral Healing, Attachment, Releasing"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Wild Sweet Pea",
+    "latin": "Hedysarum mackenzii",
     "description": [],
     "indications": ["lack of confidence in social skills", "tendency to isolate rather than seek meaningful contact with others."],
     "effects": ["promotes confidence and ease in our interactions with others", "supports the outward expression and sharing of our talents and abilities, and encourages us to share our best in service to others."],
-    "keywords": ["Confidence, Courage, Creativity, Homeless, Isolation, Open"]
+    "keywords": ["Confidence, Courage, Creativity, Homeless, Isolation, Open"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Yellow Paintbrush",
+    "latin": "Castilleja unalaschensis",
     "description": [],
     "indications": ["weak vertical alignment", "inspiration and creative energies are not harmonized", "creative process is disjointed and stagnant", "chronic creative frustration."],
     "effects": ["facilitates the release of emotional frustrations and feelings of self-limitation that block our creative expression", "helps us open and cleanse the heart so that it may act as a focal point for the sharing of our creative energies."],
-    "keywords": ["Creativity, Frustration, Heart, Potential"]
+    "keywords": ["Creativity, Frustration, Heart, Potential"],
+    "stock": false
   },
   {
     "company": "Alaskan",
     "group": "Research Flowers",
     "name": "Yellow Violet",
+    "latin": "Viola biflora",
     "description": [],
     "indications": ["defensive communication", "stage fright", "distress and dread around public speaking", "self-expression blocked by the fear of being judged or ridiculed."],
     "effects": ["fearlessness", "gives us the strength and confidence to naturally express the essence of our beings without limitation, compromise or self-consciousness, in all circumstances", "gives protection to the act of verbal expression, especially when there is a challenge or controversy around what needs to be said."],
-    "keywords": ["Balance, Communication, Confidence, Defensiveness, Fear, Public Speaking, Self-Expression"]
+    "keywords": ["Balance, Communication, Confidence, Defensiveness, Fear, Public Speaking, Self-Expression"],
+    "stock": true
   }
 ]

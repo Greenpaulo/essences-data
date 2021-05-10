@@ -6,7 +6,8 @@
     "description": [],
     "indications": ["emotional congestion", "difficulty processing and releasing emotions from the distant past", "defeatist attitude", "feeling burdened by life."],
     "effects": ["emotional strength through a joyful cleansing of old emotional burdens", "facilitates a clearing of our hearts and emotional bodies so that we can communicate more easily with others."],
-    "keywords": ["Cleansing, Communication, Feminine, Heart"]
+    "keywords": ["Cleansing, Communication, Feminine, Heart"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -15,7 +16,8 @@
     "description": [],
     "indications": ["lack of strength and flexibility", "awkwardness", "overcautious", "fear of injury", "poor body image, especially in adolescence and as one ages."],
     "effects": ["helps us contact the inherent strength, endurance, flexibility and instinctual nature of the physical body", "relaxes and aligns the energetic structure of the body so that more light and energy can enter and circulate with less resistance."],
-    "keywords": ["Alignment, Energy, Flexibility, Light"]
+    "keywords": ["Alignment, Energy, Flexibility, Light"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -24,7 +26,8 @@
     "description": [],
     "indications": ["aloof and indifferent", "uptight", "lacking empathy, warmth and spontaneity", "idealistic and dreamy", "escapes into work or imagination."],
     "effects": ["brings horizontal balance to those who are too vertical", "opens and softens the heart chakra", "brings balance to those who have an excess of energy focused in the head", "helps us relax and share what we have."],
-    "keywords": ["Balance, Communication, Heart, Opening"]
+    "keywords": ["Balance, Communication, Heart, Opening"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -33,7 +36,8 @@
     "description": [],
     "indications": ["poor energetic hygiene", "unable to maintain psychic balance", "over-stimulation due to lack of grounding", "tendency to become energetically enmeshed with others."],
     "effects": ["promotes energetic hygiene", "helps one be fully present and connected to the Earth, spirit and another person during healing work, and then facilitates the release of interpersonal energy connections so that both people can return to a state of energy independence."],
-    "keywords": ["Boundaries, Energy, Grounding, Release"]
+    "keywords": ["Boundaries, Energy, Grounding, Release"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -42,7 +46,8 @@
     "description": [],
     "indications": ["inner turbulence and agitation", "weak vertical alignment", "excess mental energy blocking the downward flow of spiritual forces", "fear and resistance held in the heart."],
     "effects": ["clears, expands and aligns the heart chakra into a more evolved relationship with the Higher Self", "opens us to allow more peace and solace to reside in our being on a permanent basis", "enables us to embody higher frequencies of Universal wisdom", "moves us from distraction and waywardness to quiet, centered strength and self-reflection."],
-    "keywords": ["Alignment, Attunement, Empowered/Empowerment, Heart, Peace"]
+    "keywords": ["Alignment, Attunement, Empowered/Empowerment, Heart, Peace"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -51,7 +56,8 @@
     "description": [],
     "indications": ["restless, scattered and unfocused", "difficulty grounding ideas into form", "mental inflexibility", "resistance to new ways of thinking and problem solving", "uninspired."],
     "effects": ["soothing and calming", "strengthens mental clarity, focus and effectiveness", "encourages the clear expression of our soul's identity through the evolution of our thinking processes", "opens our awareness to higher soul/mental functions."],
-    "keywords": ["Agitation, Anxiety, Clarity, Stress"]
+    "keywords": ["Agitation, Anxiety, Clarity, Stress"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -60,7 +66,8 @@
     "description": [],
     "indications": ["restricted energy flow in certain parts of the body", "high levels of energetic toxins in the chakras", "unable to integrate spiritual energy with existing survival programming."],
     "effects": ["works at the deepest level of the physical body to improve grounding, circulation and strength", "balances the relationship between the 1st and 7th chakras", "helps us exchange toxic energy held in the chakras for restorative energy", "stimulates the organized release of old habits and patterns."],
-    "keywords": ["Balancing, Detoxification, Grounding, Purification"]
+    "keywords": ["Balancing, Detoxification, Grounding, Purification"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -69,7 +76,8 @@
     "description": [],
     "indications": ["unresolved sadness and anguish from losses suffered in the past", "anxiety about being separated from the spiritual realms", "inner and outer vision blocked by tension and grief."],
     "effects": ["gently opens, clears and aligns the upper chakras with the divine and angelic realms", "restructures our inner and outer vision enabling us to clearly see the world from a spiritual perspective", "heals sadness in the heart resulting from experiences of loss and separation", "helps us identify and release the causes of physical tension in our bodies."],
-    "keywords": ["Alignment, Heart, Judgement, Peace, Sadness, Vision"]
+    "keywords": ["Alignment, Heart, Judgement, Peace, Sadness, Vision"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -78,7 +86,8 @@
     "description": [],
     "indications": ["deep sadness and pain from unresolved karmic and ancestral issues", "remorse, resignation, and despair that is out of proportion to remembered events", "victim consciousness."],
     "effects": ["helps us clear deep emotional sadness and ancient karmic energy stuck in the lower chakras, and in the subtle bodies of the Earth", "works with the chakras in the lower body and feet to increase the flow of energy coming up from the Earth."],
-    "keywords": ["Ancestral Healing, Cleansing, Loss, Release, Sadness, Suffering"]
+    "keywords": ["Ancestral Healing, Cleansing, Loss, Release, Sadness, Suffering"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -87,7 +96,8 @@
     "description": [],
     "indications": ["abandonment", "living in fear for one's survival", "poor self-esteem and self-worth", "compulsive and self-abusive behavior", "overcompensation for feelings of inadequacy", "lack of intimacy in relationships with self and others."],
     "effects": ["releases self-destructive programming from the 1st chakra", "for letting go of crystalized levels of fear, anger and self-worthlessness that are blocking the heart from accepting higher levels of consciousness and Divine Will", "helps us transform the density of grief and the sadness of separation", "releases alienation and helps us rebuild trust and intimacy with all kingdoms of life."],
-    "keywords": ["Alienation, Critical, Grief, Releasing"]
+    "keywords": ["Alienation, Critical, Grief, Releasing"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -96,7 +106,8 @@
     "description": [],
     "indications": ["exhaustion", "depleted energy reserves", "chronically tired from overwork and poor energy management", "lifestyle and work habits are not nourishing the physical body."],
     "effects": [" releases blockages in our energy pathways to allow more Earth energy to rise up into the body and into all of the chakras", "helps the body learn to store this additional energy rather than making it available for immediate use, so reserves can be built up", "helps us move from 'I have energy', to 'I am energy'", "facilitates long term recovery from illness or overwork."],
-    "keywords": ["Awareness, Creativity, Energy, Exhaustion, Lethargy, Recovery"]
+    "keywords": ["Awareness, Creativity, Energy, Exhaustion, Lethargy, Recovery"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -105,7 +116,8 @@
     "description": [],
     "indications": ["ungrounded", "disconnected from the Earth", "disoriented", "easily overwhelmed", "tendency to get over-expanded and scattered", "difficulty focusing in the present moment."],
     "effects": [" grounds a person's energy focus and consciousness into the Earth plane", "facilitates vertical grounding and horizontal stability", "works with the two way flow of energy and information between the heart and base chakra", "helps us have a softer and more intimate relationship with the planet."],
-    "keywords": ["Agitation, Communication, Grounding, Nature"]
+    "keywords": ["Agitation, Communication, Grounding, Nature"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -114,7 +126,8 @@
     "description": [],
     "indications": ["fear and feelings of low self-esteem blocking intimate heart centered connections with others", "lack of transparency in relationships", "difficulty staying present when confronted with strong emotional energies in oneself or from others."],
     "effects": ["a transparent stone that helps us see through the illusion of separation and experience oneness with life", "lifts the veil between the human and natural world so that we can see ourselves reflected in all of life, and feel all forms of life within our hearts."],
-    "keywords": ["Heart, Nature, Perception, Vision"]
+    "keywords": ["Heart, Nature, Perception, Vision"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -123,7 +136,8 @@
     "description": [],
     "indications": ["anxious", "holding tension in the body", "lack of synchronization between different parts of the energy field and the Earth", "difficulty coordinating activities after a shock or upset."],
     "effects": ["expands the connection between the 4th chakra and the Earth", "helps us release unwanted energies into the Earth", "helps us focus our creative energies as an effortless offering from the heart", "promotes concentration and firm willingness in the creative act."],
-    "keywords": ["Creativity, Grounding, Heart, Release"]
+    "keywords": ["Creativity, Grounding, Heart, Release"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -132,7 +146,8 @@
     "description": [],
     "indications": ["gloomy or heavy outlook on life", "low energy reserves", "fatigue from living a fast paced lifestyle and neglecting the needs of the body", "irresponsible use of vital energies."],
     "effects": ["helps one attract, gather and assimilate the energetic nourishment of light into the body", "replenishes those who are experiencing a light deficiency or are depleted from using up their energy reserves", "helps us learn to be responsible and conscious about our attractiveness and the energy we project."],
-    "keywords": ["Energy, Etheric, Exhaustion, Light, Rejuvenation"]
+    "keywords": ["Energy, Etheric, Exhaustion, Light, Rejuvenation"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -141,7 +156,8 @@
     "description": [],
     "indications": ["lack of nurturing and comfort", "not feeling safe or supported in one's relationships", "conflict and disharmony between the inner masculine and feminine."],
     "effects": ["this stone holds the energy of nonviolence, safety and nurturing", "builds up a resonance in the emotional body that attracts and holds the energy of harmlessness and peace", "helps us relax and receive nurturing without struggle", "helps women feel safe with their own femininity."],
-    "keywords": ["Feminine, Nurturing, Protection, Safety"]
+    "keywords": ["Feminine, Nurturing, Protection, Safety"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -150,7 +166,8 @@
     "description": [],
     "indications": ["broken-hearted", "unresolved backlog of emotional pain from past experiences of abuse and loss", "separation anxiety", "caught up in bitterness and blame", "feeling unsafe and insecure in the heart and body."],
     "effects": ["a gentle protective energy that helps us experience absolute safety in the heart", "works with the heart chakra to create a womb-like matrix for healing", "helps us maintain compassion for ourselves and others in the midst of emotional pain."],
-    "keywords": ["Childbirth, Children, Compassion, Heart, Intimacy, Protection, Safet"]
+    "keywords": ["Childbirth, Children, Compassion, Heart, Intimacy, Protection, Safet"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -159,7 +176,8 @@
     "description": [],
     "indications": ["extreme emotional grief, anguish and pain", "attachment to suffering", "lack of compassion for self and others", "victim consciousness", "lamenting past actions and events."],
     "effects": ["a sweet and sublime energy that helps us heal whatever sits in the way of living in the moment with an open heart", "helps those who are dealing with profound suffering and pain move through and beyond it so they can help others do the same"],
-    "keywords": ["Compassion, Heart, Releasing, Sadness, Suffering"]
+    "keywords": ["Compassion, Heart, Releasing, Sadness, Suffering"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -168,7 +186,8 @@
     "description": [],
     "indications": ["closed down perceptually", "inner sight is ungrounded or undeveloped", "difficulty seeing the more subtle aspects of reality", "judgmental and lacking objectivity", "fear of seeing the truth."],
     "effects": ["strengthens our inner sight and vision by helping us ground it to the Earth", "develops the innate capacities of the 6th chakra in a balanced, calibrated and practical way", "helps us to not be emotionally reactive or go into judgment in response to the information we are receiving, or to what we are perceiving."],
-    "keywords": ["Clarity, Cords, Grounding, Judgement, Perception, Resilience, Vision"]
+    "keywords": ["Clarity, Cords, Grounding, Judgement, Perception, Resilience, Vision"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -177,7 +196,8 @@
     "description": [],
     "indications": ["lack of trust in one's ability to receive guidance from the spiritual realm", "disorientation after a shocking or traumatic experience", "easily overstimulated", "spaced out and dreamy."],
     "effects": ["prepares the 7th chakra to accept information from higher sources", "helps ground energy back into the body after a shocking or traumatic event", "facilitates the flexible and fluid movement of energy between the 8th chakra and the heart."],
-    "keywords": ["Alienation, Alignment, Grounding, Shock, Trauma"]
+    "keywords": ["Alienation, Alignment, Grounding, Shock, Trauma"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -186,7 +206,8 @@
     "description": [],
     "indications": ["physical and energetic vulnerability and instability in the 2nd chakra (abdominal) area of the body", "weak boundaries around sexuality", "energetically promiscuous."],
     "effects": ["helps us ground and energize the lower chakras", "brings stability, protection and containment for the 2nd chakra", "helps us become more aware of the energy and information we are sending and receiving at this level, so we can adjust our boundaries accordingly."],
-    "keywords": ["Awareness, Grounding, Protection, Security"]
+    "keywords": ["Awareness, Grounding, Protection, Security"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -195,7 +216,8 @@
     "description": [],
     "indications": ["shame", "guilty conscience", "difficulty accepting past actions and their consequences", "weak connection between the heart chakra and the Earth."],
     "effects": ["synchronizes the heart with the Earth's vibration, and with the frequency of love", "helps us move energy from shadow to acceptance", "facilitates the process of clearing and releasing dense energy from the heart and the body through grounding, self-acceptance and an awareness of Divine protection."],
-    "keywords": ["Acceptance, Cleansing, Heart, Rebirthing, Releasing"]
+    "keywords": ["Acceptance, Cleansing, Heart, Rebirthing, Releasing"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -204,7 +226,8 @@
     "description": [],
     "indications": ["feeling trapped in physical form", "overly materialistic focus in life", "weak connection with the Earth", "lack of awareness of the non-physical dimensions of reality."],
     "effects": ["shows us how to co-create with the higher intelligences that inhabit the physical realm so we can work with and modify our physical structures to better meet the needs and demands of our life journey", "reminds us that we are part of something bigger that transcends the physical and is very much intact and functioning."],
-    "keywords": ["Alignment, Co-Creation, Flow, Orientation"]
+    "keywords": ["Alignment, Co-Creation, Flow, Orientation"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -213,7 +236,8 @@
     "description": [],
     "indications": ["lack of alignment between personal and Divine Will", "heavy metal toxicity", "chronic misalignment issues in the upper part of the body", "weak connection between the heart and the Higher Self."],
     "effects": ["helps to restructure the physical and energetic bodies in alignment with Universal intelligence and wisdom", "heightens awareness of the grace that resides within our own beings", "promotes the balanced release of toxic energy from the aura", "strengthens the connection between Divine Will and the heart chakra."],
-    "keywords": ["Alignment, Dental Care, Detoxification, Harmony, Space Clearing, Will"]
+    "keywords": ["Alignment, Dental Care, Detoxification, Harmony, Space Clearing, Will"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -222,7 +246,8 @@
     "description": [],
     "indications": ["easily distracted", "difficulty focusing due to insufficient grounding", "attention not aligned with the physical body", "caught up in the emotions or mental details of a situation and losing sight of the bigger picture."],
     "effects": ["promotes heightened awareness and sharp focus in the present moment", "helps one attract and anchor energy and information into the physical body", "helps ground those who stray off into their thoughts", "good for those who are easily distracted, or who like to maintain distraction in their lives."],
-    "keywords": ["Awareness, Children, Energy, Focus, Grounding, Learning"]
+    "keywords": ["Awareness, Children, Energy, Focus, Grounding, Learning"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -231,7 +256,8 @@
     "description": [],
     "indications": ["congested and unbalanced energy flows within and between the chakras and subtle bodies", "toxic energy in the aura", "lack of circulation of spiritual energies in the lower chakras."],
     "effects": ["facilitates a balanced flow of energy and information to, from and between the chakras", "clears congestion and excesses of energy from all chakras, subtle bodies, and the physical body", "balances the base chakra in relation to all higher chakras."],
-    "keywords": ["Cleansing, Clutter Clearing, Detoxification, Massage Therapy/Body Work, Purification, Space Clearing"]
+    "keywords": ["Cleansing, Clutter Clearing, Detoxification, Massage Therapy/Body Work, Purification, Space Clearing"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -240,7 +266,8 @@
     "description": [],
     "indications": ["uneven energy flow throughout the day", "vacillating between willful and disinterested", "stubborn", "lack of flexibility when faced with difficult changes and transitions."],
     "effects": ["helps us regulate and direct the energy of the fire element", "for those who have an abundance–it brings a greater awareness of how to use it", "for those who are depleted–it helps attract more", "promotes flexibility and a willingness to release attachment to form during a transformative process."],
-    "keywords": ["Energy, Light, Regeneration, Transformation"]
+    "keywords": ["Energy, Light, Regeneration, Transformation"],
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -249,6 +276,7 @@
     "description": [],
     "indications": ["disembodied", "lonely", "difficulty maintaining loving, heart-centered, and physically nurturing relationships", "lack of confidence in one's ability to create the life one desires."],
     "effects": ["brings awareness of how to ground love form the higher dimensions into physical form", "helps us form deep heart-centered loving relationships", "connects us to the brilliant, purifying, energizing aspect of the fire element", "helps us embrace our inner vibrancy and sit with confidence as the creator of our world."],
-    "keywords": ["Alignment, Confidence, Grounding, Support"]
+    "keywords": ["Alignment, Confidence, Grounding, Support"],
+    "stock": false
   }
 ]
