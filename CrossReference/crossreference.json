@@ -207,9 +207,10 @@
       "from being overwhelmed": ["Paper Birch", "Purple Poppy", "Red Elder", "Stinging Nettle"],
       "soothes anxiety as we confront change": ["Redoubt Volcano"],
       "the slayer of internal dragons, the little voices of fear which surface when life experiences seem to be a cycle of endless challenges": ["Narcissus"],
-      "helps to dispel panic attacks": ["Urchin"]
+      "helps to dispel panic attacks": ["Urchin"],
+      "to soothe all those tormented in body or mind and bring them peace": ["Agrimony"]
     }],
-    "related": ["Stress", "Fear", "Nervous System"]
+    "related": ["Stress", "Fear", "Nervous System", "Worry"]
   },
   {
     "title": "Apathy/Apathetic",
@@ -217,7 +218,8 @@
       "closed down, disinterested in life": ["Prickly Wild Rose"],
       "lack of inspiration or motivation": ["Tundra Rose"],
       "addresses temporary loss of drive and enthusiasm due to burn out, disappointment or frustration": ["Banksia Robur"],
-      "for people who have a tendency to give up very easily, who are easily discouraged": ["Kapok Bush"]
+      "for people who have a tendency to give up very easily, who are easily discouraged": ["Kapok Bush"],
+      "indifferent as to what happens: has no enthusiasm about anything": ["Clematis"]
     }],
     "related": ["Disheartened"]
   },
@@ -670,7 +672,8 @@
       "provides confidence for facing and healing unresolved issues": ["Bat"],
       "nurtures strength, a feeling of invincibility, and supreme confidence in one's abilities": ["Bumblebee"],
       "nurtures and enhances self-confidence": ["Lion", "Mountain Lion", "Peacock"],
-      "for children lacking self-confidence or being bullied at school": ["Mercutio"]
+      "for children lacking self-confidence or being bullied at school": ["Mercutio"],
+      "for those who have no confidence in themselves, depend too much upon the advice of others": ["Cerato"]
     }],
     "related": []
   },
@@ -805,7 +808,8 @@
     "references": [{
       "for those who dither, are 'all over the place' and are always changing their mind": ["Jacaranda"],
       "decision-maker; clears ambivalence": ["Pipsissewa"],
-      "helps with clear thinking and decision making": ["Staghorn Algae"]
+      "helps with clear thinking and decision making": ["Staghorn Algae"],
+      "for those who don't have sufficient confidence in themselves to make their own decisions": ["Cerato"]
     }],
     "related": ["Dithering"]
   },
@@ -854,7 +858,8 @@
     "title": "Disheartened",
     "references": [{
       "for people who have a tendency to give up very easily, who are easily discouraged": ["Kapok Bush"],
-      "for people who are weary, frustrated and disheartened by setbacks.": ["Old Man Banksia"]
+      "for people who are weary, frustrated and disheartened by setbacks.": ["Old Man Banksia"],
+      "for those who feel as if the difficulties before them are too big to be overcome and temporarily lose heart": ["Gentian"]
     }],
     "related": ["Apathy/Apathetic"]
   },
@@ -1164,7 +1169,8 @@
       "dissolves blockages caused by fear which have made your heart snap closed": ["Azurite (Indigo)"],
       "shows you the way through your fears to perfect peace": ["Charoite (Indigo)"],
       "fear of men / fear of being male": ["Ruby with Kyanite 1 (Indigo)"],
-      "fear of women / fear of being female": ["Ruby with Kyanite 2 (Indigo)"]
+      "fear of women / fear of being female": ["Ruby with Kyanite 2 (Indigo)"],
+      "to combat all fear": ["Mimulus"]
     }],
     "related": []
   },
@@ -1360,7 +1366,8 @@
       "a grounding remedy; with rootedness and flexibility we can accomplish whatever we set out to do": ["Pink Seaweed"],
       "helps those who tend to be spaced out and ungrounded": ["Sea Turtle"],
       "helps you to be very 'light' yet very strong and grounded": ["Hematite (Indigo)"],
-      "Helps to focus energy and direct it downwards, making you feel centred and grounded": ["Kyanite (Indigo)"]
+      "Helps to focus energy and direct it downwards, making you feel centred and grounded": ["Kyanite (Indigo)"],
+      "these people are often dreamy, far-away, apathetic, live in their thoughts": ["Clematis"]
     }],
     "related": []
   },
@@ -1541,7 +1548,8 @@
     "references": [{
       "calms mental impatience and preoccupation": ["Aquamarine"],
       "with change and wanting to rush into things": ["Polar Ice"],
-      "for people who are impatient or always 'on the go'": ["Black-eyed Susan"]
+      "for people who are impatient or always 'on the go'": ["Black-eyed Susan"],
+      "for those who are irritated by constraints, quick, tense, impatient": ["Impatiens"]
     }],
     "related": []
   },
@@ -1675,7 +1683,8 @@
       "enhances intuition and the ability to 'see' things that are not normally seen": ["Owl"],
       "balances the intuitive and the rational": ["Blue Camas"],
       "helps us to really hear that 'still, small voice within' and to be willing to trust it": ["Viburnum"],
-      "helps you access your own inner language so that you 'know' the answers to your current questions": ["Selenite (Indigo)"]
+      "helps you access your own inner language so that you 'know' the answers to your current questions": ["Selenite (Indigo)"],
+      "for distrust of self and inuition; they do not trust their own good judgement": ["Cerato"]
     }],
     "related": ["Higher Self"]
   },
@@ -2401,7 +2410,8 @@
       "for deepening into the present and tapping the shamanic power that is available at the heart of the present moment": ["Salamander"],
       "coming into the pure, raw awareness and power of the present moment": ["Tiger"],
       "focusing on the present moment and taking care of matters at hand": ["Turtle"],
-      "helps us to see ourselves and our world as if this moment is the only time there is": ["Chickweed"]
+      "helps us to see ourselves and our world as if this moment is the only time there is": ["Chickweed"],
+      "for dreamy people, drowsy, not fully awake or here; do not live enough in the present": ["Clematis"]
     }],
     "related": []
   },
@@ -2843,7 +2853,9 @@
       "enhances self-esteem": ["Swan"],
       "reconciliation with others and making peace with self": ["Indian Pipe"],
       "for those whose pattern of rushing around, always doing, stems from self-worth issues": ["Sea Palm"],
-      "helps you to feel happy with yourself": ["Larimar & Rose Quartz (Indigo)"]
+      "helps you to feel happy with yourself": ["Larimar & Rose Quartz (Indigo)"],
+      "for those whose's good nature leads them to do more than their own share of work, and in so doing they may neglect their own particular mission in life": ["Centuary"],
+      "their own lack of self-esteem makes them admire and trust too much any who hold strong views": ["Cerato"]
     }],
     "related": ["Self-Love", "Self-Appreciation"]
   },
@@ -3064,7 +3076,8 @@
       "for cultivating strength, groundedness, and power": ["Bear"],
       "nurtures strength, a feeling of invincibility, and supreme confidence in one's abilities": ["Bumblebee"],
       "nurtures a sense of spiritual strength and mastery": ["Tiger"],
-      "lifts the weight off your heart, giving you a feeling of indestructible strength and determination": ["Isis (Indigo)"]
+      "lifts the weight off your heart, giving you a feeling of indestructible strength and determination": ["Isis (Indigo)"],
+      "to give strength to those who are meek, submissive and imposed upon because of their good natures": ["Centaury"]
     }],
     "related": []
   },
@@ -3368,7 +3381,8 @@
       "erases deeply hidden bitterness, such as that stored in victims of abuse and violence": ["Orchid Metal Element"],
       "realising that I do create my own reality. Every thought I think, every feeling I feel, affects the whole": ["Anemone"],
       "the remedy par excellence for victim consciousness": ["Mussel"],
-      "understanding that nothing happens to me without my consent": ["Sponge"]
+      "understanding that nothing happens to me without my consent": ["Sponge"],
+      "feeling sorry for yourself; feel that they have done nothing to deserve to be in this situation": ["Chicory"]
     }],
     "related": ["Empowered/Empowerment"]
   },
@@ -3432,8 +3446,10 @@
       "supports one to release worries and enjoy life": ["Seal"],
       "helps to release the worry and confusion around the choices we need to make": ["Pipsessiwa"],
       "it calms that feeling of 'butterflies in the Stomach.'; alleviates worry": ["Narcissus"],
-      "alleviates worry and obsessive thinking": ["Urchin"]
+      "alleviates worry and obsessive thinking": ["Urchin"],
+      "worry hidden behind a carefree mask": ["Agrimony"],
+      "these people worry over others too much": ["Chicory"]
     }],
-    "related": []
+    "related": ["Anxiety"]
   }
 ]
