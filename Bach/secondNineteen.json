@@ -7,7 +7,7 @@
     "description": ["Vague unknown fears, for which there can be given no explanation, no reason. Yet the patient may be terrified of something terrible going to happen, he knows not what. These vague unexplainable fears may haunt by night or day. Sufferers are often afraid to tell their trouble to others. [Bach: Twelve Healers and Other Remedies 1936]", "For psychological fears of unknown origin, vague unreasoning and inexplicable, sudden apprehension, fear of unseen power or force, fear of sleep for what sleep may bring, fear of dreams, association with death and religion, usually kept secret. Symptoms may include headaches, eyestrain, haunted look, sweating, trembling, gooseflesh, sudden faintness, sleep walking/talking, tired and nervy. [Bach]"],
     "indications": ["Unreasoning fears"],
     "effects": ["The development of Love brings us to the realization of Unity, of the truth that one and all of us are of the One Great Creation. The cause of all our troubles is self and separateness, and this vanishes as soon as Love and the knowledge of the great Unity become part of our natures. [Bach]"],
-    "keywords": [],
+    "keywords": ["Fear", "Unity"],
     "stock": true
   },
   {
@@ -18,7 +18,7 @@
     "description": ["For those who feel the need to see more good and beauty in all that surrounds them. And, though much appears to be wrong, to have the ability to see the good growing within. So as to be able to be more tolerant, lenient and understanding of the different way each individual and all things are working to their own final perfection. [Bach: Twelve Healers and Other Remedies 1936]", "Those who are critical, dissatisfied, intolerant, irritable, always finding fault, seeing only the negative side of things. Annoyed by small matters – the oddities and mannerisms and idiosyncrasies of others. Demand exactness, order and discipline. Arrogant people who complain of others, petty anger, sound in judgement but sour, cynical, unsympathetic. [Bach]"],
     "indications": ["Critical"],
     "effects": ["That we never criticise nor condemn the thoughts, the opinions, the ideas of others; ever remembering that all humanity are God’s children, each striving in his own way to find the Glory of his Father. [Barnard: Guide to the Bach Flower Remedies]"],
-    "keywords": [],
+    "keywords": ["Critical"],
     "stock": true
   },
   {
@@ -29,7 +29,7 @@
     "description": ["Fear of the mind being over-strained, of reason giving way, of doing fearful and dreaded things, not wished and known wrong, yet there comes the thought and impulse to do them. [Bach: Twelve Healers and Other Remedies 1936]", "For desperation, fear of insanity, loss of control, an uncontrollable impulse, nervous breakdown, suicidal, obsessive fear, delusions. Symptoms usually build up over a period of time: pallor, staring eyes, agitation, sometimes nervous talk or obsessive questioning; imminent, mild insanity. [Bach]"],
     "indications": ["Loss of control"],
     "effects": ["This drives away all wrong ideas and gives the sufferer mental strength and confidence. [Bach]"],
-    "keywords": [],
+    "keywords": ["Fear"],
     "stock": true
   },
   {
@@ -40,7 +40,7 @@
     "description": ["For those who do not take full advantage of observation and experience, and who take a longer time than others to learn the lessons of daily life. Whereas one experience would be enough for some, such people find it necessary to have more, sometimes several, before the lesson is learnt. Therefore, to their regret, they find themselves having to make the same error on different occasions when once would have been enough, or observation of others could have spared them even that one fault. [Bach: Twelve Healers and Other Remedies 1936]", "Those who fail to learn by experience and go on repeating the same mistakes again and again. They may be impatient and always thinking ahead and so fail to see what is happening, failing to base their actions upon past experience. They may be careless, clumsy, slow in learning, inattentive and as children even unresponsive to learning. [Bach]"],
     "indications": ["Unable to learn from mistakes"],
     "effects": ["We learn slowly, one lesson at a time, but we must if we are to be well and happy, learn the particular lesson given to us by our spiritual self. [Bach]"],
-    "keywords": [],
+    "keywords": ["Learning from Mistakes"],
     "stock": true
   },
   {
@@ -51,7 +51,7 @@
     "description": ["This is the remedy of cleansing. For those who feel as if they had something not quite clean about themselves. Often it is something of apparently little importance: in others there may be more serious disease which is almost disregarded compared to the one thing on which they concentrate. In both types they are anxious to be free from the one particular thing which is greatest in their minds and which seems so essential to them that it should be cured. They become despondent if treatment fails. Being a cleanser, this remedy purifies wounds if the patient has reason to believe that some poison has entered which must be drawn out. [Bach: Twelve Healers and Other Remedies 1936]", "The remedy for cleansing. For those who feel in some way unclean, contaminated, often minor ailment which assumes great importance in the mind of sufferer causing despondency and self-disgust. Applicable to physical or psychological condition, wherever there is something repellant to the self, the remedy restores a sense of proportion. Symptoms may include skin ailments, poison in the body or a wound, unwholesome habits. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Feeling unclean"],
     "effects": ["Never for one moment should we become engrossed or over-anxious about them [our bodies], but learn to be as little conscious of their existence as possible, using them as a vehicle of our Soul and mind and as servants to do our will. [Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": ["Cleansing"],
     "stock": true
   },
   {
@@ -62,7 +62,7 @@
     "description": ["Those who are doing good work, are following the calling of their life and who hope to do something of importance, and this often for the benefit of humanity. At times there may be periods of depression when they feel that the task they have undertaken is too difficult, and not within the power of a human being. [Bach: Twelve Healers and Other Remedies 1936]", "For those who are very capable and often carry great responsibility but occasionally feel unable to face the magnitude of their tasks. Thus they are sometimes overwhelmed, falter and momentarily lose confidence. It is as if they have temporarily lost their connection and this causes them great discomfort and distress. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Overwhelmed"],
     "effects": ["Life does not demand of us unthinkable sacrifice; it asks us to travel its journey with joy in our heart and to be a blessing to those around, so that if we leave the world just that trifle better for our visit, then have we done our work. [Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": ["Overwhelmed"],
     "stock": true
   },
   {
@@ -73,7 +73,7 @@
     "description": ["For those who are sometimes attacked by thoughts of such kind as jealousy, envy, revenge, suspicion. For the different forms of vexation. Within themselves they may suffer much, often when there is no real cause for their unhappiness. [Bach: Twelve Healers and Other Remedies 1936]", "For any kind of strongly negative state: anger, jealousy, bitterness, rage, envy, suspicion, revenge, hatred, violence, bad temper, contempt, vexation, selfishness, frustration – all states antipathetic to love. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Hatred and anger"],
     "effects": ["The ultimate conquest of all will be through love and gentleness, and when we have sufficiently developed these two qualities nothing will be able to assail us, since we shall ever have compassion and not offer resistance. [Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": ["Anger", "Jealousy"],
     "stock": true
   },
   {
@@ -84,7 +84,7 @@
     "description": ["Those who live much in the past, perhaps in a time of great happiness, or memories of a lost friend, or ambitions which have not come true. They do not expect further happiness such as they have had. [Bach: Twelve Healers and Other Remedies 1936]", "For nostalgia, homesickness, those who live much in the past, past loves, happiness, regrets, success or failures, those who live on their memories, desiring to escape the present in a romanticised view of the past. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Living in the past"],
     "effects": ["Finally, let us not fear to plunge into life; we are here to gain experience and knowledge, and we shall learn but little unless we face realities and seek to our utmost. [Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": [""],
     "stock": true
   },
   {
@@ -95,7 +95,7 @@
     "description": ["For those who feel that they have not sufficient strength, mentally or physically, to carry the burden of life placed upon them; the affairs of everyday seem too much for them to accomplish, though they generally succeed in fulfilling their task. For those who believe that some part, of mind or body, needs to be strengthened before they can easily fulfil their work. [Bach: Twelve Healers and Other Remedies 1936]", "For a temporary state of mental/physical tiredness when a lack of energy causes loss of interest, weariness and inability to cope with mundane affairs. Good for convalescents who feel unable to return to work though perfectly fit. Symptoms are predominant fatigue, lassitude, inclination to lie in bed in mornings, feel they cannot face the burden of the day. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Mental or physical tiredness"],
     "effects": ["Thus every moment of our work and play will bring with it a zeal for learning, a desire to experience real things, real adventures and deeds worth-while…[Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": ["Fatigue"],
     "stock": true
   },
   {
@@ -106,7 +106,7 @@
     "description": ["For those who do not consider themselves as good or capable as those around them, who expect failure, who feel they will never be a success, and so do not venture or make a strong enough attempt to succeed. [Bach: Twelve Healers and Other Remedies 1936]", "For those who lack confidence in themselves, they expect failure and feel they will never succeed and so do not try hard enough, they are hesitant and procrastinate, succumb easily and feel inferior. Their sense of failure makes them despondent though in fact they are perfectly capable if they could persevere. Symptoms may include general depression and this is often associated with impotence. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Loss of confidence"],
     "effects": ["We chose the earthly occupation, and the external circumstances that will give us the best opportunities of testing us to the full: we come with the full realization of our particular work: we come with the unthinkable privilege of knowing that all our battles are won before they are fought, that victory is certain before ever the test arrives, because we know that we are children of the Creator, and as such are Divine, unconquerable and invincible. [Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": ["Confidence", "Self-Esteem/Self-Worth"],
     "stock": true
   },
   {
@@ -117,7 +117,7 @@
     "description": ["Those who are liable to times of gloom, or even despair, as though a cold dark cloud overshadowed them and hid the light and the joy of life. It may not be possible to give any reason or explanation for such attacks. Under these conditions it is almost impossible to appear happy or cheerful. [Bach: Twelve Healers and Other Remedies 1936]", "For depression that comes for no apparent reason from an unknown cause, gloom, deep sadness, melancholy, usually serious people who feel that they suffer periodic affliction from a malefic star. Depression is intense and cannot be alleviated until it lifts as unexpectedly as it came. All joy and peace is driven out of life for the duration. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Unexplained gloom"],
     "effects": ["In all things cheerfulness should be encouraged, and we should refuse to be oppressed by doubt and depression, but remember that such are not of ourselves, for our Souls know only joy and happiness. [Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": ["Depression"],
     "stock": true
   },
   {
@@ -128,7 +128,7 @@
     "description": ["For those who blame themselves. Even when successful they think they could have done better, and are never content with their efforts or the results. They are hard-working and suffer much from the faults they attach to themselves. Sometimes if there is any mistake it is due to another, but they will claim responsibility even for that. [Bach: Twelve Healers and Other Remedies 1936]", "For self-reproach, guilt, those who blame themselves, self-condemnation, often assuming responsibility for a situation that is not their fault. They are discontented and critical of themselves, over-conscientious, apologetic and over-humble. The constant effort they make to improve themselves may lead to tiredness and depression. Helps to alleviate any feelings of guilt. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Self-blame"],
     "effects": ["Health is, therefore, the true realisation of what we are: we are perfect: we are the children of God. There is no striving to gain what we have already attained. We are merely here to manifest in material form the perfection with which we have been endowed from the beginning of all time. [Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": ["Critical", "Guilt"],
     "stock": true
   },
   {

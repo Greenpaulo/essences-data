@@ -7,7 +7,7 @@
     "description": ["Very great hopelessness, they have given up belief that more can be done for them. Under persuasion or to please others they may try different treatments, at the same time assuring those around that there is so little hope of relief. [Bach: Twelve Healers and Other Remedies 1936]", "Gorse is for those who have suffered much and whose courage, as it were, has failed; who have lost the heart to try any more. They say they have been told that nothing can be done, that they are past all medical help, and even if they do start treatment they say that they have been ill for so many months or years as the case may be, that they will not expect improvement for a long time. People who need Gorse are generally sallow and rather darkish in complexion, often with dark lines beneath the eyes. They look as though they needed more sunshine in their lives to drive away the clouds. [Bach]"],
     "indications": ["Hopelessness"],
     "effects": ["Now let us think about those who have been ill for some time, or even a long time. There is again every reason to be hopeful of benefit, either improvement or recovery. Never let anyone give up hope of getting well. [Bach]"],
-    "keywords": [],
+    "keywords": ["Hope/Hopelessness"],
     "stock": true
   },
   {
@@ -18,7 +18,7 @@
     "description": ["Those who are always seeking the companionship of anyone who may be available, as they find it necessary to discuss their own affairs with others, no matter who it may be. They are very unhappy if they have to be alone for any length of time. [Bach: Twelve Healers and Other Remedies 1936]", "The characteristic of the Heather people is that they worry over the troubles of others, not the big things of life, but the affairs of everyday. They try all means in their power to persuade or even compel others to do what they think right. Their diseases are often not very severe until towards old age, but they may suffer a considerable amount of inconvenience and interference with their daily life for years at a time through minor maladies. They are inclined also to be a little afraid for themselves if they get even slight trouble. They like people to be dependent upon them, and they take pleasure in feeling that they are being of use and help to any in difficulty. Heather people are often well-built and of high colour, full-blooded, strong in body and full of energy and activity, and are unsparing of themselves in exertions for others. [Bach]"],
     "indications": ["Talkative"],
     "effects": ["We must steadfastly practice peace, imagining our minds as a lake ever to be kept calm, without waves, or even ripples, to disturb its tranquillity and gradually develop this state of peace until no event of life, no circumstance, no other personality is able under any circumstances to ruffle the surface of that lake. [Bach]"],
-    "keywords": [],
+    "keywords": ["Attention Seeking", "Worry", "Able To Be Alone"],
     "stock": true
   },
   {
@@ -29,7 +29,7 @@
     "description": ["For those who are struggling and fighting strongly to get well, or in connection with the affairs of their daily life. They will go on trying one thing after another, though their case may seem hopeless. They will fight on. They are discontented with themselves if illness interferes with their duties or helping others. They are brave people, fighting against great difficulties, without loss of hope or effort. [Bach: Twelve Healers and Other Remedies 1936]", "Oak is for the type of people who, although they feel hopeless of any cure, still struggle and are irritated that they are ill. These people have physical diseases which tend to go on for years and, although they feel quite hopeless about themselves, they still go on trying and struggling. The illnesses of this type are where much balance is lost, mental and physical. Mental, such as severe nervous breakdowns, or such types of insanity which can be described as completely unbalanced (where there is great loss of control); and the same in the bodily state, where the patient loses control over parts of the body or its functions. [Bach]"],
     "indications": ["Perservering"],
     "effects": ["Our whole object is to realise our faults, and endeavour so to develop the opposing virtue that the faults will disappear from us like snow melts in the sunshine. Don’t fight your worries: don’t struggle with your disease: don’t grapple with your infirmities: rather forget them in concentrating on the development of the virtue you require. [Bach]"],
-    "keywords": [],
+    "keywords": ["Struggling"],
     "stock": true
   },
   {
@@ -40,7 +40,7 @@
     "description": ["Those who have suffered much mentally or physically and are so exhausted and weary that they feel that they have no more strength to make any effort. Daily life is hard work for them, without pleasure. [Bach: Twelve Healers and Other Remedies 1936]", "For those who are pale, worn-out and exhausted, perhaps after much worry, illness, grief, or some long struggle. In every way they are very tired and feel as if they had no more strength to fight on, and at times hardly know how to keep going. They may depend very much upon others for help. In some, the skin is very dry and may be wrinkled. [Bach]"],
     "indications": ["Exhaustion"],
     "effects": ["We each have a Divine mission in this world, and so our souls use our minds and bodies as instruments to do this work, so that when all three are working in unison the result is perfect health and perfect happiness. [Bach]"],
-    "keywords": [],
+    "keywords": ["Exhaustion", "Struggling"],
     "stock": true
   },
   {
@@ -51,7 +51,7 @@
     "description": ["Those who are very strict in their way of living; they deny themselves many of the joys and pleasures of life because they consider it might interfere with their work. They are hard masters to themselves. They wish to be well strong and active, and will do anything which they believe will keep them so. They hope to examples which will appeal to others who may then follow their ideas and be better as a result. [Bach: Twelve Healers and Other Remedies 1936]", "These people are people of ideals. They have very strong opinions about religion or politics, or reform. Well-meaning enough and wishing to see the world different and better, they tend to confine their efforts of help to criticism instead of example. They allow their minds and largely their lives to be ruled by their theories. Any failure to make others follow their ideas brings them much unhappiness. They want to plan the world according to their own outlook, instead of quietly and gently doing a little in the Great Plan. [Bach]"],
     "indications": ["Strict idealist"],
     "effects": ["This remedy brings great peace and understanding, broadens the outlook that all people must find perfection in their own individual way, and brings the realisation of ‘being’ and not ‘doing’; of being in ourselves a reflection of Great Things and not attempting to put forward our own ideas. [Bach]"],
-    "keywords": [],
+    "keywords": ["Rigidity", "Opinionated"],
     "stock": true
   },
   {
@@ -62,7 +62,7 @@
     "description": ["Very capable people, certain of their own ability, confident of success. Being so assured, they think that it would be for the benefit of others if they could be persuaded to do things as they themselves do, or as they are certain is right. Even in illness they will direct their attendants. They may be of great value in emergency. [Bach: Twelve Healers and Other Remedies 1936]", "Those who are very particular. They are so sure that they know right, both for themselves and for others, how things should be done that it makes them critical and exacting. They wish for everything just in their own way, and give orders to those helping them. Even then they are difficult to satisfy. [Bach]"],
     "indications": ["Domineering"],
     "effects": ["If we set everybody and everything around us at liberty, we find that in return we are richer in love and possessions than ever we were before, for that love that gives freedom is the great love that binds the closer. [Bach]"],
-    "keywords": [],
+    "keywords": ["Critical", "Particular", "Domineering"],
     "stock": true
   },
   {
@@ -73,7 +73,7 @@
     "description": ["Those who have ambitions to do something of prominence in life, who wish to have much experience, and to enjoy all that which is possible for them, to take life to the full. Their difficulty is to determine what occupation to follow; as although their ambitions are strong, they have no calling which appeals to them above all others. This may cause delay and dissatisfaction. [Bach: Twelve Healers and Other Remedies 1936]", "It is a remedy that may be needed by anyone, and in cases which do not respond to other herbs, or even when it seems difficult to decide which to give, try this for at least a week. If the patient does well, continue with it so long as they improve before changing to another remedy. [Barnard: Guide to the Bach Flower Remedies]"],
     "indications": ["Lack of direction"],
     "effects": ["Let us find one thing in life that attracts us most and do it. Let that one thing be so part of us that it is as natural as breathing; as natural as it is for the bee to collect honey, and the tree to shed its old leaves in autumn and bring forth new ones in the spring. If we study nature we find that every creature, bird, tree and flower has its definite part to play, its own definite and peculiar work through which it aids and enriches the entire Universe. [Bach: Collected Writings]"],
-    "keywords": [],
+    "keywords": ["Life Purpose"],
     "stock": true
   }
 ]

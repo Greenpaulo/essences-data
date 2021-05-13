@@ -95,7 +95,7 @@
     "description": ["The rescue remedy. The remedy of emergency for cases where there even appears no hope. In accidents or sudden illness, or when the patient is very frightened or terrified, or if the condition is serious enough to cause great fear to those around. If the patient is not conscious the lips may be moistened with the remedy. Other remedies in addition may also be required, as, if there is unconsciousness, which is a deep, sleepy state, Clematis; if there is torture, Agrimony, and so on. [Bach: Twelve Healers and Other Remedies 1936]", "This is the rescue remedy. In cases of urgency and danger. Whenever things are desperate. In all cases of danger of life. When the patient is terrified or in a panic. In cases when all hope is lost. When there is danger to the mind, of threatened suicide or insanity, or nervous breakdown, fear of death or hopeless depression. [Bach]"],
     "indications": ["For those feeling alarmed, intensly scared, horror, dread"],
     "effects": ["All fear must be cast out; it should never exist in the human mind, and is only possible when we lose sight of our Divinity. It is foreign to us because as Sons of the Creator, Sparks of the Divine Life, we are invincible, indestructible and unconquerable. [Bach]"],
-    "keywords": [],
+    "keywords": ["Emergency", "Fear"],
     "stock": true
   },
   {
@@ -106,7 +106,7 @@
     "description": ["Those who suffer much from being unable to decide between two things, first one seeming right then the other. [Bach: Twelve Healers and Other Remedies 1936]", "Those who are unable to make up their minds as to what they want, first one thing seems right and then another. Their wishes, like their bodily symptoms, seem to come and go. If they have temperatures these swing up and down. They are undetermined and unable to decide quickly or definitely, and their decisions quickly change. Uncertainty of bodily actions, giddiness, shaking, jerky uncontrolled movements, unsteady walking. Their moods change quickly, first cheery then depressed. Their conversation may rapidly jump from one subject to another. [Bach]"],
     "indications": ["For indecision"],
     "effects": ["Instability can be eradicated by the development of self-determination, by making up the mind and doing things with a definiteness instead of wavering and hovering. Even if at first we may sometimes make errors, it were better to act than to let opportunities pass for want of a decision. Determination will soon grow; fear of plunging into life will disappear, and the experiences gained will guide our mind to better judgement. [Bach]"],
-    "keywords": [],
+    "keywords": ["Decisiveness"],
     "stock": true
   },
   {
@@ -117,7 +117,7 @@
     "description": ["Those with fixed principles and ideas, which they are confident are right, and which they very rarely change. [Bach: Twelve Healers and Other Remedies 1936]", "The strong-willed. Those who are intense of mind, who tend to over-exert themselves mentally and physically. They refuse to be beaten and will carry on long after others would have given in. They go their own way. They have fixed ideas and are very certain that they know right. They may be obstinate in refusing treatment until compelled. They may be carried away by their enthusiasm and cause themselves much strain. In all things tend to be too serious and tense. Life is a very arduous thing for them. They have their own strong views and sometimes wish to bring others to their point of view and are intolerant of the opinions of others. They do not like to listen to advice. They are often people with big ideals and ambitions for the good of humanity. [Bach]"],
     "indications": ["For those who are wilful, opinionated and stressed"],
     "effects": ["We should strive to be so gentle, so quiet, so patiently helpful that we move among our fellow men more as a breath of air or a ray of sunshine: ever ready to help them when they ask: but never forcing them to our own views. [Bach]"],
-    "keywords": [],
+    "keywords": ["Rigidity", "Open Mindedness", "Opinionated"],
     "stock": true
   },
   {
@@ -128,7 +128,7 @@
     "description": ["For those who in health or illness like to be alone. Very quiet people, who move about without noise, speak little, and then gently. Very independent, capable and self-reliant. Almost free of the opinions of others. They are aloof, leave people alone and go their own way. Often clever and talented. Their peace and calmness is a blessing to those around them. [Bach: Twelve Healers and Other Remedies 1936]", "These are very beautiful people in mind and often in body. They are gentle, quiet, very refined and cultured and yet are masters of their fate and lead their lives with a quiet determination and certainty. Like to be much alone. In illness they may be a little proud and aloof and if so this reacts upon them. Even so, they are very brave and try to fight alone and unaided and be of no anxiety or trouble to those around. They are brave souls indeed who seem to know their work in life and do it with a quiet certain will. They do not often form strong attachments even to those nearest them. They bear adversity and illness calmly, quietly and bravely without complaint. [Bach]"],
     "indications": ["For those who are withdrawn, aloof, proud"],
     "effects": ["…you are learning to stand absolutely alone in the world, gaining the intense joy of complete freedom, and therefore of perfect service to mankind. And when this is realised it is no longer sacrifice but the exquisite joy of helpfulness even under all conditions. [Bach]"],
-    "keywords": [],
+    "keywords": ["Aloof"],
     "stock": true
   }
 ]

@@ -66,7 +66,7 @@
     "description": ["Finding the Balance Within", "Clear crystal point with five sides.",  "Lifts the weight off your heart, giving you a feeling of indestructible strength and determination. Balances the left and right sides of the being. Brings in all the colours of the rainbow and helps to balance your chakras. Triggers the body's self-healing mechanism. Helps you to bounce back after sickness and grief. Brings in a new energy, the energy of 'be-ing.'"],
     "indications": ["for when you feel sick", "tired", "unbalanced"],
     "effects": [],
-    "keywords": ["Strengthing", "Fatigue", "Balance"],
+    "keywords": ["Strengthing", "Fatigue", "Balance", "Determination"],
     "stock": true
   },
   {
@@ -116,7 +116,7 @@
     "description": ["Feeling the Feeling Within", "Soft warm red ruby and beautiful greyish blue kyanite.", "Clears out old, inherited patterns to do with the use of male or yang energy. Heals genetic memories of abuse. Promotes and helps integrate a new male energy. Helps you stay focused enough to bring ideas into being in a new way."],
     "indications": ["for when you feel fear of men", "fear of being male", "imbalance of yang energy"],
     "effects": [],
-    "keywords": ["Ancestral Healing", "Abuse", "Fear"],
+    "keywords": ["Ancestral Healing", "Abuse", "Fear", "Masculine"],
     "stock": true
   },
   {
@@ -126,7 +126,7 @@
     "description": ["Feeling the Power Within", "The female counterpart of Ruby & Kyanite 1.", "Clears out old, inherited patterns with the use of female energy. Helps remove tendencies to be passive. Allays fears about be-ing female. Helps to bring your new female and male energies into balance."],
     "indications": ["for when you feel fear of being female", "fear of women", "imbalance of yin energy"],
     "effects": [],
-    "keywords": ["Ancestral Healing", "Fear"],
+    "keywords": ["Ancestral Healing", "Fear", "Feminine"],
     "stock": true
   },
   {

@@ -12,6 +12,13 @@
     "related": []
   },
   {
+    "title": "Able To Be Alone",
+    "references": [{
+      "for those are very unhappy if they have to be alone for any length of time": ["Heather"]
+    }],
+    "related": []
+  },
+  {
     "title": "Abundance",
     "references": [{
       "releasing mental blocks to the experience of abundance on all levels": ["Blueberry Pollen", "Polyanthus"],
@@ -139,6 +146,13 @@
     "related": []
   },
   {
+    "title": "Aloof",
+    "references": [{
+      "For those who are withdrawn, aloof": ["Water Violet"]
+    }],
+    "related": []
+  },
+  {
     "title": "Ambivalence",
     "references": [{
       "about being in a physical body": ["Crowberry", "Devil's Club", "Green Jasper", "Ladies' Tresses", "Pregnancy Support", "Ruby", "Shooting Star"],
@@ -175,7 +189,8 @@
       "helps one express anger in a healthy way and so develop sound boundaries": ["Mountain Devil"],
       "works to purify the emotional body of anger residue so that we can fully access our mental potential": ["Blue Lupin"],
       "resolves feelings of irritability, frustration and anger": ["Mussel"],
-      "can make one aware of inner heat and aggression and helps to transform this": ["Orchid Fire Element"]
+      "can make one aware of inner heat and aggression and helps to transform this": ["Orchid Fire Element"],
+      "For any kind of strongly negative state: anger, jealousy, bitterness, rage, envy etc": ["Holly"]
     }],
     "related": ["Frustation"]
   },
@@ -262,7 +277,8 @@
   {
     "title": "Attention Seeking",
     "references": [{
-      "for people who like to be seen and noticed and who seek glamour and status": ["Gymea Lily"]
+      "for people who like to be seen and noticed and who seek glamour and status": ["Gymea Lily"],
+      "seeking anyone who may be available, to discuss their own affairs with others, no matter who it may be": ["Heather"]
     }],
     "related": []
   },
@@ -544,7 +560,8 @@
       "cleansing and revitalising": ["Kuan Yin Fluorite"],
       "a beautiful & powerful cleansing essence": ["Orchid Fire Element"],
       "dissolves the negative thought patterns which keep us stuck and which can eventually lead to emotional and physical disorders if left unchecked": ["Plantain"],
-      "cleanses the mind; eliminates physical toxins which cloud the mind": ["Moon Snail"]
+      "cleanses the mind; eliminates physical toxins which cloud the mind": ["Moon Snail"],
+      "the remedy for cleansing. For those who feel in some way unclean, contaminated": ["Crab Apple"]
       }],
       "related": []
     },
@@ -634,8 +651,7 @@
   },
   {
     "title": "Complaining",
-    "references": [{
-    }],
+    "references": [],
     "related": ["Victim"]
   },
   {
@@ -673,7 +689,8 @@
       "nurtures strength, a feeling of invincibility, and supreme confidence in one's abilities": ["Bumblebee"],
       "nurtures and enhances self-confidence": ["Lion", "Mountain Lion", "Peacock"],
       "for children lacking self-confidence or being bullied at school": ["Mercutio"],
-      "for those who have no confidence in themselves, depend too much upon the advice of others": ["Cerato"]
+      "for those who have no confidence in themselves, depend too much upon the advice of others": ["Cerato"],
+      "for those who lack confidence in themselves, they expect failure and feel they will never succeed": ["Larch"]
     }],
     "related": []
   },
@@ -766,8 +783,10 @@
     "title": "Critical",
     "references": [{
       "being criticized by others": ["Twinflower"],
-      "overly critical of oneself": ["Bog Candle", "Diopside", "Pearl", "Twinflower"],
-      "overly critical of others": ["Sphagnum Moss", "Stinging Nettle", "Yellow Cowslip Orchid", "Twinflower", "Indian Pipe"]
+      "overly critical of oneself": ["Bog Candle", "Diopside", "Pearl", "Twinflower", "Pine"],
+      "overly critical of others": ["Sphagnum Moss", "Stinging Nettle", "Yellow Cowslip Orchid", "Twinflower", "Indian Pipe"],
+      "so sure that they know right how things should be done that it makes them critical and exacting": ["Vine"],
+      "those who are critical, dissatisfied, intolerant, irritable, always finding fault, seeing only the negative side of things": ["Beech"]
     }],
     "related": []
   },
@@ -809,7 +828,8 @@
       "for those who dither, are 'all over the place' and are always changing their mind": ["Jacaranda"],
       "decision-maker; clears ambivalence": ["Pipsissewa"],
       "helps with clear thinking and decision making": ["Staghorn Algae"],
-      "for those who don't have sufficient confidence in themselves to make their own decisions": ["Cerato"]
+      "for those who don't have sufficient confidence in themselves to make their own decisions": ["Cerato"],
+      "unable to decide between two things, first one seeming right then the other": ["Scleranthus"]
     }],
     "related": ["Dithering"]
   },
@@ -836,14 +856,23 @@
       "provides an opportunity to be responsible for depression and thereby dispel it": ["Periwinkle"],
       "affects heart-related spirit disorders like depression": ["Jellyfish"],
       "a remedy for depression and inner states of darkness and mental confusion": ["Rainbow Kelp"],
-      "no matter how bad things have been, it is possible to feel joy again": ["Hiddenite & Kunzite (Indigo)"]
+      "no matter how bad things have been, it is possible to feel joy again": ["Hiddenite & Kunzite (Indigo)"],
+      "for depression that comes for no apparent reason from an unknown cause": ["Mustard"]
     }],
     "related": ["Optimism", "Joy"]
   },
   {
+    "title": "Determination",
+    "references": [{
+      "lifts the weight off your heart, giving you a feeling of indestructible strength and determination": ["Isis (Indigo)"]
+    }],
+    "related": ["Persistence"]
+  },
+  {
     "title": "Digestion",
     "references": [{
-      "a powerful tonic for digestive disorders": ["Orange Honeysuckle"]
+      "a powerful tonic for digestive disorders": ["Orange Honeysuckle"],
+      "energetically supports the digestive process and corresponding organs - liver, gall bladder and pancreas": ["Centre Renewal"]
     }],
     "related": []
   },
@@ -872,8 +901,7 @@
   },
   {
     "title": "Despair",
-    "references": [{
-    }],
+    "references": [],
     "related": ["Hope/Hopelessness"]
   },
   {
@@ -919,6 +947,13 @@
       "repatterning cellular memory; can be used where the dharma or purpose of a cell has been forgotten": ["Diatoms"]
     }],
     "related": ["Restoration", "Cellular Memory"]
+  },
+  {
+    "title": "Domineering",
+    "references": [{
+      "so sure that they know right, both for themselves and for others, how things should be done that it makes them critical and exacting": ["Vine"]
+    }],
+    "related": ["Critical"]
   },
   {
     "title": "Dreaming",
@@ -979,7 +1014,8 @@
       "helps to address the anxiety and fear that people are left with after such a massive traumatic event": ["Andean Fire"],
       "helpful in emergencies and moments of high stress. Addressing shock at a deep level of the psyche, it also gives spiritual support": ["Immediate Relief"],
       "our most advanced formula for psychic protection, and yet it is also uplifting. May also be used as an emergency essence": ["Shield of Light"],
-      "for the person who is going through the 'black night of the soul'. It gives them the strength and courage to cope and will bring their survival skills to the fore": ["Waratah"]
+      "for the person who is going through the 'black night of the soul'. It gives them the strength and courage to cope and will bring their survival skills to the fore": ["Waratah"],
+      "the rescue remedy. The remedy of emergency": ["Rock Rose"]
     }],
     "related": ["Shock"]
   },
@@ -1088,9 +1124,10 @@
       "especially for you if you have accrued an excessive amount of work or other commitments, and it is close to pushing you beyond your ability to cope": ["Light Relief"],
       "brings about renewed enthusiasm, endurance and inner strength": ["Macrocarpa"],
       "people who are weary, frustrated and disheartened by setbacks": ["Old Man Banksia"],
-      "especially suitable for those who rush about doing, always doing": ["Sea Palm"]
+      "especially suitable for those who rush about doing, always doing": ["Sea Palm"],
+      "for those who have suffered much mentally or physically and are so exhausted and weary": ["Olive"]
     }],
-    "related": []
+    "related": ["Fatigue", "Energy", "Stamina"]
   },
   {
     "title": "Expansion",
@@ -1136,9 +1173,10 @@
       "for people who are weary, frustrated and disheartened by setbacks": ["Old Man Banksia"],
       "brings about renewed enthusiasm, endurance and inner strength": ["Macrocarpa"],
       "a remedy of choice for athletic training and physical endurance": ["Sea Horse"],
-      "for when you feel tired; brings in a new energy, the energy of 'be-ing": ["Isis (Indigo)"]
+      "for when you feel tired; brings in a new energy, the energy of 'be-ing": ["Isis (Indigo)"],
+      "for a temporary state of mental/physical tiredness": ["Hornbean"]
     }],
-    "related": ["Exhaustion", "Energising"]
+    "related": ["Exhaustion", "Energising", "Stamina"]
   },
   {
     "title": "Fear",
@@ -1170,7 +1208,10 @@
       "shows you the way through your fears to perfect peace": ["Charoite (Indigo)"],
       "fear of men / fear of being male": ["Ruby with Kyanite 1 (Indigo)"],
       "fear of women / fear of being female": ["Ruby with Kyanite 2 (Indigo)"],
-      "to combat all fear": ["Mimulus"]
+      "to combat all fear": ["Mimulus"],
+      "when the patient is terrified or in a panic": ["Rock Rose"],
+      "vague unknown fears, for which there can be given no explanation, no reason": ["Aspen"],
+      "fear of losing control; fear of insanity": ["Cherry Plum"]
     }],
     "related": []
   },
@@ -1183,7 +1224,8 @@
       "opening to the nurturing energies of the Divine Mother": ["Emerald", "Ladies' Mantle", "Larimar"],
       "opening up to a greater awareness of the feminine in nature": ["Amazonite", "Northern Lady's Slipper", "Paper Birch"],
       "reconnecting to the wild feminine": ["Green Jasper"],
-      "for attuning with the feminine aspect of the self": ["Barnacle"]
+      "for attuning with the feminine aspect of the self": ["Barnacle"],
+      "fear of women / fear of being female; clearing old inherited feminine energy patterns": ["Ruby with Kyanite 2 (Indigo)"]
     }],
     "related": []
   },
@@ -1386,7 +1428,7 @@
     "title": "Guilt",
     "references": [{
       "helps the psyche to address deep layers of guilt or shame": ["Redemption Dream"],
-      "for guilt": ["Sturt Desert Rose"],
+      "for guilt": ["Sturt Desert Rose", "Pine"],
       "releases guilt and shame from earlier experiences in this life": ["Camellia"]
     }],
     "related": []
@@ -1419,8 +1461,7 @@
   },
   {
     "title": "Healing",
-    "references": [{
-    }],
+    "references": [],
     "related": ["Spiritual Healing"]
   },
   {
@@ -1512,9 +1553,10 @@
       "a harbinger of spring, hope and happiness within the self": ["Robin"],
       "assists us to find the light when the mental darkness seems overwhelming": ["Fairy-Bell"],
       "dispels that sense of hopelessness which is often experienced when we feel misunderstood": ["Wallflower"],
-      "dissolves feelings of despair - that place of utter hopelessness": ["Grape Hyacinth"]
+      "dissolves feelings of despair - that place of utter hopelessness": ["Grape Hyacinth"],
+      "for very great hopelessness": ["Gorse"]
     }],
-    "related": []
+    "related": ["Optimism"]
   },
   {
     "title": "Humility",
@@ -1552,6 +1594,11 @@
       "for those who are irritated by constraints, quick, tense, impatient": ["Impatiens"]
     }],
     "related": []
+  },
+  {
+    "title": "Indecisive",
+    "references": [],
+    "related": ["Decisiveness"]
   },
   {
     "title": "Independence",
@@ -1748,7 +1795,8 @@
   {
     "title": "Jealousy",
     "references": [{
-      "helps one deal with feelings of hatred, anger, jealousy and the major blocks to expressing love": ["Mountain Devil"]
+      "helps one deal with feelings of hatred, anger, jealousy and the major blocks to expressing love": ["Mountain Devil"],
+      "for those who are sometimes attacked by thoughts of such kind as jealousy, envy, revenge, suspicion": ["Holly"]
     }],
     "related": []
   },
@@ -1793,6 +1841,13 @@
     "references": [{
       "encourages inclusive leadership that is concerned with the welfare of all": ["Elephant"],
       "encourages leadership, achievement, and success": ["Lion"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Learning from Mistakes",
+    "references": [{
+      "unable to learn from mistakes": ["Chestnut Bud"]
     }],
     "related": []
   },
@@ -1843,7 +1898,8 @@
       "heightens and deepens the soul's understanding of its journey in this physical body": ["Shiva's Crown"],
       "awareness of the soul's true purpose without the clutter of the baggage which we invariably carry.": ["Vital Defense"],
       "brings about an awareness of one's life direction": ["Silver Princess"],
-      "provides support for creating the design of one's life": ["Beaver"]
+      "provides support for creating the design of one's life": ["Beaver"],
+      "let us find one thing in life that attracts us most and do it. Let that one thing be so part of us that it is as natural as breathing": ["Wild Oat"]
     }],
     "related": ["Goals"]
   },
@@ -1880,6 +1936,13 @@
       "clears confusion between hearing and knowing": ["Lapis Lazuli"],
       "from a place of inner quiet and focused neutrality": ["Aquamarine", "Beyond Words", "Twinflower"],
       "to the subtleties of nature": ["Cassandra"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Living in the Past",
+    "references": [{
+      "for nostalgia, homesickness, those who live much in the past, past loves, happiness, regrets, success or failures": ["Honeysuckle"]
     }],
     "related": []
   },
@@ -1948,7 +2011,8 @@
       "balancing masculine and feminine energies in the heart": ["Green Fairy Orchid", "Watermelon Tourmaline"],
       "balancing power and gentleness in men and women": ["Blue Poppy", "Sitka Spruce Pollen"],
       "helps men reclaim their spiritual self-image": ["Brazilian Amethyst", "Star Gentian"],
-      "strengthening the flow of masculine energy in men and women": ["Fairy Slipper", "Solar Eclipse", "Solstice Sun", "Sunflower"]
+      "strengthening the flow of masculine energy in men and women": ["Fairy Slipper", "Solar Eclipse", "Solstice Sun", "Sunflower"],
+      "fear of men / fear of being male; clearing old inherited male energy patterns": ["Ruby with Kyanite 1 (Indigo)"]
     }],
     "related": []
   },
@@ -2012,8 +2076,7 @@
   },
   {
     "title": "Mood Swings",
-    "references": [{
-    }],
+    "references": [],
     "related": ["Stability"]
   },
   {
@@ -2134,9 +2197,18 @@
   {
     "title": "Open Mindedness",
     "references": [{
-      "for embracing new concepts and ideas": ["Bauhinia"]
+      "for embracing new concepts and ideas": ["Bauhinia"],
+      "to let others be themselves and never force our views on them": ["Vervain"]
     }],
-    "related": []
+    "related": ["Rigidity", "Opinionated"]
+  },
+  {
+    "title": "Opinionated",
+    "references": [{
+      "strong views and are intolerant of the opinions of others": ["Vervain"],
+      "very strong opinions; any failure to make others follow their ideas brings them much unhappiness": ["Rock Water"]
+    }],
+    "related": ["Rigidity", "Open Mindedness"]
   },
   {
     "title": "Optimism",
@@ -2146,7 +2218,7 @@
       "maintains undeterred optimism accompanied by remarkable stamina": ["Positive Outcome"],
       "brings to the heart feelings of joy and eternal optimism": ["Wisdom of Compassion"]
     }],
-    "related": ["Joy"]
+    "related": ["Joy", "Hope/Hopelessness"]
   },
   {
     "title": "Oversensitive",
@@ -2177,7 +2249,8 @@
       "by the amount of energy or information one is receiving": ["Lapis Lazuli", "Rutilated Quartz", "Stinging Nettle", "Twinflower"],
       "by the pace and intensity of change": ["Fireweed", "Golden Corydalis", "Greenland Icecap", "Labrador Tea", "Tidal Forces"],
       "helps people move through major life changes and the overwhelm that often goes with those changes": ["Bottlebrush"],
-      "for the assimilation and integration of new ideas and information": ["Paw Paw"]
+      "for the assimilation and integration of new ideas and information": ["Paw Paw"],
+      "for those who are very capable and often carry great responsibility but occasionally feel unable to face the magnitude of their tasks": ["Elm"]
     }],
     "related": ["Exhaustion", "Stress"]
   },
@@ -2210,10 +2283,16 @@
     "related": ["Children"]
   },
   {
-    "title": "Past Lives",
+    "title": "Particular",
     "references": [{
+      "those who are very particular": ["Vine"]
     }],
-    "related": ["Memory"]
+    "related": []
+  },
+  {
+    "title": "Past Lives",
+    "references": [],
+    "related": ["Memory", "Karma"]
   },
   {
     "title": "Patience",
@@ -2279,6 +2358,11 @@
     "related": ["Perspective"]
   },
   {
+    "title": "Perseverance",
+    "references": [],
+    "related": ["Persistence"]
+  },
+  {
     "title": "Persistence",
     "references": [{
       "slow and steady persistence": ["Sea Turtle"],
@@ -2308,8 +2392,7 @@
   },
   {
     "title": "Physical Assault",
-    "references": [{
-    }],
+    "references": [],
     "related": ["Assault"]
   },
   {
@@ -2747,7 +2830,8 @@
     "title": "Rigidity",
     "references": [{
       "dissolves bitterness and hardness": ["Jellyfish"],
-      "cultivate an attitude of innocent wonderment instead of becoming enmeshed in rigid thought structures": ["Moon Snail"]
+      "cultivate an attitude of innocent wonderment instead of becoming enmeshed in rigid thought structures": ["Moon Snail"],
+      "for those whose strong opinions cause rigidity, closed mindedness and stress": ["Vervain"]
     }],
     "related": []
   },
@@ -2855,7 +2939,8 @@
       "for those whose pattern of rushing around, always doing, stems from self-worth issues": ["Sea Palm"],
       "helps you to feel happy with yourself": ["Larimar & Rose Quartz (Indigo)"],
       "for those whose's good nature leads them to do more than their own share of work, and in so doing they may neglect their own particular mission in life": ["Centuary"],
-      "their own lack of self-esteem makes them admire and trust too much any who hold strong views": ["Cerato"]
+      "their own lack of self-esteem makes them admire and trust too much any who hold strong views": ["Cerato"],
+      "for those who do not consider themselves as good or capable as those around them": ["Larch"]
     }],
     "related": ["Self-Love", "Self-Appreciation"]
   },
@@ -3108,6 +3193,14 @@
     "related": []
   },
   {
+    "title": "Struggling",
+    "references": [{
+      "don’t fight your worries: don’t struggle with your disease": ["Oak"],
+      "daily life is hard work for them, without pleasure": ["Olive"]
+    }],
+    "related": []
+  },
+  {
     "title": "Stubborn",
     "references": [{
       "benefits those people who control through stubbornness": ["Isopogon"]
@@ -3340,7 +3433,8 @@
       "realise and know — on a deep heart level not merely an intellectual level — that there is no separation between us, that we are all one": ["Sydney Rose"],
       "for cultivating a deep sense of Spiritual Unity at the heart of one's life": ["Jaguar"],
       "helps the individual to move beyond ego boundaries and to begin to appreciate 'other' as the same Self": ["Harvest Lily"],
-      "helps us to experience our unity and oneness with all of life": ["Viburnum"]
+      "helps us to experience our unity and oneness with all of life": ["Viburnum"],
+      "the cause of all our troubles is self and separateness, and this vanishes as soon as Love and the knowledge of the great Unity become part of our natures": ["Aspen"]
     }],
     "related": ["Spiritual"]
   },
@@ -3432,6 +3526,11 @@
     "related": []
   },
   {
+    "title": "Withdrawn",
+    "references": [],
+    "related": ["Aloof"]
+  },
+  {
     "title": "Womb",
     "references": [{
       "helps remove imprints which we gained in the womb, which hinder our health and well-being, and our spiritual journey": ["Moon Child"],
@@ -3448,7 +3547,9 @@
       "it calms that feeling of 'butterflies in the Stomach.'; alleviates worry": ["Narcissus"],
       "alleviates worry and obsessive thinking": ["Urchin"],
       "worry hidden behind a carefree mask": ["Agrimony"],
-      "these people worry over others too much": ["Chicory"]
+      "these people worry over others too much": ["Chicory"],
+      "worry over the troubles of others, not the big things of life, but the affairs of everyday": ["Heather"],
+      "for those who find it difficult not to be anxious for other people": ["Red Chestnut"]
     }],
     "related": ["Anxiety"]
   }
