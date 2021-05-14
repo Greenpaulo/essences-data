@@ -234,7 +234,8 @@
       "lack of inspiration or motivation": ["Tundra Rose"],
       "addresses temporary loss of drive and enthusiasm due to burn out, disappointment or frustration": ["Banksia Robur"],
       "for people who have a tendency to give up very easily, who are easily discouraged": ["Kapok Bush"],
-      "indifferent as to what happens: has no enthusiasm about anything": ["Clematis"]
+      "indifferent as to what happens: has no enthusiasm about anything": ["Clematis"],
+      "for resignation, apathy, surrender, failure to make effort, fatalism, just drift down hill": ["Wild Rose"]
     }],
     "related": ["Disheartened"]
   },
@@ -412,7 +413,8 @@
   {
     "title": "Bitterness",
     "references": [{
-      "erases deeply hidden bitterness, such as that stored in victims of abuse and violence": ["Orchid Metal Element"]
+      "erases deeply hidden bitterness, such as that stored in victims of abuse and violence": ["Orchid Metal Element"],
+      "for those who suffer any small adversity with bitterness and resentment": ["Willow (Bach)"]
     }],
     "related": ["Resentment"]
   },
@@ -483,7 +485,8 @@
       "helps people move through major life changes and the overwhelm that often goes with those changes": ["Bottlebrush"],
       "provides strength and certainty for those undergoing deep emotional and spiritual changes": ["Frog"],
       "changes where energy has been directed in one way and that particular form of expression is no longer available": ["Orange Honeysuckle"],
-      "the essence to use for new jobs, new schools, new relationships, new experiences": ["Pink Seaweed"]
+      "the essence to use for new jobs, new schools, new relationships, new experiences": ["Pink Seaweed"],
+      "unsettled during a life change": ["Walnut"]
       }],
       "related": ["Transformation", "Transition"]
     },
@@ -791,6 +794,15 @@
     "related": []
   },
   {
+    "title": "Dark Night of the Soul",
+    "references": [{
+      "utter desolation, unable even to pray, the ‘dark night of the soul’": ["Sweet Chestnut"],
+      "for the person who is going through the 'black night of the soul'": ["Waratah"],
+      "a powerful essence to help in the darkest of times": ["Night Soul"]
+    }],
+    "related": []
+  },
+  {
     "title": "Dead Pelvis Syndrome",
     "references": [{
       "helps to ground and release tensions stemming from subconscious patterns held in the 2nd chakra": ["Sacral Release"],
@@ -815,14 +827,6 @@
     "related": []
   },
   {
-    "title": "Defensiveness",
-    "references": [{
-      "defensive or reactive communication": ["Beyond Words", "Stinging Nettle", "Sweetgale", "Twinflower", "Yellow Violet"],
-      "emotional defensiveness": ["Sweetgale"]
-    }],
-    "related": []
-  },
-  {
     "title": "Decisiveness",
     "references": [{
       "for those who dither, are 'all over the place' and are always changing their mind": ["Jacaranda"],
@@ -830,9 +834,17 @@
       "helps with clear thinking and decision making": ["Staghorn Algae"],
       "for those who don't have sufficient confidence in themselves to make their own decisions": ["Cerato"],
       "unable to decide between two things, first one seeming right then the other": ["Scleranthus"]
-    }],
-    "related": ["Dithering"]
-  },
+      }],
+      "related": ["Dithering"]
+    },
+    {
+      "title": "Defensiveness",
+      "references": [{
+        "defensive or reactive communication": ["Beyond Words", "Stinging Nettle", "Sweetgale", "Twinflower", "Yellow Violet"],
+        "emotional defensiveness": ["Sweetgale"]
+      }],
+      "related": []
+    },
   {
     "title": "Dental Care",
     "references": [{
@@ -862,11 +874,56 @@
     "related": ["Optimism", "Joy"]
   },
   {
+    "title": "Desolation",
+    "references": [],
+    "related": ["Dark Night of the Soul", "Devastation"]
+  },
+  {
+    "title": "Despair",
+    "references": [],
+    "related": ["Hope/Hopelessness", "Devastation", "Dark Night of the Soul"]
+  },
+  {
     "title": "Determination",
     "references": [{
       "lifts the weight off your heart, giving you a feeling of indestructible strength and determination": ["Isis (Indigo)"]
     }],
     "related": ["Persistence"]
+  },
+  {
+    "title": "Detoxification",
+    "references": [{
+      "during and after a long airplane flight": ["Travel Ease"],
+      "helps us exchange toxic energy held in the chakras for restorative energy": ["Portage Glacier", "Silver"],
+      "release of toxic energy from the environment": ["Black Tourmaline", "Portage Glacier", "Purification"],
+      "release of toxic energy from the mind, emotions, and physical body": ["Black Tourmaline", "Northern Coral Root", "Purification", "Silver", "Smoky Quartz"],
+      "detoxifies and clears up our etheric body's 'residuals' - little packets of leftovers": ["Internal Cleansing"],
+      "support and protection for the healthy energetic matrix of the body at the cellular level": ["Energy Protection Matrix"],
+      "harmonises the vibration of any yeast, mould or parasite to one's own vibration": ["Green Essence"],
+      "works on the liver channel; helps to maintain clarity and purity within the physical system": ["Blue Lupin"],
+      "works effectively on any condition of physical toxicity resulting from mental or emotional poisons": ["Plantain"],
+      "for dispersal and elimination of toxins": ["Sea Lettuce"],
+      "helps to clear the body of all sorts of toxins": ["Pyrite (Indigo)"]
+    }],
+    "related": ["Purification"]
+  },
+  {
+    "title": "Devastation",
+    "references": [{
+      "help heal from the darkest experiences of the soul": ["Night Soul"],
+      "help address the anxiety and fear that people are left with after such massive traumatic event, helps one to recover courage and purpose.": ["Andean Fire"]
+    }],
+    "related": ["Emergency", "Shock", "Dark Night of the Soul"]
+  },
+  {
+    "title": "Devotion",
+    "references": [{
+      "facilitates the verbal expression of one's devotion to life": ["Tundra Rose", "Twinflower"],
+      "to one's own heart": ["Bleeding Heart", "Green Bog Orchid"],
+      "to one's path of service": ["Sapphire", "Sapphire/Ruby", "Star Gentian", "Star Sapphire"],
+      "bring the potential for lasting devotion to any relationship": ["Pearly Everlasting"]
+    }],
+    "related": ["Commitment"]
   },
   {
     "title": "Digestion",
@@ -898,46 +955,6 @@
       "for those who dither, are 'all over the place' and are always changing their mind": ["Jacaranda"]
     }],
     "related": ["Decisiveness"]
-  },
-  {
-    "title": "Despair",
-    "references": [],
-    "related": ["Hope/Hopelessness"]
-  },
-  {
-    "title": "Detoxification",
-    "references": [{
-      "during and after a long airplane flight": ["Travel Ease"],
-      "helps us exchange toxic energy held in the chakras for restorative energy": ["Portage Glacier", "Silver"],
-      "release of toxic energy from the environment": ["Black Tourmaline", "Portage Glacier", "Purification"],
-      "release of toxic energy from the mind, emotions, and physical body": ["Black Tourmaline", "Northern Coral Root", "Purification", "Silver", "Smoky Quartz"],
-      "detoxifies and clears up our etheric body's 'residuals' - little packets of leftovers": ["Internal Cleansing"],
-      "support and protection for the healthy energetic matrix of the body at the cellular level": ["Energy Protection Matrix"],
-      "harmonises the vibration of any yeast, mould or parasite to one's own vibration": ["Green Essence"],
-      "works on the liver channel; helps to maintain clarity and purity within the physical system": ["Blue Lupin"],
-      "works effectively on any condition of physical toxicity resulting from mental or emotional poisons": ["Plantain"],
-      "for dispersal and elimination of toxins": ["Sea Lettuce"],
-      "helps to clear the body of all sorts of toxins": ["Pyrite (Indigo)"]
-    }],
-    "related": ["Purification"]
-  },
-  {
-    "title": "Devastation",
-    "references": [{
-      "help heal from the darkest experiences of the soul": ["Night Soul"],
-      "help address the anxiety and fear that people are left with after such massive traumatic event, helps one to recover courage and purpose.": ["Andean Fire"]
-    }],
-    "related": ["Emergency", "Shock"]
-  },
-  {
-    "title": "Devotion",
-    "references": [{
-      "facilitates the verbal expression of one's devotion to life": ["Tundra Rose", "Twinflower"],
-      "to one's own heart": ["Bleeding Heart", "Green Bog Orchid"],
-      "to one's path of service": ["Sapphire", "Sapphire/Ruby", "Star Gentian", "Star Sapphire"],
-      "bring the potential for lasting devotion to any relationship": ["Pearly Everlasting"]
-    }],
-    "related": ["Commitment"]
   },
   {
     "title": "DNA",
@@ -1373,7 +1390,8 @@
       "for the enormous initial pain and sadness of the loss of a loved one": ["Red Suva Frangipani"],
       "for sorrows; one of the most powerful of all the Bush Essences": ["Sturt Desert Pea"],
       "for resolving tension generated from grief and loss": ["Purple Crocus"],
-      "a grief remedy; to let go and to experience the wound of loss; allows us to experience a deep spiritual connection with those we love, even when they are no longer in physical form": ["Starfish"]
+      "a grief remedy; to let go and to experience the wound of loss; allows us to experience a deep spiritual connection with those we love, even when they are no longer in physical form": ["Starfish"],
+      "for shock, grief, distress; for those who need consolation and comfort": ["Star of Bethlehem"]
     }],
     "related": []
   },
@@ -2536,7 +2554,8 @@
       "maintains psychic protection and is excellent for people who are drained by others or those who unconsciously absorb the physical and emotional imbalances of others": ["Fringed Violet"],
       "emotional and psychic protection, and helps one to feel safe when dealing with intense situations and environments": ["Turtle"],
       "a useful remedy to take before going into situations where the potential for emotional distress exists": ["Chiton"],
-      "for safety and psychic protection": ["Urchin"]
+      "for safety and psychic protection": ["Urchin"],
+      "guards against anything which interferes with the workings of normal life, protects those who are attacked by subtle forces": ["Walnut"]
     }],
     "related": ["Safety", "Security"]
   },
@@ -2762,7 +2781,7 @@
     "references": [{
       "especially useful when we have repetitive thoughts and we feel we have no control over them": ["Plantain"],
       "allows us to release ingrained thought patterns, i.e. repetitive": ["Poison Hemlock"],
-      "resolving obsessive thoughts": ["Boronia", "Forsythia"]
+      "resolving obsessive thoughts": ["Boronia", "Forsythia", "White Chestnut"]
     }],
     "related": ["Obsessive", "Stuck"]
   },
@@ -2772,7 +2791,8 @@
       "helps one understand the source of": ["Blue Elf Viola"],
       "stimulates the release of": ["Mountain Wormwood"],
       "for people who feel resentment and bitterness and hold grudges against those with whom they have been very close": ["Dagger Hakea"],
-      "for releasing grievances from the past": ["Chickweed"]
+      "for releasing grievances from the past": ["Chickweed"],
+      "for those who suffer any small adversity with bitterness and resentment": ["Willow (Bach)"]
     }],
     "related": ["Forgiveness", "Bitterness"]
   },
@@ -3040,7 +3060,8 @@
       "in very stressful circumstances we are likely to lose our connection with higher aspects of our soul or psyche; this combination relieves the shock": ["Immediate Relief"],
       "for treating damage to the aura where there has been shock, grief or distress": ["Fringed Violet"],
       "eases the Heart and gently coaxes the Spirit back into embodiment after shock": ["Fireweed (Pacific)"],
-      "allows the individual to step back from the situation while harnessing inner resources to meet the challenge": "Grape Hyacinth"
+      "allows the individual to step back from the situation while harnessing inner resources to meet the challenge": ["Grape Hyacinth"],
+      "for shock, grief, distress": ["Star of Bethlehem"]
     }],
     "related": []
   },
@@ -3476,7 +3497,8 @@
       "realising that I do create my own reality. Every thought I think, every feeling I feel, affects the whole": ["Anemone"],
       "the remedy par excellence for victim consciousness": ["Mussel"],
       "understanding that nothing happens to me without my consent": ["Sponge"],
-      "feeling sorry for yourself; feel that they have done nothing to deserve to be in this situation": ["Chicory"]
+      "feeling sorry for yourself; feel that they have done nothing to deserve to be in this situation": ["Chicory"],
+      "they feel that they have not deserved so great a trial, that it was unjust, and they become embittered": ["Willow (Bach)"]
     }],
     "related": ["Empowered/Empowerment"]
   },
@@ -3549,7 +3571,8 @@
       "worry hidden behind a carefree mask": ["Agrimony"],
       "these people worry over others too much": ["Chicory"],
       "worry over the troubles of others, not the big things of life, but the affairs of everyday": ["Heather"],
-      "for those who find it difficult not to be anxious for other people": ["Red Chestnut"]
+      "for those who find it difficult not to be anxious for other people": ["Red Chestnut"],
+      "thoughts which worry and will remain, or if for a time thrown out, will return": ["White Chestnut"]
     }],
     "related": ["Anxiety"]
   }
