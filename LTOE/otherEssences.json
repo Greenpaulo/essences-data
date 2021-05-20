@@ -22,5 +22,20 @@
     "chakras": [],
     "keywords": [],
     "stock": true
+  },
+  {
+    "company": "Living Tree Orchid Essences",
+    "group": "Other Essences",
+    "name": "Narnia Sphagnum Moss",
+    "latin": "",
+    "description": ["Once there was a magical woodland in Sussex, and in that extraordinary woodland was a wonderful, vibrant patch of the greenest sphagnum moss. An essence was made with that moss and it shared its magical properties with whoever imbibed it. Joyful, gently awakening, the cellular health of the moss shared its message of health with anyone it could reach. The moss had a very strong signature of vibrant, healthy cellular growth, and it helps our own cells to remember that healthy blueprint. A 'gatekeeper' for our perception of the unseen realm of the spirits of nature, the light of this essence just might invite you to see the world with new eyes"],
+    "indications": [],
+    "effects": [],
+    "chakras": ["Inner Chamber of the Heart", "Third Eye", "Ba'hui Point"],
+    "chakrasSecondary": ["Root", "Solar Plexus", "Heart", "Ajana Centre", "Crown", "Dreamtime Point"],
+    "meridians": ["Conception Vessel"],
+    "meridiansSecondary": ["Bladder"],
+    "keywords": ["Gardening", "Nature", "Restoration", "DNA", "Psychic Developement"],
+    "stock": true
   }
 ]

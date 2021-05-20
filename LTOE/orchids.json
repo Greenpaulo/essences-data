@@ -192,7 +192,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Joy", "Centering", "Digestion"],
-    "stock": false
+    "stock": true
   },
   {
     "company": "Living Tree Orchid Essences",
@@ -767,21 +767,6 @@
   {
     "company": "Living Tree Orchid Essences",
     "group": "Single Orchid Essences",
-    "name": "Narnia Sphagnum Moss",
-    "latin": "",
-    "description": ["Once there was a magical woodland in Sussex, and in that extraordinary woodland was a wonderful, vibrant patch of the greenest sphagnum moss. An essence was made with that moss and it shared its magical properties with whoever imbibed it. Joyful, gently awakening, the cellular health of the moss shared its message of health with anyone it could reach. The moss had a very strong signature of vibrant, healthy cellular growth, and it helps our own cells to remember that healthy blueprint. A 'gatekeeper' for our perception of the unseen realm of the spirits of nature, the light of this essence just might invite you to see the world with new eyes"],
-    "indications": [],
-    "effects": [],
-    "chakras": ["Inner Chamber of the Heart", "Third Eye", "Ba'hui Point"],
-    "chakrasSecondary": ["Root", "Solar Plexus", "Heart", "Ajana Centre", "Crown", "Dreamtime Point"],
-    "meridians": ["Conception Vessel"],
-    "meridiansSecondary": ["Bladder"],
-    "keywords": ["Gardening", "Nature", "Restoration", "DNA", "Psychic Developement"],
-    "stock": true
-  },
-  {
-    "company": "Living Tree Orchid Essences",
-    "group": "Single Orchid Essences",
     "name": "Necklace of Beauty",
     "latin": "Bulbophyllum longiflorum (Borneo)",
     "description": ["'Experience the beauty within'", "Necklace of Beauty essence has been made with a beautiful orchid from SE Asia called Bulbophyllum longiflorum (also called Cirrhopetalum longiflorum, or Cirrhopetalum umbellatum*; this particular form is found in Borneo). Necklace of Beauty brings an exquisite, beautiful and loving energy to the area above the higher heart chakra but below the throat chakra (just where a necklace is usually worn), enabling one to feel uplifted, loved and at peace. This essence honours one's inner beauty, and the light of one's true being.", "This essence also prepares one for further important steps of one's inner journey, by enabling the ego or shadow side to relinquish its hold in one, so the soul can continue its journey into light. Necklace of Beauty appears to 'open the gate' for one to experience more fully the high consciousness of the new combination Spirit of Life (or its two components Fire of Life and Furnace of Life).", "* There are differences of opinion regarding the correct nomenclature in the orchid-growing world. 'Cirrhopetalum' is a name for either a section of the Bulbophyllum genus, or a genus in its own right, depending on one's point of view."],
@@ -1294,10 +1279,10 @@
     "group": "Single Orchid Essences",
     "name": "Stairway To Heaven",
     "latin": "",
-    "description": [ "A deeply vertical uplifting energy into stillness, awareness and inner focus. An invitation to let the sun (heart) inside you. Expands the solar plexus, chest and head as if the 'lid' were being removed.", "It acts like nourishment for the soul when we feel stuffed with material consumption. It provides clarity and a cleaner connection with the higher realms.", "With this essence there seems to be some kind of realignment of our inner perception to adjust our focus and listen more deeply. The ears act like a radar: they are part of the ability to listen and to be aware of everything that is happening near and far.", "Stairway to Heaven deepens the feeling for the changing world inside and outside and can help to re-calibrate and align ourselves on certain levels.", "This essence adds orchids to Clarifying the Shadow and further enhances its action on the 29th chakra. Provides support to live with a higher consciousness even in the difficult situations we face, as we continue our journey towards heaven on earth. It is the perfect essence for us living in this era (2020-21). Please use it next to Clarifying The Shadow. Great for meditation"],
+    "description": [ "A deeply vertical uplifting energy into stillness, awareness and inner focus. An invitation to let the sun (heart) inside you. Expands the solar plexus, chest and head as if the 'lid' were being removed.", "It acts like nourishment for the soul when we feel stuffed with material consumption. It provides clarity and a cleaner connection with the higher realms.", "With this essence there seems to be some kind of realignment of our inner perception to adjust our focus and listen more deeply. The ears act like a radar: they are part of the ability to listen and to be aware of everything that is happening near and far.", "Stairway to Heaven deepens the feeling for the changing world inside and outside and can help to re-calibrate and align ourselves on certain levels.", "This essence adds orchids to Clarifying the Shadow (a gem essence of Shungite and Amethyst) and further enhances its action on the 29th chakra. Provides support to live with a higher consciousness even in the difficult situations we face, as we continue our journey towards heaven on earth. It is the perfect essence for us living in this era (2020-21). Please use it next to Clarifying The Shadow. Great for meditation"],
     "indications": [],
     "effects": [],
-    "chakras": [],
+    "chakras": ["29th"],
     "chakrasSecondary": [],
     "meridians": [],
     "meridiansSecondary": [],
@@ -1444,7 +1429,7 @@
     "group": "Single Orchid Essences",
     "name": "Vital Clarity",
     "latin": "Phragmipedium besseae variety d’allesandroi, Phragmipedium kovachii & Amethyst",
-    "description": ["Vital Clarity is the 2nd of a sequential trio of essences. Vital Core helps to stir up shadow aspects of the 2nd chakra, while Vital Clarity then helps with the realignment of these energies of the lower body chakras, to bring the foundation of the energy body into alignment with one’s deeper spiritual aspirations. Vital Light is then taken to further the soul’s journey into Divine Light.", "Special intake options: 1) in the morning - Vital Core , at noon - Vital Clarity , in the evening - Vital Light - 7 drops each for 21 days. 2) 1st day - Vital Core , 2nd day -Vital Clarity , 3rd day - Vital Light - 7 drops at night for 63 days."],
+    "description": ["Vital Clarity is the 2nd of a sequential trio of essences. Vital Core helps to stir up shadow aspects of the 2nd chakra, while Vital Clarity then helps with the realignment of these energies of the lower body chakras, to bring the foundation of the energy body into alignment with one’s deeper spiritual aspirations. Vital Light is then taken to further the soul’s journey into Divine Light.", "Special dosage options: 1) in the morning - Vital Core , at noon - Vital Clarity , in the evening - Vital Light - 7 drops each for 21 days. 2) 1st day - Vital Core , 2nd day -Vital Clarity , 3rd day - Vital Light - 7 drops at night for 63 days."],
     "indications": [],
     "effects": [],
     "chakras": [],
@@ -1452,7 +1437,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Alignment", "Sacral", "Spiritual"],
-    "stock": false
+    "stock": true
   },
   {
     "company": "Living Tree Orchid Essences",
@@ -1474,7 +1459,7 @@
     "group": "Single Orchid Essences",
     "name": "Vital Light",
     "latin": "Phragmipedium besseae variety d’allesandroi, Phragmipedium kovachii & Kuan Yin Fluorite",
-    "description": ["The culminating essence of the trio which includes Vital Core & Vital Clarity. With the 2 orchids acting on the lower body chakras, and the Kuan Yin Fluorite acting from the Heart chakra and above, a mystic chariot for the soul is invoked, the Merkabah. Vital Light is positive, refreshing, uplifting and energising.", "Special intake options: 1) in the morning - Vital Core , at noon - Vital Clarity , in the evening - Vital Light - 7 drops each for 21 days. 2) 1st day - Vital Core , 2nd day -Vital Clarity , 3rd day - Vital Light - 7 drops at night for 63 days."],
+    "description": ["The culminating essence of the trio which includes Vital Core & Vital Clarity. With the 2 orchids acting on the lower body chakras, and the Kuan Yin Fluorite acting from the Heart chakra and above, a mystic chariot for the soul is invoked, the Merkabah. Vital Light is positive, refreshing, uplifting and energising.", "Special dosage options: 1) in the morning - Vital Core , at noon - Vital Clarity , in the evening - Vital Light - 7 drops each for 21 days. 2) 1st day - Vital Core , 2nd day -Vital Clarity , 3rd day - Vital Light - 7 drops at night for 63 days."],
     "indications": [],
     "effects": [],
     "chakras": [],
@@ -1482,7 +1467,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Spiritual"],
-    "stock": false
+    "stock": true
   },
   {
     "company": "Living Tree Orchid Essences",
