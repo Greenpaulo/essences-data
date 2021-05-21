@@ -1092,7 +1092,7 @@
     "related": ["Energy", "Exhaustion"]
   },
   {
-    "title": "Enviroment",
+    "title": "Environment",
     "references": [{
       "cleansing one's environment": ["Black Tourmaline", "Grass of Parnassus", "Portage Glacier", "Purification"],
       "helps one not take on the energy of their environment": ["Guardian", "Lavender Yarrow", "Yarrow"]
@@ -1859,6 +1859,13 @@
     "references": [{
       "encourages inclusive leadership that is concerned with the welfare of all": ["Elephant"],
       "encourages leadership, achievement, and success": ["Lion"]
+    }],
+    "related": []
+  },
+  {
+    "title": "Learning Difficulties",
+    "references": [{
+      "facilitates all aspects of the learning process for both children and adults": ["Easy Learning"]
     }],
     "related": []
   },
@@ -3516,7 +3523,7 @@
       "in crowded situations": ["Devil's Club", "Stone Circle"],
       "maintaining a quality of appropriate vulnerability": ["Prickly Wild Rose"],
       "physical": ["Pasque Flower"],
-      "to powerful emotions": ["Guardian, Hematite", "Tiger's Eye"],
+      "to powerful emotions": ["Guardian", "Hematite", "Tiger's Eye"],
       "upport for facing one's vulnerability and for learning the strength of healthy vulnerability": ["Gazelle"]
     }],
     "related": []
