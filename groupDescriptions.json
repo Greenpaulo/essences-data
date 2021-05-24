@@ -136,6 +136,13 @@
     "frequency": "3-4 times a day"
   },
   {
+    "company": "WEAE",
+    "group": "Healing Path",
+    "description":["Healing Path Essences from Wild Earth are vibrational remedies that support you on your emotional and spiritual healing journey. Healing Path Essences provide deep support through each of the natural stages of our emotional healing work, and they nurture us as we heal from the darkness of our woundedness into the light of our union with the Divine.", "Each Healing Path Essence contains a specially designed combination of the Wild Earth Animal Essences, which nurture you with the wisdom and power of wild animals.", "The essences may be used individually as needed or in a conscious progression as one moves through the different stages of the healing process.", "The general sequence of the Healing Path Essences is:", "Inner Work -> Healthy Anger -> Grieving Heart -> Letting Go -> Gratitude -> Wild Freedom -> Communion with God", "The essences may, of course, be used individually at any time without regard to the general sequence."],
+    "dosage": "5-7",
+    "frequency": "3-4 times a day"
+  },
+  {
     "company": "Bailey",
     "group": "General",
     "description":["Promoting well-being, wholeness, acceptance and living in the present moment through the use of flower essences, five elements, meditation, movement, communication and connection to the Earth.", "The Bailey Flower Essences are made in Ilkely in Yorkshire. Arthur Bailey started developing them in the early 1980's and his family now continue his work.", "After being involved in healing and meditation for over 30 years, Arthur Bailey used his rigorous scientific background to develop these Essences.", "Arthur Bailey suggests that inertia from past conditioning and a lack of intuitive energising are the factors that hold people back from progressing in their lives. We are often held back from making progress by patterns which seem to be locked within the very cells of the body and often controlled by deep-rooted subconscious fears and terrors which can inhibit our progress.", "The Bailey Essences encourage positive ways of change, of moving forward and leaving outmoded ways behind and embracing new and brighter ways of living our lives."],
@@ -162,5 +169,33 @@
     "description":["Helping Sensitive People to Feel Safe in this World", "This is a collection of 16 mineral essences designed especially to help bring resolution to issues relating to early childhood experiences of feeling unsafe, unloved & ungrounded.", "These feelings underpin how we experience our daily life and will continue to affect us into adulthood until they are addressed and released.", "For Adults: These essences are particularly useful for adults going through Inner Child Work and will really help to speed up the process of healing.", "For Children: These essences can be used by children who have picked up patterns of imbalance or programmes from their family or peer group. The essences will help the child feel stable and balanced despite what may be going on around them.", "'within' is written after the main theme of each essence to remind us that our healing comes from the energy within us, essences simply help us to bring that energy into balance "],
     "dosage": "",
     "frequency": ""
+  },
+  {
+    "company": "Healing Herbs",
+    "group": "General",
+    "description":["Dr Edward Bach", "Edward Bach used his training and experience in bacteriology, vaccine therapy and homeopathy to lead him to a totally new philosophy of wellness. The culmination of his work was the creation of the 38 Bach flower remedies also known globally as Bachblüten, Flores de Bach, Bach flower essences and Bach flowers.", "Formative Years", "Edward Bach was born at Moseley, near Birmingham, in 1886 and trained as a doctor in London. For several years he worked investigating the role of bacteriology in chronic disease. His researches led him to recognise that there were clear personality types that related to the various patterns of ill health, irrespective of the physical symptoms being presented by the patient. Working with vaccine therapy and later with homeopathic remedies, he moved towards the discovery of flower remedies. These he felt could help to harmonise the emotional imbalances that he came to see as the real causes of physical illness.", "Discovery of the essences", "By 1930 he was prepared to give up his successful medical practice in order to search for the plants and trees that came to be known as The Twelve Healers & Other Remedies. Each flower was found to embody the positive and harmonising force for a negative emotional state, be it fear, resentment or despair. In order to transfer this healing force to a patient, Bach prepared essences from the flowers. This essence, diluted to some extent, could then be taken as a medicine. He found that as the negative moods changed so the person would return towards health. Dr Bach explained the healing properties of the remedies in terms of a philosophy of life that saw a person as much more than the outward physical body that is treated in conventional medicine. Illness, he suggested, was a message from our inner being calling for a change in our way of living and our mental outlook. The primary purpose of the flower essences is to help us to change and bring us back to a genuinely happy experience of life. They have been in use throughout the world in the years since Bach’s death in 1936. (Adapted from ‘Dr Bach and his flower remedies’ in The Healing Herbs of Edward Bach by Julian Barnard, first published in 1988.)"],
+    "dosage": "4",
+    "frequency": "4 times a day"
+  },
+  {
+    "company": "Healing Herbs",
+    "group": "Twelve Healers",
+    "description":["The Twelve Healers are the plants that Dr Bach associated with personality types. They relate to our essential nature and are the most common starting point for selecting essences. It is useful to, if you can, identify the one that best describes the kind of person you are"],
+    "dosage": "4",
+    "frequency": "4 times a day"
+  },
+  {
+    "company": "Healing Herbs",
+    "group": "Seven Helpers",
+    "description":["The Seven Helpers are the support essences and are selected for long-term emotional states. Dr Bach found these chronic conditions often obscure a person’s true nature as it is expressed within the Twelve Healers group."],
+    "dosage": "4",
+    "frequency": "4 times a day"
+  },
+  {
+    "company": "Healing Herbs",
+    "group": "Second Nineteen",
+    "description":["The Second Nineteen are the essences that reflect our emotional responses to traumatic events. They help us to develop greater inner strength and fortitude and bring out our best qualities. They are clearly focused on immediate issues."],
+    "dosage": "4",
+    "frequency": "4 times a day"
   }
 ]

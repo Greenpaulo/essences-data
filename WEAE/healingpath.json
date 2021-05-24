@@ -1,0 +1,72 @@
+[
+  {
+    "company": "WEAE",
+    "group": "Healing Path",
+    "name": "Inner Work",
+    "description": ["Provides powerful support for journeying inward to heal emotional wounds of the recent or distant past.", "This formula includes:", "Hippopotamus -- For embracing deep feelings.", "Raccoon -- For unmasking the truth.", "Bat -- For navigating through one's darkness.", "Lion Cub -- Nurtures courage and fearlessness.", "Elephant Calf -- For feeling safe and supported"],
+    "indications": [],
+    "effects": [],
+    "keywords": [],
+    "stock": true
+  },
+  {
+    "company": "WEAE",
+    "group": "Healing Path",
+    "name": "Healthy Anger",
+    "description": ["Provides powerful support for feeling and accepting one's natural anger and for expressing anger in a healthy way.", "This formula includes:", "Badger -- For being comfortable with anger and expressing anger appropriately.", "Gazelle -- For feeling safe with being angry."],
+    "indications": [],
+    "effects": [],
+    "keywords": [],
+    "stock": true
+  },
+  {
+    "company": "WEAE",
+    "group": "Healing Path",
+    "name": "Grieving Heart",
+    "description": ["Provides powerful support for releasing the emotional pain and tears that need to be shed in order to move forward.", "This formula includes:", "Wild Horse -- Nurtures the healing heart.", "Hippopotamus -- For embracing deep feelings.", "Gazelle -- For feeling safe while grieving."],
+    "indications": [],
+    "effects": [],
+    "keywords": [],
+    "stock": true
+  },
+  {
+    "company": "WEAE",
+    "group": "Healing Path",
+    "name": "Letting Go",
+    "description": ["Provides powerful support for releasing feelings, beliefs and actions that no longer serve, and for handing over control of one's life to the Divine.", "This formula includes:", "Seal -- For letting go and trusting.", "Dove -- For peace in the heart as one lets go.", "Jellyfish -- For surrendering to Spirit"],
+    "indications": [],
+    "effects": [],
+    "keywords": [],
+    "stock": true
+  },
+  {
+    "company": "WEAE",
+    "group": "Healing Path",
+    "name": "Gratitude",
+    "description": ["Provides powerful support for cultivating and expressing appreciation for the many gifts in one's life.", "This formula includes:", "Buffalo -- For deepening thankfulness.", "Wild Turkey -- For cultivating gratitude."],
+    "indications": [],
+    "effects": [],
+    "keywords": [],
+    "stock": true
+  },
+  {
+    "company": "WEAE",
+    "group": "Healing Path",
+    "name": "Wild Freedom",
+    "description": ["Provides powerful support for fully celebrating and living life with freedom and liberation.", "This formula includes:", "Wild Horse -- Nurtures the free and wild heart.", "Dolphin -- For joy, playfulness and freedom.", "Mallard -- For acting with inspired joy.", "Sparrow -- For dissolving any lingering worry."],
+    "indications": [],
+    "effects": [],
+    "keywords": [],
+    "stock": true
+  },
+  {
+    "company": "WEAE",
+    "group": "Healing Path",
+    "name": "Communion With God",
+    "description": ["Provides powerful support for experiencing oneness and unity with the Divine.", "This formula includes:", "Dove -- Nurtures peace and calm in the heart.", "Eagle -- For opening to the Divine.", "Tiger -- Quiets the busy, thinking mind.", "Great Blue Heron -- For serenity and connection.", "Deer -- Nurtures gentleness and awareness."],
+    "indications": [],
+    "effects": [],
+    "keywords": [],
+    "stock": true
+  }
+]
