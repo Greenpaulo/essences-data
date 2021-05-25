@@ -7,6 +7,7 @@
     "indications": ["Pessimistic",  "Closed to receiving", "Fear of lack", "Poverty consciousness"],
     "effects": ["Joyful sharing", "Belief in abundance", "Clears financial sabotage patterns", "Universal trust"],
     "keywords": ["Abundance"],
+    "images": ["ABFE/Combinations/abund.jpg"],
     "stock": true
   },
   {
@@ -17,6 +18,7 @@
     "indications": ["Feeling of pessimism", "Insensitive", "Sense of not belonging", "'It's not fair' attitude", "Embarrassment", "Rebellious", "Anger"],
     "effects": ["Coping with change", "Consideration of others", "Enhances communication", "Self Esteem"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/adol.jpg"],
     "stock": true
   },
   {
@@ -27,6 +29,7 @@
     "indications": ["Overwhelmed by change", "Feeling 'out of sorts'", "Overly sensitive to others or to the negative energies of situations or environments"],
     "effects": ["Resilience", "Calm & balanced", "Feeling safe and reassured", "Coping with change", "Grounded", "Courage"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/boost.jpg"],
     "stock": true
   },
   {
@@ -37,6 +40,7 @@
     "indications": ["Always over committed", "No time for self", "Impatience"],
     "effects": ["Encourages own time and space", "Wind down", "Relax and have fun", "Clarity", "Calmness and peace"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/calm&clear.jpg"],
     "stock": true
   },
   {
@@ -47,6 +51,7 @@
     "indications": ["Overwhelm", "Burdened by responsibility", "Overconcern"],
     "effects": ["Feeling calm", "Looking after self", "Renewal", "Inner strength"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/carers.jpg"],
     "stock": true
   },
   {
@@ -57,6 +62,7 @@
     "indications": ["Daydreaming", "Scattered", "Overwhelm"],
     "effects": ["Assimilates ideas", "Clarity", "Focus"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/cognis.jpg"],
     "stock": true
   },
   {
@@ -67,6 +73,7 @@
     "indications": ["Low self esteem", "Guilt", "Shyness", "Lack of conviction", "Victim mentality"],
     "effects": ["Taking responsibility for one's life", "Integrity", "Confidence", "Personal power", "True to one's self"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/confid.jpg"],
     "stock": true
   },
   {
@@ -77,6 +84,7 @@
     "indications": ["Creative blocks and inhibitions", "Difficulty expressing feelings"],
     "effects": ["Enhances singing", "Creative expression", "Public speaking"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/creative.jpg"],
     "stock": true
   },
   {
@@ -87,6 +95,7 @@
     "indications": ["Temporary loss of drive, enthusiasm and excitement"],
     "effects": ["Renews passion and enthusiasm for life", "Centres and harmonises one’s vital forces"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/dynamis.jpg"],
     "stock": true
   },
   {
@@ -97,6 +106,7 @@
     "indications": ["Feeling flat", "Out of balance with earth rhythms"],
     "effects": ["Reduces emotional effects of radiation", "Sense of well-being", "Harmony with life and the environment"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/electro.jpg"],
     "stock": true
   },
   {
@@ -107,6 +117,7 @@
     "indications": [""],
     "effects": ["Ability to cope", "Comfort, reassurance and courage"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/emergency.jpg"],
     "stock": true
   },
   {
@@ -117,6 +128,7 @@
     "indications": ["Poor quality meditation", "Psychic attack", "Damaged aura", "Psychically drained"],
     "effects": ["Awaken spirituality", "Enhance intuition", "Inner guidance", "Accessing one's higher self", "Deeper meditation", "Telepathy"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/meditation.jpg"],
     "stock": true
   },
   {
@@ -127,6 +139,7 @@
     "indications": ["Father issues", "Couch potato", "Always on the go and rushing", "Being overly critical and judgmental"],
     "effects": ["Male Bonding", "Physically active", "Communicating ones feelings", "Fun and sense of humor", "Opening your heart", "Breaking old male stereotypes"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/mens.jpg"],
     "stock": true
   },
   {
@@ -137,6 +150,7 @@
     "indications": ["Emotional waste", "Feeling encumbered", "Emotional baggage"],
     "effects": ["Sense of release and relief", "Spring cleaned"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/purifying.jpg"],
     "stock": true
   },
   {
@@ -147,6 +161,7 @@
     "indications": ["Emotional upset of a rocky relationship", "Resentment", "Blocked, held-in emotions", "Inability to relate"],
     "effects": ["Expressing feelings", "Enhanced communication", "Breaks negative family conditioning", "Renews interest", "Enhances parental-child connection"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/relationship.jpg"],
     "stock": true
   },
   {
@@ -157,6 +172,7 @@
     "indications": ["Shame", "Uptight about sexuality", "Uncomfortable with intimacy"],
     "effects": ["Renews passion", "Sensuality", "Enjoy touch and intimacy", "Playfulness", "Fulfilment"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/sexuality.jpg"],
     "stock": true
   },
   {
@@ -167,6 +183,7 @@
     "indications": ["Uncomfortable feelings associated with heat, fire or sun"],
     "effects": ["Greatly relieves emotional effects of heat, fire or sun", "Feeling comfortable with heat, fire or sun"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/solaris.jpg"],
     "stock": true
   },
   {
@@ -177,6 +194,7 @@
     "indications": ["Feeling stuck", "Lack of direction", "Uncomfortable with the unknown", "Non-acceptance", "Uncomfortable with change"],
     "effects": ["Acceptance of change", "Serenity", "Passing over in peace", "Calm", "Sense of direction and purpose"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/transition.jpg"],
     "stock": true
   },
   {
@@ -187,6 +205,7 @@
     "indications": ["Disorientation", "Personally depleted and drained", "Emotional effects of travel"],
     "effects": ["Refreshes", "Centres", "Maintains sense of personal space"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/travel.jpg"],
     "stock": true
   },
   {
@@ -197,6 +216,7 @@
     "indications": [""],
     "effects": ["Female life cycle balance", "Restores emotional balance", "Coping with change", "Physical acceptance", "Appreciation of own beauty"],
     "keywords": [""],
+    "images": ["ABFE/Combinations/woman.jpg"],
     "stock": true
   }
 ]

@@ -9,6 +9,7 @@
     "chakras": ["Throat", "Third Eye"],
     "bodies": ["Mental Body"],
     "keywords": ["Agitation", "Anxiety", "Clarity", "Impatience", "Listening", "Meditation", "Stress"],
+    "images": ["Alaskan/Gems/Aquamarine.PNG"],
     "stock": true
   },
   {
@@ -21,6 +22,7 @@
     "chakras": ["Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": [],
     "keywords": ["Courage", "Fear", "Grace", "Heart", "Support"],
+    "images": ["Alaskan/Gems/Aventurine.PNG"],
     "stock": true
   },
   {
@@ -33,6 +35,7 @@
     "chakras": ["Throat"],
     "bodies": ["Spiritual Body"],
     "keywords": ["Balance", "Clarity", "Communication", "Grounding"],
+    "images": ["Alaskan/Gems/Azurite.PNG"],
     "stock": true
   },
   {
@@ -45,6 +48,7 @@
     "chakras": ["Root"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Abuse", "Detoxification", "Environment", "Grounding", "Oversensitive", "Overwhelmed", "Purification", "Space Clearing", "Travel"],
+    "images": ["Alaskan/Gems/Black Tourmaline.PNG"],
     "stock": true
   },
   {
@@ -57,6 +61,7 @@
     "chakras": ["Root", "Sacral", "Heart"],
     "bodies": ["Etheric Body", "Emotional Body"],
     "keywords": ["Balancing", "Cleansing", "Communication", "Energizing", "Grounding", "Lethargy", "Pre-Menstrual", "Resistance", "Sensitivity", "Space Clearing"],
+    "images": ["Alaskan/Gems/Bloodstone.PNG"],
     "stock": true
   },
   {
@@ -69,6 +74,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["Etheric Body", "Spiritual Body"],
     "keywords": ["Attunement", "Change", "Higher Self", "Masculine", "Receptivity", "Regeneration", "Spiritual"],
+    "images": ["Alaskan/Gems/Brazilian Amethyst.PNG"],
     "stock": true
   },
   {
@@ -81,6 +87,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Alignment", "Communication", "Flying", "Grounding", "Harmony", "Space Clearing", "Travel"],
+    "images": ["Alaskan/Gems/Brazilian Quartz.PNG"],
     "stock": true
   },
   {
@@ -93,6 +100,7 @@
     "chakras": ["Solar Plexus"],
     "bodies": ["Etheric Body"],
     "keywords": ["Addictions", "Cleansing", "Creativity", "Energy", "Exhaustion", "Identity"],
+    "images": ["Alaskan/Gems/Carnelian.PNG"],
     "stock": true
   },
   {
@@ -105,6 +113,7 @@
     "chakras": ["Heart"],
     "bodies": [],
     "keywords": ["Energy", "Flexibility", "Grief", "Heart", "Intimacy", "Limitation", "Love", "Resilience", "Strengthening", "Travel"],
+    "images": ["Alaskan/Gems/Chrysocolla.PNG"],
     "stock": true
   },
   {
@@ -117,6 +126,7 @@
     "chakras": ["Heart"],
     "bodies": ["Etheric Body"],
     "keywords": ["Alienation", "Ambivalence", "Harmony", "Heart", "Nature", "Strengthening"],
+    "images": ["Alaskan/Gems/Chrysoprase.PNG"],
     "stock": true
   },
   {
@@ -129,6 +139,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["Mental Body"],
     "keywords": ["Clarity", "Confusion", "Decision", "Emergency", "Father", "Focus", "Grounding", "Harmony", "Intention", "Truth"],
+    "images": ["Alaskan/Gems/Citrine.PNG"],
     "stock": true
   },
   {
@@ -141,6 +152,7 @@
     "chakras": ["Throat", "Third Eye"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Boundaries", "Emergency", "Intimacy", "Newborn", "Oversensitive", "Overwhelmed", "Protection", "Receptivity", "Sensitivity", "Space Clearing"],
+    "images": ["Alaskan/Gems/Covellite.PNG"],
     "stock": true
   },
   {
@@ -153,6 +165,7 @@
     "chakras": ["Third Eye"],
     "bodies": ["Etheric Body", "Emotional Body", "Mental Body"],
     "keywords": ["Alignment", "Clarity", "Guidance", "Harmony", "Higher Self", "Intention", "Life-Purpose", "Truth", "Will"],
+    "images": ["Alaskan/Gems/Diamond.PNG"],
     "stock": true
   },  
   {
@@ -165,6 +178,7 @@
     "chakras": ["Heart"],
     "bodies": [],
     "keywords": ["Awareness", "Belonging", "Cleansing", "Energy", "Feminine", "Heart", "Homeless", "Inner Child", "Limitation", "Love", "Mother", "Nurturing", "Space Clearing", "Strengthening", "Trauma"],
+    "images": ["Alaskan/Gems/Emerald.PNG"],
     "stock": true
   },
   {
@@ -177,6 +191,7 @@
     "chakras": ["Crown"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Cleansing", "Energy", "Etheric", "Exhaustion", "Massage Therapy/Body Work", "Purification", "Releasing", "Shock", "Space Clearing"],
+    "images": ["Alaskan/Gems/Fluorite.PNG"],
     "stock": true
   },
   {
@@ -189,6 +204,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["Mental Body", "Emotional Body", "Etheric Body"],
     "keywords": ["Cleansing", "Etheric", "Focus", "Massage Therapy/Body Work", "Purification", "Regeneration", "Synchronization"],
+    "images": ["Alaskan/Gems/Fluorite Combo.PNG"],
     "stock": true
   },
   {
@@ -201,6 +217,7 @@
     "chakras": ["Solar Plexus"],
     "bodies": [],
     "keywords": ["Abundance", "Creativity", "Empowered/Empowerment", "Higher Self", "Identity", "Joy", "Manifesting", "Power", "Self-Esteem"],
+    "images": ["Alaskan/Gems/Gold.PNG"],
     "stock": true
   },
   {
@@ -213,6 +230,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart"],
     "bodies": [],
     "keywords": ["Alienation", "Ambivalence", "Balance", "Exhaustion", "Feminine", "Grace", "Overwork", "Pre-Menstrual", "Sensuality/Sexuality", "Strengthening", "Synchronization", "Travel"],
+    "images": ["Alaskan/Gems/Green Jasper.PNG"],
     "stock": true
   },
   {
@@ -225,6 +243,7 @@
     "chakras": ["Sacral", "Solar Plexus"],
     "bodies": ["Etheric Body", "Emotional Body", "Mental Body"],
     "keywords": ["Ancestral Healing", "Boundaries", "Centering", "Communications", "Emergency", "Empowered/Empowerment", "Identity", "Oversensitive", "Overwhelmed", "Protection", "Space Clearing", "Vulnerability"],
+    "images": ["Alaskan/Gems/Hematite.PNG"],
     "stock": true
   },
   {
@@ -237,6 +256,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["Etheric Body", "Emotional Body"],
     "keywords": ["Children", "Clarity", "Confusion", "Light", "Perception", "Seeing", "Vision"],
+    "images": ["Alaskan/Gems/Herkimer Diamond.PNG"],
     "stock": true
   },
   {
@@ -249,6 +269,7 @@
     "chakras": ["Heart"],
     "bodies": [],
     "keywords": ["Acceptance", "Agitation", "Centering", "Patience", "Peace", "Trauma"],
+    "images": ["Alaskan/Gems/Jadeite Jade.PNG"],
     "stock": true
   },
   {
@@ -261,6 +282,7 @@
     "chakras": ["Heart", "Crown"],
     "bodies": [],
     "keywords": ["Awareness", "Communication", "Heart", "Love", "Opening", "Receptivity", "Regeneration", "Space Clearing", "Strengthening", "Support"],
+    "images": ["Alaskan/Gems/Kunzite.PNG"],
     "stock": true
   },
   {
@@ -273,6 +295,7 @@
     "chakras": ["Throat", "Third Eye"],
     "bodies": [],
     "keywords": ["Communication", "Listening", "Opening", "Overwhelmed"],
+    "images": ["Alaskan/Gems/Lapis Lazuli.PNG"],
     "stock": true
   },
   {
@@ -285,6 +308,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart"],
     "bodies": ["Etheric Body"],
     "keywords": ["Alignment", "Grounding", "Harmony", "Synchronization", "Unification"],
+    "images": ["Alaskan/Gems/Malachite.PNG"],
     "stock": true
   },
   {
@@ -297,6 +321,7 @@
     "chakras": ["Heart"],
     "bodies": [],
     "keywords": ["Grounding", "Guidance", "Higher Self", "Isolation", "Perspective"],
+    "images": ["Alaskan/Gems/Moldavite.PNG"],
     "stock": true
   },
   {
@@ -309,6 +334,7 @@
     "chakras": ["Heart"],
     "bodies": [],
     "keywords": ["Cleansing", "Confusion", "Heart", "Intimacy", "Love", "Shock"],
+    "images": ["Alaskan/Gems/Montana Rhodochrosite.PNG"],
     "stock": true
   },
   {
@@ -321,6 +347,7 @@
     "chakras": ["Sacral"],
     "bodies": ["Emotional Body"],
     "keywords": ["Completion", "Intuition", "Lethargy", "Pre-Menstrual", "Receptivity", "Sensitivity", "Strengthening"],
+    "images": ["Alaskan/Gems/Moonstone.PNG"],
     "stock": true
   },
   {
@@ -333,6 +360,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Addiction", "Animals/Animal Care", "Creativity", "Energy", "Etheric", "Exhaustion", "Light", "Recovery", "Regeneration", "Rejuvenation"],
+    "images": ["Alaskan/Gems/Opal.PNG"],
     "stock": true
   },
   {
@@ -345,6 +373,7 @@
     "chakras": ["Sacral"],
     "bodies": ["Etheric Body"],
     "keywords": ["Balancing", "Creativity", "Depression", "Energy", "Gardening", "Joy", "Lethargy", "Light", "Sadness", "Space Clearing"],
+    "images": ["Alaskan/Gems/Orange Calcite.PNG"],
     "stock": true
   },
   {
@@ -357,6 +386,7 @@
     "chakras": [],
     "bodies": ["Etheric Body", "Emotional Body", "Mental Body"],
     "keywords": ["Acceptance", "Ancestral Healing", "Compassion", "Critical", "Irritation", "Judgement", "Massage Therapy/Body Work", "Resilience", "Suffering"],
+    "images": ["Alaskan/Gems/Pearl.PNG"],
     "stock": true
   },
   {
@@ -369,6 +399,7 @@
     "chakras": ["Heart"],
     "bodies": ["Etheric Body", "Emotional Body"],
     "keywords": ["Animals/Animal Care", "Childbirth", "Children", "Fear", "Gardening", "Newborn", "Protection", "Rebirthing", "Space Clearing", "Support"],
+    "images": ["Alaskan/Gems/Peridot.PNG"],
     "stock": true
   },
   {
@@ -381,6 +412,7 @@
     "chakras": ["Sacral", "Solar Plexus"],
     "bodies": ["Etheric Body"],
     "keywords": ["Ancestral Healing", "Empowered/Empowerment", "Honesty", "Self-Esteem", "Trust", "Truth"],
+    "images": ["Alaskan/Gems/Pyrite.PNG"],
     "stock": true
   },
   {
@@ -393,6 +425,7 @@
     "chakras": ["Sacral", "Heart"],
     "bodies": ["Etheric Body", "Emotional Body"],
     "keywords": ["Abuse", "Cleansing", "Energy", "Fear", "Heart", "Intimacy", "Shock", "Strengthening"],
+    "images": ["Alaskan/Gems/Rhodochrosite.PNG"],
     "stock": true
   },
   {
@@ -405,6 +438,7 @@
     "chakras": ["Root", "Sacral"],
     "bodies": ["Etheric Body"],
     "keywords": ["Animals/Animal Care", "Completion", "Earth Healing", "Energy", "Etheric", "Grounding", "Massage Therapy/Body Work", "Recovery", "Regeneration", "Shock", "Trauma"],
+    "images": ["Alaskan/Gems/Rhodolite Garnet.PNG"],
     "stock": true
   },
   {
@@ -417,6 +451,7 @@
     "chakras": ["Heart"],
     "bodies": ["Etheric Body", "Emotional Body"],
     "keywords": ["Confusion", "Energy", "Heart", "Inner Child", "Intimacy", "Nurturing", "Strengthening", "Trauma"],
+    "images": ["Alaskan/Gems/Rose Quartz.PNG"],
     "stock": true
   },
   {
@@ -429,6 +464,7 @@
     "chakras": ["Root", "Heart"],
     "bodies": [],
     "keywords": ["Alignment", "Ambivalence", "Balancing", "Cleansing", "Exhaustion", "Grounding", "Regeneration"],
+    "images": ["Alaskan/Gems/Ruby.PNG"],
     "stock": true
   },
   {
@@ -441,6 +477,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Alignment", "Attunement", "Communication", "Focus", "Grounding", "Integration", "Opening", "Overwhelmed"],
+    "images": ["Alaskan/Gems/Rutilated Quartz.PNG"],
     "stock": true
   },
   {
@@ -453,6 +490,7 @@
     "chakras": ["Throat", "Third Eye"],
     "bodies": ["Spiritual Body"],
     "keywords": ["Alignment", "Commitment", "Confidence", "Devotion", "Guidance", "Isolation", "Life-Purpose", "Responsibility", "Transformation"],
+    "images": ["Alaskan/Gems/Sapphire.PNG"],
     "stock": true
   },
   {
@@ -465,6 +503,7 @@
     "chakras": ["Root", "Heart", "Throat", "Third Eye"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Alignment", "Balance", "Devotion", "Grounding", "Life-Purpose", "Transformation"],
+    "images": ["Alaskan/Gems/Sapphire/Ruby.PNG"],
     "stock": true
   },
   {
@@ -477,6 +516,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Authority", "Awareness", "Change", "Commitment", "Communication", "Higher Self", "Identity", "Receptivity", "Spiritual", "Trust"],
+    "images": ["Alaskan/Gems/Scepter Amethyst.PNG"],
     "stock": true
   },
   {
@@ -489,6 +529,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Cleansing", "Detoxification", "Flying", "Harmony", "Massage Therapy/Body Work", "Synchronization", "Travel"],
+    "images": ["Alaskan/Gems/Smoky Quartz.PNG"],
     "stock": true
   },
   {
@@ -501,6 +542,7 @@
     "chakras": ["Third Eye"],
     "bodies": ["Etheric Body"],
     "keywords": ["Creativity", "Etheric", "Exhaustion", "Light", "Optimism", "Perspective", "Rejuvenation"],
+    "images": ["Alaskan/Gems/Spectrolite.PNG"],
     "stock": true
   },
   {
@@ -513,6 +555,7 @@
     "chakras": ["Throat", "Third Eye"],
     "bodies": ["All Subtle Bodies"],
     "keywords": ["Alignment", "Commitment", "Guidance", "Life-Purpose", "Responsibility", "Transformation", "Trust"],
+    "images": ["Alaskan/Gems/Star Sapphire.PNG"],
     "stock": true
   },
   {
@@ -525,6 +568,7 @@
     "chakras": ["Third Eye", "Crown"],
     "bodies": ["Spiritual Body"],
     "keywords": ["Alignment", "Commitment", "Guidance", "Life-Purpose", "Responsibility", "Transformation", "Trust"],
+    "images": ["Alaskan/Gems/Sugalite.PNG"],
     "stock": true
   },
   {
@@ -537,6 +581,7 @@
     "chakras": ["Sacral", "Solar Plexus"],
     "bodies": ["Emotional Body", "Etheric Body"],
     "keywords": ["Anger", "Boundaries", "Centering", "Emergency", "Empowered/Empowerment", "Identity", "Oversensitive", "Self-Esteem", "Strengthening", "Vulnerability"],
+    "images": ["Alaskan/Gems/.PNG"],
     "stock": true
   },
   {
@@ -549,6 +594,7 @@
     "chakras": ["Solar Plexus"],
     "bodies": [],
     "keywords": ["Addictions", "Alignment", "Awareness", "Honesty", "Identity", "Individuality", "Self-Esteem"],
+    "images": ["Alaskan/Gems/Topaz.PNG"],
     "stock": true
   },
   {
@@ -561,6 +607,7 @@
     "chakras": ["Throat"],
     "bodies": ["Spiritual Body"],
     "keywords": ["Consciousness", "Gratitude", "Relationships", "Wisdom"],
+    "images": ["Alaskan/Gems/Turquoise.PNG"],
     "stock": true
   },
   {
@@ -573,6 +620,7 @@
     "chakras": ["Heart"],
     "bodies": [],
     "keywords": ["Balance", "Balancing", "Feminine", "Heart", "Love", "Masculine"],
+    "images": ["Alaskan/Gems/Watermelon Tourmaline.PNG"],
     "stock": true
   }
 ]

@@ -7,6 +7,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Change", "Hope/Hopelessness", "Lethargy", "Releasing", "Surrendering"],
+    "images": ["Alaskan/Environmentals/Augustine Volcano.PNG"],
     "stock": false
   },
   {
@@ -17,6 +18,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Creativity", "Joy", "Manifestation", "Mother", "Potential"],
+    "images": ["Alaskan/Environmentals/Bog.PNG"],
     "stock": false
   },
   {
@@ -27,6 +29,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Alignment", "Grounding", "Power", "Wisdom"],
+    "images": ["Alaskan/Environmentals/Gigha Quartz.PNG"],
     "stock": true
   },
   {
@@ -37,6 +40,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Anxiety", "Change", "Fear", "Resistance", "Surrendering"],
+    "images": ["Alaskan/Environmentals/Redoubt Volcano.jpg"],
     "stock": false
   },
   {
@@ -47,6 +51,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Feminine", "Harmony", "Masculine", "Mother", "Power"],
+    "images": [],
     "stock": false
   },
   {
@@ -57,6 +62,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Clutter Clearing", "Intention", "Purification", "Space Clearing"],
+    "images": ["Alaskan/Environmentals/Typhoon.jpg"],
     "stock": true
   },
   {
@@ -67,6 +73,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Clutter Clearing", "Identity", "Intention", "Peace", "Releasing"],
+    "images": [],
     "stock": true
   },
   {
@@ -76,7 +83,8 @@
     "description": ["This essence was made at the terminus of Rainbow Glacier on Rainbow Mountain in the Alaska Range. A grounding and balancing energy for those manifesting resistance to becoming fully connected with the earth plane. Helps physically anchor those who are strongly focused in the celestial or cosmic realms."],
     "indications": [],
     "effects": [],
-    "keywords": [""],
+    "keywords": ["Grounding"],
+    "images": [],
     "stock": true
   }
 ]

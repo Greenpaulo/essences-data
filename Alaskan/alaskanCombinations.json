@@ -5,7 +5,9 @@
     "description": ["Animal Care is a special blend of Alaskan flower and gem essences created specifically to assist in animal rescue work, although it can be given to any animal in need. It will be most valuable when integrated into the initial care provided any animal who arrives at a shelter, treatments center, veterinarian clinic or sanctuary. This formula is also a must when adopting a rescue animal.", "Contains the essences of: Alpine Azalea, Black Tourmaline, Chiming Bells, Cotton Grass, Horsetail, Jadeite Jade, Lady's Slipper."],
     "indications": [],
     "effects": [],
-    "keywords": ["Agitation", "Animals/Animal Care", "Newborn", "Shock", "Trauma"]
+    "keywords": ["Agitation", "Animals/Animal Care", "Newborn", "Shock", "Trauma"],
+    "images": ["Alaskan/Combinations/animalcare.jpg"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -19,7 +21,9 @@
     "Ground your communication so you can speak with vitality and authenticity",
     "Feel protected in the act of speaking, especially when there is a challenge or controversy around what needs to be said",
     "Enhance your strength and self-confidence so you can naturally express yourself without limitation, compromise, or self-consciousness in all circumstances"],
-    "keywords": ["Clarity", "Communication", "Defensiveness", "Heart", "Honesty", "Listening", "Public Speaking"]
+    "keywords": ["Clarity", "Communication", "Defensiveness", "Heart", "Honesty", "Listening", "Public Speaking"],
+    "images": ["Alaskan/Combinations/beyondwords.jpg"],     
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -32,7 +36,9 @@
     "Create a sacred and protected space for sleeping and dreaming, especially for children",
     "Come into a stronger awareness of your own angelic nature",
     "Experience the love of the angelic kingdom in your physical body"],
-    "keywords": ["Children", "Energy", "Hope/Hopelessness", "Inner Child", "Joy", "Love", "Space Clearing"]
+    "keywords": ["Children", "Energy", "Hope/Hopelessness", "Inner Child", "Joy", "Love", "Space Clearing"],
+    "images": ["Alaskan/Combinations/callingallangels.jpg"],     
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -47,7 +53,9 @@
     "Increasing the capacity to integrate intuitive thought processes into practical action and implementation",
     "Increasing the retention of information from reading and listening to lectures"],
     "effects": [],
-    "keywords": ["Learning Difficulties", "Children", "Clarity", "Confusion", "Focus", "Inspiration", "Integration"]
+    "keywords": ["Learning Difficulties", "Children", "Clarity", "Confusion", "Focus", "Inspiration", "Integration"],
+    "images": ["Alaskan/Combinations/easylearning.jpg"],     
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -58,7 +66,9 @@
     "Shift the whole transformative process to a deeper level by releasing layers of deep pain and emotional trauma that are being held at the cellular level of the body",
     "Stay engaged with the transformative process until you have resolved all of the issues that are connected to it",
     "Reconnect with the desired levels of joy and happiness that are your birthright"],
-    "keywords": ["Transformation", "Balance", "Change", "Dental Care", "Emergency", "Grounding", "Joy"]
+    "keywords": ["Transformation", "Balance", "Change", "Dental Care", "Emergency", "Grounding", "Joy"],
+    "images": ["Alaskan/Combinations/fireweedcombo.jpg"],     
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -71,7 +81,9 @@
     "Trust in your capacity to create",
     "Tap into your inner truth, joy, and wisdom",
     "Feel more empowered around the whole co-creative process"],
-    "keywords": ["Ancestral Healing", "Manifestation", "Creativity"]
+    "keywords": ["Ancestral Healing", "Manifestation", "Creativity"],
+    "images": ["Alaskan/Combinations/gocreate.jpg"],     
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -86,7 +98,9 @@
     "Have just moved into a new home or neighborhood and are having difficulty grounding into your new situation",
     "Feel tired or run down and need to rest and nurture yourself, but can't seem to create the space to do it"],
     "effects": [],
-    "keywords": ["Newborn", "Oversensitive", "Overwhelmed", "Protection", "Security", "Sensitivity", "Space Clearing", "Vulnerability", "Boundaries", "Children", "Clutter Clearing", "Death & Dying", "Environment"]
+    "keywords": ["Newborn", "Oversensitive", "Overwhelmed", "Protection", "Security", "Sensitivity", "Space Clearing", "Vulnerability", "Boundaries", "Children", "Clutter Clearing", "Death & Dying", "Environment"],
+    "images": ["Alaskan/Combinations/guardian.jpg"],     
+    "stock": false
   },
   {
     "company": "Alaskan",
@@ -94,7 +108,9 @@
     "description": ["Lighten Up is a combination formula designed to increase your ability to embody light. Its overall effect is to uplift, energize, inspire and nourish.", "This formula was created specifically for people who suffer from light deprivation. This condition may be present because of where they live (extreme northern or southern latitudes or in a dark apartment), or because of the efficiency level of their energy system (energy pathways undeveloped or blocked).", "This formula is also helpful for those who are depressed, caught in negative patterns or situations, or feel cut off from their inner sources of light.", "The ingredients in Lighten Up work on three main levels. The first is to open and cleanse the chakras so you can draw more life force energy through appropriate channels already present in your energy system. The second is to cleanse and expand the energy pathways in your physical body. This includes amplifying your ability to assimilate light at the cellular level. The third is to strengthen your ability to integrate experience, thereby increasing the amount of energy that can flow through your body and life.", "Instructions for Use: The Lighten Up formula can be taken internally or added to your bath whenever you feel the need for more light and energy. It is also very effective when sprayed on the body and in your environment. Mist it into your house or office after it has been cleansed with our Purification spray.", "Essences in this formula: Carnelian • Grass of Parnassus • Orange Calcite • Solstice Sun"],
     "indications": ["When you are fatigued or feel a chronic lack of energy on the physical level.", "When you want to enhance the qualities of Light in your living and working environments", "With animals that must be kept inside for long periods, especially during the winter months", "In the classroom, when you are losing your ability to concentrate", "On plants to give them extra light and energy during short winter days"],
     "effects": [],
-    "keywords": ["Rejuvenation", "Space Clearing", "Depression", "Lethargy", "Energy", "Light"]
+    "keywords": ["Rejuvenation", "Space Clearing", "Depression", "Lethargy", "Energy", "Light"],
+    "images": ["Alaskan/Combinations/lightenup.jpg"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -102,7 +118,9 @@
     "description": ["Pregnancy Support is designed to nourish, strengthen, stabilize, and balance a woman and the baby growing within her during the entire pregnancy. Its primary action is to help the mother to be able meet the physical, emotional, and mental challenges that can arise during this life changing event.", "Essences in this formula:", "Balsam Poplar – releases physical and emotional tension associated with sexual trauma", "Bog - helps women hold the feminine heart space as a chalice for creating new life, and as a source of nurturing energy for their families", "Devil's Club – clears ambivalence about being present in our physical bodies on the earth", "Diopside – releases blockages in our lower chakras to allow a clear flow of energy to the heart", "Emerald – strengthens our connection to the Divine Mother and the Divine Feminine", "Grove Sandwort – strengthens the physical and emotional bonds between mothers and children", "Ladies' Mantle – strengthens our connection to the sacred feminine", "Northern Lady's Slipper – releases trauma, especially that of our own birth experience", "Instructions for Use: Pregnancy Support can be used from the beginning of the pregnancy to the birth of the child. Apply topically by adding it to moisturizing creams or lotions that are used during the pregnancy, or take internally as needed (two drops diluted in water)."],
     "indications": [""],
     "effects": ["To help a woman create and nurture a sacred space in her life and body to support the growth and development of her baby", "To assist both the mother and the indwelling soul in clearing any ambivalence they have about being on the Earth", "To help mothers strengthen their connection with the Earth so they can provide nurturing energy for themselves and their families", "To enable women who themselves suffered from a traumatic birth to heal this trauma so they can offer a stronger body/soul connection to their babies", "To develop and strengthen the energetic triad between the mother, father, and baby"],
-    "keywords": ["Ambivalence", "Animals/Animal Care", "Childbirth", "Harmony", "Mother", "Nuturing", "Potential"]
+    "keywords": ["Ambivalence", "Animals/Animal Care", "Childbirth", "Harmony", "Mother", "Nuturing", "Potential"],
+    "images": ["Alaskan/Combinations/pregsupport.jps"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -110,7 +128,9 @@
     "description": ["Purification contains the four most powerful cleansing and releasing essences in our repertory. This formula is designed to purify your home and work environments and your personal energy field. It can be utilized to break up and cleanse stagnant patterns of energy on any level.", "Fireweed flower essence – breaks up and moves out old energy patterns, initiates cycles of revitalization and renewal.", "Sweetgrass flower essence – releases disharmonious energies from the environment by constantly attracting benevolent blessings from Source. Native cultures use Sweetgrass to smudge!", "Black Tourmaline gem elixir – exchanges stagnant unwanted energies for fresh, clean neutral energy.", "Portage Glacier environmental essence – a powerful catalyst for cleansing and purifying toxic or polluted environments.", "Instructions for Use: Purification can be taken internally and used externally. Putting drops in an indoor fountain is a great way to constantly purify and revitalize a room. Purification can also be added to the laundry and wash water to elevate household chores to a sacred activity."],
     "indications": ["Use Purification when you need to:", "Release toxic energy from the mind, emotions, and physical body", "Revitalize, balance and stimulate the renewal of energy on all levels of your energy system", "Break up unhealthy patterns of energy in an environment where there has been addiction, depression, or abuse", "Purify and recharge the environment where there is stagnant energy", "Release old ingrained habits that are no longer useful, necessary, or contributing to your well-being"],
     "effects": [],
-    "keywords": ["Purification", "Rebirthing", "Release", "Releasing", "Space Clearing", "Ancestral Healing", "Cleansing", "Clutter Clearing", "Detoxification", "Environment", "Meditation"]
+    "keywords": ["Purification", "Rebirthing", "Release", "Releasing", "Space Clearing", "Ancestral Healing", "Cleansing", "Clutter Clearing", "Detoxification", "Environment", "Meditation"],
+    "images": ["Alaskan/Combinations/purification.jpg"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -118,7 +138,9 @@
     "description": ["Soul Support is our emergency care formula. It brings strength and stability during emergencies, stress, trauma and transformation, while providing support to rejuvenate and restore balance on all levels.", "Instructions for Use: Soul Support can be used by the whole family. For children, dilute the stock drops in water if giving orally. In times of acute stress take four drops directly from the bottle under the tongue, or add to a glass of water or juice and sip frequently (every hour or even more).", "Essences in this formula: Cattail Pollen • Chalice Well • Cotton Grass • Fireweed • Labrador Tea • Malachite • River Beauty • Ruby • White Fireweed", "For animals: put 4 drops in their water bowl and if necessary also 4 drops in their food. In acute circumstances in which the animal does not want to eat or drink: use the spray or put some drops on your hand and pet the animal."],
     "indications": ["Accidents involving injury, shock and trauma", "Emotional catharsis and violent outbursts", "Fear of flying", "Motion sickness", "Before, during and after visits to the dentist", "After receiving bad news", "After a fight, argument or disagreement", "Divorce, job changes and moving to a new place", "Post traumatic stress", "Before and immediately after surgery and during recovery", "Abrupt and/or major changes in plans", "In an animal shelter and for wild animal rescue and rehabilitation work", "For any transition, challenge, or initiation"],
     "effects": [],
-    "keywords": ["Recovery", "Releasing", "Restoration", "Shock", "Stress", "Transformation", "Trauma", "Abuse", "Accidents", "Agitation", "Animals/Animal Care", "Children", "Death & Dying", "Dental Care", "Emergency", "Fear", "Flying", "Gardening"]
+    "keywords": ["Recovery", "Releasing", "Restoration", "Shock", "Stress", "Transformation", "Trauma", "Abuse", "Accidents", "Agitation", "Animals/Animal Care", "Children", "Death & Dying", "Dental Care", "Emergency", "Fear", "Flying", "Gardening"],
+    "images": ["Alaskan/Combinations/soulsupport.jpg"],
+    "stock": true
   },
   {
     "company": "Alaskan",
@@ -126,6 +148,8 @@
     "description": ["The Travel Ease combination was specifically designed to ease the negative effects of air travel, including what is commonly referred to as jet lag.", "If you are environmentally sensitive and have difficulty being confined in small, constricted spaces for long periods of time, Travel Ease will help you feel as though you have all the personal space you need, even on a crowded flight, train or cruise. This formula supports the establishment and maintenance of functional energy boundaries.", "Travel Ease helps us maintain the overall integrity of our energy fields, which are challenged by electromagnetic radiation generated by the planes avionics and wiring, and by the noise and vibration generated by the plane during flight. Travel Ease also promotes the ongoing release of any toxic or unwanted energies that we absorb during our trip.", "Travel Ease also addresses the disorientation that comes from traveling to new places and from moving through multiple time zones. This formula helps you maintain your grounding during the trip and keep your body energies synchronized and aligned with the Earth's energy as you move from one location to another.", "Instructions for Use: For maximum effectiveness, begin taking the Travel Ease combination several days before your trip, during the trip, and for a few days after you reach your destination.", "On a plane, take the formula every hour. It will also be helpful if you drink lots of water during the flight, stretch whenever possible, and get plenty of exercise before and after your trip.", "The essences in this formula:", "White Violet - helps us maintain strong functional boundaries when confined in small spaces", "Yarrow - protects us from the energies of others and the environment", "Smoky Quartz - synchronizes our auric field with the natural vibration of the earth", "Black Tourmaline - helps us release toxic energy from the environment", "Covellite - brings strength, clarity and definition to the auric field"],
     "indications": [],
     "effects": [],
-    "keywords": ["Travel", "Boundaries", "Detoxification", "Fear", "Harmony"]
+    "keywords": ["Travel", "Boundaries", "Detoxification", "Fear", "Harmony"],
+    "images": ["Alaskan/Combinations/travelease.jpg"],
+    "stock": true
   }
 ]
