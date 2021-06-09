@@ -8,6 +8,7 @@
     "indications": ["Hopelessness"],
     "effects": ["Now let us think about those who have been ill for some time, or even a long time. There is again every reason to be hopeful of benefit, either improvement or recovery. Never let anyone give up hope of getting well. [Bach]"],
     "keywords": ["Hope/Hopelessness"],
+    "images": ["Bach/Gorse1.jpg", "Bach/Gorse2.jpg"],
     "stock": true
   },
   {
@@ -19,6 +20,7 @@
     "indications": ["Talkative"],
     "effects": ["We must steadfastly practice peace, imagining our minds as a lake ever to be kept calm, without waves, or even ripples, to disturb its tranquillity and gradually develop this state of peace until no event of life, no circumstance, no other personality is able under any circumstances to ruffle the surface of that lake. [Bach]"],
     "keywords": ["Attention Seeking", "Worry", "Able To Be Alone"],
+    "images": ["Bach/Heather1.jpg", "Bach/Heather2.jpg"],
     "stock": true
   },
   {
@@ -30,6 +32,7 @@
     "indications": ["Perservering"],
     "effects": ["Our whole object is to realise our faults, and endeavour so to develop the opposing virtue that the faults will disappear from us like snow melts in the sunshine. Don’t fight your worries: don’t struggle with your disease: don’t grapple with your infirmities: rather forget them in concentrating on the development of the virtue you require. [Bach]"],
     "keywords": ["Struggling"],
+    "images": ["Bach/Oak1.jpg", "Bach/Oak2.jpg"],
     "stock": true
   },
   {
@@ -41,6 +44,7 @@
     "indications": ["Exhaustion"],
     "effects": ["We each have a Divine mission in this world, and so our souls use our minds and bodies as instruments to do this work, so that when all three are working in unison the result is perfect health and perfect happiness. [Bach]"],
     "keywords": ["Exhaustion", "Struggling"],
+    "images": ["Bach/Olive1.jpg", "Bach/Olive2.jpg"],
     "stock": true
   },
   {
@@ -52,6 +56,7 @@
     "indications": ["Strict idealist"],
     "effects": ["This remedy brings great peace and understanding, broadens the outlook that all people must find perfection in their own individual way, and brings the realisation of ‘being’ and not ‘doing’; of being in ourselves a reflection of Great Things and not attempting to put forward our own ideas. [Bach]"],
     "keywords": ["Rigidity", "Opinionated"],
+    "images": ["Bach/RockWater1.jpg", "Bach/RockWater2.jpg"],
     "stock": true
   },
   {
@@ -63,6 +68,7 @@
     "indications": ["Domineering"],
     "effects": ["If we set everybody and everything around us at liberty, we find that in return we are richer in love and possessions than ever we were before, for that love that gives freedom is the great love that binds the closer. [Bach]"],
     "keywords": ["Critical", "Particular", "Domineering"],
+    "images": ["Bach/Vine1.jpg", "Bach/Vine2.jpg"],
     "stock": true
   },
   {
@@ -74,6 +80,7 @@
     "indications": ["Lack of direction"],
     "effects": ["Let us find one thing in life that attracts us most and do it. Let that one thing be so part of us that it is as natural as breathing; as natural as it is for the bee to collect honey, and the tree to shed its old leaves in autumn and bring forth new ones in the spring. If we study nature we find that every creature, bird, tree and flower has its definite part to play, its own definite and peculiar work through which it aids and enriches the entire Universe. [Bach: Collected Writings]"],
     "keywords": ["Life Purpose"],
+    "images": ["Bach/WildOat1.jpg", "Bach/WildOat2.jpg"],
     "stock": true
   }
 ]

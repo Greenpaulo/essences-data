@@ -8,6 +8,7 @@
     "indications": ["Unreasoning fears"],
     "effects": ["The development of Love brings us to the realization of Unity, of the truth that one and all of us are of the One Great Creation. The cause of all our troubles is self and separateness, and this vanishes as soon as Love and the knowledge of the great Unity become part of our natures. [Bach]"],
     "keywords": ["Fear", "Unity"],
+    "images": ["Bach/Aspen1.jpg", "Bach/Aspen2.jpg"],
     "stock": true
   },
   {
@@ -19,6 +20,7 @@
     "indications": ["Critical"],
     "effects": ["That we never criticise nor condemn the thoughts, the opinions, the ideas of others; ever remembering that all humanity are God’s children, each striving in his own way to find the Glory of his Father. [Barnard: Guide to the Bach Flower Remedies]"],
     "keywords": ["Critical"],
+    "images": ["Bach/Beech1.jpg", "Bach/Beech2.jpg"],
     "stock": true
   },
   {
@@ -30,6 +32,7 @@
     "indications": ["Loss of control"],
     "effects": ["This drives away all wrong ideas and gives the sufferer mental strength and confidence. [Bach]"],
     "keywords": ["Fear"],
+    "images": ["Bach/CherryPlum1.jpg", "Bach/CherryPlum2.jpg"],
     "stock": true
   },
   {
@@ -41,6 +44,7 @@
     "indications": ["Unable to learn from mistakes"],
     "effects": ["We learn slowly, one lesson at a time, but we must if we are to be well and happy, learn the particular lesson given to us by our spiritual self. [Bach]"],
     "keywords": ["Learning from Mistakes"],
+    "images": ["Bach/ChestnutBud1.jpg", "Bach/ChestnutBud2.jpg"],
     "stock": true
   },
   {
@@ -52,6 +56,7 @@
     "indications": ["Feeling unclean"],
     "effects": ["Never for one moment should we become engrossed or over-anxious about them [our bodies], but learn to be as little conscious of their existence as possible, using them as a vehicle of our Soul and mind and as servants to do our will. [Bach: Collected Writings]"],
     "keywords": ["Cleansing"],
+    "images": ["Bach/CrabApple1.jpg", "Bach/CrabApple2.jpg"],
     "stock": true
   },
   {
@@ -63,6 +68,7 @@
     "indications": ["Overwhelmed"],
     "effects": ["Life does not demand of us unthinkable sacrifice; it asks us to travel its journey with joy in our heart and to be a blessing to those around, so that if we leave the world just that trifle better for our visit, then have we done our work. [Bach: Collected Writings]"],
     "keywords": ["Overwhelmed"],
+    "images": ["Bach/Elm1.jpg", "Bach/Elm2.jpg"],
     "stock": true
   },
   {
@@ -74,6 +80,7 @@
     "indications": ["Hatred and anger"],
     "effects": ["The ultimate conquest of all will be through love and gentleness, and when we have sufficiently developed these two qualities nothing will be able to assail us, since we shall ever have compassion and not offer resistance. [Bach: Collected Writings]"],
     "keywords": ["Anger", "Jealousy"],
+    "images": ["Bach/Holly1.jpg", "Bach/Holly2.jpg"],
     "stock": true
   },
   {
@@ -85,6 +92,7 @@
     "indications": ["Living in the past"],
     "effects": ["Finally, let us not fear to plunge into life; we are here to gain experience and knowledge, and we shall learn but little unless we face realities and seek to our utmost. [Bach: Collected Writings]"],
     "keywords": [""],
+    "images": ["Bach/Honeysuckle1.jpg", "Bach/Honeysuckle2.jpg"],
     "stock": true
   },
   {
@@ -96,6 +104,7 @@
     "indications": ["Mental or physical tiredness"],
     "effects": ["Thus every moment of our work and play will bring with it a zeal for learning, a desire to experience real things, real adventures and deeds worth-while…[Bach: Collected Writings]"],
     "keywords": ["Fatigue"],
+    "images": ["Bach/Hornbeam1.jpg", "Bach/Hornbeam2.jpg"],
     "stock": true
   },
   {
@@ -107,6 +116,7 @@
     "indications": ["Loss of confidence"],
     "effects": ["We chose the earthly occupation, and the external circumstances that will give us the best opportunities of testing us to the full: we come with the full realization of our particular work: we come with the unthinkable privilege of knowing that all our battles are won before they are fought, that victory is certain before ever the test arrives, because we know that we are children of the Creator, and as such are Divine, unconquerable and invincible. [Bach: Collected Writings]"],
     "keywords": ["Confidence", "Self-Esteem/Self-Worth"],
+    "images": ["Bach/Larch1.jpg", "Bach/Larch2.jpg"],
     "stock": true
   },
   {
@@ -118,6 +128,7 @@
     "indications": ["Unexplained gloom"],
     "effects": ["In all things cheerfulness should be encouraged, and we should refuse to be oppressed by doubt and depression, but remember that such are not of ourselves, for our Souls know only joy and happiness. [Bach: Collected Writings]"],
     "keywords": ["Depression"],
+    "images": ["Bach/Mustard1.jpg", "Bach/Mustard2.jpg"],
     "stock": true
   },
   {
@@ -129,6 +140,7 @@
     "indications": ["Self-blame"],
     "effects": ["Health is, therefore, the true realisation of what we are: we are perfect: we are the children of God. There is no striving to gain what we have already attained. We are merely here to manifest in material form the perfection with which we have been endowed from the beginning of all time. [Bach: Collected Writings]"],
     "keywords": ["Critical", "Guilt"],
+    "images": ["Bach/Pine1.jpg", "Bach/Pine2.jpg"],
     "stock": true
   },
   {
@@ -140,6 +152,7 @@
     "indications": ["Imagining the worst"],
     "effects": ["Everyone of us also has sympathy with those in distress, and naturally so, because we have all been in distress ourselves at some time in our lives. So that not only can we heal ourselves, but we have the great privilege of being able to help others to heal themselves, and the only qualifications necessary are love and sympathy. [Bach: Collected Writings]"],
     "keywords": ["Worry"],
+    "images": ["Bach/RedChestnut1.jpg", "Bach/RedChestnut2.jpg", "Bach/RedChestnut3.jpg"],
     "stock": true
   },
   {
@@ -151,6 +164,7 @@
     "indications": ["Needing comfort in distress"],
     "effects": ["…to remain in such a state of peace that the trials and disturbances of the world leave us unruffled, is a great attainment indeed and brings to us that Peace which passeth understanding; and though at first it may seem to be beyond our dreams, it is in reality, with patience and perseverance, within the reach of us all. [Bach: Collected Writings]"],
     "keywords": ["Shock", "Grief"],
+    "images": ["Bach/StarBethlehem1.jpg", "Bach/StarBethlehem2.jpg"],
     "stock": true
   },
   {
@@ -162,6 +176,7 @@
     "indications": ["Utter desolation"],
     "effects": ["But in the darkest hours, and when success seems well-nigh impossible, let us ever remember that God’s children should never be afraid, that our Souls only give us such tasks as we are capable of accomplishing , and that with our own courage and faith in the Divinity within us victory must come to all who continue to strive. [Bach: Collected Writings]"],
     "keywords": ["Dark Night of the Soul"],
+    "images": ["Bach/SweetChestnut1.jpg", "Bach/SweetChestnut2.jpg"],
     "stock": true
   },
   {
@@ -173,6 +188,7 @@
     "indications": ["Unsettled during a life change"],
     "effects": ["We must gain our freedom absolutely and completely, so that all we do, our every action – nay even our every thought – derives its origin in ourselves, thus enabling us to live and give freely of our own accord, and of our own accord alone. [Bach: Collected Writings]"],
     "keywords": ["Protection", "Change"],
+    "images": ["Bach/Walnut1.jpg", "Bach/Walnut2.jpg", "Bach/Walnut3.jpg"],
     "stock": true
   },
   {
@@ -184,6 +200,7 @@
     "indications": ["Mental congestion"],
     "effects": ["…the perfect method of learning this is by calm thought and meditation, and by bringing ourselves to such an atmosphere of peace that our Souls are able to speak to us through our conscience and intuition and to guide us according to their wishes. [Bach: Collected Writings]"],
     "keywords": ["Repetitive Thoughts", "Worry"],
+    "images": ["Bach/WhiteChestnut1.jpg", "Bach/WhiteChestnut2.jpg"],
     "stock": true
   },
   {
@@ -195,6 +212,7 @@
     "indications": ["Apathy"],
     "effects": ["Resignation, which makes one become merely an unobservant passenger on the journey of life, opens the door to untold adverse influences which would never have an opportunity of gaining admittance as long as our daily existence brought with it the spirit and joy of adventure. [Bach: Collected Writings]"],
     "keywords": ["Apathy/Apathetic"],
+    "images": ["Bach/WildRose1.jpg", "Bach/WildRose2.jpg"],
     "stock": true
   },
   {
@@ -206,6 +224,7 @@
     "indications": ["Resentment and self-pity"],
     "effects": ["We are not all asked to be saints or martyrs or men of renown; to most of us less conspicuous offices are allotted. But we are all expected to understand the joy and adventure of life and to fulfil with cheerfulness the particular piece of work which has been ordained for us by our Divinity."],
     "keywords": ["Victim", "Resentment", "Bitterness"],
+    "images": ["Bach/Willow1.jpg", "Bach/Willow2.jpg"],
     "stock": true
   }
 ]

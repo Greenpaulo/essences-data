@@ -8,6 +8,7 @@
     "indications": ["Worry hidden behind a carefree mask"],
     "effects": ["The lesson of this plant is to enable you to hold your peace in the presence of all the trials and difficulties until no one has the power to cause you irritation. [Bach]"],
     "keywords": ["Worry", "Anxiety"],
+    "images": ["Bach/Agrimony1.jpg", "Bach/Agrimony2.jpg"],
     "stock": true
   },
   {
@@ -19,6 +20,7 @@
     "indications": ["For those who are kind, anxious to serve", "Weak"],
     "effects": ["Centaury, that grow in our pastures, will help you to find your real self, so that you may become an active, positive worker instead of a passive agent. [Bach]"],
     "keywords": ["Strengthening", "Self-Esteem/Self-Worth"],
+    "images": ["Bach/Centaury1.jpg", "Bach/Centaury2.jpg"],
     "stock": true
   },
   {
@@ -30,6 +32,7 @@
     "indications": ["For distrust of self and inuition, easily led and misguided"],
     "effects": ["Cerato will help you to find your individuality, your personality, and, freed from outside influences, enable you to use the great gift of wisdom that you possess for the good of mankind. [Bach]"],
     "keywords": ["Confidence", "Decisiveness", "Self-Esteem/Self-Worth", "Intuition"],
+    "images": ["Bach/Cerato1.jpg", "Bach/Cerato2.jpg"],
     "stock": true
   },
   {
@@ -41,6 +44,7 @@
     "indications": ["For self-pity, self-love, possessive, demanding, hurt and tearful"],
     "effects": ["If we but sufficiently develop the quality of losing ourselves in the love and care of those around us, enjoying the glorious adventure of gaining knowledge and helping others, our personal griefs and sufferings rapidly come to an end. It is the great ultimate aim: the losing of our own interests in the service of humanity. [Bach]"],
     "keywords": ["Victim", "Worry"],
+    "images": ["Bach/Chicory1.jpg", "Bach/Chicory2.jpg"],
     "stock": true
   },
   {
@@ -52,6 +56,7 @@
     "indications": ["For dreamers, those who are absent minded"],
     "effects": ["The remedy brings stability: and places the patient on a more practical plane; brings them ‘down to earth’; and so enables them to fulfil their work in this world. [Bach]"],
     "keywords": ["Grounding", "Presence", "Apathy/Apathetic"],
+    "images": ["Bach/Clematis1.jpg", "Bach/Clematis2.jpg"],
     "stock": true
   },
   {
@@ -63,6 +68,7 @@
     "indications": ["For discouragement and despondency"],
     "effects": ["The little Gentian of our hilly pastures will help you to keep your firmness of purpose, and a happier and more hopeful outlook even when the sky is over-cast. It will bring you encouragement at all times, and the understanding that there is no failure when you are doing your utmost, whatever the apparent result. [Bach]"],
     "keywords": ["Disheartened"],
+    "images": ["Bach/Gentian1.jpg", "Bach/Gentian2.jpg"],
     "stock": true
   },
   {
@@ -74,6 +80,7 @@
     "indications": ["For those who are irritated by constraints, quick, tense, impatient"],
     "effects": ["You are striving for exquisite gentleness and forgiveness, and that beautiful mauve flower, Impatiens, which grows along the sides of some Welsh streams, will, with its blessing, help you along the road. [Bach]"],
     "keywords": ["Impatience"],
+    "images": ["Bach/Impatiens1.jpg", "Bach/Impatiens2.jpg"],
     "stock": true
   },
   {
@@ -85,6 +92,7 @@
     "indications": ["For those who are shy, nervous, fearful"],
     "effects": ["Fear in reality holds no place in the natural human kingdom, since the Divinity within us, which is ourself, is unconquerable and immortal, and if we could but realise it we, as Children of God, have nothing of which to be afraid. [Bach]"],
     "keywords": ["Fear"],
+    "images": ["Bach/Mimulus1.jpg", "Bach/Mimulus2.jpg"],
     "stock": true
   },
   {
@@ -96,6 +104,7 @@
     "indications": ["For those feeling alarmed, intensly scared, horror, dread"],
     "effects": ["All fear must be cast out; it should never exist in the human mind, and is only possible when we lose sight of our Divinity. It is foreign to us because as Sons of the Creator, Sparks of the Divine Life, we are invincible, indestructible and unconquerable. [Bach]"],
     "keywords": ["Emergency", "Fear"],
+    "images": ["Bach/RockRose1.jpg", "Bach/RockRose2.jpg"],
     "stock": true
   },
   {
@@ -107,6 +116,7 @@
     "indications": ["For indecision"],
     "effects": ["Instability can be eradicated by the development of self-determination, by making up the mind and doing things with a definiteness instead of wavering and hovering. Even if at first we may sometimes make errors, it were better to act than to let opportunities pass for want of a decision. Determination will soon grow; fear of plunging into life will disappear, and the experiences gained will guide our mind to better judgement. [Bach]"],
     "keywords": ["Decisiveness"],
+    "images": ["Bach/Scleranthus1.jpg", "Bach/Scleranthus2.jpg"],
     "stock": true
   },
   {
@@ -118,6 +128,7 @@
     "indications": ["For those who are wilful, opinionated and stressed"],
     "effects": ["We should strive to be so gentle, so quiet, so patiently helpful that we move among our fellow men more as a breath of air or a ray of sunshine: ever ready to help them when they ask: but never forcing them to our own views. [Bach]"],
     "keywords": ["Rigidity", "Open Mindedness", "Opinionated"],
+    "images": ["Bach/Vervain1.jpg", "Bach/Vervain2.jpg"],
     "stock": true
   },
   {
@@ -129,6 +140,7 @@
     "indications": ["For those who are withdrawn, aloof, proud"],
     "effects": ["…you are learning to stand absolutely alone in the world, gaining the intense joy of complete freedom, and therefore of perfect service to mankind. And when this is realised it is no longer sacrifice but the exquisite joy of helpfulness even under all conditions. [Bach]"],
     "keywords": ["Aloof"],
+    "images": ["Bach/WaterViolet1.jpg", "Bach/WaterViolet2.jpg"],
     "stock": true
   }
 ]
