@@ -11,6 +11,7 @@
     "meridians": ["Large Intestine"],
     "elements": ["Metal"],
     "keywords": ["Opening", "Releasing", "Expansion"],
+    "images": ["Pacific/Flowers/camellia1.jpg", "Pacific/Flowers/camellia2.jpg"],
     "stock": true
   },
   {
@@ -25,6 +26,7 @@
     "meridians": ["Lung"],
     "elements": ["Metal"],
     "keywords": ["Grief"],
+    "images": ["Pacific/Flowers/purple_crocus1.jpg", "Pacific/Flowers/purple_crocus2.jpg"],
     "stock": true
   },
   {
@@ -39,6 +41,7 @@
     "meridians": ["Gall Bladder"],
     "elements": ["Wood"],
     "keywords": ["Addictions", "Repetitive Thoughts"],
+    "images": ["Pacific/Flowers/forsythia1.jpg", "Pacific/Flowers/forsythia2.jpg"],
     "stock": true
   },
   {
@@ -53,6 +56,7 @@
     "meridians": ["Stomach", "Lung"],
     "elements": ["Earth", "Metal"],
     "keywords": ["Shock", "Trauma", "Stress", "Hope/Hopelessness", "Depression"],
+    "images": ["Pacific/Flowers/grape_hyacinth1.jpg", "Pacific/Flowers/grape_hyacinth2.jpg"],
     "stock": true
   },
   {
@@ -67,6 +71,7 @@
     "meridians": ["Heart"],
     "elements": ["Fire"],
     "keywords": ["Innocence", "Love", "Expression", "Uniqueness", "Seeing", "Heart"],
+    "images": ["Pacific/Flowers/lily_of_the_valley1.jpg", "Pacific/Flowers/lily_of_the_valley2.jpg"],
     "stock": true
   },
   {
@@ -81,6 +86,7 @@
     "meridians": ["Heart Protector"],
     "elements": ["Fire"],
     "keywords": ["Sensuality/Sexuality"],
+    "images": ["Pacific/Flowers/purple_magnolia1.jpg", "Pacific/Flowers/purple_magnolia2.jpg"],
     "stock": true
   },
   {
@@ -95,6 +101,7 @@
     "meridians": ["Stomach"],
     "elements": ["Earth"],
     "keywords": ["Grounding", "Anxiety", "Fear", "Worry", "Obsessive", "Survival"],
+    "images": ["Pacific/Flowers/narcissus1.jpg", "Pacific/Flowers/narcissus2.jpg"],
     "stock": true
   },
   {
@@ -109,6 +116,7 @@
     "meridians": ["Heart"],
     "elements": ["Fire"],
     "keywords": ["Remembering", "Depression", "Anxiety"],
+    "images": ["Pacific/Flowers/periwinkle1.jpg", "Pacific/Flowers/periwinkle2.jpg"],
     "stock": true
   },
   {
@@ -123,6 +131,7 @@
     "meridians": ["Large Intestine", "Lung"],
     "elements": ["Metal"],
     "keywords": ["Abundance", "Gratitude"],
+    "images": ["Pacific/Flowers/polyanthus1.jpg", "Pacific/Flowers/polyanthus2.jpg"],
     "stock": true
   },
   {
@@ -137,6 +146,7 @@
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
     "keywords": ["Overserious", "Joy", "Playful", "Letting Go", "Fear"],
+    "images": ["Pacific/Flowers/snowdrop1.jpg", "Pacific/Flowers/snowdrop2.jpg"],
     "stock": true
   },
   {
@@ -151,6 +161,7 @@
     "meridians": ["Spleen", "Triple Warmer"],
     "elements": ["Earth", "Fire"],
     "keywords": ["Intuition", "Psychic Development", "Nature", "Meditation", "Unity", "Dreaming"],
+    "images": ["Pacific/Flowers/viburnum1.jpg", "Pacific/Flowers/viburnum2.jpg"],
     "stock": true
   },
   {
@@ -165,6 +176,7 @@
     "meridians": ["Stomach"],
     "elements": ["Earth"],
     "keywords": ["Spiritual", "Grounding", "Security"],
+    "images": ["Pacific/Flowers/windflower1.jpg", "Pacific/Flowers/windflower2.jpg"],
     "stock": true
   }
 ]

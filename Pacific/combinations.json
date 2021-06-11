@@ -11,6 +11,7 @@
     "meridians": ["Kidney", "Heart", "Lung", "Conception Vessel", "Liver", "Gall Bladder", "Stomach", "Spleen"],
     "elements": ["Metal", "Water", "Wood", "Earth", "Fire"],
     "keywords": [],
+    "images": ["Pacific/Combinations/being_peace1.jpg", "Pacific/Combinations/being_peace2.jpg"],
     "stock": true
   },
   {
@@ -24,6 +25,7 @@
     "meridians": ["Large Intestine", "Lung", "Conception Vessel", "Gall Bladder", "Stomach"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/being_true_worth1.jpg", "Pacific/Combinations/being_true_worth2.jpg"],
     "stock": true
   },
   {
@@ -37,6 +39,7 @@
     "meridians": ["Liver", "Kidney", "Bladder", "Heart", "Gall Bladder", "Spleen"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/cellular_memory1.jpg", "Pacific/Combinations/cellular_memory2.jpg"],
     "stock": true
   },
   {
@@ -50,6 +53,7 @@
     "meridians": ["Heart", "Heart Protector", "Kidney", "Bladder"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/fearlessness1.jpg", "Pacific/Combinations/fearlessness2.jpg"],
     "stock": true
   },
   {
@@ -63,6 +67,7 @@
     "meridians": ["Conception Vessel", "Gall Bladder", "Governing Vessel", "Heart", "Large Intestine", "Liver", "Small Intestine", "Stomach"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/forgiving1.jpg", "Pacific/Combinations/forgiving2.jpg"],
     "stock": true
   },
   {
@@ -76,6 +81,7 @@
     "meridians": ["Heart Protector", "Spleen", "Heart", "Triple Warmer"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/kids_stuff1.jpg", "Pacific/Combinations/kids_stuff2.jpg"],
     "stock": true
   },
   {
@@ -89,6 +95,7 @@
     "meridians": ["Large Intestine", "Gall Bladder", "Bladder", "Kidney", "Stomach", "Triple Warmer", "Lung", "Spleen"],
     "elements": ["Metal", "Water", "Wood", "Earth", "Fire"],
     "keywords": [],
+    "images": ["Pacific/Combinations/new_attitudes1.jpg", "Pacific/Combinations/new_attitudes2.jpg"],
     "stock": true
   },
   {
@@ -102,6 +109,7 @@
     "meridians": ["Gall Bladder", "Heart", "Small Intestine", "Spleen", "Heart Protector", "Bladder", "Kidney"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/optimal_immunity1.jpg", "Pacific/Combinations/optimal_immunity2.jpg"],
     "stock": true
   },
   {
@@ -115,6 +123,7 @@
     "meridians": ["Bladder", "Kidney", "Liver", "Triple Warmer"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/optimal_learning1.jpg", "Pacific/Combinations/optimal_learning2.jpg"],
     "stock": true
   },
   {
@@ -128,6 +137,7 @@
     "meridians": ["Liver", "Lung", "Large Intestine", "Governing Vessel", "Kidney"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/radiant-beauty1.jpg", "Pacific/Combinations/radiant-beauty2.jpg"],
     "stock": true
   },
   {
@@ -141,6 +151,7 @@
     "meridians": ["Kidney", "Bladder", "Lung", "Governing Vessel"],
     "elements": [],
     "keywords": [],
+    "images": ["Pacific/Combinations/super_vitality1.jpg", "Pacific/Combinations/super_vitality2.jpg"],
     "stock": true
   }
 ]

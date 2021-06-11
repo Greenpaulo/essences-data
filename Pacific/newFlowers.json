@@ -11,6 +11,7 @@
     "meridians": ["Heart Protector"],
     "elements": ["Fire"],
     "keywords": ["Relationships", "Judgement", "Flexibility"],
+    "images": ["Pacific/Flowers/alum_root1.jpg", "Pacific/Flowers/alum_root2.jpg"],
     "stock": true
   },
   {
@@ -25,6 +26,7 @@
     "meridians": ["Kidney", "Governing Vessel"],
     "elements": ["Water"],
     "keywords": ["Expansion", "Perception", "Centering"],
+    "images": ["Pacific/Flowers/douglas_aster1.jpg", "Pacific/Flowers/douglas_aster2.jpg"],
     "stock": true
   },
   {
@@ -39,6 +41,7 @@
     "meridians": ["Lung"],
     "elements": ["Metal"],
     "keywords": ["Depression", "Hope/Hopelessness"],
+    "images": ["Pacific/Flowers/fairy_bell1.jpg", "Pacific/Flowers/fairy_bell2.jpg"],
     "stock": true
   },
   {
@@ -53,6 +56,7 @@
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
     "keywords": ["Balance"],
+    "images": ["Pacific/Flowers/fuchsia1.jpg", "Pacific/Flowers/fuchsia2.jpg"],
     "stock": true
   },
   {
@@ -67,6 +71,7 @@
     "meridians": ["Lung", "Conception Vessel"],
     "elements": ["Metal"],
     "keywords": ["Reverence", "Uniqueness", "Critical", "Self-Esteem/Self-Worth", "Peace"],
+    "images": ["Pacific/Flowers/indian_pipe1.jpg", "Pacific/Flowers/indian_pipe2.jpg"],
     "stock": true
   },
   {
@@ -81,6 +86,7 @@
     "meridians": ["Liver", "Gall Bladder"],
     "elements": ["Wood"],
     "keywords": ["Devotion"],
+    "images": ["Pacific/Flowers/pearly_everlasting1.jpg", "Pacific/Flowers/pearly_everlasting2.jpg"],
     "stock": true
   },
   {
@@ -95,6 +101,7 @@
     "meridians": ["Triple Warmer"],
     "elements": ["Fire"],
     "keywords": ["Spiritual", "Connection", "Spiritual Healing"],
+    "images": ["Pacific/Flowers/poplar1.jpg", "Pacific/Flowers/poplar2.jpg"],
     "stock": true
   },
   {
@@ -109,6 +116,7 @@
     "meridians": ["Gall Bladder", "Stomach"],
     "elements": ["Wood", "Earth"],
     "keywords": ["Introspection", "Regeneration", "Nature"],
+    "images": ["Pacific/Flowers/red_huckleberry1.jpg", "Pacific/Flowers/red_huckleberry2.jpg"],
     "stock": true
   },
   {
@@ -123,6 +131,7 @@
     "meridians": ["Spleen"],
     "elements": ["Earth"],
     "keywords": ["Conception", "Infertility", "Controlling"],
+    "images": ["Pacific/Flowers/silver_birch1.jpg", "Pacific/Flowers/silver_birch2.jpg"],
     "stock": true
   },
   {
@@ -137,6 +146,7 @@
     "meridians": ["Stomach", "Spleen"],
     "elements": ["Earth"],
     "keywords": ["Communication", "Hope/Hopelessness"],
+    "images": ["Pacific/Flowers/wallflower1.jpg", "Pacific/Flowers/wallflower2.jpg"],
     "stock": true
   },
   {
@@ -151,6 +161,7 @@
     "meridians": ["Liver", "Gall Bladder"],
     "elements": ["Wood"],
     "keywords": ["Trust", "Perspective", "Integration", "Wisdom"],
+    "images": ["Pacific/Flowers/weigela1.jpg", "Pacific/Flowers/weigela2.jpg"],
     "stock": true
   },
   {
@@ -165,6 +176,7 @@
     "meridians": ["Bladder"],
     "elements": ["Water"],
     "keywords": ["Letting go", "Security"],
+    "images": ["Pacific/Flowers/yellow_pond_lily1.jpg", "Pacific/Flowers/yellow_pond_lily2.jpg"],
     "stock": true
   }
 ]
