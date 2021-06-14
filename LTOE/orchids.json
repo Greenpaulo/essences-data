@@ -12,6 +12,7 @@
     "meridians": ["Kidney"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Abuse", "Trauma", "Compassion", "Courage", "Life Purpose", "Emergency", "Devastation"],
+    "images": ["LTOE/Single Orchid Essences/Andean Fire/1.jpg", "LTOE/Single Orchid Essences/Andean Fire/2.jpg", "LTOE/Single Orchid Essences/Andean Fire/3.jpg", "LTOE/Single Orchid Essences/Andean Fire/4.jpg", "LTOE/Single Orchid Essences/Andean Fire/5.jpg"],
     "stock": true
   },
   {
@@ -27,6 +28,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Kidney"],
     "keywords": ["Grief", "Hope/Hopelessness", "Space Clearing"],
+    "images": ["LTOE/Single Orchid Essences/Angelic Canopy/1.jpg"],
     "stock": true
   },
   {
@@ -42,6 +44,7 @@
     "meridians": ["Liver"],
     "meridiansSecondary": ["Spleen"],
     "keywords": ["Sensuality/Sexuality"],
+    "images": ["LTOE/Single Orchid Essences/Base Regulator/1.jpg", "LTOE/Single Orchid Essences/Base Regulator/2.jpg", "LTOE/Single Orchid Essences/Base Regulator/3.jpg", "LTOE/Single Orchid Essences/Base Regulator/4.jpg"],
     "stock": true
   },
   {
@@ -57,6 +60,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Kidney"],
     "keywords": ["Presence", "Peace", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/Behold The Silence/1.jpg", "LTOE/Single Orchid Essences/Behold The Silence/2.jpg", "LTOE/Single Orchid Essences/Behold The Silence/3.jpg"],
     "stock": true
   },
   {
@@ -72,6 +76,7 @@
     "meridians": ["Kidney"],
     "meridiansSecondary": ["Gall Bladder"],
     "keywords": ["Grounding", "Presence", "Travel"],
+    "images": ["LTOE/Single Orchid Essences/Being In Time/1.jpg", "LTOE/Single Orchid Essences/Being In Time/2.jpg", "LTOE/Single Orchid Essences/Being In Time/3.jpg", "LTOE/Single Orchid Essences/Being In Time/4.jpg", "LTOE/Single Orchid Essences/Being In Time/5.jpg"],
     "stock": true
   },
   {
@@ -87,6 +92,7 @@
     "meridians": ["Small Intestine"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Cleansing", "Kidneys"],
+    "images": ["LTOE/Single Orchid Essences/Being In Grace/1.jpg", "LTOE/Single Orchid Essences/Being In Grace/2.jpg", "LTOE/Single Orchid Essences/Being In Grace/3.jpg", "LTOE/Single Orchid Essences/Being In Grace/4.jpg"],
     "stock": true
   },
   {
@@ -102,6 +108,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Remembering", "Integration"],
+    "images": ["LTOE/Single Orchid Essences/Blue Angel/1.jpg", "LTOE/Single Orchid Essences/Blue Angel/2.jpg", "LTOE/Single Orchid Essences/Blue Angel/3.jpg", "LTOE/Single Orchid Essences/Blue Angel/4.jpg", "LTOE/Single Orchid Essences/Blue Angel/5.jpg"],
     "stock": false
 
   },
@@ -118,6 +125,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Stress"],
+    "images": ["LTOE/Single Orchid Essences/Boundless Peace/1.jpg", "LTOE/Single Orchid Essences/Boundless Peace/2.jpg", "LTOE/Single Orchid Essences/Boundless Peace/3.jpg"],
     "stock": true
   },
   {
@@ -133,6 +141,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Stress"],
+    "images": ["LTOE/Single Orchid Essences/Carnival/1.jpg", "LTOE/Single Orchid Essences/Carnival/2.jpg"],
     "stock": true
   },
   {
@@ -148,6 +157,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Being"],
+    "images": ["LTOE/Single Orchid Essences/Celebration/1.jpg", "LTOE/Single Orchid Essences/Celebration/2.jpg", "LTOE/Single Orchid Essences/Celebration/3.jpg", "LTOE/Single Orchid Essences/Celebration/4.jpg", "LTOE/Single Orchid Essences/Celebration/5.jpg", "LTOE/Single Orchid Essences/Celebration/6.jpg", "LTOE/Single Orchid Essences/Celebration/7.jpg", "LTOE/Single Orchid Essences/Celebration/8.jpg", "LTOE/Single Orchid Essences/Celebration/9.jpg", "LTOE/Single Orchid Essences/Celebration/10.jpg", "LTOE/Single Orchid Essences/Celebration/11.jpg", "LTOE/Single Orchid Essences/Celebration/12.jpg"],
     "stock": false
   },
   {
@@ -163,6 +173,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Higher Self", "Potential", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/Celestial Siren/1.jpg", "LTOE/Single Orchid Essences/Celestial Siren/2.jpg"],
     "stock": true
   },
   {
@@ -177,6 +188,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Balancing", "Consciousness", "Evolution"],
+    "images": ["LTOE/Single Orchid Essences/Celestial Triangle/1.jpg", "LTOE/Single Orchid Essences/Celestial Triangle/2.jpg", "LTOE/Single Orchid Essences/Celestial Triangle/3.jpg"],
     "stock": false
   },
   {
@@ -192,6 +204,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Joy", "Centering", "Digestion"],
+    "images": ["LTOE/Single Orchid Essences/Centre Renewal/1.jpg", "LTOE/Single Orchid Essences/Centre Renewal/2.jpg", "LTOE/Single Orchid Essences/Centre Renewal/3.jpg", "LTOE/Single Orchid Essences/Centre Renewal/4.jpg"],
     "stock": true
   },
   {
@@ -207,6 +220,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Clarity", "Higher Self"],
+    "images": ["LTOE/Single Orchid Essences/Clarity of Spirit/1.jpg"],
     "stock": false
   },
   {
@@ -222,6 +236,7 @@
     "meridians": ["Lung"],
     "meridiansSecondary": ["Governing Vessel"],
     "keywords": ["Clarity", "Stress"],
+    "images": ["LTOE/Single Orchid Essences/Clear Mind/1.jpg", "LTOE/Single Orchid Essences/Clear Mind/2.jpg", "LTOE/Single Orchid Essences/Clear Mind/3.jpg"],
     "stock": true
   },
   {
@@ -237,6 +252,7 @@
     "meridians": ["Small Intestine"],
     "meridiansSecondary": ["Governing Vessel"],
     "keywords": ["Motivation", "Confidence"],
+    "images": ["LTOE/Single Orchid Essences/Clearing The Way_Self Belief/1.jpg", "LTOE/Single Orchid Essences/Clearing The Way_Self Belief/2.jpg"],
     "stock": true
   },
   {
@@ -252,6 +268,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Compassion", "Spiritual Healing"],
+    "images": ["LTOE/Single Orchid Essences/Compassionate Heart/1.jpg", "LTOE/Single Orchid Essences/Compassionate Heart/2.jpg", "LTOE/Single Orchid Essences/Compassionate Heart/3.jpg"],
     "stock": false
   },
   {
@@ -267,6 +284,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Stomach"],
     "keywords": ["Alignment"],
+    "images": ["LTOE/Single Orchid Essences/Core of Being/1.jpg", "LTOE/Single Orchid Essences/Core of Being/2.jpg"],
     "stock": true
   },
   {
@@ -282,6 +300,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Heart Protector", "Conception Vessel"],
     "keywords": ["Sexuality", "Motivation", "Intuition"],
+    "images": ["LTOE/Single Orchid Essences/Core Release/1.jpg", "LTOE/Single Orchid Essences/Core Release/2.jpg", "LTOE/Single Orchid Essences/Core Release/3.jpg", "LTOE/Single Orchid Essences/Core Release/4.jpg", "LTOE/Single Orchid Essences/Core Release/5.jpg"],
     "stock": true
   },
   {
@@ -297,6 +316,7 @@
     "meridians": ["Triple Warmer"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Spiritual", "Consciousness", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/Crown of Consciousness/1.jpg", "LTOE/Single Orchid Essences/Crown of Consciousness/2.jpg", "LTOE/Single Orchid Essences/Crown of Consciousness/3.jpg", "LTOE/Single Orchid Essences/Crown of Consciousness/4.jpg"],
     "stock": true
   },
   {
@@ -312,6 +332,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Focus", "Evolution", "Intention"],
+    "images": ["LTOE/Single Orchid Essences/Crown of Serenity/1.jpg", "LTOE/Single Orchid Essences/Crown of Serenity/2.jpg", "LTOE/Single Orchid Essences/Crown of Serenity/3.jpg", "LTOE/Single Orchid Essences/Crown of Serenity/4.jpg", "LTOE/Single Orchid Essences/Crown of Serenity/5.jpg", "LTOE/Single Orchid Essences/Crown of Serenity/6.jpg", "LTOE/Single Orchid Essences/Crown of Serenity/7.jpg", "LTOE/Single Orchid Essences/Crown of Serenity/8.jpg"],
     "stock": false
   },
   {
@@ -327,6 +348,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Protection", "Grounding"],
+    "images": ["LTOE/Single Orchid Essences/Defender from the Dark/1.jpg", "LTOE/Single Orchid Essences/Defender from the Dark/2.jpg", "LTOE/Single Orchid Essences/Defender from the Dark/3.jpg", "LTOE/Single Orchid Essences/Defender from the Dark/4.jpg", "LTOE/Single Orchid Essences/Defender from the Dark/5.jpg", "LTOE/Single Orchid Essences/Defender from the Dark/6.jpg"],
     "stock": true
   },
   {
@@ -342,6 +364,7 @@
     "meridians": ["Lung"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Meditation", "Shamanism"],
+    "images": ["LTOE/Single Orchid Essences/Direct Vision/1.jpg"],
     "stock": true
   },
   {
@@ -357,6 +380,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Courage", "Evolution"],
+    "images": ["LTOE/Single Orchid Essences/Dragon Fire/1.jpg"],
     "stock": false
   },
   {
@@ -372,6 +396,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": [],
+    "images": ["LTOE/Single Orchid Essences/Dragon Mask/1.jpg"],
     "stock": false
   },
   {
@@ -387,6 +412,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Motivation", "Optimism", "Focus", "Strengthing"],
+    "images": ["LTOE/Single Orchid Essences/Eye of the Tiger/1.jpg", "LTOE/Single Orchid Essences/Eye of the Tiger/2.jpg", "LTOE/Single Orchid Essences/Eye of the Tiger/3.jpg"],
     "stock": false
   },
   {
@@ -402,6 +428,7 @@
     "meridians": ["Large Intestine"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Courage", "Life Purpose", "Will"],
+    "images": ["LTOE/Single Orchid Essences/Fire of Life/1.jpg", "LTOE/Single Orchid Essences/Fire of Life/2.jpg", "LTOE/Single Orchid Essences/Fire of Life/3.jpg", "LTOE/Single Orchid Essences/Fire of Life/4.jpg", "LTOE/Single Orchid Essences/Fire of Life/5.jpg"],
     "stock": true
   },
   {
@@ -417,6 +444,7 @@
     "meridians": ["Ming Men"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Truth", "Perception", "Life Purpose"],
+    "images": ["LTOE/Single Orchid Essences/Furnace of Life/1.jpg", "LTOE/Single Orchid Essences/Furnace of Life/2.jpg", "LTOE/Single Orchid Essences/Furnace of Life/3.jpg", "LTOE/Single Orchid Essences/Furnace of Life/4.jpg", "LTOE/Single Orchid Essences/Furnace of Life/5.jpg"],
     "stock": true
   },
   {
@@ -432,6 +460,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Pregnancy", "Potential"],
+    "images": ["LTOE/Single Orchid Essences/Fruits of Love/1.jpg", "LTOE/Single Orchid Essences/Fruits of Love/2.jpg", "LTOE/Single Orchid Essences/Fruits of Love/3.jpg", "LTOE/Single Orchid Essences/Fruits of Love/4.jpg", "LTOE/Single Orchid Essences/Fruits of Love/5.jpg"],
     "stock": false
   },
   {
@@ -447,6 +476,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Spleen"],
     "keywords": ["Spiritual"],
+    "images": ["LTOE/Single Orchid Essences/Golden Radiance/1.jpg"],
     "stock": true
   },
   {
@@ -462,6 +492,7 @@
     "meridians": ["Conception Vessel"],
     "meridiansSecondary": ["Spleen"],
     "keywords": ["Meditation", "Courage"],
+    "images": ["LTOE/Single Orchid Essences/Guardian of the Inner Journey/1.jpg", "LTOE/Single Orchid Essences/Guardian of the Inner Journey/2.jpg", "LTOE/Single Orchid Essences/Guardian of the Inner Journey/3.jpg"],
     "stock": true
   },
   {
@@ -477,6 +508,7 @@
     "meridians": ["Ming Men"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Presence", "Life Purpose"],
+    "images": ["LTOE/Single Orchid Essences/Hara to Heart/1.jpg", "LTOE/Single Orchid Essences/Hara to Heart/2.jpg", "LTOE/Single Orchid Essences/Hara to Heart/3.jpg"],
     "stock": true
   },
   {
@@ -492,6 +524,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Heart"],
+    "images": ["LTOE/Single Orchid Essences/Healing the Higher Heart/1.jpg", "LTOE/Single Orchid Essences/Healing the Higher Heart/2.jpg", "LTOE/Single Orchid Essences/Healing the Higher Heart/3.jpg", "LTOE/Single Orchid Essences/Healing the Higher Heart/4.jpg"],
     "stock": true
   },
   {
@@ -507,6 +540,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Heart"],
+    "images": ["LTOE/Single Orchid Essences/Heart of Light/1.jpg", "LTOE/Single Orchid Essences/Heart of Light/2.jpg", "LTOE/Single Orchid Essences/Heart of Light/3.jpg"],
     "stock": true
   },
   {
@@ -522,6 +556,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Kidney"],
     "keywords": ["Love", "Spiritual"],
+    "images": ["LTOE/Single Orchid Essences/Heaven's Gate/1.jpg", "LTOE/Single Orchid Essences/Heaven's Gate/2.jpg", "LTOE/Single Orchid Essences/Heaven's Gate/3.jpg", "LTOE/Single Orchid Essences/Heaven's Gate/4.jpg"],
     "stock": true
   },
   {
@@ -537,6 +572,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Courage"],
+    "images": ["LTOE/Single Orchid Essences/Higher Courage/1.jpg"],
     "stock": false
   },
   {
@@ -552,6 +588,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Heart"],
+    "images": ["LTOE/Single Orchid Essences/Hive of Heaven/1.jpg", "LTOE/Single Orchid Essences/Hive of Heaven/2.jpg", "LTOE/Single Orchid Essences/Hive of Heaven/3.jpg"],
     "stock": false
   },
   {
@@ -567,6 +604,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Peace"],
+    "images": ["LTOE/Single Orchid Essences/Inner Peace/1.jpg", "LTOE/Single Orchid Essences/Inner Peace/2.jpg"],
     "stock": false
   },
   {
@@ -582,6 +620,7 @@
     "meridians": ["Kidney"],
     "meridiansSecondary": ["Gall Bladder", "Liver"],
     "keywords": ["Cleansing", "Detoxification"],
+    "images": ["LTOE/Single Orchid Essences/Internal Cleansing/1.jpg", "LTOE/Single Orchid Essences/Internal Cleansing/2.jpg", "LTOE/Single Orchid Essences/Internal Cleansing/3.jpg"],
     "stock": true
   },
   {
@@ -597,6 +636,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Purification", "Joy", "Abuse"],
+    "images": ["LTOE/Single Orchid Essences/Joyous Purification/1.jpg", "LTOE/Single Orchid Essences/Joyous Purification/2.jpg"],
     "stock": true
   },
   {
@@ -612,6 +652,7 @@
     "meridians": ["Triple Warmer"],
     "meridiansSecondary": ["Governing Vessel"],
     "keywords": ["Self-Appreciation"],
+    "images": ["LTOE/Single Orchid Essences/Just Me/1.jpg", "LTOE/Single Orchid Essences/Just Me/2.jpg", "LTOE/Single Orchid Essences/Just Me/3.jpg", "LTOE/Single Orchid Essences/Just Me/4.jpg"],
     "stock": true
   },
   {
@@ -627,6 +668,7 @@
     "meridians": ["Conception Vessel"],
     "meridiansSecondary": ["Ming Men"],
     "keywords": ["Protection"],
+    "images": ["LTOE/Single Orchid Essences/Knight's Cloak/1.jpg", "LTOE/Single Orchid Essences/Knight's Cloak/2.jpg", "LTOE/Single Orchid Essences/Knight's Cloak/3.jpg", "LTOE/Single Orchid Essences/Knight's Cloak/4.jpg"],
     "stock": true
   },
   {
@@ -642,6 +684,7 @@
     "meridians": ["Stomach"],
     "meridiansSecondary": ["Heart Protector"],
     "keywords": ["Playful", "Stress", "Overserious"],
+    "images": ["LTOE/Single Orchid Essences/Laughing Butterflies/1.jpg", "LTOE/Single Orchid Essences/Laughing Butterflies/2.jpg", "LTOE/Single Orchid Essences/Laughing Butterflies/3.jpg", "LTOE/Single Orchid Essences/Laughing Butterflies/4.jpg", "LTOE/Single Orchid Essences/Laughing Butterflies/5.jpg"],
     "stock": true
   },
   {
@@ -657,6 +700,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Large Intestine"],
     "keywords": ["Strength", "Self-Appreciation"],
+    "images": ["LTOE/Single Orchid Essences/Liberation Deception/1.jpg", "LTOE/Single Orchid Essences/Liberation Deception/2.jpg", "LTOE/Single Orchid Essences/Liberation Deception/3.jpg", "LTOE/Single Orchid Essences/Liberation Deception/4.jpg", "LTOE/Single Orchid Essences/Liberation Deception/5.jpg"],
     "stock": true
   },
   {
@@ -672,6 +716,7 @@
     "meridians": ["Triple Warmer"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Life Purpose"],
+    "images": ["LTOE/Single Orchid Essences/Life Direction (Lanata)/1.jpg", "LTOE/Single Orchid Essences/Life Direction (Lanata)/2.jpg", "LTOE/Single Orchid Essences/Life Direction (Lanata)/3.jpg"],
     "stock": true
   },
   {
@@ -687,6 +732,7 @@
     "meridians": ["Triple Warmer"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Light", "Seeing"],
+    "images": ["LTOE/Single Orchid Essences/Light of My Eye/1.jpg"],
     "stock": true
   },
   {
@@ -702,6 +748,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Love"],
+    "images": ["LTOE/Single Orchid Essences/Love's Gift/1.jpg"],
     "stock": false
   },
   {
@@ -717,6 +764,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Gall Bladder"],
     "keywords": ["Sensuality/Sexuality"],
+    "images": ["LTOE/Single Orchid Essences/Love's Secret/1.jpg", "LTOE/Single Orchid Essences/Love's Secret/2.jpg", "LTOE/Single Orchid Essences/Love's Secret/3.jpg", "LTOE/Single Orchid Essences/Love's Secret/4.jpg"],
     "stock": true
   },
   {
@@ -732,6 +780,7 @@
     "meridians": ["Kidney"],
     "meridiansSecondary": ["Small Intestine"],
     "keywords": ["Overserious", "Perspective", "Bullying", "Children", "Confidence"],
+    "images": ["LTOE/Single Orchid Essences/Mercutio/1.jpg", "LTOE/Single Orchid Essences/Mercutio/2.jpg", "LTOE/Single Orchid Essences/Mercutio/3.jpg"],
     "stock": true
   },
   {
@@ -747,6 +796,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Heart Protector"],
     "keywords": ["Heart", "Truth", "Honesty"],
+    "images": ["LTOE/Single Orchid Essences/Messenger of the Heart/1.jpg", "LTOE/Single Orchid Essences/Messenger of the Heart/2.jpg"],
     "stock": true
   },
   {
@@ -762,6 +812,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Evolution", "Womb"],
+    "images": ["LTOE/Single Orchid Essences/Moon Child/1.jpg", "LTOE/Single Orchid Essences/Moon Child/2.jpg", "LTOE/Single Orchid Essences/Moon Child/3.jpg", "LTOE/Single Orchid Essences/Moon Child/4.jpg"],
     "stock": true
   },
   {
@@ -777,6 +828,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Peace", "Evolution", "Self-Appreciation"],
+    "images": ["LTOE/Single Orchid Essences/Necklace of Beauty/1.jpg", "LTOE/Single Orchid Essences/Necklace of Beauty/2.jpg", "LTOE/Single Orchid Essences/Necklace of Beauty/3.jpg", "LTOE/Single Orchid Essences/Necklace of Beauty/4.jpg"],
     "stock": true
   },
   {
@@ -792,6 +844,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Evolution", "Letting Go"],
+    "images": ["LTOE/Single Orchid Essences/New Beginnings/1.jpg", "LTOE/Single Orchid Essences/New Beginnings/2.jpg"],
     "stock": false
   },
   {
@@ -807,6 +860,7 @@
     "meridians": ["Bladder"],
     "meridiansSecondary": ["Ming Men"],
     "keywords": ["Exhaustion", "Stamina"],
+    "images": ["LTOE/Single Orchid Essences/New Vitality/1.jpg", "LTOE/Single Orchid Essences/New Vitality/2.jpg", "LTOE/Single Orchid Essences/New Vitality/3.jpg", "LTOE/Single Orchid Essences/New Vitality/4.jpg", "LTOE/Single Orchid Essences/New Vitality/5.jpg", "LTOE/Single Orchid Essences/New Vitality/6.jpg"],
     "stock": true
   },
   {
@@ -822,6 +876,7 @@
     "meridians": ["Conception Vessel"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Devastation", "Emergency", "Dark Night of the Soul"],
+    "images": ["LTOE/Single Orchid Essences/Night Soul/1.jpg", "LTOE/Single Orchid Essences/Night Soul/2.jpg", "LTOE/Single Orchid Essences/Night Soul/3.jpg"],
     "stock": true
   },
   {
@@ -837,6 +892,7 @@
     "meridians": ["Liver"],
     "meridiansSecondary": ["Large Intestine"],
     "keywords": ["Optimism", "Stamina"],
+    "images": ["LTOE/Single Orchid Essences/Positive Outcome/1.jpg", "LTOE/Single Orchid Essences/Positive Outcome/2.jpg", "LTOE/Single Orchid Essences/Positive Outcome/3.jpg", "LTOE/Single Orchid Essences/Positive Outcome/4.jpg", "LTOE/Single Orchid Essences/Positive Outcome/5.jpg", "LTOE/Single Orchid Essences/Positive Outcome/6.jpg", "LTOE/Single Orchid Essences/Positive Outcome/7.jpg", "LTOE/Single Orchid Essences/Positive Outcome/8.jpg"],
     "stock": true
   },
   {
@@ -852,6 +908,7 @@
     "meridians": ["Liver"],
     "meridiansSecondary": ["Small Intestine"],
     "keywords": ["Safety", "Protection", "Change"],
+    "images": ["LTOE/Single Orchid Essences/Protective Presence/1.jpg", "LTOE/Single Orchid Essences/Protective Presence/2.jpg", "LTOE/Single Orchid Essences/Protective Presence/3.jpg"],
     "stock": true
   },
   {
@@ -867,6 +924,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Innocence", "Joy", "Restoration", "Addictions", "Letting Go"],
+    "images": ["LTOE/Single Orchid Essences/Pure Innocence/1.jpg", "LTOE/Single Orchid Essences/Pure Innocence/2.jpg"],
     "stock": false
   },
   {
@@ -882,6 +940,7 @@
     "meridians": ["Lung"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Stress"],
+    "images": ["LTOE/Single Orchid Essences/Purity of Heart/1.jpg", "LTOE/Single Orchid Essences/Purity of Heart/2.jpg", "LTOE/Single Orchid Essences/Purity of Heart/3.jpg"],
     "stock": true
   },
   {
@@ -897,6 +956,7 @@
     "meridians": ["Liver"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Purity", "Purification", "Ancestral Healing", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/Purity of Soul/1.jpg", "LTOE/Single Orchid Essences/Purity of Soul/2.jpg", "LTOE/Single Orchid Essences/Purity of Soul/3.jpg", "LTOE/Single Orchid Essences/Purity of Soul/4.jpg", "LTOE/Single Orchid Essences/Purity of Soul/5.jpg", "LTOE/Single Orchid Essences/Purity of Soul/6.jpg", "LTOE/Single Orchid Essences/Purity of Soul/7.jpg", "LTOE/Single Orchid Essences/Purity of Soul/8.jpg", "LTOE/Single Orchid Essences/Purity of Soul/9.jpg"],
     "stock": false
   },
   {
@@ -912,6 +972,7 @@
     "meridians": ["Triple Warmer"],
     "meridiansSecondary": ["Governing Vessel"],
     "keywords": ["Evolution", "Spiritual", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/Pushing Back the Night/1.jpg", "LTOE/Single Orchid Essences/Pushing Back the Night/2.jpg", "LTOE/Single Orchid Essences/Pushing Back the Night/3.jpg", "LTOE/Single Orchid Essences/Pushing Back the Night/4.jpg", "LTOE/Single Orchid Essences/Pushing Back the Night/5.jpg"],
     "stock": true
   },
   {
@@ -927,6 +988,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Spleen"],
     "keywords": ["Guilt", "Shame", "Heart", "Love", "Peace", "Evolution"],
+    "images": ["LTOE/Single Orchid Essences/Redemption Dream/1.jpg", "LTOE/Single Orchid Essences/Redemption Dream/2.jpg", "LTOE/Single Orchid Essences/Redemption Dream/3.jpg", "LTOE/Single Orchid Essences/Redemption Dream/4.jpg", "LTOE/Single Orchid Essences/Redemption Dream/5.jpg", "LTOE/Single Orchid Essences/Redemption Dream/6.jpg", "LTOE/Single Orchid Essences/Redemption Dream/7.jpg", "LTOE/Single Orchid Essences/Redemption Dream/8.jpg", "LTOE/Single Orchid Essences/Redemption Dream/9.jpg", "LTOE/Single Orchid Essences/Redemption Dream/10.jpg", "LTOE/Single Orchid Essences/Redemption Dream/11.jpg", "LTOE/Single Orchid Essences/Redemption Dream/12.jpg", "LTOE/Single Orchid Essences/Redemption Dream/13.jpg", "LTOE/Single Orchid Essences/Redemption Dream/14.jpg"],
     "stock": true
   },
   {
@@ -942,6 +1004,7 @@
     "meridians": ["Conception Vessel"],
     "meridiansSecondary": ["Heart Protector"],
     "keywords": ["Karma", "Communication"],
+    "images": ["LTOE/Single Orchid Essences/Releasing Karmic Patterns/1.jpg"],
     "stock": true
   },
   {
@@ -957,14 +1020,15 @@
     "meridians": ["Triple Warmer"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Renewal", "Ancestral Healing"],
+    "images": ["LTOE/Single Orchid Essences/Renewing Life/1.jpg", "LTOE/Single Orchid Essences/Renewing Life/2.jpg"],
     "stock": true
   },
   {
     "company": "Living Tree Orchid Essences",
     "group": "Single Orchid Essences",
     "name": "Rising Against the Dark",
-    "latin": "",
-    "description": ["It is a very timely essence. The sense of encroaching shadows on the wider landscape will tend to cause us each to have an instinctive survival response, which causes us to go within, and also to cut off from our higher energies/chakras. This essence counters that tendency, and brings a sense of strength and constructive moving forward. The way forward becomes clearer.", "Helpful if you feel you are stuck, like walking through treacle. You want to cry but cannot. Loneliness. Wants to take part in life but can’t. Desire to go to bed for the safety and comfort it provides. It breaks through a crust of suppressed emotions and allows issues to be dealt with safely. Gives Heart protection.", "It may cause unusual dreams, and it does cause a degree of anxiety about unresolved issues which one has to ride through - You can’t avoid facing what you have kept hidden. It is a particularly yang essence."],
+    "latin": "Fredclarkeana After Dark",
+    "description": ["It is a very timely essence. The sense of encroaching shadows on the wider landscape will tend to cause us each to have an instinctive survival response, which causes us to go within, and also to cut off from our higher energies/chakras. This essence counters that tendency, and brings a sense of strength and constructive moving forward, to push back against these external shadows. The way forward becomes clearer.", "Helpful if you feel you are stuck, like walking through treacle. You want to cry but cannot. Loneliness. Wants to take part in life but can’t. Desire to go to bed for the safety and comfort it provides. It breaks through a crust of suppressed emotions and allows issues to be dealt with safely. Gives Heart protection.", "It may cause unusual dreams, and it does cause a degree of anxiety about unresolved issues which one has to ride through - You can’t avoid facing what you have kept hidden. It is a particularly yang essence.", "The essence was made with the orchid and 6 pieces of Osidian"],
     "indications": [],
     "effects": [],
     "chakras": [],
@@ -972,6 +1036,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Protection", "Stuck"],
+    "images": ["LTOE/Single Orchid Essences/Rising Against the Dark/1.jpg", "LTOE/Single Orchid Essences/Rising Against the Dark/2.jpg", "LTOE/Single Orchid Essences/Rising Against the Dark/3.jpg", "LTOE/Single Orchid Essences/Rising Against the Dark/4.jpg", "LTOE/Single Orchid Essences/Rising Against the Dark/5.jpg"],
     "stock": false
   },
   {
@@ -987,6 +1052,7 @@
     "meridians": ["Lung"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Beauty", "Seeing"],
+    "images": ["LTOE/Single Orchid Essences/Rising to the Call of Beauty/1.jpg", "LTOE/Single Orchid Essences/Rising to the Call of Beauty/2.jpg", "LTOE/Single Orchid Essences/Rising to the Call of Beauty/3.jpg", "LTOE/Single Orchid Essences/Rising to the Call of Beauty/4.jpg"],
     "stock": true
   },
   {
@@ -1002,6 +1068,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Sensuality/Sexuality", "Heat/Fire/Burns"],
+    "images": ["LTOE/Single Orchid Essences/Rising Flame/1.jpg"],
     "stock": false
   },
   {
@@ -1017,6 +1084,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Kidney"],
     "keywords": ["Release", "Dead Pelvis Syndrome"],
+    "images": ["LTOE/Single Orchid Essences/Sacral Release/1.jpg"],
     "stock": true
   },
   {
@@ -1032,6 +1100,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Kidney"],
     "keywords": ["Compassion", "Wisdom", "Perception", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/Secret Wisdom/1.jpg", "LTOE/Single Orchid Essences/Secret Wisdom/2.jpg", "LTOE/Single Orchid Essences/Secret Wisdom/3.jpg", "LTOE/Single Orchid Essences/Secret Wisdom/4.jpg", "LTOE/Single Orchid Essences/Secret Wisdom/5.jpg"],
     "stock": true
   },
   {
@@ -1047,6 +1116,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Knowledge"],
+    "images": ["LTOE/Single Orchid Essences/Seeds from Time/1.jpg"],
     "stock": false
   },
   {
@@ -1062,6 +1132,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Large Intestine"],
     "keywords": ["Stuck"],
+    "images": ["LTOE/Single Orchid Essences/Serendipity/1.jpg", "LTOE/Single Orchid Essences/Serendipity/2.jpg"],
     "stock": true
   },
   {
@@ -1077,6 +1148,7 @@
     "meridians": ["Large Intestine"],
     "meridiansSecondary": ["Heart Protector"],
     "keywords": ["Perspective", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/Serene Overview (Devata)/1.jpg", "LTOE/Single Orchid Essences/Serene Overview (Devata)/2.jpg"],
     "stock": true
   },
   {
@@ -1092,6 +1164,7 @@
     "meridians": ["Kidney"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Joy", "Focus"],
+    "images": ["LTOE/Single Orchid Essences/Settling with a Smile/1.jpg"],
     "stock": true
   },
   {
@@ -1107,6 +1180,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Shadow"],
+    "images": ["LTOE/Single Orchid Essences/Shadow Descent/1.jpg"],
     "stock": false
   },
   {
@@ -1122,6 +1196,7 @@
     "meridians": ["Ming Men"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Fear", "Shamanism"],
+    "images": ["LTOE/Single Orchid Essences/Shadow Facing/1.jpg", "LTOE/Single Orchid Essences/Shadow Facing/2.jpg"],
     "stock": false
   },
   {
@@ -1137,6 +1212,7 @@
     "meridians": ["Triple Warmer"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Shadow", "Perception"],
+    "images": ["LTOE/Single Orchid Essences/Shadow Warrior/1.jpg", "LTOE/Single Orchid Essences/Shadow Warrior/2.jpg", "LTOE/Single Orchid Essences/Shadow Warrior/3.jpg", "LTOE/Single Orchid Essences/Shadow Warrior/4.jpg", "LTOE/Single Orchid Essences/Shadow Warrior/5.jpg", "LTOE/Single Orchid Essences/Shadow Warrior/6.jpg", "LTOE/Single Orchid Essences/Shadow Warrior/7.jpg", "LTOE/Single Orchid Essences/Shadow Warrior/8.jpg", "LTOE/Single Orchid Essences/Shadow Warrior/9.jpg"],
     "stock": true
   },
   {
@@ -1152,6 +1228,7 @@
     "meridians": ["Large Intestine"],
     "meridiansSecondary": ["Kidney"],
     "keywords": ["Life Purpose", "Spiritual"],
+    "images": ["LTOE/Single Orchid Essences/Shiva's Trident/1.jpg", "LTOE/Single Orchid Essences/Shiva's Trident/2.jpg", "LTOE/Single Orchid Essences/Shiva's Trident/3.jpg", "LTOE/Single Orchid Essences/Shiva's Trident/4.jpg", "LTOE/Single Orchid Essences/Shiva's Trident/5.jpg"],
     "stock": true
   },
   {
@@ -1167,6 +1244,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Protection"],
+    "images": ["LTOE/Single Orchid Essences/Silver Ghost/1.jpg", "LTOE/Single Orchid Essences/Silver Ghost/2.jpg", "LTOE/Single Orchid Essences/Silver Ghost/3.jpg", "LTOE/Single Orchid Essences/Silver Ghost/4.jpg"],
     "stock": false
   },
   {
@@ -1182,6 +1260,7 @@
     "meridians": ["Gall Bladder"],
     "meridiansSecondary": ["Heart Protector"],
     "keywords": ["Angelic", "Communication"],
+    "images": ["LTOE/Single Orchid Essences/Songline/1.jpg", "LTOE/Single Orchid Essences/Songline/2.jpg", "LTOE/Single Orchid Essences/Songline/3.jpg", "LTOE/Single Orchid Essences/Songline/4.jpg"],
     "stock": true
   },
   {
@@ -1197,6 +1276,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Protection", "Energy"],
+    "images": ["LTOE/Single Orchid Essences/Sorcerer's Apprentice/1.jpg"],
     "stock": false
   },
   {
@@ -1212,6 +1292,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Joy", "Beauty", "Playful", "Releasing", "Self-Appreciation"],
+    "images": ["LTOE/Single Orchid Essences/Soul Dancer/1.jpg", "LTOE/Single Orchid Essences/Soul Dancer/2.jpg", "LTOE/Single Orchid Essences/Soul Dancer/3.jpg", "LTOE/Single Orchid Essences/Soul Dancer/4.jpg", "LTOE/Single Orchid Essences/Soul Dancer/5.jpg"],
     "stock": false
   },
   {
@@ -1227,6 +1308,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Sadness"],
+    "images": ["LTOE/Single Orchid Essences/Soul's Grief Release/1.jpg", "LTOE/Single Orchid Essences/Soul's Grief Release/2.jpg"],
     "stock": false
   },
   {
@@ -1242,6 +1324,7 @@
     "meridians": ["Kidney"],
     "meridiansSecondary": ["Large Intestine"],
     "keywords": ["Sensuality/Sexuality", "Dead Pelvis Syndrome"],
+    "images": ["LTOE/Single Orchid Essences/Source of Life/1.jpg", "LTOE/Single Orchid Essences/Source of Life/2.jpg"],
     "stock": true
   },
   {
@@ -1257,6 +1340,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Life Purpose", "Spiritual", "Peace", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/Spiral of Light/1.jpg", "LTOE/Single Orchid Essences/Spiral of Light/2.jpg"],
     "stock": false
   },
   {
@@ -1272,6 +1356,7 @@
     "meridians": ["Ming Men"],
     "meridiansSecondary": ["Bladder"],
     "keywords": ["Love", "Heart"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1287,6 +1372,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Evolution", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": false
   },
   {
@@ -1302,6 +1388,7 @@
     "meridians": ["Spleen"],
     "meridiansSecondary": ["Small Intestine"],
     "keywords": ["Alignment"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1317,6 +1404,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Heart"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": false
   },
   {
@@ -1332,6 +1420,7 @@
     "meridians": ["Lung"],
     "meridiansSecondary": ["Small Intestine"],
     "keywords": ["Shamanism"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1347,6 +1436,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Communication", "Connection", "Spiritual"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": false
   },
   {
@@ -1362,6 +1452,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Love"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": false
   },
   {
@@ -1377,6 +1468,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Stress"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1392,6 +1484,7 @@
     "meridians": ["Large Intestine"],
     "meridiansSecondary": ["Ming Men"],
     "keywords": ["Protection", "Emergency", "Confidence"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1407,6 +1500,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Kidney"],
     "keywords": ["Love"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1422,6 +1516,7 @@
     "meridians": ["Gall Bladder"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Angelic", "Potential", "Wisdom"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1429,7 +1524,7 @@
     "group": "Single Orchid Essences",
     "name": "Vital Clarity",
     "latin": "Phragmipedium besseae variety d’allesandroi, Phragmipedium kovachii & Amethyst",
-    "description": ["Vital Clarity is the 2nd of a sequential trio of essences. Vital Core helps to stir up shadow aspects of the 2nd chakra, while Vital Clarity then helps with the realignment of these energies of the lower body chakras, to bring the foundation of the energy body into alignment with one’s deeper spiritual aspirations. Vital Light is then taken to further the soul’s journey into Divine Light.", "Special dosage options: 1) in the morning - Vital Core , at noon - Vital Clarity , in the evening - Vital Light - 7 drops each for 21 days. 2) 1st day - Vital Core , 2nd day -Vital Clarity , 3rd day - Vital Light - 7 drops at night for 63 days."],
+    "description": ["Vital Clarity is the 2nd of a sequential trio of essences. Vital Core helps to stir up shadow aspects of the 2nd chakra, while Vital Clarity then helps with the realignment of these energies of the lower body chakras, to bring the foundation of the energy body into alignment with one’s deeper spiritual aspirations. Vital Light is then taken to further the soul’s journey into Divine Light.", "Special dosage options: 1) in the morning - Vital Core , at noon - Vital Clarity , in the evening - Vital Light - 7 drops each for 21 days. 2) 1st day - Vital Core , 2nd day -Vital Clarity , 3rd day - Vital Light - 7 drops at night for 63 days.", "This is the story of how the essence Vital Clarity and Vital Light were made: 'This extraordinary orchid, which was only discovered in Peru in 2002, is utterly enticing to any orchid grower. Stunning colour, and a larger bloom size than any other species in the genus, and larger than most orchid blooms entirely. (It can be up to 22cm across, about the size of a dinner plate.) I travelled to Germany 5 years ago, as soon as I heard there were CITES-legal adult size plants available. I was utterly delighted when the plant came into bloom the following year, but despondent when it produced a less-than mediocre essence. Our colleague Adrian told me this orchid was a waste of time. Ouch..! The following year I sent him a photo of it when it came into bloom again, and again he said, nope, nothing there...", "Then in the 3rd year of it blooming, I went out to the greenhouse late one November evening to check on things. I don't often do that. But that evening in the dark greenhouse, I knew something was up the moment I set foot through the door. A distinct presence, like a strong glow or humming came from the area where the kovachii was in bloom. I called Adrian, and took a photo. We had not seen anything like this activity before. Kovachii was active only at night, and its power emerged when it could in effect sing a duet - it was sitting right next to another bloom, Phrag. besseae d’allesandroi. And so I brought both orchids into the house that evening, and set up the bowl with the water, and the essence was formed over the next 6 hours, entirely in the dark of the night. And that was how Vital Clarity and Vital Light were made.'"],
     "indications": [],
     "effects": [],
     "chakras": [],
@@ -1437,6 +1532,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Alignment", "Sacral", "Spiritual"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1452,6 +1548,7 @@
     "meridians": ["Gall Bladder"],
     "meridiansSecondary": ["Bladder"],
     "keywords": ["Sacral", "Dead Pelvis Syndrome"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1467,6 +1564,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Spiritual"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1482,6 +1580,7 @@
     "meridians": ["Gall Bladder"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Commitment", "Life Purpose", "Courage"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1497,6 +1596,7 @@
     "meridians": ["Kidney"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Harmony", "Restoration", "DNA", "EMF"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1512,6 +1612,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Governing Vessel"],
     "keywords": ["Stress", "Love"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1527,6 +1628,7 @@
     "meridians": ["Large Intestine"],
     "meridiansSecondary": ["Stomach"],
     "keywords": ["Life Purpose", "Creativity"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1542,6 +1644,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Liver"],
     "keywords": ["Manifesting", "Presence", "Joy", "Renewal"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": false
   },
   {
@@ -1557,6 +1660,7 @@
     "meridians": ["Lung"],
     "meridiansSecondary": ["Governing Vessel"],
     "keywords": ["Compassion", "Joy", "Optimism", "Meditation"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   },
   {
@@ -1572,6 +1676,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Stomach"],
     "keywords": ["Compassion", "Self-Love"],
+    "images": ["LTOE/Single Orchid Essences/"],
     "stock": true
   }
 ]
