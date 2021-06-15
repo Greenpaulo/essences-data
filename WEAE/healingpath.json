@@ -7,6 +7,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Healing Path/inner_work.gif"],
     "stock": true
   },
   {
@@ -17,6 +18,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Healing Path/healthy_anger.gif"],
     "stock": true
   },
   {
@@ -27,6 +29,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Healing Path/grieving_heart.gif"],
     "stock": true
   },
   {
@@ -37,6 +40,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Healing Path/letting_go.gif"],
     "stock": true
   },
   {
@@ -47,6 +51,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Healing Path/gratitude.gif"],
     "stock": true
   },
   {
@@ -57,6 +62,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Healing Path/wild_freedom.gif"],
     "stock": true
   },
   {
@@ -67,6 +73,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Healing Path/communion_with_god.gif"],
     "stock": true
   }
 ]

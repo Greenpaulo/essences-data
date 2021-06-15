@@ -7,6 +7,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Shadow", "Confidence"],
+    "images": ["WEAE/Single Essences/bat.jpeg"],
     "stock": true
   },
   {
@@ -17,6 +18,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Grounding", "Power", "Strengthening"],
+    "images": ["WEAE/Single Essences/bear.jpeg"],
     "stock": true
   },
   {
@@ -27,6 +29,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Creativity", "Planning", "Problem Solving"],
+    "images": ["WEAE/Single Essences/beaver.jpg"],
     "stock": true
   },
   {
@@ -37,6 +40,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Grounding", "Spiritual", "Peace", "Gratitude"],
+    "images": ["WEAE/Single Essences/buffalo.jpeg"],
     "stock": true
   },
   {
@@ -47,6 +51,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Confidence", "Power", "Strengthening"],
+    "images": ["WEAE/Single Essences/bumblebee.jpeg"],
     "stock": true
   },
   {
@@ -57,6 +62,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Transformation", "Transition", "Letting Go", "Trust", "Grace", "Harmony"],
+    "images": ["WEAE/Single Essences/butterfly.jpeg"],
     "stock": true
   },
   {
@@ -67,6 +73,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Spiritual"],
+    "images": ["WEAE/Single Essences/canada_goose.jpeg"],
     "stock": true
   },
   {
@@ -77,6 +84,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Stuck", "Efficiency", "Focus", "Overwork"],
+    "images": ["WEAE/Single Essences/cheetah.jpeg"],
     "stock": true
   },
   {
@@ -87,6 +95,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Joy", "Socialising", "Playful", "Community"],
+    "images": ["WEAE/Single Essences/chimpanzee.jpeg"],
     "stock": true
   },
   {
@@ -97,6 +106,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Shamanism"],
+    "images": ["WEAE/Single Essences/crow.jpeg"],
     "stock": true
   },
   {
@@ -107,6 +117,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Peace", "Presence", "Seeing", "Humility", "Letting Go"],
+    "images": ["WEAE/Single Essences/deer.jpeg"],
     "stock": true
   },
   {
@@ -117,6 +128,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Playful", "Joy", "Love", "Compassion", "Transformation", "Dreaming", "Telepathy"],
+    "images": ["WEAE/Single Essences/dolphin.jpeg"],
     "stock": true
   },
   {
@@ -127,6 +139,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Peace", "Presence"],
+    "images": ["WEAE/Single Essences/dove.jpeg"],
     "stock": true
   },
   {
@@ -137,6 +150,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Spiritual", "Relaxation"],
+    "images": ["WEAE/Single Essences/dragonfly.jpeg"],
     "stock": true
   },
   {
@@ -147,6 +161,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Perspective", "Truth", "Vision", "Creativity", "Higher Self"],
+    "images": ["WEAE/Single Essences/eagle.jpeg"],
     "stock": true
   },
   {
@@ -157,6 +172,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Grounding", "Telepathy", "Remembering", "Leadership"],
+    "images": ["WEAE/Single Essences/elephant.jpeg"],
     "stock": true
   },
   {
@@ -167,6 +183,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Problem Solving", "Independence", "Authority"],
+    "images": ["WEAE/Single Essences/fox.jpeg"],
     "stock": true
   },
   {
@@ -177,6 +194,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Perception", "Trust", "Change"],
+    "images": ["WEAE/Single Essences/frog.jpeg"],
     "stock": true
   },
   {
@@ -187,6 +205,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Vulnerability", "Safety"],
+    "images": ["WEAE/Single Essences/gazelle.jpeg"],
     "stock": true
   },
   {
@@ -197,6 +216,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Perspective", "Vision"],
+    "images": ["WEAE/Single Essences/giraffe.jpeg"],
     "stock": true
   },
   {
@@ -207,6 +227,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Grounding", "Emotions"],
+    "images": ["WEAE/Single Essences/hippopotamus.jpeg"],
     "stock": true
   },
   {
@@ -217,6 +238,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Joy", "Purification", "Courage"],
+    "images": ["WEAE/Single Essences/hummingbird.jpeg"],
     "stock": true
   },
   {
@@ -227,6 +249,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Shamanism", "Unity", "Grounding"],
+    "images": ["WEAE/Single Essences/jaguar.jpeg"],
     "stock": true
   },
   {
@@ -237,6 +260,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Confidence", "Power", "Leadership", "Courage"],
+    "images": ["WEAE/Single Essences/lion.jpeg"],
     "stock": true
   },
   {
@@ -247,6 +271,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Action", "Manifesting", "Confidence"],
+    "images": ["WEAE/Single Essences/mountain_lion.jpeg"],
     "stock": true
   },
   {
@@ -257,6 +282,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Playful", "Overserious", "Joy", "Freedom"],
+    "images": ["WEAE/Single Essences/otter.jpeg"],
     "stock": true
   },
   {
@@ -267,6 +293,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Wisdom", "Seeing", "Intuition", "Clarity"],
+    "images": ["WEAE/Single Essences/owl.jpeg"],
     "stock": true
   },
   {
@@ -277,6 +304,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Authority", "Confidence", "Self-Esteem/Self-Worth", "Beauty"],
+    "images": ["WEAE/Single Essences/peacock.jpeg"],
     "stock": true
   },
   {
@@ -287,6 +315,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Grounding", "Action"],
+    "images": ["WEAE/Single Essences/polar_bear.jpeg"],
     "stock": true
   },
   {
@@ -297,6 +326,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Abundance", "Creativity", "Manifesting"],
+    "images": ["WEAE/Single Essences/rabbit.jpeg"],
     "stock": true
   },
   {
@@ -307,6 +337,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Shadow", "Transition"],
+    "images": ["WEAE/Single Essences/raccoon.jpeg"],
     "stock": true
   },
   {
@@ -317,6 +348,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Self-Love", "Parenting", "Harmony", "Hope/Hopelessness"],
+    "images": ["WEAE/Single Essences/robin.jpeg"],
     "stock": true
   },
   {
@@ -327,6 +359,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Shamanism", "Power", "Presence"],
+    "images": ["WEAE/Single Essences/salamander.jpeg"],
     "stock": true
   },
   {
@@ -337,6 +370,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Spiritual"],
+    "images": ["WEAE/Single Essences/salmon.jpeg"],
     "stock": true
   },
   {
@@ -347,6 +381,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Effortlessness", "Overwork", "Self-Esteem/Self-Worth", "Worry"],
+    "images": ["WEAE/Single Essences/seal.jpeg"],
     "stock": true
   },
   {
@@ -357,6 +392,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Shamanism", "Transformation"],
+    "images": ["WEAE/Single Essences/snake.jpeg"],
     "stock": true
   },
   {
@@ -367,6 +403,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Connection", "Wisdom"],
+    "images": ["WEAE/Single Essences/spider.jpeg"],
     "stock": true
   },
   {
@@ -377,6 +414,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Overwork", "Playful", "Planning"],
+    "images": ["WEAE/Single Essences/squirrel.jpeg"],
     "stock": true
   },
   {
@@ -387,6 +425,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Self-Love", "Self-Esteem/Self-Worth", "Grace", "Beauty"],
+    "images": ["WEAE/Single Essences/swan.jpeg"],
     "stock": true
   },
   {
@@ -397,6 +436,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Presence", "Focus", "Strengthening", "Power"],
+    "images": ["WEAE/Single Essences/tiger.jpeg"],
     "stock": true
   },
   {
@@ -407,6 +447,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Grounding", "Protection", "Safety", "Presence"],
+    "images": ["WEAE/Single Essences/turtle.jpeg"],
     "stock": true
   },
   {
@@ -417,6 +458,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Spiritual", "Perspective"],
+    "images": ["WEAE/Single Essences/whale.jpeg"],
     "stock": true
   },
   {
@@ -427,6 +469,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Heart", "Depression"],
+    "images": ["WEAE/Single Essences/wild_horse.jpeg"],
     "stock": true
   },
   {
@@ -437,6 +480,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Truth", "Relationships", "Loneliness", "Isolation", "Community"],
+    "images": ["WEAE/Single Essences/wolf.jpeg"],
     "stock": true
   },
   {
@@ -447,6 +491,7 @@
     "indications": [],
     "effects": [],
     "keywords": ["Integration", "Truth", "Community"],
+    "images": ["WEAE/Single Essences/zebra.jpeg"],
     "stock": true
   }
 ]

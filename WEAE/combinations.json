@@ -7,6 +7,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Combinations/joyful_work.png"],
     "stock": true
   },
   {
@@ -17,6 +18,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Combinations/playtime.png"],
     "stock": true
   },
   {
@@ -27,6 +29,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Combinations/saved_by_the_animals.png"],
     "stock": true
   },
   {
@@ -37,6 +40,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Combinations/supreme_confidence.png"],
     "stock": true
   },
   {
@@ -47,6 +51,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Combinations/sharing_love.jpeg"],
     "stock": true
   },
   {
@@ -57,6 +62,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Combinations/loving_compassion.jpeg"],
     "stock": true
   },
   {
@@ -67,6 +73,7 @@
     "indications": [],
     "effects": [],
     "keywords": [],
+    "images": ["WEAE/Combinations/loving_service.jpeg"],
     "stock": true
   }
 ]

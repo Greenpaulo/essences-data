@@ -10,6 +10,7 @@
     "meridians": ["Liver", "Gall Bladder"],
     "elements": ["Wood"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Wood Deficient/wood.jpeg", "Bailey/Acupuncture Set/Wood Deficient/Lilac.jpeg", "Bailey/Acupuncture Set/Wood Deficient/Lily-of-the-Valley.jpeg", "Bailey/Acupuncture Set/Wood Deficient/Oak.jpeg", "Bailey/Acupuncture Set/Wood Deficient/Soapwort.jpeg", "Bailey/Acupuncture Set/Wood Deficient/Spring-Squill.jpeg", "Bailey/Acupuncture Set/Wood Deficient/Welsh-Poppy.jpeg"],
     "stock": true
   },
   {
@@ -23,6 +24,7 @@
     "meridians": ["Liver", "Gall Bladder"],
     "elements": ["Wood"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Wood Excess/wood.jpeg", "Bailey/Acupuncture Set/Wood Excess/Leopardsbane.jpeg", "Bailey/Acupuncture Set/Wood Excess/Nasturtium.jpeg", "Bailey/Acupuncture Set/Wood Excess/Red-Poppy.jpeg", "Bailey/Acupuncture Set/Wood Excess/Scarlett-Pimpernell.jpeg"],
     "stock": true
   },
   {
@@ -36,6 +38,7 @@
     "meridians": ["Heart", "Heart Protector", "Triple Warmer", "Small Intestine"],
     "elements": ["Fire"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Fire Deficient/fire.jpeg", "Bailey/Acupuncture Set/Fire Deficient/Buttercup.jpeg", "Bailey/Acupuncture Set/Fire Deficient/Heath-Bedstraw.jpeg", "Bailey/Acupuncture Set/Fire Deficient/Oxalis.jpeg", "Bailey/Acupuncture Set/Fire Deficient/Sacred-Lotus.jpeg"],
     "stock": true
   },
   {
@@ -49,6 +52,7 @@
     "meridians": ["Heart", "Heart Protector", "Triple Warmer", "Small Intestine"],
     "elements": ["Fire"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Fire Excess/fire.jpeg", "Bailey/Acupuncture Set/Fire Excess/Bluebell.jpeg", "Bailey/Acupuncture Set/Fire Excess/Firethorn.jpeg", "Bailey/Acupuncture Set/Fire Excess/Magnolia.jpeg", "Bailey/Acupuncture Set/Fire Excess/Sea-Campion.jpeg"],
     "stock": true
   },
   {
@@ -62,6 +66,7 @@
     "meridians": ["Stomach", "Spleen"],
     "elements": ["Earth"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Earth Deficient/earth.jpeg", "Bailey/Acupuncture Set/Earth Deficient/Bog-Asphodel.jpeg", "Bailey/Acupuncture Set/Earth Deficient/Holly-Leaf.jpeg", "Bailey/Acupuncture Set/Earth Deficient/Ivy.jpeg", "Bailey/Acupuncture Set/Earth Deficient/Milk-Thistle.jpeg"],
     "stock": true
   },
   {
@@ -75,6 +80,7 @@
     "meridians": ["Stomach", "Spleen"],
     "elements": ["Earth"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Earth Excess/earth.jpeg", "Bailey/Acupuncture Set/Earth Excess/Bladder-Senna.jpeg", "Bailey/Acupuncture Set/Earth Excess/Dog-Rose.jpeg", "Bailey/Acupuncture Set/Earth Excess/Hairy-Sedge.jpeg", "Bailey/Acupuncture Set/Earth Excess/Lichen.jpeg", "Bailey/Acupuncture Set/Earth Excess/Mediterranean-Sage.jpeg"],
     "stock": true
   },
   {
@@ -88,6 +94,7 @@
     "meridians": ["Lung", "Large Intestine"],
     "elements": ["Metal"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Metal Deficient/metal.jpeg", "Bailey/Acupuncture Set/Metal Deficient/Bistort.jpeg", "Bailey/Acupuncture Set/Metal Deficient/Bracken-Alc.jpeg", "Bailey/Acupuncture Set/Metal Deficient/Charlock.jpeg", "Bailey/Acupuncture Set/Metal Deficient/Indian-Balsam.jpeg", "Bailey/Acupuncture Set/Metal Deficient/Ragwort.jpeg"],
     "stock": true
   },
   {
@@ -101,6 +108,7 @@
     "meridians": ["Lung", "Large Intestine"],
     "elements": ["Metal"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Metal Excess/metal.jpeg", "Bailey/Acupuncture Set/Metal Excess/Blackthorn.jpeg", "Bailey/Acupuncture Set/Metal Excess/Bracken-Alc.jpeg", "Bailey/Acupuncture Set/Metal Excess/Cymbidium-Orchid.jpeg"],
     "stock": true
   },
   {
@@ -114,6 +122,7 @@
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Water Deficient/water.jpeg", "Bailey/Acupuncture Set/Water Deficient/Betony.jpeg", "Bailey/Acupuncture Set/Water Deficient/Bladder-Senna.jpeg", "Bailey/Acupuncture Set/Water Deficient/Compact-Rush.jpeg", "Bailey/Acupuncture Set/Water Deficient/Cyprus-Rock-Rose.jpeg"],
     "stock": true
   },
   {
@@ -127,6 +136,7 @@
     "meridians": ["Kidney", "Bladder"],
     "elements": ["Water"],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Water Excess/water.jpeg", "Bailey/Acupuncture Set/Water Excess/Dwarf-Purple-Vetch.jpeg", "Bailey/Acupuncture Set/Water Excess/Flowering-Current.jpeg", "Bailey/Acupuncture Set/Water Excess/Fuji-Cherry.jpeg", "Bailey/Acupuncture Set/Water Excess/White-Lotus.jpeg", "Bailey/Acupuncture Set/Water Excess/Yorkshire-Fog.jpeg"],
     "stock": true
   },
   {
@@ -140,6 +150,7 @@
     "meridians": [],
     "elements": [],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Energy Liberator/Early-Purple-Orchid.jpeg", "Bailey/Acupuncture Set/Energy Liberator/Monks-Hood.jpeg", "Bailey/Acupuncture Set/Energy Liberator/Wood-Anemone.jpeg"],
     "stock": true
   },
   {
@@ -153,6 +164,7 @@
     "meridians": [],
     "elements": [],
     "keywords": [],
+    "images": ["Bailey/Acupuncture Set/Yin Yang Balancer/Delphinium.jpeg", "Bailey/Acupuncture Set/Yin Yang Balancer/Honesty.jpeg", "Bailey/Acupuncture Set/Yin Yang Balancer/Larch.jpeg", "Bailey/Acupuncture Set/Yin Yang Balancer/Nasturtium.jpeg", "Bailey/Acupuncture Set/Yin Yang Balancer/Red-Clover.jpeg", "Bailey/Acupuncture Set/Yin Yang Balancer/Siberian-Spruce.jpeg"],
     "stock": true
   }
 ]
