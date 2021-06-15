@@ -12,6 +12,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Heart Protector"],
     "keywords": ["Stress", "Fatigue", "Transition"],
+    "images": ["LTOE/Combinations/active_serenity.jpg"],
     "stock": true
   },
   {
@@ -27,6 +28,7 @@
     "meridians": ["Stomach"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Presence", "Travel"],
+    "images": ["LTOE/Combinations/being_present.jpg"],
     "stock": true
   },
   {
@@ -42,6 +44,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Evolution", "Fear"],
+    "images": ["LTOE/Combinations/being_within.jpg"],
     "stock": false
   },
   {
@@ -57,6 +60,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Meditation", "Higher Self"],
+    "images": ["LTOE/Combinations/clarity_of_connection.jpg"],
     "stock": false  
   },
   {
@@ -72,6 +76,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Ming Men"],
     "keywords": ["Meditation", "Protection", "Higher Self"],
+    "images": ["LTOE/Combinations/celestial_defender.jpg"],
     "stock": true
   },
   {
@@ -87,6 +92,7 @@
     "meridians": ["Large Intestine"],
     "meridiansSecondary": ["Conception Vessel"],
     "keywords": ["Space Clearing", "Cleansing"],
+    "images": ["LTOE/Combinations/clearing_and_releasing.jpg"],
     "stock": true
   },
   {
@@ -102,6 +108,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Grounding", "Relaxation", "Ancestral Healing"],
+    "images": ["LTOE/Combinations/coming_home.jpg"],
     "stock": true
   },
   {
@@ -117,6 +124,7 @@
     "meridians": ["Bladder"],
     "meridiansSecondary": ["Stomach"],
     "keywords": ["Protection"],
+    "images": ["LTOE/Combinations/defend_and_protect.jpg"],
     "stock": true
   },
   {
@@ -132,6 +140,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Cleansing"],
+    "images": ["LTOE/Combinations/defend_protect_purify.jpg"],
     "stock": false
   },
   {
@@ -147,6 +156,7 @@
     "meridians": ["Conception Vessel"],
     "meridiansSecondary": ["Liver"],
     "keywords": ["Vision", "Meditation"],
+    "images": ["LTOE/Combinations/defender_of_the_light.jpg"],
     "stock": true
   },
   {
@@ -162,6 +172,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Governing Vessel"],
     "keywords": ["Sensuality/Sexuality", "Dead Pelvis Syndrome"],
+    "images": ["LTOE/Combinations/defender_of_the_source.jpg"],
     "stock": true
   },
   {
@@ -177,6 +188,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Emergency", "Exhaustion"],
+    "images": ["LTOE/Combinations/double_espresso.jpg"],
     "stock": true
   },
   {
@@ -192,6 +204,7 @@
     "meridians": ["Liver"],
     "meridiansSecondary": ["Heart Protector"],
     "keywords": ["Detoxification", "Protection", "Restoration", "DNA", "EMF"],
+    "images": ["LTOE/Combinations/energy_matrix_protection2.jpg", "LTOE/Combinations/energy_matrix_protection.jpg"],
     "stock": true
   },
   {
@@ -207,6 +220,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Courage", "Potential"],
+    "images": ["LTOE/Combinations/fruits_of_courage.jpg"],
     "stock": false
   },
   {
@@ -222,6 +236,7 @@
     "meridians": ["Small Intestine"],
     "meridiansSecondary": ["Liver"],
     "keywords": ["Stress"],
+    "images": ["LTOE/Combinations/gentle_geisha.jpg"],
     "stock": true
   },
   {
@@ -237,6 +252,7 @@
     "meridians": ["Heart Protector"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Sleep"],
+    "images": ["LTOE/Combinations/gentle_sleep.jpg"],
     "stock": true
   },
   {
@@ -252,6 +268,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Stress", "Happiness"],
+    "images": ["LTOE/Combinations/happy_relief.jpg"],
     "stock": true
   },
   {
@@ -267,6 +284,7 @@
     "meridians": ["Gall Bladder"],
     "meridiansSecondary": ["Lung"],
     "keywords": ["Releasing", "Grief"],
+    "images": ["LTOE/Combinations/heyoka.jpg"],
     "stock": true
   },
   {
@@ -282,6 +300,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Heart"],
+    "images": ["LTOE/Combinations/heart_time.jpg"],
     "stock": false
   },
   {
@@ -297,6 +316,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Spiritual", "Meditation", "Self-Esteem/Self-Worth"],
+    "images": ["LTOE/Combinations/highest_reflection.jpg"],
     "stock": false
   },
   {
@@ -312,6 +332,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Support", "Shock", "Emergency"],
+    "images": ["LTOE/Combinations/immediate_relief.jpg"],
     "stock": true
   },
   {
@@ -327,6 +348,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Self-Esteem/Self-Worth", "Astrology"],
+    "images": ["LTOE/Combinations/just_center.jpg"],
     "stock": false
   },
   {
@@ -342,6 +364,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Karma", "Releasing"],
+    "images": ["LTOE/Combinations/karmic_calm.jpg"],
     "stock": false
   },
   {
@@ -357,6 +380,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Study"],
+    "images": ["LTOE/Combinations/knowing.jpg"],
     "stock": false
   },
   {
@@ -372,6 +396,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Menopause", "Pre-Menstrual"],
+    "images": ["LTOE/Combinations/life_cycle_renewal.jpg"],
     "stock": true
   },
   {
@@ -387,6 +412,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Spiritual", "Astrology"],
+    "images": ["LTOE/Combinations/light_of_the_soul.jpg"],
     "stock": false
   },
   {
@@ -402,6 +428,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Overwork", "Stress"],
+    "images": ["LTOE/Combinations/light_relief.jpg"],
     "stock": false
   },
   {
@@ -417,6 +444,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Heart"],
     "keywords": ["Inner Child", "Self-Love", "Self-Esteem/Self-Worth"],
+    "images": ["LTOE/Combinations/love_beyond_love.jpg"],
     "stock": true
   },
   {
@@ -432,6 +460,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Meditation"],
+    "images": ["LTOE/Combinations/meditation.jpg"],
     "stock": false
   },
   {
@@ -447,6 +476,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Small Intestine"],
     "keywords": ["Memory", "Study"],
+    "images": ["LTOE/Combinations/memory_enhancer.jpg"],
     "stock": true
   },
   {
@@ -462,6 +492,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Stomach"],
     "keywords": ["Playful", "Joy"],
+    "images": ["LTOE/Combinations/party_time.jpg"],
     "stock": true
   },
   {
@@ -477,6 +508,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Abundance"],
+    "images": ["LTOE/Combinations/positive_flow.jpg"],
     "stock": true
   },
   {
@@ -492,6 +524,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Life Purpose", "Abundance"],
+    "images": ["LTOE/Combinations/revelation.jpg"],
     "stock": false
   },
   {
@@ -507,6 +540,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Fatigue", "Vitality"],
+    "images": ["LTOE/Combinations/revitalise.jpg"],
     "stock": false
   },
   {
@@ -522,6 +556,7 @@
     "meridians": ["Large Intestine"],
     "meridiansSecondary": ["Small Intestine"],
     "keywords": ["Sacral", "Sensuality/Sexuality", "Dead Pelvis Syndrome"],
+    "images": ["LTOE/Combinations/sacral_regulator.jpg"],
     "stock": true
   },
   {
@@ -537,6 +572,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Grief"],
+    "images": ["LTOE/Combinations/self_renewal.jpg"],
     "stock": false
   },
   {
@@ -552,6 +588,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Fatigue"],
+    "images": ["LTOE/Combinations/serene_power.jpg"],
     "stock": false
   },
   {
@@ -567,6 +604,7 @@
     "meridians": ["Bladder"],
     "meridiansSecondary": ["Governing Vessel"],
     "keywords": ["Protection", "Shadow"],
+    "images": ["LTOE/Combinations/shadow_defense.jpg"],
     "stock": true
   },
   {
@@ -582,6 +620,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Protection", "Courage", "Emergency"],
+    "images": ["LTOE/Combinations/shield_of_light.jpg"],
     "stock": true
   },
   {
@@ -597,6 +636,7 @@
     "meridians": ["Liver"],
     "meridiansSecondary": ["Spleen"],
     "keywords": ["Life Purpose", "Spiritual"],
+    "images": ["LTOE/Combinations/shivas_crown.jpg"],
     "stock": true
   },
   {
@@ -612,6 +652,7 @@
     "meridians": ["Triple Warmer"],
     "meridiansSecondary": ["Heart Protector"],
     "keywords": ["Sleep"],
+    "images": ["LTOE/Combinations/sleep_of_peace.jpg"],
     "stock": true
   },
   {
@@ -627,6 +668,7 @@
     "meridians": ["Governing Vessel"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Inner Child", "Alienation"],
+    "images": ["LTOE/Combinations/solus.jpg"],
     "stock": true
   },
   {
@@ -642,6 +684,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Reassurance"],
+    "images": ["LTOE/Combinations/souls_balm.jpg"],
     "stock": false
   },
   {
@@ -657,6 +700,7 @@
     "meridians": ["Kidney"],
     "meridiansSecondary": ["Stomach"],
     "keywords": ["Protection"],
+    "images": ["LTOE/Combinations/soul_shield.jpg"],
     "stock": true
   },
   {
@@ -672,6 +716,7 @@
     "meridians": ["Stomach"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Ancestral Healing", "Truth", "Evolution"],
+    "images": ["LTOE/Combinations/spirit_of_life.jpg"],
     "stock": true
   },
   {
@@ -687,6 +732,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Higher Self"],
+    "images": ["LTOE/Combinations/spirit_path_1.jpg"],
     "stock": false
   },
   {
@@ -702,6 +748,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Higher Self"],
+    "images": ["LTOE/Combinations/spirit_path_2.jpg"],
     "stock": false
   },
   {
@@ -717,6 +764,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Higher Self"],
+    "images": ["LTOE/Combinations/spirit_path_3.jpg"],
     "stock": false
   },
   {
@@ -732,6 +780,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Stress", "Nervous System"],
+    "images": ["LTOE/Combinations/sympathetic.jpg"],
     "stock": false
   },
   {
@@ -747,6 +796,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Stress", "Nervous System"],
+    "images": ["LTOE/Combinations/sympathetic_p.jpg"],
     "stock": false
   },
   {
@@ -762,6 +812,7 @@
     "meridians": ["Liver"],
     "meridiansSecondary": ["Kidney"],
     "keywords": ["Blockage to Healing"],
+    "images": ["LTOE/Combinations/temple_of_light.jpg"],
     "stock": true
   },
   {
@@ -777,6 +828,7 @@
     "meridians": ["Heart"],
     "meridiansSecondary": ["Large Intestine"],
     "keywords": ["Blockage to Healing"],
+    "images": ["LTOE/Combinations/temple_of_light_5.jpg"],
     "stock": true
   },
   {
@@ -792,6 +844,7 @@
     "meridians": [],
     "meridiansSecondary": [],
     "keywords": ["Beauty", "Self-Appreciation"],
+    "images": ["LTOE/Combinations/true_beauty.jpg"],
     "stock": false
   },
   {
@@ -807,6 +860,7 @@
     "meridians": ["Bladder"],
     "meridiansSecondary": ["Triple Warmer"],
     "keywords": ["Life Purpose", "Sacral", "Dead Pelvis Syndrome"],
+    "images": ["LTOE/Combinations/vital_defense.jpg"],
     "stock": true
   },
   {
@@ -822,6 +876,7 @@
     "meridians": ["Ming Men"],
     "meridiansSecondary": ["Gall Bladder"],
     "keywords": ["Stamina"],
+    "images": ["LTOE/Combinations/vital_lift.jpg"],
     "stock": true
   }
 ]

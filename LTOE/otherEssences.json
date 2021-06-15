@@ -9,6 +9,7 @@
     "effects": [],
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown"],
     "keywords": ["Balance"],
+    "images": ["LTOE/Other Essences/achord.jpg"],
     "stock": false
   },
   {
@@ -21,6 +22,7 @@
     "effects": [],
     "chakras": [],
     "keywords": [],
+    "images": ["LTOE/Other Essences/childs_play.jpg"],
     "stock": true
   },
   {
@@ -36,6 +38,7 @@
     "meridians": ["Conception Vessel"],
     "meridiansSecondary": ["Bladder"],
     "keywords": ["Gardening", "Nature", "Restoration", "DNA", "Psychic Developement"],
+    "images": ["LTOE/Other Essences/narnia_sphagnum_moss.jpg"],
     "stock": true
   }
 ]

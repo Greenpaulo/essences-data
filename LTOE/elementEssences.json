@@ -11,6 +11,7 @@
     "meridians": [],
     "elements": ["Wood"],
     "keywords": ["Joy", "Stress"],
+    "images": ["LTOE/Element Essences/air.jpg"],
     "stock": false
   },
   {
@@ -25,6 +26,7 @@
     "meridians": [],
     "elements": [],
     "keywords": ["Abundance", "Sensuality/Sexuality", "Strengthening", "Power", "Creativity"],
+    "images": ["LTOE/Element Essences/crystal.jpg"],
     "stock": false
   },
   {
@@ -39,6 +41,7 @@
     "meridians": [],
     "elements": ["Earth"],
     "keywords": ["Grounding", "Stability", "Sleep"],
+    "images": ["LTOE/Element Essences/earth.jpg"],
     "stock": false
   },
   {
@@ -53,6 +56,7 @@
     "meridians": [],
     "elements": ["Fire"],
     "keywords": ["Cleansing", "Karma", "Anger", "Heat/Fire/Burns"],
+    "images": ["LTOE/Element Essences/fire.jpg"],
     "stock": false
   },
   {
@@ -67,6 +71,7 @@
     "meridians": [],
     "elements": ["Water"],
     "keywords": ["Purification", "Heat/Fire/Burns"],
+    "images": ["LTOE/Element Essences/water.jpg"],
     "stock": false
   },
   {
@@ -81,6 +86,7 @@
     "meridians": [],
     "elements": ["Wood"],
     "keywords": ["Nature", "Gardening", "Perspective"],
+    "images": ["LTOE/Element Essences/wood.jpg"],
     "stock": false
   },
   {
@@ -95,6 +101,7 @@
     "meridians": ["Gall Bladder"],
     "elements": ["Metal"],
     "keywords": ["Bitterness", "Victim"],
+    "images": ["LTOE/Element Essences/metal.jpg"],
     "stock": false
   }
 ]
