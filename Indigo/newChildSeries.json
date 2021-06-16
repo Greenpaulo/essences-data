@@ -7,6 +7,7 @@
     "indications": ["fear", "closed heart", "energy block", "stuck energy"],
     "effects": [],
     "keywords": ["Fear", "Heart", "Peace"],
+    "images": ["Indigo/azurite.png"],
     "stock": true
   },
   {
@@ -17,6 +18,7 @@
     "indications": ["for broken dreams", "lack of trust", "fear of friendship"],
     "effects": [],
     "keywords": ["Truth", "Perception", "Joy", "Trust", "Belief"],
+    "images": ["Indigo/calcite.png"],
     "stock": true
   },
   {
@@ -27,6 +29,7 @@
     "indications": ["for fear", "loneliness", "feeling lost"],
     "effects": [],
     "keywords": ["Fear", "Peace", "Addictions", "Obsessive", "Loneliness"],
+    "images": ["Indigo/charoite.png"],
     "stock": true
   },
   {
@@ -37,6 +40,7 @@
     "indications": ["for when you're afraid to speak", "unsettled", "scared"],
     "effects": [],
     "keywords": ["Safety", "Expression", "Unsettled"],
+    "images": ["Indigo/chrysocolla_gem_silica.png"],
     "stock": true
   },
   {
@@ -47,6 +51,7 @@
     "indications": ["for when you feel dizzy", "stressed", "thinking too much"],
     "effects": [],
     "keywords": ["Grounding", "Support", "Stress", "Letting Go"],
+    "images": ["Indigo/hematite.png"],
     "stock": true
   },
   {
@@ -57,6 +62,7 @@
     "indications": ["for when you feel sad", "heavy", "depressed"],
     "effects": [],
     "keywords": ["Depression", "Joy", "Sadness"],
+    "images": ["Indigo/hiddenite_and_kunzite.png"],
     "stock": true
   },
   {
@@ -67,6 +73,7 @@
     "indications": ["for when you feel sick", "tired", "unbalanced"],
     "effects": [],
     "keywords": ["Strengthing", "Fatigue", "Balance", "Determination"],
+    "images": ["Indigo/isis.png"],
     "stock": true
   },
   {
@@ -77,6 +84,7 @@
     "indications": ["for when you feel unfocussed", "all over the place", "lacking ‘yang’ energy"],
     "effects": [],
     "keywords": ["Focus", "Grounding"],
+    "images": [],
     "stock": true
   },
   {
@@ -87,6 +95,7 @@
     "indications": ["for when you feel I hate myself", "I blame myself", "I don’t trust myself"],
     "effects": [],
     "keywords": ["Self-Love", "Self-Esteem/Self-Worth"],
+    "images": ["Indigo/larimar_and_rose_quartz.png"],
     "stock": true
   },
   {
@@ -97,6 +106,7 @@
     "indications": ["for when you feel under too much presssure", "weight on chest"],
     "effects": [],
     "keywords": ["Tension", "Letting Go"],
+    "images": ["Indigo/lepidolite.png"],
     "stock": true
   },
   {
@@ -107,6 +117,7 @@
     "indications": ["for when you don’t know what to believe"],
     "effects": [],
     "keywords": ["Truth", "Clarity", "Detoxification"],
+    "images": ["Indigo/pyrite.png"],
     "stock": true
   },
   {
@@ -117,6 +128,7 @@
     "indications": ["for when you feel fear of men", "fear of being male", "imbalance of yang energy"],
     "effects": [],
     "keywords": ["Ancestral Healing", "Abuse", "Fear", "Masculine"],
+    "images": ["Indigo/ruby_with_kyanite_1.png"],
     "stock": true
   },
   {
@@ -127,6 +139,7 @@
     "indications": ["for when you feel fear of being female", "fear of women", "imbalance of yin energy"],
     "effects": [],
     "keywords": ["Ancestral Healing", "Fear", "Feminine"],
+    "images": ["Indigo/ruby_with_kyanite_2.png"],
     "stock": true
   },
   {
@@ -137,6 +150,7 @@
     "indications": ["for when you feel stiff/stuck", "afraid of change"],
     "effects": [],
     "keywords": ["Letting Go", "Trust", "Evolution", "Intuition"],
+    "images": ["Indigo/selenite.png"],
     "stock": true
   }
 ]
