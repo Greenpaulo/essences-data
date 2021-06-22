@@ -6,7 +6,7 @@
     "description": ["Aids in releasing negative beliefs, family patterns, sabotage and fear of lack. In so doing, it allows you to be open to fully receiving great riches on all levels, not just financial", "Contains: Bluebell, Boab, Christmas Bell, Five Corners, Philotheca, Pink Flannel Flower, Southern Cross and Sunshine Wattle."],
     "indications": ["Pessimistic",  "Closed to receiving", "Fear of lack", "Poverty consciousness"],
     "effects": ["Joyful sharing", "Belief in abundance", "Clears financial sabotage patterns", "Universal trust"],
-    "keywords": ["Abundance"],
+    "keywords": ["Abundance", "Fear", "Receptivity"],
     "images": ["ABFE/Combinations/abund.jpg"],
     "stock": true
   },
@@ -17,7 +17,7 @@
     "description": ["Addresses the major issues teenagers commonly experience. It enhances acceptance of self, communication, social skills, harmony in relationships, maturity, emotional stability, and optimism.", "Contains: Billy Goat Plum, Boab, Bottlebrush, Dagger Hakea, Five Corners, Flannel Flower, Kangaroo Paw, Red Helmet Orchid, Southern Cross, Sunshine Wattle and Tall Yellow Top."],
     "indications": ["Feeling of pessimism", "Insensitive", "Sense of not belonging", "'It's not fair' attitude", "Embarrassment", "Rebellious", "Anger"],
     "effects": ["Coping with change", "Consideration of others", "Enhances communication", "Self Esteem"],
-    "keywords": [""],
+    "keywords": ["Teenagers"],
     "images": ["ABFE/Combinations/adol.jpg"],
     "stock": true
   },
@@ -28,7 +28,7 @@
     "description": ["This essence has been specifically formulated to support and boost you through changing and challenging times.", "Contains: Bottlebrush, Bush Iris, Crowea, Dog Rose, Fringed Violet, Illawarra Flame Tree, Sturt Desert Pea, Sundew."],
     "indications": ["Overwhelmed by change", "Feeling 'out of sorts'", "Overly sensitive to others or to the negative energies of situations or environments"],
     "effects": ["Resilience", "Calm & balanced", "Feeling safe and reassured", "Coping with change", "Grounded", "Courage"],
-    "keywords": [""],
+    "keywords": ["Change", "Transition"],
     "images": ["ABFE/Combinations/boost.jpg"],
     "stock": true
   },
@@ -39,7 +39,7 @@
     "description": ["Helps to find time for one’s self, to relax without external pressures & demands, to wind down and enjoy relaxing pursuits.", "Contains: Black-eyed Susan, Boronia, Bottlebrush, Bush Fuchsia, Crowea, Jacaranda, Little Flannel Flower and Paw Paw."],
     "indications": ["Always over committed", "No time for self", "Impatience"],
     "effects": ["Encourages own time and space", "Wind down", "Relax and have fun", "Clarity", "Calmness and peace"],
-    "keywords": [""],
+    "keywords": ["Impatience", "Relaxation", "Stress"],
     "images": ["ABFE/Combinations/calm&clear.jpg"],
     "stock": true
   },
@@ -50,7 +50,7 @@
     "description": ["Supports the caregiver to feel their inner strength and their resilience when they are feeling overwhelmed or burdened by the responsibility of looking after another. The Carers Essence helps one to feel calm, optimistic, able to cope, and also pay heed to and look after their own needs.", "Contains: Alpine Mint Bush, Crowea, Fringed Violet, Green Spider Orchid, Macrocarpa, Paw Paw and Sunshine Wattle."],
     "indications": ["Overwhelm", "Burdened by responsibility", "Overconcern"],
     "effects": ["Feeling calm", "Looking after self", "Renewal", "Inner strength"],
-    "keywords": [""],
+    "keywords": ["Overwhelmed", "Care Givers"],
     "images": ["ABFE/Combinations/carers.jpg"],
     "stock": true
   },
@@ -61,7 +61,7 @@
     "description": ["Gives clarity and focus when working, speaking, reading or studying. It balances the intuitive and cognitive processes and helps integrate ideas and information. Excellent for study or pursuits that require intense focus. It assists problem-solving by improving access to the Higher Self, which stores all past knowledge and experiences", "Contains: Bush Flower Essences: Bush Fuchsia, Isopogon, Jacaranda, Paw Paw, Sundew."],
     "indications": ["Daydreaming", "Scattered", "Overwhelm"],
     "effects": ["Assimilates ideas", "Clarity", "Focus"],
-    "keywords": [""],
+    "keywords": ["Study", "Learning Difficulties"],
     "images": ["ABFE/Combinations/cognis.jpg"],
     "stock": true
   },
@@ -72,7 +72,7 @@
     "description": ["Brings out the positive qualities of self-esteem and confidence. It allows us to feel comfortable around other people and resolve negative beliefs we may hold about ourselves as well as any guilt we may harbor from past actions. This combination also helps us to take responsibility for situations and events that occur in our lives and realise that we have the ability and power not only to change those events but also to create those we want", "Contains: Boab, Dog Rose, Five Corners, Southern Cross, Sturt Desert Rose."],
     "indications": ["Low self esteem", "Guilt", "Shyness", "Lack of conviction", "Victim mentality"],
     "effects": ["Taking responsibility for one's life", "Integrity", "Confidence", "Personal power", "True to one's self"],
-    "keywords": [""],
+    "keywords": ["Confidence", "Self-Esteem/Self-Worth"],
     "images": ["ABFE/Combinations/confid.jpg"],
     "stock": true
   },
@@ -83,7 +83,7 @@
     "description": ["Inspires creative and emotional expression and gives courage and clarity in public speaking and singing. This Essence frees the voice. It also helps to clear creative blocks and to find creative solutions in all of life’s pursuits.", "Contains: Bush Fuchsia, Crowea, Five Corners, Flannel Flower, Red Grevillea, Tall Mulla Mulla, Turkey Bush."],
     "indications": ["Creative blocks and inhibitions", "Difficulty expressing feelings"],
     "effects": ["Enhances singing", "Creative expression", "Public speaking"],
-    "keywords": [""],
+    "keywords": ["Creativity", "Public Speaking", "Communication"],
     "images": ["ABFE/Combinations/creative.jpg"],
     "stock": true
   },
@@ -94,7 +94,7 @@
     "description": ["Renews enthusiasm and joy for life. It is for those who feel ‘not quite right’, jaded or not fully recovered from setbacks.", "Contains: Banksia Robur, Crowea, Illawarra Flame Tree, Macrocarpa, Old Man Banksia, Yellow Cowslip Orchid."],
     "indications": ["Temporary loss of drive, enthusiasm and excitement"],
     "effects": ["Renews passion and enthusiasm for life", "Centres and harmonises one’s vital forces"],
-    "keywords": [""],
+    "keywords": ["Fatigue", "Exhaustion", "Apathy/Apathetic"],
     "images": ["ABFE/Combinations/dynamis.jpg"],
     "stock": true
   },
@@ -105,7 +105,7 @@
     "description": ["Helps release uncomfortable feelings associated with earth, electrical and electromagnetic radiation. It helps to bring one into balance with the natural rhythms of the earth", "Contains: Bush Fuchsia, Crowea, Fringed Violet, Mulla Mulla, Paw Paw and Waratah."],
     "indications": ["Feeling flat", "Out of balance with earth rhythms"],
     "effects": ["Reduces emotional effects of radiation", "Sense of well-being", "Harmony with life and the environment"],
-    "keywords": [""],
+    "keywords": ["EMF"],
     "images": ["ABFE/Combinations/electro.jpg"],
     "stock": true
   },
@@ -113,10 +113,10 @@
     "company": "ABFE",
     "group": "Combinations",
     "name": "Emergency Essence",
-    "description": ["Excellent for any emotional upset. This Essence is comforting and has a calming effect.", "Contains: Angelsword, Crowea, Dog Rose of the Wild Forces, Fringed Violet, Grey Spider Flower, Sundew and Waratah."],
-    "indications": [""],
+    "description": ["Excellent for any emotional upset. This Essence is comforting and has a calming effect during a crisis. If a person needs specialised medical help, this Essence will provide comfort until treatment is available. Administer the remedy every hour or more frequently if necessary, until the person feels better.", "Contains: Angelsword, Crowea, Dog Rose of the Wild Forces, Fringed Violet, Grey Spider Flower, Sundew and Waratah."],
+    "indications": ["Panic", "Distress", "Fear"],
     "effects": ["Ability to cope", "Comfort, reassurance and courage"],
-    "keywords": [""],
+    "keywords": ["Emergency", "Fear", "Shock"],
     "images": ["ABFE/Combinations/emergency.jpg"],
     "stock": true
   },
@@ -127,7 +127,7 @@
     "description": ["Awakens one’s spirituality and allows one to go deeper into any religious or spiritual practice. Enhances access to the Higher Self whilst providing psychic protection and healing of the aura. Highly recommended for anyone practicing meditation.", "Contains: Angelsword, Boronia, Bush Fuchsia, Bush Iris, Fringed Violet, Green Spider Orchid, Red Lily."],
     "indications": ["Poor quality meditation", "Psychic attack", "Damaged aura", "Psychically drained"],
     "effects": ["Awaken spirituality", "Enhance intuition", "Inner guidance", "Accessing one's higher self", "Deeper meditation", "Telepathy"],
-    "keywords": [""],
+    "keywords": ["Meditation", "Higher Self"],
     "images": ["ABFE/Combinations/meditation.jpg"],
     "stock": true
   },
@@ -138,7 +138,7 @@
     "description": ["For men always on the go, off and rushing which can lead to impatience and irritability. Finding and expressing one’s feelings.", "Contains: Black-eyed Susan, Bluebell, Boab, Flannel Flower, Little Flannel Flower, Red Helmet Orchid, Sturt Desert Pea and Yellow Cowslip Orchid."],
     "indications": ["Father issues", "Couch potato", "Always on the go and rushing", "Being overly critical and judgmental"],
     "effects": ["Male Bonding", "Physically active", "Communicating ones feelings", "Fun and sense of humor", "Opening your heart", "Breaking old male stereotypes"],
-    "keywords": [""],
+    "keywords": ["Masculine"],
     "images": ["ABFE/Combinations/mens.jpg"],
     "stock": true
   },
@@ -149,7 +149,7 @@
     "description": ["To release and clear emotional waste, residual byproducts and letting go of built-up emotional baggage", "Contains: Bauhinia, Bottlebrush, Bush Iris, Dagger Hakea, Dog Rose, Wild Potato Bush."],
     "indications": ["Emotional waste", "Feeling encumbered", "Emotional baggage"],
     "effects": ["Sense of release and relief", "Spring cleaned"],
-    "keywords": [""],
+    "keywords": ["Purification", "Detoxification"],
     "images": ["ABFE/Combinations/purifying.jpg"],
     "stock": true
   },
@@ -160,7 +160,7 @@
     "description": ["Enhances the quality of all relationships, especially intimate ones. It clears and releases resentment, blocked emotions, and the confusion, emotional pain and turmoil of a rocky relationship. Helps one verbalise, express feelings, and improve communication. This Essence breaks the early negative family conditioning and patterns which affect us in our current adult relationships. For those in intimate relationships, a perfect remedy to follow this combination is Sexuality Essence.", "Contains: Bluebell, Boab, Bottlebrush, Bush Gardenia, Dagger Hakea, Flannel Flower, Mint Bush, Red Helmet Orchid, Red Suva Frangipani, Wedding Bush."],
     "indications": ["Emotional upset of a rocky relationship", "Resentment", "Blocked, held-in emotions", "Inability to relate"],
     "effects": ["Expressing feelings", "Enhanced communication", "Breaks negative family conditioning", "Renews interest", "Enhances parental-child connection"],
-    "keywords": [""],
+    "keywords": ["Relationships"],
     "images": ["ABFE/Combinations/relationship.jpg"],
     "stock": true
   },
@@ -171,7 +171,7 @@
     "description": ["Helpful for releasing negative experiences associated with one's sexuality. It allows one to feel comfortable with and to fully accept one’s body. It enables the individual to be open to sensuality and touch and to enjoy physical and emotional intimacy. Sexuality Essence renews passion and interest in relationships.", "Contains: Billy Goat Plum, Bush Gardenia, Flannel Flower, Fringed Violet, Little Flannel Flower, Sturt Desert Rose, Wisteria."],
     "indications": ["Shame", "Uptight about sexuality", "Uncomfortable with intimacy"],
     "effects": ["Renews passion", "Sensuality", "Enjoy touch and intimacy", "Playfulness", "Fulfilment"],
-    "keywords": [""],
+    "keywords": ["Sensuality/Sexuality"],
     "images": ["ABFE/Combinations/sexuality.jpg"],
     "stock": true
   },
@@ -182,18 +182,18 @@
     "description": ["For uncomfortable feelings associated with heat, fire or sun. An excellent remedy to have handy during summer.", "Contains: Mulla Mulla, She Oak, Spinifex."],
     "indications": ["Uncomfortable feelings associated with heat, fire or sun"],
     "effects": ["Greatly relieves emotional effects of heat, fire or sun", "Feeling comfortable with heat, fire or sun"],
-    "keywords": [""],
+    "keywords": ["Heat/Fire/Burns"],
     "images": ["ABFE/Combinations/solaris.jpg"],
     "stock": true
   },
   {
     "company": "ABFE",
     "group": "Combinations",
-    "name": "Transition",
+    "name": "Transition Essence",
     "description": ["Helps one to cope and move through any major life change. It brings about an awareness of one’s life direction especially for people who are at a crossroad. Alternatively, those who know what they want but do not know how to achieve it will benefit from this combination. It helps one come to terms with one's mortality. This remedy, consequently, allows one to easily and gently pass over with calmness, dignity, and serenity", "Contains: Autumn Leaves, Bauhinia, Bottlebrush, Bush Iris, Lichen, Mint Bush, Red Grevillea and Silver Princess."],
     "indications": ["Feeling stuck", "Lack of direction", "Uncomfortable with the unknown", "Non-acceptance", "Uncomfortable with change"],
     "effects": ["Acceptance of change", "Serenity", "Passing over in peace", "Calm", "Sense of direction and purpose"],
-    "keywords": [""],
+    "keywords": ["Change", "Death & Dying", "Transition"],
     "images": ["ABFE/Combinations/transition.jpg"],
     "stock": true
   },
@@ -204,7 +204,7 @@
     "description": ["Addresses the problems encountered with jet travel. It enables a person to arrive at their destination feeling balanced and ready to go. The use of this Essence is beneficial for all forms of travel.", "Contains: Banksia Robur, Bottlebrush, Bush Fuchsia, Bush Iris, Crowea, Fringed Violet, Macrocarpa, Mulla Mulla, Paw Paw, Red Lily, She Oak, Silver Princess, Sundew, Tall Mulla Mulla."],
     "indications": ["Disorientation", "Personally depleted and drained", "Emotional effects of travel"],
     "effects": ["Refreshes", "Centres", "Maintains sense of personal space"],
-    "keywords": [""],
+    "keywords": ["Flying", "Travel"],
     "images": ["ABFE/Combinations/travel.jpg"],
     "stock": true
   },
@@ -215,7 +215,7 @@
     "description": ["Harmonises any emotional imbalances during menstruation and menopause. It allows a woman to discover and feel good about herself, her own body, and her beauty.", "Contains: Billy Goat Plum, Bottlebrush, Bush Fuchsia, Crowea, Five Corners, Mulla Mulla, Old Man Banksia, Peach-flowered Tea-tree, Pink Flannel Flower, She Oak."],
     "indications": [""],
     "effects": ["Female life cycle balance", "Restores emotional balance", "Coping with change", "Physical acceptance", "Appreciation of own beauty"],
-    "keywords": [""],
+    "keywords": ["Menopause", "Feminine"],
     "images": ["ABFE/Combinations/woman.jpg"],
     "stock": true
   }
