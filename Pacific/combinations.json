@@ -10,7 +10,7 @@
     "chakras": ["Root", "Solar Plexus", "Heart", "Throat"],
     "meridians": ["Kidney", "Heart", "Lung", "Conception Vessel", "Liver", "Gall Bladder", "Stomach", "Spleen"],
     "elements": ["Metal", "Water", "Wood", "Earth", "Fire"],
-    "keywords": [],
+    "keywords": ["Peace"],
     "images": ["Pacific/Combinations/being_peace1.jpg", "Pacific/Combinations/being_peace2.jpg"],
     "stock": true
   },
@@ -24,7 +24,7 @@
     "chakras": ["Root", "Solar Plexus", "Heart", "Throat", "Third Eye"],
     "meridians": ["Large Intestine", "Lung", "Conception Vessel", "Gall Bladder", "Stomach"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Self-Esteem/Self-Worth", "Self-Apprecation"],
     "images": ["Pacific/Combinations/being_true_worth1.jpg", "Pacific/Combinations/being_true_worth2.jpg"],
     "stock": true
   },
@@ -38,7 +38,7 @@
     "chakras": ["Sacral", "Solar Plexus", "Heart", "Throat", "Crown"],
     "meridians": ["Liver", "Kidney", "Bladder", "Heart", "Gall Bladder", "Spleen"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Cellular Memory", "DNA", "Restoration"],
     "images": ["Pacific/Combinations/cellular_memory1.jpg", "Pacific/Combinations/cellular_memory2.jpg"],
     "stock": true
   },
@@ -52,7 +52,7 @@
     "chakras": ["Heart", "Throat", "Third Eye"],
     "meridians": ["Heart", "Heart Protector", "Kidney", "Bladder"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Fear", "Presence", "Heart", "Love"],
     "images": ["Pacific/Combinations/fearlessness1.jpg", "Pacific/Combinations/fearlessness2.jpg"],
     "stock": true
   },
@@ -60,13 +60,13 @@
     "company": "Pacific",
     "group": "Combinations",
     "name": "Forgiving",
-    "description": ["Cutting the cords that bind us to the painful experiences and situations in the past.", "- Giving ourselves the freedom to disconnect from any and all “old and painful” stuff by letting go of any blame or shame that we might attribute to ourselves or others.", "- Forgiving is the ultimate gift to ourselves and restores our own sense of self empowerment and self direction.", "- For “control freaks” it is the ultimate and optimally healthy form of control.", "- Cleans every cell memory of any harm we have ever perceived that anyone had done for us.", "- Dissolves bitterness, resentment, fear, hostility.", "- Frees our soul to dance the dance we came here to perform.", "In a nutshell: the gift of inner peace; the gift of present time; the gift of health.", "This combination includes the following 4 individual essences: Grass Widow, Salal, Twin Flower and Whale."],
+    "description": ["Cutting the cords that bind us to the painful experiences and situations in the past.", "- Giving ourselves the freedom to disconnect from any and all “old and painful” stuff by letting go of any blame or shame that we might attribute to ourselves or others.", "- Forgiving is the ultimate gift to ourselves and restores our own sense of self empowerment and self direction.", "- For “control freaks” it is the ultimate and optimally healthy form of control.", "- Cleans every cell memory of any harm we have ever perceived that anyone had done to us.", "- Dissolves bitterness, resentment, fear, hostility.", "- Frees our soul to dance the dance we came here to perform.", "In a nutshell: the gift of inner peace; the gift of present time; the gift of health.", "This combination includes the following 4 individual essences: Grass Widow, Salal, Twin Flower and Whale."],
     "indications": ["Control", "Resentment", "Revenge", "Hostility", "Bitterness", "Harm", "Emotional Wounds", "Criticism"],
     "effects": ["Freedom", "Forgiving", "Compassion", "Expansion"],
     "chakras": ["Root", "Heart", "Third Eye", "Crown"],
     "meridians": ["Conception Vessel", "Gall Bladder", "Governing Vessel", "Heart", "Large Intestine", "Liver", "Small Intestine", "Stomach"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Forgiveness", "Controlling", "Living in the Past", "Bitterness", "Resentment"],
     "images": ["Pacific/Combinations/forgiving1.jpg", "Pacific/Combinations/forgiving2.jpg"],
     "stock": true
   },
@@ -80,7 +80,7 @@
     "chakras": ["Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown", "Back of the Throat Chakra"],
     "meridians": ["Heart Protector", "Spleen", "Heart", "Triple Warmer"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Children", "Inner Child"],
     "images": ["Pacific/Combinations/kids_stuff1.jpg", "Pacific/Combinations/kids_stuff2.jpg"],
     "stock": true
   },
@@ -94,7 +94,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Crown"],
     "meridians": ["Large Intestine", "Gall Bladder", "Bladder", "Kidney", "Stomach", "Triple Warmer", "Lung", "Spleen"],
     "elements": ["Metal", "Water", "Wood", "Earth", "Fire"],
-    "keywords": [],
+    "keywords": ["Releasing", "Addictions", "Obsessive"],
     "images": ["Pacific/Combinations/new_attitudes1.jpg", "Pacific/Combinations/new_attitudes2.jpg"],
     "stock": true
   },
@@ -108,7 +108,7 @@
     "chakras": ["Root", "Heart", "Throat", "Third Eye", "Crown"],
     "meridians": ["Gall Bladder", "Heart", "Small Intestine", "Spleen", "Heart Protector", "Bladder", "Kidney"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Protection", "Safety"],
     "images": ["Pacific/Combinations/optimal_immunity1.jpg", "Pacific/Combinations/optimal_immunity2.jpg"],
     "stock": true
   },
@@ -122,7 +122,7 @@
     "chakras": ["Root", "Solar Plexus", "Throat", "Third Eye"],
     "meridians": ["Bladder", "Kidney", "Liver", "Triple Warmer"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Study", "Learning Difficulties", "Learning from Mistakes"],
     "images": ["Pacific/Combinations/optimal_learning1.jpg", "Pacific/Combinations/optimal_learning2.jpg"],
     "stock": true
   },
@@ -136,7 +136,7 @@
     "chakras": ["Solar Plexus", "Heart", "Third Eye", "Crown"],
     "meridians": ["Liver", "Lung", "Large Intestine", "Governing Vessel", "Kidney"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Beauty", "Self-Appreciation", "Judgement"],
     "images": ["Pacific/Combinations/radiant-beauty1.jpg", "Pacific/Combinations/radiant-beauty2.jpg"],
     "stock": true
   },
@@ -150,7 +150,7 @@
     "chakras": ["Root", "Sacral", "Solar Plexus", "Throat", "Crown"],
     "meridians": ["Kidney", "Bladder", "Lung", "Governing Vessel"],
     "elements": [],
-    "keywords": [],
+    "keywords": ["Vitality", "Energising", "Fatigue", "Stamina"],
     "images": ["Pacific/Combinations/super_vitality1.jpg", "Pacific/Combinations/super_vitality2.jpg"],
     "stock": true
   }
